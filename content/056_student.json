@@ -1,0 +1,239 @@
+{
+  "slug": "student",
+  "topic": "Student",
+  "topic_ko": "학생",
+  "topic_number": 56,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Student",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/056_student.mp3",
+  "words": [
+    {
+      "en": "student",
+      "ko": "학생"
+    },
+    {
+      "en": "uniform",
+      "ko": "교복"
+    },
+    {
+      "en": "homework",
+      "ko": "숙제"
+    },
+    {
+      "en": "listen",
+      "ko": "듣다"
+    },
+    {
+      "en": "ask",
+      "ko": "질문하다"
+    },
+    {
+      "en": "try",
+      "ko": "노력하다"
+    },
+    {
+      "en": "best",
+      "ko": "최선"
+    },
+    {
+      "en": "on time",
+      "ko": "제시간에"
+    },
+    {
+      "en": "rule",
+      "ko": "규칙"
+    },
+    {
+      "en": "proud",
+      "ko": "자랑스러운"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I am a student, and I wear a uniform.",
+      "ko": "나는 학생이고, 교복을 입어요.",
+      "highlights": [
+        "student",
+        "uniform"
+      ]
+    },
+    {
+      "en": "I do my homework.",
+      "ko": "나는 숙제를 해요.",
+      "highlights": [
+        "homework"
+      ]
+    },
+    {
+      "en": "I listen in class.",
+      "ko": "나는 수업 시간에 들어요.",
+      "highlights": [
+        "listen"
+      ]
+    },
+    {
+      "en": "I ask when I do not know.",
+      "ko": "나는 모를 때 질문해요.",
+      "highlights": [
+        "ask"
+      ]
+    },
+    {
+      "en": "I try my best, and I come on time.",
+      "ko": "나는 최선을 다하고, 제시간에 와요.",
+      "highlights": [
+        "try",
+        "best",
+        "on time"
+      ]
+    },
+    {
+      "en": "I follow the rule.",
+      "ko": "나는 규칙을 지켜요.",
+      "highlights": [
+        "rule"
+      ]
+    },
+    {
+      "en": "I am proud to learn.",
+      "ko": "나는 배우는 것이 자랑스러워요.",
+      "highlights": [
+        "proud"
+      ]
+    },
+    {
+      "en": "A student in the sixth grade has more homework.",
+      "ko": "6학년 학생은 숙제가 더 많아요.",
+      "highlights": [
+        "student",
+        "homework"
+      ]
+    },
+    {
+      "en": "I listen first, and then I ask.",
+      "ko": "나는 먼저 듣고, 그다음에 질문해요.",
+      "highlights": [
+        "listen",
+        "ask"
+      ]
+    },
+    {
+      "en": "On time is a simple rule, and I keep it.",
+      "ko": "제시간에 오는 것은 간단한 규칙이고, 나는 지켜요.",
+      "highlights": [
+        "on time",
+        "rule"
+      ]
+    },
+    {
+      "en": "I try my best because I want to be proud of my work.",
+      "ko": "나는 내 일이 자랑스럽고 싶어서 최선을 다해요.",
+      "highlights": [
+        "try",
+        "best",
+        "proud"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I am a student, and I wear a uniform.",
+      "ko": "나는 학생이고, 교복을 입어요.",
+      "highlights": [
+        "student",
+        "uniform"
+      ]
+    },
+    {
+      "en": "I do my homework.",
+      "ko": "나는 숙제를 해요.",
+      "highlights": [
+        "homework"
+      ]
+    },
+    {
+      "en": "I listen in class.",
+      "ko": "나는 수업 시간에 들어요.",
+      "highlights": [
+        "listen"
+      ]
+    },
+    {
+      "en": "I ask when I do not know.",
+      "ko": "나는 모를 때 질문해요.",
+      "highlights": [
+        "ask"
+      ]
+    },
+    {
+      "en": "I try my best, and I come on time.",
+      "ko": "나는 최선을 다하고, 제시간에 와요.",
+      "highlights": [
+        "try",
+        "best",
+        "on time"
+      ]
+    },
+    {
+      "en": "I follow the rule.",
+      "ko": "나는 규칙을 지켜요.",
+      "highlights": [
+        "rule"
+      ]
+    },
+    {
+      "en": "I am proud to learn.",
+      "ko": "나는 배우는 것이 자랑스러워요.",
+      "highlights": [
+        "proud"
+      ]
+    },
+    {
+      "en": "A student in the sixth grade has more homework.",
+      "ko": "6학년 학생은 숙제가 더 많아요.",
+      "highlights": [
+        "student",
+        "homework"
+      ]
+    },
+    {
+      "en": "I listen first, and then I ask.",
+      "ko": "나는 먼저 듣고, 그다음에 질문해요.",
+      "highlights": [
+        "listen",
+        "ask"
+      ]
+    },
+    {
+      "en": "On time is a simple rule, and I keep it.",
+      "ko": "제시간에 오는 것은 간단한 규칙이고, 나는 지켜요.",
+      "highlights": [
+        "on time",
+        "rule"
+      ]
+    },
+    {
+      "en": "I try my best because I want to be proud of my work.",
+      "ko": "나는 내 일이 자랑스럽고 싶어서 최선을 다해요.",
+      "highlights": [
+        "try",
+        "best",
+        "proud"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I am a student, and I wear a uniform. I do my homework. I listen in class. I ask when I do not know. I try my best, and I come on time. I follow the rule. I am proud to learn. A student in the sixth grade has more homework. I listen first, and then I ask. On time is a simple rule, and I keep it. I try my best because I want to be proud of my work."
+}

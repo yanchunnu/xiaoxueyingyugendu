@@ -1,0 +1,239 @@
+{
+  "slug": "i_like_swimming",
+  "topic": "I Like Swimming",
+  "topic_ko": "나는 수영을 좋아해요",
+  "topic_number": 46,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "I Like Swimming",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/046_i_like_swimming.mp3",
+  "words": [
+    {
+      "en": "swim",
+      "ko": "수영하다"
+    },
+    {
+      "en": "pool",
+      "ko": "수영장"
+    },
+    {
+      "en": "cap",
+      "ko": "수모"
+    },
+    {
+      "en": "water",
+      "ko": "물"
+    },
+    {
+      "en": "cool",
+      "ko": "시원한"
+    },
+    {
+      "en": "kick",
+      "ko": "발차기하다"
+    },
+    {
+      "en": "float",
+      "ko": "뜨다"
+    },
+    {
+      "en": "coach",
+      "ko": "코치"
+    },
+    {
+      "en": "summer",
+      "ko": "여름"
+    },
+    {
+      "en": "strong",
+      "ko": "튼튼한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I like to swim, and I go to the pool.",
+      "ko": "나는 수영하는 것을 좋아하고, 수영장에 가요.",
+      "highlights": [
+        "swim",
+        "pool"
+      ]
+    },
+    {
+      "en": "I wear a cap.",
+      "ko": "나는 수모를 써요.",
+      "highlights": [
+        "cap"
+      ]
+    },
+    {
+      "en": "The water is cool.",
+      "ko": "물은 시원해요.",
+      "highlights": [
+        "water",
+        "cool"
+      ]
+    },
+    {
+      "en": "I kick, and I float.",
+      "ko": "나는 발차기를 하고, 떠요.",
+      "highlights": [
+        "kick",
+        "float"
+      ]
+    },
+    {
+      "en": "My coach helps me.",
+      "ko": "코치가 나를 도와요.",
+      "highlights": [
+        "coach"
+      ]
+    },
+    {
+      "en": "I swim in summer, and swimming makes me strong.",
+      "ko": "나는 여름에 수영하고, 수영은 나를 튼튼하게 해요.",
+      "highlights": [
+        "swim",
+        "summer",
+        "strong"
+      ]
+    },
+    {
+      "en": "The pool is busy on Saturday.",
+      "ko": "토요일에는 수영장이 붐벼요.",
+      "highlights": [
+        "pool"
+      ]
+    },
+    {
+      "en": "A cap keeps my hair dry.",
+      "ko": "수모는 내 머리를 젖지 않게 해요.",
+      "highlights": [
+        "cap"
+      ]
+    },
+    {
+      "en": "Cool water feels good on a hot day.",
+      "ko": "더운 날에는 시원한 물이 좋아요.",
+      "highlights": [
+        "water",
+        "cool"
+      ]
+    },
+    {
+      "en": "I kick hard, and then I float and rest.",
+      "ko": "나는 세게 발차기를 하고, 그다음 떠서 쉬어요.",
+      "highlights": [
+        "kick",
+        "float"
+      ]
+    },
+    {
+      "en": "My coach says a strong swimmer practices often.",
+      "ko": "코치는 튼튼한 수영 선수는 자주 연습한다고 해요.",
+      "highlights": [
+        "coach",
+        "strong"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I like to swim, and I go to the pool.",
+      "ko": "나는 수영하는 것을 좋아하고, 수영장에 가요.",
+      "highlights": [
+        "swim",
+        "pool"
+      ]
+    },
+    {
+      "en": "I wear a cap.",
+      "ko": "나는 수모를 써요.",
+      "highlights": [
+        "cap"
+      ]
+    },
+    {
+      "en": "The water is cool.",
+      "ko": "물은 시원해요.",
+      "highlights": [
+        "water",
+        "cool"
+      ]
+    },
+    {
+      "en": "I kick, and I float.",
+      "ko": "나는 발차기를 하고, 떠요.",
+      "highlights": [
+        "kick",
+        "float"
+      ]
+    },
+    {
+      "en": "My coach helps me.",
+      "ko": "코치가 나를 도와요.",
+      "highlights": [
+        "coach"
+      ]
+    },
+    {
+      "en": "I swim in summer, and swimming makes me strong.",
+      "ko": "나는 여름에 수영하고, 수영은 나를 튼튼하게 해요.",
+      "highlights": [
+        "swim",
+        "summer",
+        "strong"
+      ]
+    },
+    {
+      "en": "The pool is busy on Saturday.",
+      "ko": "토요일에는 수영장이 붐벼요.",
+      "highlights": [
+        "pool"
+      ]
+    },
+    {
+      "en": "A cap keeps my hair dry.",
+      "ko": "수모는 내 머리를 젖지 않게 해요.",
+      "highlights": [
+        "cap"
+      ]
+    },
+    {
+      "en": "Cool water feels good on a hot day.",
+      "ko": "더운 날에는 시원한 물이 좋아요.",
+      "highlights": [
+        "water",
+        "cool"
+      ]
+    },
+    {
+      "en": "I kick hard, and then I float and rest.",
+      "ko": "나는 세게 발차기를 하고, 그다음 떠서 쉬어요.",
+      "highlights": [
+        "kick",
+        "float"
+      ]
+    },
+    {
+      "en": "My coach says a strong swimmer practices often.",
+      "ko": "코치는 튼튼한 수영 선수는 자주 연습한다고 해요.",
+      "highlights": [
+        "coach",
+        "strong"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I like to swim, and I go to the pool. I wear a cap. The water is cool. I kick, and I float. My coach helps me. I swim in summer, and swimming makes me strong. The pool is busy on Saturday. A cap keeps my hair dry. Cool water feels good on a hot day. I kick hard, and then I float and rest. My coach says a strong swimmer practices often."
+}

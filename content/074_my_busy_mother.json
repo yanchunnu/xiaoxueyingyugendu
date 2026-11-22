@@ -1,0 +1,241 @@
+{
+  "slug": "my_busy_mother",
+  "topic": "My Busy Mother",
+  "topic_ko": "바쁜 나의 어머니",
+  "topic_number": 74,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Busy Mother",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/074_my_busy_mother.mp3",
+  "words": [
+    {
+      "en": "mother",
+      "ko": "어머니"
+    },
+    {
+      "en": "busy",
+      "ko": "바쁜"
+    },
+    {
+      "en": "early",
+      "ko": "일찍"
+    },
+    {
+      "en": "work",
+      "ko": "일"
+    },
+    {
+      "en": "cook",
+      "ko": "요리하다"
+    },
+    {
+      "en": "clean",
+      "ko": "청소하다"
+    },
+    {
+      "en": "tired",
+      "ko": "피곤한"
+    },
+    {
+      "en": "thank",
+      "ko": "고마워하다"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "rest",
+      "ko": "쉬다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My mother is very busy.",
+      "ko": "나의 어머니는 매우 바빠요.",
+      "highlights": [
+        "mother",
+        "busy"
+      ]
+    },
+    {
+      "en": "She gets up early, and she goes to work.",
+      "ko": "어머니는 일찍 일어나고, 일하러 가요.",
+      "highlights": [
+        "early",
+        "work"
+      ]
+    },
+    {
+      "en": "She cooks dinner for us.",
+      "ko": "어머니는 우리를 위해 저녁을 요리해요.",
+      "highlights": [
+        "cook"
+      ]
+    },
+    {
+      "en": "She cleans our home.",
+      "ko": "어머니는 집을 청소해요.",
+      "highlights": [
+        "clean"
+      ]
+    },
+    {
+      "en": "She looks tired at night.",
+      "ko": "어머니는 밤에 피곤해 보여요.",
+      "highlights": [
+        "tired"
+      ]
+    },
+    {
+      "en": "I say thank you, and I help so she can rest.",
+      "ko": "나는 고맙다고 말하고, 어머니가 쉴 수 있게 도와요.",
+      "highlights": [
+        "thank",
+        "help",
+        "rest"
+      ]
+    },
+    {
+      "en": "A busy mother still makes time for us.",
+      "ko": "바쁜 어머니도 우리를 위한 시간을 내요.",
+      "highlights": [
+        "mother",
+        "busy"
+      ]
+    },
+    {
+      "en": "I help clean the table after dinner.",
+      "ko": "나는 저녁 후에 식탁 청소를 도와요.",
+      "highlights": [
+        "clean",
+        "help"
+      ]
+    },
+    {
+      "en": "She cooks, she cleans, and then she is tired.",
+      "ko": "어머니는 요리하고, 청소하고, 그다음에 피곤해져요.",
+      "highlights": [
+        "cook",
+        "clean",
+        "tired"
+      ]
+    },
+    {
+      "en": "I thank her every night.",
+      "ko": "나는 매일 밤 어머니께 고마워해요.",
+      "highlights": [
+        "thank"
+      ]
+    },
+    {
+      "en": "I want her to rest because she works hard.",
+      "ko": "어머니는 열심히 일해서 나는 어머니가 쉬기를 바라요.",
+      "highlights": [
+        "work",
+        "rest"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My mother is very busy.",
+      "ko": "나의 어머니는 매우 바빠요.",
+      "highlights": [
+        "mother",
+        "busy"
+      ]
+    },
+    {
+      "en": "She gets up early, and she goes to work.",
+      "ko": "어머니는 일찍 일어나고, 일하러 가요.",
+      "highlights": [
+        "early",
+        "work"
+      ]
+    },
+    {
+      "en": "She cooks dinner for us.",
+      "ko": "어머니는 우리를 위해 저녁을 요리해요.",
+      "highlights": [
+        "cook"
+      ]
+    },
+    {
+      "en": "She cleans our home.",
+      "ko": "어머니는 집을 청소해요.",
+      "highlights": [
+        "clean"
+      ]
+    },
+    {
+      "en": "She looks tired at night.",
+      "ko": "어머니는 밤에 피곤해 보여요.",
+      "highlights": [
+        "tired"
+      ]
+    },
+    {
+      "en": "I say thank you, and I help so she can rest.",
+      "ko": "나는 고맙다고 말하고, 어머니가 쉴 수 있게 도와요.",
+      "highlights": [
+        "thank",
+        "help",
+        "rest"
+      ]
+    },
+    {
+      "en": "A busy mother still makes time for us.",
+      "ko": "바쁜 어머니도 우리를 위한 시간을 내요.",
+      "highlights": [
+        "mother",
+        "busy"
+      ]
+    },
+    {
+      "en": "I help clean the table after dinner.",
+      "ko": "나는 저녁 후에 식탁 청소를 도와요.",
+      "highlights": [
+        "clean",
+        "help"
+      ]
+    },
+    {
+      "en": "She cooks, she cleans, and then she is tired.",
+      "ko": "어머니는 요리하고, 청소하고, 그다음에 피곤해져요.",
+      "highlights": [
+        "cook",
+        "clean",
+        "tired"
+      ]
+    },
+    {
+      "en": "I thank her every night.",
+      "ko": "나는 매일 밤 어머니께 고마워해요.",
+      "highlights": [
+        "thank"
+      ]
+    },
+    {
+      "en": "I want her to rest because she works hard.",
+      "ko": "어머니는 열심히 일해서 나는 어머니가 쉬기를 바라요.",
+      "highlights": [
+        "work",
+        "rest"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My mother is very busy. She gets up early, and she goes to work. She cooks dinner for us. She cleans our home. She looks tired at night. I say thank you, and I help so she can rest. A busy mother still makes time for us. I help clean the table after dinner. She cooks, she cleans, and then she is tired. I thank her every night. I want her to rest because she works hard."
+}

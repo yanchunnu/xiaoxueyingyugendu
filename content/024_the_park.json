@@ -1,0 +1,239 @@
+{
+  "slug": "the_park",
+  "topic": "The Park",
+  "topic_ko": "공원",
+  "topic_number": 24,
+  "topic_total": 100,
+  "category_en": "Places and Scenery",
+  "category_ko": "장소·풍경 묘사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Park",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/024_the_park.mp3",
+  "words": [
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "nearby",
+      "ko": "가까운"
+    },
+    {
+      "en": "tree",
+      "ko": "나무"
+    },
+    {
+      "en": "bench",
+      "ko": "벤치"
+    },
+    {
+      "en": "path",
+      "ko": "길"
+    },
+    {
+      "en": "flower",
+      "ko": "꽃"
+    },
+    {
+      "en": "bird",
+      "ko": "새"
+    },
+    {
+      "en": "swing",
+      "ko": "그네"
+    },
+    {
+      "en": "grass",
+      "ko": "풀"
+    },
+    {
+      "en": "green",
+      "ko": "초록색"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "The park is nearby, and I go there often.",
+      "ko": "공원은 우리 집 가까이에 있고, 나는 자주 가요.",
+      "highlights": [
+        "park",
+        "nearby"
+      ]
+    },
+    {
+      "en": "There are many trees, and the grass is green.",
+      "ko": "나무가 많고, 풀은 초록색이에요.",
+      "highlights": [
+        "tree",
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "I sit on a bench and watch a bird.",
+      "ko": "나는 벤치에 앉아 새를 봐요.",
+      "highlights": [
+        "bench",
+        "bird"
+      ]
+    },
+    {
+      "en": "I walk on the path with my little sister.",
+      "ko": "나는 여동생과 길을 따라 걸어요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "I see a flower, and I play on the swing.",
+      "ko": "나는 꽃을 보고, 그네를 타요.",
+      "highlights": [
+        "flower",
+        "swing"
+      ]
+    },
+    {
+      "en": "The green grass is soft under my shoes.",
+      "ko": "초록색 풀은 신발 아래에서 부드러워요.",
+      "highlights": [
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "A bird sings in the tree.",
+      "ko": "새가 나무에서 노래해요.",
+      "highlights": [
+        "tree",
+        "bird"
+      ]
+    },
+    {
+      "en": "My brother plays ball along the path.",
+      "ko": "오빠는 길을 따라 공을 가지고 놀아요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "We like this park because it is nearby.",
+      "ko": "가까워서 우리는 이 공원을 좋아해요.",
+      "highlights": [
+        "park",
+        "nearby"
+      ]
+    },
+    {
+      "en": "I rest on the bench when I am tired.",
+      "ko": "피곤하면 나는 벤치에서 쉬어요.",
+      "highlights": [
+        "bench"
+      ]
+    },
+    {
+      "en": "The park is my favorite place after school.",
+      "ko": "공원은 방과 후에 내가 가장 좋아하는 곳이에요.",
+      "highlights": [
+        "park"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "The park is nearby, and I go there often.",
+      "ko": "공원은 우리 집 가까이에 있고, 나는 자주 가요.",
+      "highlights": [
+        "park",
+        "nearby"
+      ]
+    },
+    {
+      "en": "There are many trees, and the grass is green.",
+      "ko": "나무가 많고, 풀은 초록색이에요.",
+      "highlights": [
+        "tree",
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "I sit on a bench and watch a bird.",
+      "ko": "나는 벤치에 앉아 새를 봐요.",
+      "highlights": [
+        "bench",
+        "bird"
+      ]
+    },
+    {
+      "en": "I walk on the path with my little sister.",
+      "ko": "나는 여동생과 길을 따라 걸어요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "I see a flower, and I play on the swing.",
+      "ko": "나는 꽃을 보고, 그네를 타요.",
+      "highlights": [
+        "flower",
+        "swing"
+      ]
+    },
+    {
+      "en": "The green grass is soft under my shoes.",
+      "ko": "초록색 풀은 신발 아래에서 부드러워요.",
+      "highlights": [
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "A bird sings in the tree.",
+      "ko": "새가 나무에서 노래해요.",
+      "highlights": [
+        "tree",
+        "bird"
+      ]
+    },
+    {
+      "en": "My brother plays ball along the path.",
+      "ko": "오빠는 길을 따라 공을 가지고 놀아요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "We like this park because it is nearby.",
+      "ko": "가까워서 우리는 이 공원을 좋아해요.",
+      "highlights": [
+        "park",
+        "nearby"
+      ]
+    },
+    {
+      "en": "I rest on the bench when I am tired.",
+      "ko": "피곤하면 나는 벤치에서 쉬어요.",
+      "highlights": [
+        "bench"
+      ]
+    },
+    {
+      "en": "The park is my favorite place after school.",
+      "ko": "공원은 방과 후에 내가 가장 좋아하는 곳이에요.",
+      "highlights": [
+        "park"
+      ]
+    }
+  ],
+  "full_passage_spoken": "The park is nearby, and I go there often. There are many trees, and the grass is green. I sit on a bench and watch a bird. I walk on the path with my little sister. I see a flower, and I play on the swing. The green grass is soft under my shoes. A bird sings in the tree. My brother plays ball along the path. We like this park because it is nearby. I rest on the bench when I am tired. The park is my favorite place after school."
+}

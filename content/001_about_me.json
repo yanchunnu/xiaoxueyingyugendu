@@ -1,0 +1,244 @@
+{
+  "slug": "about_me_long",
+  "topic": "About Me",
+  "topic_ko": "나에 대해",
+  "topic_number": 1,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "About Me",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/001_about_me.mp3",
+  "words": [
+    {
+      "en": "name",
+      "ko": "이름"
+    },
+    {
+      "en": "years old",
+      "ko": "살 (나이)"
+    },
+    {
+      "en": "grade",
+      "ko": "학년"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "sister",
+      "ko": "여동생"
+    },
+    {
+      "en": "like",
+      "ko": "좋아하다"
+    },
+    {
+      "en": "English",
+      "ko": "영어"
+    },
+    {
+      "en": "soccer",
+      "ko": "축구"
+    },
+    {
+      "en": "hobby",
+      "ko": "취미"
+    },
+    {
+      "en": "drawing",
+      "ko": "그림 그리기"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My name is Mina, and I am thirteen years old.",
+      "ko": "내 이름은 미나이고, 나는 열세 살이에요.",
+      "highlights": [
+        "name",
+        "years old"
+      ]
+    },
+    {
+      "en": "I am a student in the sixth grade.",
+      "ko": "나는 6학년 학생이에요.",
+      "highlights": [
+        "grade"
+      ]
+    },
+    {
+      "en": "I live in a small house with my family.",
+      "ko": "나는 가족과 함께 작은 집에 살아요.",
+      "highlights": [
+        "family"
+      ]
+    },
+    {
+      "en": "I have a little sister, and she is eleven years old.",
+      "ko": "나에게는 여동생이 있고, 동생은 열한 살이에요.",
+      "highlights": [
+        "sister",
+        "years old"
+      ]
+    },
+    {
+      "en": "My little sister is in the fourth grade, and we play every day.",
+      "ko": "여동생은 4학년이고, 우리는 매일 함께 놀아요.",
+      "highlights": [
+        "sister",
+        "grade"
+      ]
+    },
+    {
+      "en": "I like English, and I also like soccer.",
+      "ko": "나는 영어를 좋아하고, 축구도 좋아해요.",
+      "highlights": [
+        "like",
+        "English",
+        "soccer"
+      ]
+    },
+    {
+      "en": "My hobby is drawing pictures of animals and people.",
+      "ko": "나의 취미는 동물과 사람 그림을 그리는 거예요.",
+      "highlights": [
+        "hobby",
+        "drawing"
+      ]
+    },
+    {
+      "en": "I often draw a picture of my family.",
+      "ko": "나는 자주 가족 그림을 그려요.",
+      "highlights": [
+        "family"
+      ]
+    },
+    {
+      "en": "After school, I play soccer with my friends.",
+      "ko": "방과 후에 나는 친구들과 축구를 해요.",
+      "highlights": [
+        "soccer"
+      ]
+    },
+    {
+      "en": "In the evening, I do my homework at home.",
+      "ko": "나는 저녁에 집에서 숙제를 해요.",
+      "highlights": []
+    },
+    {
+      "en": "At night, I read a book with my sister.",
+      "ko": "나는 밤에 여동생과 함께 책을 읽어요.",
+      "highlights": [
+        "sister"
+      ]
+    },
+    {
+      "en": "I love my family very much, and they love me too.",
+      "ko": "나는 가족을 매우 사랑하고, 가족도 나를 사랑해요.",
+      "highlights": [
+        "family"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My name is Mina, and I am thirteen years old.",
+      "ko": "내 이름은 미나이고, 나는 열세 살이에요.",
+      "highlights": [
+        "name",
+        "years old"
+      ]
+    },
+    {
+      "en": "I am a student in the sixth grade.",
+      "ko": "나는 6학년 학생이에요.",
+      "highlights": [
+        "grade"
+      ]
+    },
+    {
+      "en": "I live in a small house with my family.",
+      "ko": "나는 가족과 함께 작은 집에 살아요.",
+      "highlights": [
+        "family"
+      ]
+    },
+    {
+      "en": "I have a little sister, and she is eleven years old.",
+      "ko": "나에게는 여동생이 있고, 동생은 열한 살이에요.",
+      "highlights": [
+        "sister",
+        "years old"
+      ]
+    },
+    {
+      "en": "My little sister is in the fourth grade, and we play every day.",
+      "ko": "여동생은 4학년이고, 우리는 매일 함께 놀아요.",
+      "highlights": [
+        "sister",
+        "grade"
+      ]
+    },
+    {
+      "en": "I like English, and I also like soccer.",
+      "ko": "나는 영어를 좋아하고, 축구도 좋아해요.",
+      "highlights": [
+        "like",
+        "English",
+        "soccer"
+      ]
+    },
+    {
+      "en": "My hobby is drawing pictures of animals and people.",
+      "ko": "나의 취미는 동물과 사람 그림을 그리는 거예요.",
+      "highlights": [
+        "hobby",
+        "drawing"
+      ]
+    },
+    {
+      "en": "I often draw a picture of my family.",
+      "ko": "나는 자주 가족 그림을 그려요.",
+      "highlights": [
+        "family"
+      ]
+    },
+    {
+      "en": "After school, I play soccer with my friends.",
+      "ko": "방과 후에 나는 친구들과 축구를 해요.",
+      "highlights": [
+        "soccer"
+      ]
+    },
+    {
+      "en": "In the evening, I do my homework at home.",
+      "ko": "나는 저녁에 집에서 숙제를 해요.",
+      "highlights": []
+    },
+    {
+      "en": "At night, I read a book with my sister.",
+      "ko": "나는 밤에 여동생과 함께 책을 읽어요.",
+      "highlights": [
+        "sister"
+      ]
+    },
+    {
+      "en": "I love my family very much, and they love me too.",
+      "ko": "나는 가족을 매우 사랑하고, 가족도 나를 사랑해요.",
+      "highlights": [
+        "family"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My name is Mina, and I am thirteen years old. I am a student in the sixth grade. I live in a small house with my family. I have a little sister, and she is eleven years old. My little sister is in the fourth grade, and we play every day. I like English, and I also like soccer. My hobby is drawing pictures of animals and people. I often draw a picture of my family. After school, I play soccer with my friends. In the evening, I do my homework at home. At night, I read a book with my sister. I love my family very much, and they love me too."
+}

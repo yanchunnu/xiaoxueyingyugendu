@@ -1,0 +1,247 @@
+{
+  "slug": "the_importance_of_learning_english",
+  "topic": "The Importance of Learning English",
+  "topic_ko": "영어 공부가 중요한 이유",
+  "topic_number": 68,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Importance of Learning English",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/068_the_importance_of_learning_english.mp3",
+  "words": [
+    {
+      "en": "important",
+      "ko": "중요한"
+    },
+    {
+      "en": "English",
+      "ko": "영어"
+    },
+    {
+      "en": "world",
+      "ko": "세계"
+    },
+    {
+      "en": "speak",
+      "ko": "말하다"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "song",
+      "ko": "노래"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "useful",
+      "ko": "유용한"
+    },
+    {
+      "en": "step",
+      "ko": "단계"
+    },
+    {
+      "en": "little",
+      "ko": "조금"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "English is important.",
+      "ko": "영어는 중요해요.",
+      "highlights": [
+        "important",
+        "English"
+      ]
+    },
+    {
+      "en": "People speak it in the world.",
+      "ko": "세계 사람들이 영어를 말해요.",
+      "highlights": [
+        "world",
+        "speak"
+      ]
+    },
+    {
+      "en": "I can speak with a new friend.",
+      "ko": "나는 새 친구와 말할 수 있어요.",
+      "highlights": [
+        "speak",
+        "friend"
+      ]
+    },
+    {
+      "en": "I can enjoy an English song, and I can enjoy an English book.",
+      "ko": "나는 영어 노래를 즐길 수 있고, 영어 책도 즐길 수 있어요.",
+      "highlights": [
+        "English",
+        "song",
+        "book"
+      ]
+    },
+    {
+      "en": "English is useful.",
+      "ko": "영어는 유용해요.",
+      "highlights": [
+        "English",
+        "useful"
+      ]
+    },
+    {
+      "en": "I learn it step by step.",
+      "ko": "나는 한 단계씩 배워요.",
+      "highlights": [
+        "step"
+      ]
+    },
+    {
+      "en": "A little English helps.",
+      "ko": "영어를 조금만 해도 도움이 돼요.",
+      "highlights": [
+        "English",
+        "little"
+      ]
+    },
+    {
+      "en": "The world feels closer when I can speak.",
+      "ko": "내가 말할 수 있으면 세계가 더 가깝게 느껴져요.",
+      "highlights": [
+        "world",
+        "speak"
+      ]
+    },
+    {
+      "en": "A song is a fun way to learn a useful word.",
+      "ko": "노래는 유용한 단어를 배우는 재미있는 방법이에요.",
+      "highlights": [
+        "song",
+        "useful"
+      ]
+    },
+    {
+      "en": "Step by step, a little becomes a lot.",
+      "ko": "한 단계씩 하면 조금이 많아져요.",
+      "highlights": [
+        "step",
+        "little"
+      ]
+    },
+    {
+      "en": "English is important because it opens a book and a friendship.",
+      "ko": "영어는 책과 우정을 열어 주어서 중요해요.",
+      "highlights": [
+        "important",
+        "English",
+        "book"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "English is important.",
+      "ko": "영어는 중요해요.",
+      "highlights": [
+        "important",
+        "English"
+      ]
+    },
+    {
+      "en": "People speak it in the world.",
+      "ko": "세계 사람들이 영어를 말해요.",
+      "highlights": [
+        "world",
+        "speak"
+      ]
+    },
+    {
+      "en": "I can speak with a new friend.",
+      "ko": "나는 새 친구와 말할 수 있어요.",
+      "highlights": [
+        "speak",
+        "friend"
+      ]
+    },
+    {
+      "en": "I can enjoy an English song, and I can enjoy an English book.",
+      "ko": "나는 영어 노래를 즐길 수 있고, 영어 책도 즐길 수 있어요.",
+      "highlights": [
+        "English",
+        "song",
+        "book"
+      ]
+    },
+    {
+      "en": "English is useful.",
+      "ko": "영어는 유용해요.",
+      "highlights": [
+        "English",
+        "useful"
+      ]
+    },
+    {
+      "en": "I learn it step by step.",
+      "ko": "나는 한 단계씩 배워요.",
+      "highlights": [
+        "step"
+      ]
+    },
+    {
+      "en": "A little English helps.",
+      "ko": "영어를 조금만 해도 도움이 돼요.",
+      "highlights": [
+        "English",
+        "little"
+      ]
+    },
+    {
+      "en": "The world feels closer when I can speak.",
+      "ko": "내가 말할 수 있으면 세계가 더 가깝게 느껴져요.",
+      "highlights": [
+        "world",
+        "speak"
+      ]
+    },
+    {
+      "en": "A song is a fun way to learn a useful word.",
+      "ko": "노래는 유용한 단어를 배우는 재미있는 방법이에요.",
+      "highlights": [
+        "song",
+        "useful"
+      ]
+    },
+    {
+      "en": "Step by step, a little becomes a lot.",
+      "ko": "한 단계씩 하면 조금이 많아져요.",
+      "highlights": [
+        "step",
+        "little"
+      ]
+    },
+    {
+      "en": "English is important because it opens a book and a friendship.",
+      "ko": "영어는 책과 우정을 열어 주어서 중요해요.",
+      "highlights": [
+        "important",
+        "English",
+        "book"
+      ]
+    }
+  ],
+  "full_passage_spoken": "English is important. People speak it in the world. I can speak with a new friend. I can enjoy an English song, and I can enjoy an English book. English is useful. I learn it step by step. A little English helps. The world feels closer when I can speak. A song is a fun way to learn a useful word. Step by step, a little becomes a lot. English is important because it opens a book and a friendship."
+}

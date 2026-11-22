@@ -1,0 +1,241 @@
+{
+  "slug": "my_hero_dad",
+  "topic": "My Hero (Dad)",
+  "topic_ko": "나의 영웅 (아빠)",
+  "topic_number": 18,
+  "topic_total": 100,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Hero, Dad",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/018_my_hero_dad.mp3",
+  "words": [
+    {
+      "en": "dad",
+      "ko": "아빠"
+    },
+    {
+      "en": "hero",
+      "ko": "영웅"
+    },
+    {
+      "en": "strong",
+      "ko": "강한"
+    },
+    {
+      "en": "brave",
+      "ko": "용감한"
+    },
+    {
+      "en": "work",
+      "ko": "일"
+    },
+    {
+      "en": "every day",
+      "ko": "매일"
+    },
+    {
+      "en": "hard",
+      "ko": "열심히"
+    },
+    {
+      "en": "safe",
+      "ko": "안전한"
+    },
+    {
+      "en": "proud",
+      "ko": "자랑스러운"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My dad is my hero, and he is strong and brave.",
+      "ko": "아빠는 나의 영웅이고, 강하고 용감해요.",
+      "highlights": [
+        "dad",
+        "hero",
+        "strong",
+        "brave"
+      ]
+    },
+    {
+      "en": "He goes to work every day, and he tries hard.",
+      "ko": "아빠는 매일 일하러 가고, 열심히 해요.",
+      "highlights": [
+        "work",
+        "every day",
+        "hard"
+      ]
+    },
+    {
+      "en": "He keeps us safe at home.",
+      "ko": "아빠는 집에서 우리를 안전하게 지켜 줘요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "I am proud of him, and I love my dad.",
+      "ko": "나는 아빠가 자랑스럽고, 아빠를 사랑해요.",
+      "highlights": [
+        "dad",
+        "proud",
+        "love"
+      ]
+    },
+    {
+      "en": "I want to be like my hero.",
+      "ko": "나는 나의 영웅처럼 되고 싶어요.",
+      "highlights": [
+        "hero"
+      ]
+    },
+    {
+      "en": "His work at the hospital helps sick people.",
+      "ko": "병원에서 하는 아빠의 일은 아픈 사람들을 도와요.",
+      "highlights": [
+        "work"
+      ]
+    },
+    {
+      "en": "He is brave, but he is also gentle.",
+      "ko": "아빠는 용감하지만 다정하기도 해요.",
+      "highlights": [
+        "brave"
+      ]
+    },
+    {
+      "en": "Every day he comes home and smiles.",
+      "ko": "아빠는 매일 집에 와서 미소를 지어요.",
+      "highlights": [
+        "every day"
+      ]
+    },
+    {
+      "en": "I feel safe when he is near.",
+      "ko": "아빠가 가까이 있으면 나는 안전해요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "A strong dad can still be kind.",
+      "ko": "강한 아빠도 친절할 수 있어요.",
+      "highlights": [
+        "dad",
+        "strong"
+      ]
+    },
+    {
+      "en": "I love my hero very much.",
+      "ko": "나는 나의 영웅을 매우 사랑해요.",
+      "highlights": [
+        "hero",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My dad is my hero, and he is strong and brave.",
+      "ko": "아빠는 나의 영웅이고, 강하고 용감해요.",
+      "highlights": [
+        "dad",
+        "hero",
+        "strong",
+        "brave"
+      ]
+    },
+    {
+      "en": "He goes to work every day, and he tries hard.",
+      "ko": "아빠는 매일 일하러 가고, 열심히 해요.",
+      "highlights": [
+        "work",
+        "every day",
+        "hard"
+      ]
+    },
+    {
+      "en": "He keeps us safe at home.",
+      "ko": "아빠는 집에서 우리를 안전하게 지켜 줘요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "I am proud of him, and I love my dad.",
+      "ko": "나는 아빠가 자랑스럽고, 아빠를 사랑해요.",
+      "highlights": [
+        "dad",
+        "proud",
+        "love"
+      ]
+    },
+    {
+      "en": "I want to be like my hero.",
+      "ko": "나는 나의 영웅처럼 되고 싶어요.",
+      "highlights": [
+        "hero"
+      ]
+    },
+    {
+      "en": "His work at the hospital helps sick people.",
+      "ko": "병원에서 하는 아빠의 일은 아픈 사람들을 도와요.",
+      "highlights": [
+        "work"
+      ]
+    },
+    {
+      "en": "He is brave, but he is also gentle.",
+      "ko": "아빠는 용감하지만 다정하기도 해요.",
+      "highlights": [
+        "brave"
+      ]
+    },
+    {
+      "en": "Every day he comes home and smiles.",
+      "ko": "아빠는 매일 집에 와서 미소를 지어요.",
+      "highlights": [
+        "every day"
+      ]
+    },
+    {
+      "en": "I feel safe when he is near.",
+      "ko": "아빠가 가까이 있으면 나는 안전해요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "A strong dad can still be kind.",
+      "ko": "강한 아빠도 친절할 수 있어요.",
+      "highlights": [
+        "dad",
+        "strong"
+      ]
+    },
+    {
+      "en": "I love my hero very much.",
+      "ko": "나는 나의 영웅을 매우 사랑해요.",
+      "highlights": [
+        "hero",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My dad is my hero, and he is strong and brave. He goes to work every day, and he tries hard. He keeps us safe at home. I am proud of him, and I love my dad. I want to be like my hero. His work at the hospital helps sick people. He is brave, but he is also gentle. Every day he comes home and smiles. I feel safe when he is near. A strong dad can still be kind. I love my hero very much."
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "my_bicycle",
+  "topic": "My Bicycle",
+  "topic_ko": "나의 자전거",
+  "topic_number": 34,
+  "topic_total": 100,
+  "category_en": "My Things",
+  "category_ko": "개인 물건",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Bicycle",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/034_my_bicycle.mp3",
+  "words": [
+    {
+      "en": "bicycle",
+      "ko": "자전거"
+    },
+    {
+      "en": "wheel",
+      "ko": "바퀴"
+    },
+    {
+      "en": "bell",
+      "ko": "종"
+    },
+    {
+      "en": "helmet",
+      "ko": "헬멧"
+    },
+    {
+      "en": "wear",
+      "ko": "쓰다"
+    },
+    {
+      "en": "ride",
+      "ko": "타다"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "fast",
+      "ko": "빨리"
+    },
+    {
+      "en": "safe",
+      "ko": "안전한"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my bicycle, and it has two wheels.",
+      "ko": "이것은 나의 자전거이고, 바퀴가 두 개 있어요.",
+      "highlights": [
+        "bicycle",
+        "wheel"
+      ]
+    },
+    {
+      "en": "It has a bell.",
+      "ko": "종이 있어요.",
+      "highlights": [
+        "bell"
+      ]
+    },
+    {
+      "en": "I wear a helmet, and I ride to the park.",
+      "ko": "나는 헬멧을 쓰고, 공원까지 자전거를 타요.",
+      "highlights": [
+        "helmet",
+        "wear",
+        "ride",
+        "park"
+      ]
+    },
+    {
+      "en": "I do not ride too fast, and I stay safe.",
+      "ko": "나는 너무 빨리 타지 않고, 안전하게 타요.",
+      "highlights": [
+        "ride",
+        "fast",
+        "safe"
+      ]
+    },
+    {
+      "en": "It is fun.",
+      "ko": "자전거 타기는 재미있어요.",
+      "highlights": [
+        "fun"
+      ]
+    },
+    {
+      "en": "The bell rings when people are near.",
+      "ko": "사람들이 가까우면 종이 울려요.",
+      "highlights": [
+        "bell"
+      ]
+    },
+    {
+      "en": "A helmet keeps my head safe.",
+      "ko": "헬멧은 내 머리를 안전하게 해 줘요.",
+      "highlights": [
+        "helmet",
+        "safe"
+      ]
+    },
+    {
+      "en": "I ride with my brother on Saturday.",
+      "ko": "나는 토요일에 오빠와 함께 타요.",
+      "highlights": [
+        "ride"
+      ]
+    },
+    {
+      "en": "We stop at the park and rest.",
+      "ko": "우리는 공원에서 멈추고 쉬어요.",
+      "highlights": [
+        "park"
+      ]
+    },
+    {
+      "en": "Fast is not safe, so I ride slowly there.",
+      "ko": "빠른 것은 안전하지 않아서 나는 거기서 천천히 타요.",
+      "highlights": [
+        "ride",
+        "fast",
+        "safe"
+      ]
+    },
+    {
+      "en": "My bicycle is fun, and I take care of it.",
+      "ko": "나의 자전거는 재미있고, 나는 자전거를 소중히 다뤄요.",
+      "highlights": [
+        "bicycle",
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my bicycle, and it has two wheels.",
+      "ko": "이것은 나의 자전거이고, 바퀴가 두 개 있어요.",
+      "highlights": [
+        "bicycle",
+        "wheel"
+      ]
+    },
+    {
+      "en": "It has a bell.",
+      "ko": "종이 있어요.",
+      "highlights": [
+        "bell"
+      ]
+    },
+    {
+      "en": "I wear a helmet, and I ride to the park.",
+      "ko": "나는 헬멧을 쓰고, 공원까지 자전거를 타요.",
+      "highlights": [
+        "helmet",
+        "wear",
+        "ride",
+        "park"
+      ]
+    },
+    {
+      "en": "I do not ride too fast, and I stay safe.",
+      "ko": "나는 너무 빨리 타지 않고, 안전하게 타요.",
+      "highlights": [
+        "ride",
+        "fast",
+        "safe"
+      ]
+    },
+    {
+      "en": "It is fun.",
+      "ko": "자전거 타기는 재미있어요.",
+      "highlights": [
+        "fun"
+      ]
+    },
+    {
+      "en": "The bell rings when people are near.",
+      "ko": "사람들이 가까우면 종이 울려요.",
+      "highlights": [
+        "bell"
+      ]
+    },
+    {
+      "en": "A helmet keeps my head safe.",
+      "ko": "헬멧은 내 머리를 안전하게 해 줘요.",
+      "highlights": [
+        "helmet",
+        "safe"
+      ]
+    },
+    {
+      "en": "I ride with my brother on Saturday.",
+      "ko": "나는 토요일에 오빠와 함께 타요.",
+      "highlights": [
+        "ride"
+      ]
+    },
+    {
+      "en": "We stop at the park and rest.",
+      "ko": "우리는 공원에서 멈추고 쉬어요.",
+      "highlights": [
+        "park"
+      ]
+    },
+    {
+      "en": "Fast is not safe, so I ride slowly there.",
+      "ko": "빠른 것은 안전하지 않아서 나는 거기서 천천히 타요.",
+      "highlights": [
+        "ride",
+        "fast",
+        "safe"
+      ]
+    },
+    {
+      "en": "My bicycle is fun, and I take care of it.",
+      "ko": "나의 자전거는 재미있고, 나는 자전거를 소중히 다뤄요.",
+      "highlights": [
+        "bicycle",
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is my bicycle, and it has two wheels. It has a bell. I wear a helmet, and I ride to the park. I do not ride too fast, and I stay safe. It is fun. The bell rings when people are near. A helmet keeps my head safe. I ride with my brother on Saturday. We stop at the park and rest. Fast is not safe, so I ride slowly there. My bicycle is fun, and I take care of it."
+}

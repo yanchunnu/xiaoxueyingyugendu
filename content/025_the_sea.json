@@ -1,0 +1,243 @@
+{
+  "slug": "the_sea",
+  "topic": "The Sea",
+  "topic_ko": "바다",
+  "topic_number": 25,
+  "topic_total": 100,
+  "category_en": "Places and Scenery",
+  "category_ko": "장소·풍경 묘사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Sea",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/025_the_sea.mp3",
+  "words": [
+    {
+      "en": "sea",
+      "ko": "바다"
+    },
+    {
+      "en": "blue",
+      "ko": "파란"
+    },
+    {
+      "en": "wide",
+      "ko": "넓은"
+    },
+    {
+      "en": "wave",
+      "ko": "파도"
+    },
+    {
+      "en": "sand",
+      "ko": "모래"
+    },
+    {
+      "en": "shell",
+      "ko": "조개"
+    },
+    {
+      "en": "boat",
+      "ko": "배"
+    },
+    {
+      "en": "wind",
+      "ko": "바람"
+    },
+    {
+      "en": "swim",
+      "ko": "수영하다"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "The sea is blue and wide.",
+      "ko": "바다는 파랗고 넓어요.",
+      "highlights": [
+        "sea",
+        "blue",
+        "wide"
+      ]
+    },
+    {
+      "en": "A wave comes to the sand, and I pick up a shell.",
+      "ko": "파도가 모래 위로 오고, 나는 조개를 주워요.",
+      "highlights": [
+        "wave",
+        "sand",
+        "shell"
+      ]
+    },
+    {
+      "en": "I see a small boat on the water.",
+      "ko": "나는 물 위에 있는 작은 배를 봐요.",
+      "highlights": [
+        "boat"
+      ]
+    },
+    {
+      "en": "The wind is cool, and I want to swim.",
+      "ko": "바람은 시원하고, 나는 수영하고 싶어요.",
+      "highlights": [
+        "wind",
+        "swim"
+      ]
+    },
+    {
+      "en": "I love the sea because it makes me calm.",
+      "ko": "바다는 나를 차분하게 해서 나는 바다를 사랑해요.",
+      "highlights": [
+        "sea",
+        "love"
+      ]
+    },
+    {
+      "en": "My family goes to the sea in summer.",
+      "ko": "우리 가족은 여름에 바다에 가요.",
+      "highlights": [
+        "sea"
+      ]
+    },
+    {
+      "en": "My little sister looks for a pretty shell.",
+      "ko": "여동생은 예쁜 조개를 찾아요.",
+      "highlights": [
+        "shell"
+      ]
+    },
+    {
+      "en": "The wide sea meets the blue sky.",
+      "ko": "넓은 바다는 파란 하늘과 만나요.",
+      "highlights": [
+        "sea",
+        "blue",
+        "wide"
+      ]
+    },
+    {
+      "en": "We do not swim when the wave is too high.",
+      "ko": "파도가 너무 높으면 우리는 수영하지 않아요.",
+      "highlights": [
+        "wave",
+        "swim"
+      ]
+    },
+    {
+      "en": "The wind lifts my hair, and I laugh.",
+      "ko": "바람이 내 머리를 들어 올리고, 나는 웃어요.",
+      "highlights": [
+        "wind"
+      ]
+    },
+    {
+      "en": "I love a quiet hour by the sea.",
+      "ko": "나는 바다 옆의 조용한 시간을 좋아해요.",
+      "highlights": [
+        "sea",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "The sea is blue and wide.",
+      "ko": "바다는 파랗고 넓어요.",
+      "highlights": [
+        "sea",
+        "blue",
+        "wide"
+      ]
+    },
+    {
+      "en": "A wave comes to the sand, and I pick up a shell.",
+      "ko": "파도가 모래 위로 오고, 나는 조개를 주워요.",
+      "highlights": [
+        "wave",
+        "sand",
+        "shell"
+      ]
+    },
+    {
+      "en": "I see a small boat on the water.",
+      "ko": "나는 물 위에 있는 작은 배를 봐요.",
+      "highlights": [
+        "boat"
+      ]
+    },
+    {
+      "en": "The wind is cool, and I want to swim.",
+      "ko": "바람은 시원하고, 나는 수영하고 싶어요.",
+      "highlights": [
+        "wind",
+        "swim"
+      ]
+    },
+    {
+      "en": "I love the sea because it makes me calm.",
+      "ko": "바다는 나를 차분하게 해서 나는 바다를 사랑해요.",
+      "highlights": [
+        "sea",
+        "love"
+      ]
+    },
+    {
+      "en": "My family goes to the sea in summer.",
+      "ko": "우리 가족은 여름에 바다에 가요.",
+      "highlights": [
+        "sea"
+      ]
+    },
+    {
+      "en": "My little sister looks for a pretty shell.",
+      "ko": "여동생은 예쁜 조개를 찾아요.",
+      "highlights": [
+        "shell"
+      ]
+    },
+    {
+      "en": "The wide sea meets the blue sky.",
+      "ko": "넓은 바다는 파란 하늘과 만나요.",
+      "highlights": [
+        "sea",
+        "blue",
+        "wide"
+      ]
+    },
+    {
+      "en": "We do not swim when the wave is too high.",
+      "ko": "파도가 너무 높으면 우리는 수영하지 않아요.",
+      "highlights": [
+        "wave",
+        "swim"
+      ]
+    },
+    {
+      "en": "The wind lifts my hair, and I laugh.",
+      "ko": "바람이 내 머리를 들어 올리고, 나는 웃어요.",
+      "highlights": [
+        "wind"
+      ]
+    },
+    {
+      "en": "I love a quiet hour by the sea.",
+      "ko": "나는 바다 옆의 조용한 시간을 좋아해요.",
+      "highlights": [
+        "sea",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "The sea is blue and wide. A wave comes to the sand, and I pick up a shell. I see a small boat on the water. The wind is cool, and I want to swim. I love the sea because it makes me calm. My family goes to the sea in summer. My little sister looks for a pretty shell. The wide sea meets the blue sky. We do not swim when the wave is too high. The wind lifts my hair, and I laugh. I love a quiet hour by the sea."
+}

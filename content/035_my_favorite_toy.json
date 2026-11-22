@@ -1,0 +1,249 @@
+{
+  "slug": "my_favorite_toy",
+  "topic": "My Favorite Toy",
+  "topic_ko": "내가 가장 좋아하는 장난감",
+  "topic_number": 35,
+  "topic_total": 100,
+  "category_en": "My Things",
+  "category_ko": "개인 물건",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Toy",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/035_my_favorite_toy.mp3",
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "toy",
+      "ko": "장난감"
+    },
+    {
+      "en": "robot",
+      "ko": "로봇"
+    },
+    {
+      "en": "red",
+      "ko": "빨간"
+    },
+    {
+      "en": "small",
+      "ko": "작은"
+    },
+    {
+      "en": "arm",
+      "ko": "팔"
+    },
+    {
+      "en": "move",
+      "ko": "움직이다"
+    },
+    {
+      "en": "light",
+      "ko": "불빛"
+    },
+    {
+      "en": "gift",
+      "ko": "선물"
+    },
+    {
+      "en": "mom",
+      "ko": "엄마"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite toy is a robot.",
+      "ko": "내가 가장 좋아하는 장난감은 로봇이에요.",
+      "highlights": [
+        "favorite",
+        "toy",
+        "robot"
+      ]
+    },
+    {
+      "en": "It is red and small.",
+      "ko": "로봇은 빨갛고 작아요.",
+      "highlights": [
+        "red",
+        "small"
+      ]
+    },
+    {
+      "en": "Its arm can move, and a light turns on.",
+      "ko": "로봇의 팔은 움직일 수 있고, 불빛이 켜져요.",
+      "highlights": [
+        "arm",
+        "move",
+        "light"
+      ]
+    },
+    {
+      "en": "It is a gift from my mom.",
+      "ko": "그것은 엄마가 준 선물이에요.",
+      "highlights": [
+        "gift",
+        "mom"
+      ]
+    },
+    {
+      "en": "I play with my toy, and I take care of it.",
+      "ko": "나는 장난감을 가지고 놀고, 소중히 다뤄요.",
+      "highlights": [
+        "toy"
+      ]
+    },
+    {
+      "en": "The small robot sits on my desk.",
+      "ko": "작은 로봇은 내 책상 위에 있어요.",
+      "highlights": [
+        "robot",
+        "small"
+      ]
+    },
+    {
+      "en": "When the light is on, my sister smiles.",
+      "ko": "불빛이 켜지면 여동생이 미소를 지어요.",
+      "highlights": [
+        "light"
+      ]
+    },
+    {
+      "en": "Mom gave me this gift on my birthday.",
+      "ko": "엄마는 내 생일에 이 선물을 주었어요.",
+      "highlights": [
+        "gift",
+        "mom"
+      ]
+    },
+    {
+      "en": "I move the arm slowly.",
+      "ko": "나는 팔을 천천히 움직여요.",
+      "highlights": [
+        "arm",
+        "move"
+      ]
+    },
+    {
+      "en": "A favorite toy can be small and still special.",
+      "ko": "가장 좋아하는 장난감은 작아도 특별할 수 있어요.",
+      "highlights": [
+        "favorite",
+        "toy",
+        "small"
+      ]
+    },
+    {
+      "en": "I thank my mom for the red robot.",
+      "ko": "나는 빨간 로봇을 준 엄마에게 감사해요.",
+      "highlights": [
+        "robot",
+        "red",
+        "mom"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite toy is a robot.",
+      "ko": "내가 가장 좋아하는 장난감은 로봇이에요.",
+      "highlights": [
+        "favorite",
+        "toy",
+        "robot"
+      ]
+    },
+    {
+      "en": "It is red and small.",
+      "ko": "로봇은 빨갛고 작아요.",
+      "highlights": [
+        "red",
+        "small"
+      ]
+    },
+    {
+      "en": "Its arm can move, and a light turns on.",
+      "ko": "로봇의 팔은 움직일 수 있고, 불빛이 켜져요.",
+      "highlights": [
+        "arm",
+        "move",
+        "light"
+      ]
+    },
+    {
+      "en": "It is a gift from my mom.",
+      "ko": "그것은 엄마가 준 선물이에요.",
+      "highlights": [
+        "gift",
+        "mom"
+      ]
+    },
+    {
+      "en": "I play with my toy, and I take care of it.",
+      "ko": "나는 장난감을 가지고 놀고, 소중히 다뤄요.",
+      "highlights": [
+        "toy"
+      ]
+    },
+    {
+      "en": "The small robot sits on my desk.",
+      "ko": "작은 로봇은 내 책상 위에 있어요.",
+      "highlights": [
+        "robot",
+        "small"
+      ]
+    },
+    {
+      "en": "When the light is on, my sister smiles.",
+      "ko": "불빛이 켜지면 여동생이 미소를 지어요.",
+      "highlights": [
+        "light"
+      ]
+    },
+    {
+      "en": "Mom gave me this gift on my birthday.",
+      "ko": "엄마는 내 생일에 이 선물을 주었어요.",
+      "highlights": [
+        "gift",
+        "mom"
+      ]
+    },
+    {
+      "en": "I move the arm slowly.",
+      "ko": "나는 팔을 천천히 움직여요.",
+      "highlights": [
+        "arm",
+        "move"
+      ]
+    },
+    {
+      "en": "A favorite toy can be small and still special.",
+      "ko": "가장 좋아하는 장난감은 작아도 특별할 수 있어요.",
+      "highlights": [
+        "favorite",
+        "toy",
+        "small"
+      ]
+    },
+    {
+      "en": "I thank my mom for the red robot.",
+      "ko": "나는 빨간 로봇을 준 엄마에게 감사해요.",
+      "highlights": [
+        "robot",
+        "red",
+        "mom"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite toy is a robot. It is red and small. Its arm can move, and a light turns on. It is a gift from my mom. I play with my toy, and I take care of it. The small robot sits on my desk. When the light is on, my sister smiles. Mom gave me this gift on my birthday. I move the arm slowly. A favorite toy can be small and still special. I thank my mom for the red robot."
+}

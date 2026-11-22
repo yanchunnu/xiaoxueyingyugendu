@@ -1,0 +1,245 @@
+{
+  "slug": "my_favorite_book_2",
+  "topic": "My Favorite Book (2)",
+  "topic_ko": "내가 가장 좋아하는 책 (2)",
+  "topic_number": 41,
+  "topic_total": 100,
+  "category_en": "My Things",
+  "category_ko": "개인 물건",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Book, Part Two",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/041_my_favorite_book_2.mp3",
+  "words": [
+    {
+      "en": "title",
+      "ko": "제목"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "forest",
+      "ko": "숲"
+    },
+    {
+      "en": "bird",
+      "ko": "새"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "ending",
+      "ko": "끝"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    },
+    {
+      "en": "character",
+      "ko": "등장인물"
+    },
+    {
+      "en": "imagine",
+      "ko": "상상하다"
+    },
+    {
+      "en": "world",
+      "ko": "세계"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "The title is Brave Friends.",
+      "ko": "제목은 Brave Friends예요.",
+      "highlights": [
+        "title",
+        "friend"
+      ]
+    },
+    {
+      "en": "Two friends go to a forest.",
+      "ko": "두 친구는 숲으로 가요.",
+      "highlights": [
+        "friend",
+        "forest"
+      ]
+    },
+    {
+      "en": "They help a small bird.",
+      "ko": "그들은 작은 새를 도와요.",
+      "highlights": [
+        "bird",
+        "help"
+      ]
+    },
+    {
+      "en": "The bird is happy, and the ending is happy too.",
+      "ko": "새는 행복하고, 끝도 행복해요.",
+      "highlights": [
+        "bird",
+        "ending",
+        "happy"
+      ]
+    },
+    {
+      "en": "I like the character, and I imagine the forest.",
+      "ko": "나는 그 등장인물을 좋아하고, 숲을 상상해요.",
+      "highlights": [
+        "forest",
+        "character",
+        "imagine"
+      ]
+    },
+    {
+      "en": "I see a new world in a book.",
+      "ko": "나는 책에서 새로운 세계를 봐요.",
+      "highlights": [
+        "world"
+      ]
+    },
+    {
+      "en": "The two friends are brave because they help.",
+      "ko": "두 친구는 도와주기 때문에 용감해요.",
+      "highlights": [
+        "friend",
+        "help"
+      ]
+    },
+    {
+      "en": "The forest is green and quiet.",
+      "ko": "숲은 푸르고 조용해요.",
+      "highlights": [
+        "forest"
+      ]
+    },
+    {
+      "en": "A small bird needs a kind friend.",
+      "ko": "작은 새에게는 친절한 친구가 필요해요.",
+      "highlights": [
+        "friend",
+        "bird"
+      ]
+    },
+    {
+      "en": "The happy ending makes me smile.",
+      "ko": "행복한 끝은 나를 미소 짓게 해요.",
+      "highlights": [
+        "ending",
+        "happy"
+      ]
+    },
+    {
+      "en": "I imagine that world when I close my eyes.",
+      "ko": "나는 눈을 감으면 그 세계를 상상해요.",
+      "highlights": [
+        "imagine",
+        "world"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "The title is Brave Friends.",
+      "ko": "제목은 Brave Friends예요.",
+      "highlights": [
+        "title",
+        "friend"
+      ]
+    },
+    {
+      "en": "Two friends go to a forest.",
+      "ko": "두 친구는 숲으로 가요.",
+      "highlights": [
+        "friend",
+        "forest"
+      ]
+    },
+    {
+      "en": "They help a small bird.",
+      "ko": "그들은 작은 새를 도와요.",
+      "highlights": [
+        "bird",
+        "help"
+      ]
+    },
+    {
+      "en": "The bird is happy, and the ending is happy too.",
+      "ko": "새는 행복하고, 끝도 행복해요.",
+      "highlights": [
+        "bird",
+        "ending",
+        "happy"
+      ]
+    },
+    {
+      "en": "I like the character, and I imagine the forest.",
+      "ko": "나는 그 등장인물을 좋아하고, 숲을 상상해요.",
+      "highlights": [
+        "forest",
+        "character",
+        "imagine"
+      ]
+    },
+    {
+      "en": "I see a new world in a book.",
+      "ko": "나는 책에서 새로운 세계를 봐요.",
+      "highlights": [
+        "world"
+      ]
+    },
+    {
+      "en": "The two friends are brave because they help.",
+      "ko": "두 친구는 도와주기 때문에 용감해요.",
+      "highlights": [
+        "friend",
+        "help"
+      ]
+    },
+    {
+      "en": "The forest is green and quiet.",
+      "ko": "숲은 푸르고 조용해요.",
+      "highlights": [
+        "forest"
+      ]
+    },
+    {
+      "en": "A small bird needs a kind friend.",
+      "ko": "작은 새에게는 친절한 친구가 필요해요.",
+      "highlights": [
+        "friend",
+        "bird"
+      ]
+    },
+    {
+      "en": "The happy ending makes me smile.",
+      "ko": "행복한 끝은 나를 미소 짓게 해요.",
+      "highlights": [
+        "ending",
+        "happy"
+      ]
+    },
+    {
+      "en": "I imagine that world when I close my eyes.",
+      "ko": "나는 눈을 감으면 그 세계를 상상해요.",
+      "highlights": [
+        "imagine",
+        "world"
+      ]
+    }
+  ],
+  "full_passage_spoken": "The title is Brave Friends. Two friends go to a forest. They help a small bird. The bird is happy, and the ending is happy too. I like the character, and I imagine the forest. I see a new world in a book. The two friends are brave because they help. The forest is green and quiet. A small bird needs a kind friend. The happy ending makes me smile. I imagine that world when I close my eyes."
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "my_grandfather",
+  "topic": "My Grandfather",
+  "topic_ko": "나의 할아버지",
+  "topic_number": 10,
+  "topic_total": 100,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Grandfather",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/010_my_grandfather.mp3",
+  "words": [
+    {
+      "en": "grandfather",
+      "ko": "할아버지"
+    },
+    {
+      "en": "farm",
+      "ko": "농장"
+    },
+    {
+      "en": "glasses",
+      "ko": "안경"
+    },
+    {
+      "en": "garden",
+      "ko": "정원"
+    },
+    {
+      "en": "slowly",
+      "ko": "천천히"
+    },
+    {
+      "en": "story",
+      "ko": "이야기"
+    },
+    {
+      "en": "wise",
+      "ko": "지혜로운"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "Sunday",
+      "ko": "일요일"
+    },
+    {
+      "en": "visit",
+      "ko": "방문하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My grandfather lives on a farm.",
+      "ko": "나의 할아버지는 농장에 살아요.",
+      "highlights": [
+        "grandfather",
+        "farm"
+      ]
+    },
+    {
+      "en": "He wears glasses, and he walks slowly in the garden.",
+      "ko": "할아버지는 안경을 쓰고, 정원에서 천천히 걸어요.",
+      "highlights": [
+        "glasses",
+        "garden",
+        "slowly"
+      ]
+    },
+    {
+      "en": "He tells me a story when I visit.",
+      "ko": "내가 방문하면 할아버지는 이야기를 해 줘요.",
+      "highlights": [
+        "story",
+        "visit"
+      ]
+    },
+    {
+      "en": "He is wise and kind.",
+      "ko": "할아버지는 지혜롭고 친절해요.",
+      "highlights": [
+        "wise",
+        "kind"
+      ]
+    },
+    {
+      "en": "I visit him on Sunday with my family.",
+      "ko": "나는 일요일에 가족과 함께 할아버지를 보러 가요.",
+      "highlights": [
+        "Sunday",
+        "visit"
+      ]
+    },
+    {
+      "en": "The farm is quiet, and the air is fresh.",
+      "ko": "농장은 조용하고 공기가 신선해요.",
+      "highlights": [
+        "farm"
+      ]
+    },
+    {
+      "en": "He lets me help in the garden.",
+      "ko": "할아버지는 내가 정원에서 돕게 해 주세요.",
+      "highlights": [
+        "garden"
+      ]
+    },
+    {
+      "en": "My little sister likes his stories too.",
+      "ko": "여동생도 할아버지 이야기를 좋아해요.",
+      "highlights": []
+    },
+    {
+      "en": "He smiles when we say hello.",
+      "ko": "우리가 인사하면 할아버지가 미소를 지어요.",
+      "highlights": []
+    },
+    {
+      "en": "I love my grandfather because he is wise.",
+      "ko": "할아버지는 지혜로워서 나는 할아버지를 사랑해요.",
+      "highlights": [
+        "grandfather",
+        "wise"
+      ]
+    },
+    {
+      "en": "Sunday on the farm is a happy day.",
+      "ko": "농장에서의 일요일은 행복한 날이에요.",
+      "highlights": [
+        "farm",
+        "Sunday"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My grandfather lives on a farm.",
+      "ko": "나의 할아버지는 농장에 살아요.",
+      "highlights": [
+        "grandfather",
+        "farm"
+      ]
+    },
+    {
+      "en": "He wears glasses, and he walks slowly in the garden.",
+      "ko": "할아버지는 안경을 쓰고, 정원에서 천천히 걸어요.",
+      "highlights": [
+        "glasses",
+        "garden",
+        "slowly"
+      ]
+    },
+    {
+      "en": "He tells me a story when I visit.",
+      "ko": "내가 방문하면 할아버지는 이야기를 해 줘요.",
+      "highlights": [
+        "story",
+        "visit"
+      ]
+    },
+    {
+      "en": "He is wise and kind.",
+      "ko": "할아버지는 지혜롭고 친절해요.",
+      "highlights": [
+        "wise",
+        "kind"
+      ]
+    },
+    {
+      "en": "I visit him on Sunday with my family.",
+      "ko": "나는 일요일에 가족과 함께 할아버지를 보러 가요.",
+      "highlights": [
+        "Sunday",
+        "visit"
+      ]
+    },
+    {
+      "en": "The farm is quiet, and the air is fresh.",
+      "ko": "농장은 조용하고 공기가 신선해요.",
+      "highlights": [
+        "farm"
+      ]
+    },
+    {
+      "en": "He lets me help in the garden.",
+      "ko": "할아버지는 내가 정원에서 돕게 해 주세요.",
+      "highlights": [
+        "garden"
+      ]
+    },
+    {
+      "en": "My little sister likes his stories too.",
+      "ko": "여동생도 할아버지 이야기를 좋아해요.",
+      "highlights": []
+    },
+    {
+      "en": "He smiles when we say hello.",
+      "ko": "우리가 인사하면 할아버지가 미소를 지어요.",
+      "highlights": []
+    },
+    {
+      "en": "I love my grandfather because he is wise.",
+      "ko": "할아버지는 지혜로워서 나는 할아버지를 사랑해요.",
+      "highlights": [
+        "grandfather",
+        "wise"
+      ]
+    },
+    {
+      "en": "Sunday on the farm is a happy day.",
+      "ko": "농장에서의 일요일은 행복한 날이에요.",
+      "highlights": [
+        "farm",
+        "Sunday"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My grandfather lives on a farm. He wears glasses, and he walks slowly in the garden. He tells me a story when I visit. He is wise and kind. I visit him on Sunday with my family. The farm is quiet, and the air is fresh. He lets me help in the garden. My little sister likes his stories too. He smiles when we say hello. I love my grandfather because he is wise. Sunday on the farm is a happy day."
+}

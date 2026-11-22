@@ -1,0 +1,245 @@
+{
+  "slug": "keeping_healthy",
+  "topic": "Keeping Healthy",
+  "topic_ko": "건강 지키기",
+  "topic_number": 91,
+  "topic_total": 100,
+  "category_en": "Health and Food",
+  "category_ko": "건강과 음식",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Keeping Healthy",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/091_keeping_healthy.mp3",
+  "words": [
+    {
+      "en": "keep",
+      "ko": "지키다"
+    },
+    {
+      "en": "healthy",
+      "ko": "건강한"
+    },
+    {
+      "en": "sleep",
+      "ko": "잠"
+    },
+    {
+      "en": "early",
+      "ko": "일찍"
+    },
+    {
+      "en": "exercise",
+      "ko": "운동하다"
+    },
+    {
+      "en": "wash",
+      "ko": "씻다"
+    },
+    {
+      "en": "hand",
+      "ko": "손"
+    },
+    {
+      "en": "food",
+      "ko": "음식"
+    },
+    {
+      "en": "habit",
+      "ko": "습관"
+    },
+    {
+      "en": "strong",
+      "ko": "튼튼한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I want to keep healthy.",
+      "ko": "나는 건강을 지키고 싶어요.",
+      "highlights": [
+        "keep",
+        "healthy"
+      ]
+    },
+    {
+      "en": "I go to sleep early.",
+      "ko": "나는 일찍 잠자리에 들어요.",
+      "highlights": [
+        "sleep",
+        "early"
+      ]
+    },
+    {
+      "en": "I exercise every day.",
+      "ko": "나는 매일 운동해요.",
+      "highlights": [
+        "exercise"
+      ]
+    },
+    {
+      "en": "I wash my hands.",
+      "ko": "나는 손을 씻어요.",
+      "highlights": [
+        "wash",
+        "hand"
+      ]
+    },
+    {
+      "en": "I eat good food.",
+      "ko": "나는 좋은 음식을 먹어요.",
+      "highlights": [
+        "food"
+      ]
+    },
+    {
+      "en": "This is a good habit.",
+      "ko": "이것은 좋은 습관이에요.",
+      "highlights": [
+        "habit"
+      ]
+    },
+    {
+      "en": "Good habits keep me strong.",
+      "ko": "좋은 습관은 나를 튼튼하게 지켜 줘요.",
+      "highlights": [
+        "keep",
+        "habit",
+        "strong"
+      ]
+    },
+    {
+      "en": "I can do them.",
+      "ko": "나는 그것들을 할 수 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "Early sleep is a habit I can keep.",
+      "ko": "일찍 잠드는 것은 내가 지킬 수 있는 습관이에요.",
+      "highlights": [
+        "keep",
+        "sleep",
+        "early",
+        "habit"
+      ]
+    },
+    {
+      "en": "I wash each hand before a meal.",
+      "ko": "나는 식사 전에 양손을 씻어요.",
+      "highlights": [
+        "wash",
+        "hand"
+      ]
+    },
+    {
+      "en": "Exercise and good food keep a healthy body strong.",
+      "ko": "운동과 좋은 음식은 건강한 몸을 튼튼하게 지켜 줘요.",
+      "highlights": [
+        "keep",
+        "healthy",
+        "exercise",
+        "food",
+        "strong"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I want to keep healthy.",
+      "ko": "나는 건강을 지키고 싶어요.",
+      "highlights": [
+        "keep",
+        "healthy"
+      ]
+    },
+    {
+      "en": "I go to sleep early.",
+      "ko": "나는 일찍 잠자리에 들어요.",
+      "highlights": [
+        "sleep",
+        "early"
+      ]
+    },
+    {
+      "en": "I exercise every day.",
+      "ko": "나는 매일 운동해요.",
+      "highlights": [
+        "exercise"
+      ]
+    },
+    {
+      "en": "I wash my hands.",
+      "ko": "나는 손을 씻어요.",
+      "highlights": [
+        "wash",
+        "hand"
+      ]
+    },
+    {
+      "en": "I eat good food.",
+      "ko": "나는 좋은 음식을 먹어요.",
+      "highlights": [
+        "food"
+      ]
+    },
+    {
+      "en": "This is a good habit.",
+      "ko": "이것은 좋은 습관이에요.",
+      "highlights": [
+        "habit"
+      ]
+    },
+    {
+      "en": "Good habits keep me strong.",
+      "ko": "좋은 습관은 나를 튼튼하게 지켜 줘요.",
+      "highlights": [
+        "keep",
+        "habit",
+        "strong"
+      ]
+    },
+    {
+      "en": "I can do them.",
+      "ko": "나는 그것들을 할 수 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "Early sleep is a habit I can keep.",
+      "ko": "일찍 잠드는 것은 내가 지킬 수 있는 습관이에요.",
+      "highlights": [
+        "keep",
+        "sleep",
+        "early",
+        "habit"
+      ]
+    },
+    {
+      "en": "I wash each hand before a meal.",
+      "ko": "나는 식사 전에 양손을 씻어요.",
+      "highlights": [
+        "wash",
+        "hand"
+      ]
+    },
+    {
+      "en": "Exercise and good food keep a healthy body strong.",
+      "ko": "운동과 좋은 음식은 건강한 몸을 튼튼하게 지켜 줘요.",
+      "highlights": [
+        "keep",
+        "healthy",
+        "exercise",
+        "food",
+        "strong"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I want to keep healthy. I go to sleep early. I exercise every day. I wash my hands. I eat good food. This is a good habit. Good habits keep me strong. I can do them. Early sleep is a habit I can keep. I wash each hand before a meal. Exercise and good food keep a healthy body strong."
+}

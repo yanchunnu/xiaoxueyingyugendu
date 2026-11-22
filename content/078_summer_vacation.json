@@ -1,0 +1,247 @@
+{
+  "slug": "summer_vacation",
+  "topic": "Summer Vacation",
+  "topic_ko": "여름 방학",
+  "topic_number": 78,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Summer Vacation",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/078_summer_vacation.mp3",
+  "words": [
+    {
+      "en": "summer",
+      "ko": "여름"
+    },
+    {
+      "en": "vacation",
+      "ko": "방학"
+    },
+    {
+      "en": "hot",
+      "ko": "더운"
+    },
+    {
+      "en": "swim",
+      "ko": "수영하다"
+    },
+    {
+      "en": "ice cream",
+      "ko": "아이스크림"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "trip",
+      "ko": "여행"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "free",
+      "ko": "자유로운"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Summer vacation is here, and the days are hot.",
+      "ko": "여름 방학이 왔고, 낮이 더워요.",
+      "highlights": [
+        "summer",
+        "vacation",
+        "hot"
+      ]
+    },
+    {
+      "en": "I swim and eat ice cream.",
+      "ko": "나는 수영하고 아이스크림을 먹어요.",
+      "highlights": [
+        "swim",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "I like to read a book.",
+      "ko": "나는 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book"
+      ]
+    },
+    {
+      "en": "I take a short trip.",
+      "ko": "나는 짧은 여행을 가요.",
+      "highlights": [
+        "trip"
+      ]
+    },
+    {
+      "en": "I play with a friend.",
+      "ko": "나는 친구와 놀아요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I feel free, and summer is fun.",
+      "ko": "나는 자유롭고, 여름은 재미있어요.",
+      "highlights": [
+        "summer",
+        "free",
+        "fun"
+      ]
+    },
+    {
+      "en": "Hot days are better with ice cream.",
+      "ko": "더운 날은 아이스크림이 있으면 더 좋아요.",
+      "highlights": [
+        "hot",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "A free afternoon is for a book or a friend.",
+      "ko": "자유로운 오후는 책이나 친구를 위한 시간이에요.",
+      "highlights": [
+        "book",
+        "friend",
+        "free"
+      ]
+    },
+    {
+      "en": "The trip is short, but it is fun.",
+      "ko": "여행은 짧지만 재미있어요.",
+      "highlights": [
+        "trip",
+        "fun"
+      ]
+    },
+    {
+      "en": "I swim in the morning when it is not too hot.",
+      "ko": "너무 덥지 않은 아침에 나는 수영해요.",
+      "highlights": [
+        "hot",
+        "swim"
+      ]
+    },
+    {
+      "en": "Summer vacation feels free, and I like that.",
+      "ko": "여름 방학은 자유롭게 느껴지고, 나는 그것이 좋아요.",
+      "highlights": [
+        "summer",
+        "vacation",
+        "free"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Summer vacation is here, and the days are hot.",
+      "ko": "여름 방학이 왔고, 낮이 더워요.",
+      "highlights": [
+        "summer",
+        "vacation",
+        "hot"
+      ]
+    },
+    {
+      "en": "I swim and eat ice cream.",
+      "ko": "나는 수영하고 아이스크림을 먹어요.",
+      "highlights": [
+        "swim",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "I like to read a book.",
+      "ko": "나는 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book"
+      ]
+    },
+    {
+      "en": "I take a short trip.",
+      "ko": "나는 짧은 여행을 가요.",
+      "highlights": [
+        "trip"
+      ]
+    },
+    {
+      "en": "I play with a friend.",
+      "ko": "나는 친구와 놀아요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I feel free, and summer is fun.",
+      "ko": "나는 자유롭고, 여름은 재미있어요.",
+      "highlights": [
+        "summer",
+        "free",
+        "fun"
+      ]
+    },
+    {
+      "en": "Hot days are better with ice cream.",
+      "ko": "더운 날은 아이스크림이 있으면 더 좋아요.",
+      "highlights": [
+        "hot",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "A free afternoon is for a book or a friend.",
+      "ko": "자유로운 오후는 책이나 친구를 위한 시간이에요.",
+      "highlights": [
+        "book",
+        "friend",
+        "free"
+      ]
+    },
+    {
+      "en": "The trip is short, but it is fun.",
+      "ko": "여행은 짧지만 재미있어요.",
+      "highlights": [
+        "trip",
+        "fun"
+      ]
+    },
+    {
+      "en": "I swim in the morning when it is not too hot.",
+      "ko": "너무 덥지 않은 아침에 나는 수영해요.",
+      "highlights": [
+        "hot",
+        "swim"
+      ]
+    },
+    {
+      "en": "Summer vacation feels free, and I like that.",
+      "ko": "여름 방학은 자유롭게 느껴지고, 나는 그것이 좋아요.",
+      "highlights": [
+        "summer",
+        "vacation",
+        "free"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Summer vacation is here, and the days are hot. I swim and eat ice cream. I like to read a book. I take a short trip. I play with a friend. I feel free, and summer is fun. Hot days are better with ice cream. A free afternoon is for a book or a friend. The trip is short, but it is fun. I swim in the morning when it is not too hot. Summer vacation feels free, and I like that."
+}

@@ -1,0 +1,247 @@
+{
+  "slug": "the_zoo",
+  "topic": "The Zoo",
+  "topic_ko": "동물원",
+  "topic_number": 26,
+  "topic_total": 100,
+  "category_en": "Places and Scenery",
+  "category_ko": "장소·풍경 묘사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Zoo",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/026_the_zoo.mp3",
+  "words": [
+    {
+      "en": "zoo",
+      "ko": "동물원"
+    },
+    {
+      "en": "visit",
+      "ko": "방문하다"
+    },
+    {
+      "en": "animal",
+      "ko": "동물"
+    },
+    {
+      "en": "lion",
+      "ko": "사자"
+    },
+    {
+      "en": "big",
+      "ko": "큰"
+    },
+    {
+      "en": "monkey",
+      "ko": "원숭이"
+    },
+    {
+      "en": "funny",
+      "ko": "재미있는"
+    },
+    {
+      "en": "elephant",
+      "ko": "코끼리"
+    },
+    {
+      "en": "panda",
+      "ko": "판다"
+    },
+    {
+      "en": "cute",
+      "ko": "귀여운"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "We visit the zoo, and I see an animal.",
+      "ko": "우리는 동물원에 가고, 나는 동물을 봐요.",
+      "highlights": [
+        "zoo",
+        "visit",
+        "animal"
+      ]
+    },
+    {
+      "en": "The lion is big, and the monkey is funny.",
+      "ko": "사자는 크고, 원숭이는 재미있어요.",
+      "highlights": [
+        "lion",
+        "big",
+        "monkey",
+        "funny"
+      ]
+    },
+    {
+      "en": "The elephant is very big.",
+      "ko": "코끼리는 매우 커요.",
+      "highlights": [
+        "big",
+        "elephant"
+      ]
+    },
+    {
+      "en": "The panda is cute, and I like the zoo.",
+      "ko": "판다는 귀엽고, 나는 동물원을 좋아해요.",
+      "highlights": [
+        "zoo",
+        "panda",
+        "cute"
+      ]
+    },
+    {
+      "en": "My little sister wants to see the panda again.",
+      "ko": "여동생은 판다를 다시 보고 싶어해요.",
+      "highlights": [
+        "panda"
+      ]
+    },
+    {
+      "en": "A funny monkey jumps near the glass.",
+      "ko": "재미있는 원숭이가 유리 근처에서 뛰어요.",
+      "highlights": [
+        "monkey",
+        "funny"
+      ]
+    },
+    {
+      "en": "We visit on a sunny Saturday.",
+      "ko": "우리는 화창한 토요일에 방문해요.",
+      "highlights": [
+        "visit"
+      ]
+    },
+    {
+      "en": "Each animal has a home at the zoo.",
+      "ko": "동물마다 동물원에 집이 있어요.",
+      "highlights": [
+        "zoo",
+        "animal"
+      ]
+    },
+    {
+      "en": "The big elephant eats slowly.",
+      "ko": "큰 코끼리는 천천히 먹어요.",
+      "highlights": [
+        "big",
+        "elephant"
+      ]
+    },
+    {
+      "en": "I draw the cute panda when I get home.",
+      "ko": "집에 가면 나는 귀여운 판다를 그려요.",
+      "highlights": [
+        "panda",
+        "cute"
+      ]
+    },
+    {
+      "en": "The zoo is a good place for our family.",
+      "ko": "동물원은 우리 가족에게 좋은 곳이에요.",
+      "highlights": [
+        "zoo"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "We visit the zoo, and I see an animal.",
+      "ko": "우리는 동물원에 가고, 나는 동물을 봐요.",
+      "highlights": [
+        "zoo",
+        "visit",
+        "animal"
+      ]
+    },
+    {
+      "en": "The lion is big, and the monkey is funny.",
+      "ko": "사자는 크고, 원숭이는 재미있어요.",
+      "highlights": [
+        "lion",
+        "big",
+        "monkey",
+        "funny"
+      ]
+    },
+    {
+      "en": "The elephant is very big.",
+      "ko": "코끼리는 매우 커요.",
+      "highlights": [
+        "big",
+        "elephant"
+      ]
+    },
+    {
+      "en": "The panda is cute, and I like the zoo.",
+      "ko": "판다는 귀엽고, 나는 동물원을 좋아해요.",
+      "highlights": [
+        "zoo",
+        "panda",
+        "cute"
+      ]
+    },
+    {
+      "en": "My little sister wants to see the panda again.",
+      "ko": "여동생은 판다를 다시 보고 싶어해요.",
+      "highlights": [
+        "panda"
+      ]
+    },
+    {
+      "en": "A funny monkey jumps near the glass.",
+      "ko": "재미있는 원숭이가 유리 근처에서 뛰어요.",
+      "highlights": [
+        "monkey",
+        "funny"
+      ]
+    },
+    {
+      "en": "We visit on a sunny Saturday.",
+      "ko": "우리는 화창한 토요일에 방문해요.",
+      "highlights": [
+        "visit"
+      ]
+    },
+    {
+      "en": "Each animal has a home at the zoo.",
+      "ko": "동물마다 동물원에 집이 있어요.",
+      "highlights": [
+        "zoo",
+        "animal"
+      ]
+    },
+    {
+      "en": "The big elephant eats slowly.",
+      "ko": "큰 코끼리는 천천히 먹어요.",
+      "highlights": [
+        "big",
+        "elephant"
+      ]
+    },
+    {
+      "en": "I draw the cute panda when I get home.",
+      "ko": "집에 가면 나는 귀여운 판다를 그려요.",
+      "highlights": [
+        "panda",
+        "cute"
+      ]
+    },
+    {
+      "en": "The zoo is a good place for our family.",
+      "ko": "동물원은 우리 가족에게 좋은 곳이에요.",
+      "highlights": [
+        "zoo"
+      ]
+    }
+  ],
+  "full_passage_spoken": "We visit the zoo, and I see an animal. The lion is big, and the monkey is funny. The elephant is very big. The panda is cute, and I like the zoo. My little sister wants to see the panda again. A funny monkey jumps near the glass. We visit on a sunny Saturday. Each animal has a home at the zoo. The big elephant eats slowly. I draw the cute panda when I get home. The zoo is a good place for our family."
+}

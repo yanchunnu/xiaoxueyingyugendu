@@ -1,0 +1,257 @@
+{
+  "slug": "my_favorite_sport_2",
+  "topic": "My Favorite Sport (2)",
+  "topic_ko": "내가 가장 좋아하는 운동 (2)",
+  "topic_number": 54,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Sport, Part Two",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/054_my_favorite_sport_2.mp3",
+  "words": [
+    {
+      "en": "jump rope",
+      "ko": "줄넘기"
+    },
+    {
+      "en": "jump",
+      "ko": "뛰다"
+    },
+    {
+      "en": "rope",
+      "ko": "줄"
+    },
+    {
+      "en": "count",
+      "ko": "세다"
+    },
+    {
+      "en": "fast",
+      "ko": "빨리"
+    },
+    {
+      "en": "gym",
+      "ko": "체육"
+    },
+    {
+      "en": "class",
+      "ko": "수업"
+    },
+    {
+      "en": "turn",
+      "ko": "차례"
+    },
+    {
+      "en": "strong",
+      "ko": "튼튼한"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I also like jump rope.",
+      "ko": "나는 줄넘기도 좋아해요.",
+      "highlights": [
+        "jump rope",
+        "jump",
+        "rope"
+      ]
+    },
+    {
+      "en": "I jump with a rope, and I count my jumps.",
+      "ko": "나는 줄을 가지고 뛰고, 뛴 횟수를 세요.",
+      "highlights": [
+        "jump",
+        "rope",
+        "count"
+      ]
+    },
+    {
+      "en": "I try to jump fast.",
+      "ko": "나는 빨리 뛰려고 해요.",
+      "highlights": [
+        "jump",
+        "fast"
+      ]
+    },
+    {
+      "en": "We do it in gym class.",
+      "ko": "우리는 체육 시간에 줄넘기를 해요.",
+      "highlights": [
+        "gym",
+        "class"
+      ]
+    },
+    {
+      "en": "I wait for my turn.",
+      "ko": "나는 내 차례를 기다려요.",
+      "highlights": [
+        "turn"
+      ]
+    },
+    {
+      "en": "Jump rope makes me strong, and it is fun.",
+      "ko": "줄넘기는 나를 튼튼하게 하고, 재미있어요.",
+      "highlights": [
+        "jump rope",
+        "jump",
+        "rope",
+        "strong",
+        "fun"
+      ]
+    },
+    {
+      "en": "I count to twenty and then I rest.",
+      "ko": "나는 스무 개까지 세고 나서 쉬어요.",
+      "highlights": [
+        "count"
+      ]
+    },
+    {
+      "en": "A fast jump is hard, so I start slowly.",
+      "ko": "빨리 뛰는 것은 어려워서 나는 천천히 시작해요.",
+      "highlights": [
+        "jump",
+        "fast"
+      ]
+    },
+    {
+      "en": "In gym class we each take a turn.",
+      "ko": "체육 시간에 우리는 각자 차례를 가져요.",
+      "highlights": [
+        "gym",
+        "class",
+        "turn"
+      ]
+    },
+    {
+      "en": "I feel strong after this fun class.",
+      "ko": "이 재미있는 수업 후에 나는 튼튼해진 느낌이 들어요.",
+      "highlights": [
+        "class",
+        "strong",
+        "fun"
+      ]
+    },
+    {
+      "en": "I like jump rope because I can do it anywhere.",
+      "ko": "어디서나 할 수 있어서 나는 줄넘기를 좋아해요.",
+      "highlights": [
+        "jump rope",
+        "jump",
+        "rope"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I also like jump rope.",
+      "ko": "나는 줄넘기도 좋아해요.",
+      "highlights": [
+        "jump rope",
+        "jump",
+        "rope"
+      ]
+    },
+    {
+      "en": "I jump with a rope, and I count my jumps.",
+      "ko": "나는 줄을 가지고 뛰고, 뛴 횟수를 세요.",
+      "highlights": [
+        "jump",
+        "rope",
+        "count"
+      ]
+    },
+    {
+      "en": "I try to jump fast.",
+      "ko": "나는 빨리 뛰려고 해요.",
+      "highlights": [
+        "jump",
+        "fast"
+      ]
+    },
+    {
+      "en": "We do it in gym class.",
+      "ko": "우리는 체육 시간에 줄넘기를 해요.",
+      "highlights": [
+        "gym",
+        "class"
+      ]
+    },
+    {
+      "en": "I wait for my turn.",
+      "ko": "나는 내 차례를 기다려요.",
+      "highlights": [
+        "turn"
+      ]
+    },
+    {
+      "en": "Jump rope makes me strong, and it is fun.",
+      "ko": "줄넘기는 나를 튼튼하게 하고, 재미있어요.",
+      "highlights": [
+        "jump rope",
+        "jump",
+        "rope",
+        "strong",
+        "fun"
+      ]
+    },
+    {
+      "en": "I count to twenty and then I rest.",
+      "ko": "나는 스무 개까지 세고 나서 쉬어요.",
+      "highlights": [
+        "count"
+      ]
+    },
+    {
+      "en": "A fast jump is hard, so I start slowly.",
+      "ko": "빨리 뛰는 것은 어려워서 나는 천천히 시작해요.",
+      "highlights": [
+        "jump",
+        "fast"
+      ]
+    },
+    {
+      "en": "In gym class we each take a turn.",
+      "ko": "체육 시간에 우리는 각자 차례를 가져요.",
+      "highlights": [
+        "gym",
+        "class",
+        "turn"
+      ]
+    },
+    {
+      "en": "I feel strong after this fun class.",
+      "ko": "이 재미있는 수업 후에 나는 튼튼해진 느낌이 들어요.",
+      "highlights": [
+        "class",
+        "strong",
+        "fun"
+      ]
+    },
+    {
+      "en": "I like jump rope because I can do it anywhere.",
+      "ko": "어디서나 할 수 있어서 나는 줄넘기를 좋아해요.",
+      "highlights": [
+        "jump rope",
+        "jump",
+        "rope"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I also like jump rope. I jump with a rope, and I count my jumps. I try to jump fast. We do it in gym class. I wait for my turn. Jump rope makes me strong, and it is fun. I count to twenty and then I rest. A fast jump is hard, so I start slowly. In gym class we each take a turn. I feel strong after this fun class. I like jump rope because I can do it anywhere."
+}

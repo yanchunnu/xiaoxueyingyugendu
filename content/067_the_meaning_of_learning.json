@@ -1,0 +1,247 @@
+{
+  "slug": "the_meaning_of_learning",
+  "topic": "The Meaning of Learning",
+  "topic_ko": "배움의 의미",
+  "topic_number": 67,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Meaning of Learning",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/067_the_meaning_of_learning.mp3",
+  "words": [
+    {
+      "en": "meaning",
+      "ko": "의미"
+    },
+    {
+      "en": "learn",
+      "ko": "배우다"
+    },
+    {
+      "en": "know",
+      "ko": "알다"
+    },
+    {
+      "en": "new",
+      "ko": "새로운"
+    },
+    {
+      "en": "grow",
+      "ko": "자라다"
+    },
+    {
+      "en": "day",
+      "ko": "하루"
+    },
+    {
+      "en": "mistake",
+      "ko": "실수"
+    },
+    {
+      "en": "try",
+      "ko": "해 보다"
+    },
+    {
+      "en": "question",
+      "ko": "질문"
+    },
+    {
+      "en": "better",
+      "ko": "더 나아진"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "What is the meaning of learning?",
+      "ko": "배움의 의미는 무엇일까요?",
+      "highlights": [
+        "meaning",
+        "learn"
+      ]
+    },
+    {
+      "en": "The meaning is to know new things.",
+      "ko": "의미는 새로운 것을 아는 것이에요.",
+      "highlights": [
+        "meaning",
+        "know",
+        "new"
+      ]
+    },
+    {
+      "en": "I grow a little every day.",
+      "ko": "나는 매일 조금씩 자라요.",
+      "highlights": [
+        "grow",
+        "day"
+      ]
+    },
+    {
+      "en": "I make a mistake, and then I try again.",
+      "ko": "나는 실수를 하고, 그다음에 다시 해 봐요.",
+      "highlights": [
+        "mistake",
+        "try"
+      ]
+    },
+    {
+      "en": "I ask a question.",
+      "ko": "나는 질문을 해요.",
+      "highlights": [
+        "question"
+      ]
+    },
+    {
+      "en": "I get better, and I learn every day.",
+      "ko": "나는 더 나아지고, 매일 배워요.",
+      "highlights": [
+        "learn",
+        "day",
+        "better"
+      ]
+    },
+    {
+      "en": "A mistake is not the end of the day.",
+      "ko": "실수는 하루의 끝이 아니에요.",
+      "highlights": [
+        "day",
+        "mistake"
+      ]
+    },
+    {
+      "en": "I try again because I want to know more.",
+      "ko": "나는 더 알고 싶어서 다시 해 봐요.",
+      "highlights": [
+        "know",
+        "try"
+      ]
+    },
+    {
+      "en": "A good question helps me learn.",
+      "ko": "좋은 질문은 내가 배우도록 도와줘요.",
+      "highlights": [
+        "learn",
+        "question"
+      ]
+    },
+    {
+      "en": "I get better when I do not give up.",
+      "ko": "포기하지 않으면 나는 더 나아져요.",
+      "highlights": [
+        "better"
+      ]
+    },
+    {
+      "en": "The meaning of learning is to grow.",
+      "ko": "배움의 의미는 자라는 것이에요.",
+      "highlights": [
+        "meaning",
+        "learn",
+        "grow"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "What is the meaning of learning?",
+      "ko": "배움의 의미는 무엇일까요?",
+      "highlights": [
+        "meaning",
+        "learn"
+      ]
+    },
+    {
+      "en": "The meaning is to know new things.",
+      "ko": "의미는 새로운 것을 아는 것이에요.",
+      "highlights": [
+        "meaning",
+        "know",
+        "new"
+      ]
+    },
+    {
+      "en": "I grow a little every day.",
+      "ko": "나는 매일 조금씩 자라요.",
+      "highlights": [
+        "grow",
+        "day"
+      ]
+    },
+    {
+      "en": "I make a mistake, and then I try again.",
+      "ko": "나는 실수를 하고, 그다음에 다시 해 봐요.",
+      "highlights": [
+        "mistake",
+        "try"
+      ]
+    },
+    {
+      "en": "I ask a question.",
+      "ko": "나는 질문을 해요.",
+      "highlights": [
+        "question"
+      ]
+    },
+    {
+      "en": "I get better, and I learn every day.",
+      "ko": "나는 더 나아지고, 매일 배워요.",
+      "highlights": [
+        "learn",
+        "day",
+        "better"
+      ]
+    },
+    {
+      "en": "A mistake is not the end of the day.",
+      "ko": "실수는 하루의 끝이 아니에요.",
+      "highlights": [
+        "day",
+        "mistake"
+      ]
+    },
+    {
+      "en": "I try again because I want to know more.",
+      "ko": "나는 더 알고 싶어서 다시 해 봐요.",
+      "highlights": [
+        "know",
+        "try"
+      ]
+    },
+    {
+      "en": "A good question helps me learn.",
+      "ko": "좋은 질문은 내가 배우도록 도와줘요.",
+      "highlights": [
+        "learn",
+        "question"
+      ]
+    },
+    {
+      "en": "I get better when I do not give up.",
+      "ko": "포기하지 않으면 나는 더 나아져요.",
+      "highlights": [
+        "better"
+      ]
+    },
+    {
+      "en": "The meaning of learning is to grow.",
+      "ko": "배움의 의미는 자라는 것이에요.",
+      "highlights": [
+        "meaning",
+        "learn",
+        "grow"
+      ]
+    }
+  ],
+  "full_passage_spoken": "What is the meaning of learning? The meaning is to know new things. I grow a little every day. I make a mistake, and then I try again. I ask a question. I get better, and I learn every day. A mistake is not the end of the day. I try again because I want to know more. A good question helps me learn. I get better when I do not give up. The meaning of learning is to grow."
+}

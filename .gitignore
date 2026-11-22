@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+build/
+.tts-cache/
+qa/tmp/
+qa/audio_report.json
