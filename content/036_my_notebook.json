@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "notebook",
-      "ko": "공책"
+      "ko": "공책",
+      "zh": "笔记本",
+      "py": "bǐ jì běn"
     },
     {
       "en": "new",
-      "ko": "새"
+      "ko": "새",
+      "zh": "新",
+      "py": "xīn"
     },
     {
       "en": "cover",
-      "ko": "표지"
+      "ko": "표지",
+      "zh": "封面",
+      "py": "fēng miàn"
     },
     {
       "en": "green",
-      "ko": "초록색"
+      "ko": "초록색",
+      "zh": "绿色",
+      "py": "lǜ sè"
     },
     {
       "en": "write",
-      "ko": "쓰다"
+      "ko": "쓰다",
+      "zh": "写",
+      "py": "xiě"
     },
     {
       "en": "English",
-      "ko": "영어"
+      "ko": "영어",
+      "zh": "英语",
+      "py": "yīng yǔ"
     },
     {
       "en": "word",
-      "ko": "단어"
+      "ko": "단어",
+      "zh": "单词",
+      "py": "dān cí"
     },
     {
       "en": "picture",
-      "ko": "그림"
+      "ko": "그림",
+      "zh": "图画",
+      "py": "tú huà"
     },
     {
       "en": "neat",
-      "ko": "깔끔한"
+      "ko": "깔끔한",
+      "zh": "整齐",
+      "py": "zhěng qí"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "new",
         "cover",
         "green"
-      ]
+      ],
+      "zh": "这是我的新笔记本，封面是绿色的。",
+      "py": "zhè shì wǒ de xīn bǐ jì běn， fēng miàn shì lǜ sè de。"
     },
     {
       "en": "I write an English word, and I draw a small picture.",
@@ -80,28 +102,36 @@
         "English",
         "word",
         "picture"
-      ]
+      ],
+      "zh": "我写一个英语单词，再画一幅小图画。",
+      "py": "wǒ xiě yí gè yīng yǔ dān cí， zài huà yī fú xiǎo tú huà。"
     },
     {
       "en": "I keep my writing neat.",
       "ko": "나는 글씨를 깔끔하게 써요.",
       "highlights": [
         "neat"
-      ]
+      ],
+      "zh": "我把字写得很整齐。",
+      "py": "wǒ bǎ zì xiě de hěn zhěng qí。"
     },
     {
       "en": "I bring it to school every day.",
       "ko": "나는 매일 공책을 학교에 가져가요.",
       "highlights": [
         "school"
-      ]
+      ],
+      "zh": "我每天把它带到学校。",
+      "py": "wǒ měi tiān bǎ tā dài dào xué xiào。"
     },
     {
       "en": "My notebook helps me learn.",
       "ko": "나의 공책은 공부에 도움이 돼요.",
       "highlights": [
         "notebook"
-      ]
+      ],
+      "zh": "我的笔记本帮助我学习。",
+      "py": "wǒ de bǐ jì běn bāng zhù wǒ xué xí。"
     },
     {
       "en": "The new cover is easy to find in my bag.",
@@ -109,7 +139,9 @@
       "highlights": [
         "new",
         "cover"
-      ]
+      ],
+      "zh": "新封面在书包里很容易找到。",
+      "py": "xīn fēng miàn zài shū bāo lǐ hěn róng yì zhǎo dào。"
     },
     {
       "en": "Each English word has a picture beside it.",
@@ -118,14 +150,18 @@
         "English",
         "word",
         "picture"
-      ]
+      ],
+      "zh": "每个英语单词旁边都有一幅图画。",
+      "py": "měi gè yīng yǔ dān cí páng biān dōu yǒu yī fú tú huà。"
     },
     {
       "en": "Neat writing helps me read my notes.",
       "ko": "깔끔한 글씨는 내가 노트를 읽도록 도와줘요.",
       "highlights": [
         "neat"
-      ]
+      ],
+      "zh": "整齐的字帮助我看自己的笔记。",
+      "py": "zhěng qí de zì bāng zhù wǒ kàn zì jǐ de bǐ jì。"
     },
     {
       "en": "I write at school and also at home.",
@@ -133,7 +169,9 @@
       "highlights": [
         "write",
         "school"
-      ]
+      ],
+      "zh": "我在学校写，也在家写。",
+      "py": "wǒ zài xué xiào xiě， yě zài jiā xiě。"
     },
     {
       "en": "A green notebook is my favorite one.",
@@ -141,14 +179,18 @@
       "highlights": [
         "notebook",
         "green"
-      ]
+      ],
+      "zh": "绿色笔记本是我最喜欢的一本。",
+      "py": "lǜ sè bǐ jì běn shì wǒ zuì xǐ huān de yī běn。"
     },
     {
       "en": "I take care of it because it is new.",
       "ko": "새 공책이라서 나는 소중히 다뤄요.",
       "highlights": [
         "new"
-      ]
+      ],
+      "zh": "它是新的，所以我好好爱护它。",
+      "py": "tā shì xīn de， suǒ yǐ wǒ hǎo hǎo ài hù tā。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is my new notebook, and the cover is green. I write an English word, and I draw a small picture. I keep my writing neat. I bring it to school every day. My notebook helps me learn. The new cover is easy to find in my bag. Each English word has a picture beside it. Neat writing helps me read my notes. I write at school and also at home. A green notebook is my favorite one. I take care of it because it is new."
+  "full_passage_spoken": "This is my new notebook, and the cover is green. I write an English word, and I draw a small picture. I keep my writing neat. I bring it to school every day. My notebook helps me learn. The new cover is easy to find in my bag. Each English word has a picture beside it. Neat writing helps me read my notes. I write at school and also at home. A green notebook is my favorite one. I take care of it because it is new.",
+  "topic_zh": "我的笔记本",
+  "topic_pinyin": "wǒ de bǐ jì běn",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的新笔记本，封面是绿色的。我写一个英语单词，再画一幅小图画。我把字写得很整齐。我每天把它带到学校。我的笔记本帮助我学习。新封面在书包里很容易找到。每个英语单词旁边都有一幅图画。整齐的字帮助我看自己的笔记。我在学校写，也在家写。绿色笔记本是我最喜欢的一本。它是新的，所以我好好爱护它。",
+  "full_passage_pinyin": "zhè shì wǒ de xīn bǐ jì běn， fēng miàn shì lǜ sè de。 wǒ xiě yí gè yīng yǔ dān cí， zài huà yī fú xiǎo tú huà。 wǒ bǎ zì xiě de hěn zhěng qí。 wǒ měi tiān bǎ tā dài dào xué xiào。 wǒ de bǐ jì běn bāng zhù wǒ xué xí。 xīn fēng miàn zài shū bāo lǐ hěn róng yì zhǎo dào。 měi gè yīng yǔ dān cí páng biān dōu yǒu yī fú tú huà。 zhěng qí de zì bāng zhù wǒ kàn zì jǐ de bǐ jì。 wǒ zài xué xiào xiě， yě zài jiā xiě。 lǜ sè bǐ jì běn shì wǒ zuì xǐ huān de yī běn。 tā shì xīn de， suǒ yǐ wǒ hǎo hǎo ài hù tā。"
 }

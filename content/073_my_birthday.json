@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "birthday",
-      "ko": "생일"
+      "ko": "생일",
+      "zh": "生日",
+      "py": "shēng rì"
     },
     {
       "en": "thirteen",
-      "ko": "열세"
+      "ko": "열세",
+      "zh": "十三",
+      "py": "shí sān"
     },
     {
       "en": "cake",
-      "ko": "케이크"
+      "ko": "케이크",
+      "zh": "蛋糕",
+      "py": "dàn gāo"
     },
     {
       "en": "candle",
-      "ko": "초"
+      "ko": "초",
+      "zh": "蜡烛",
+      "py": "là zhú"
     },
     {
       "en": "wish",
-      "ko": "소원"
+      "ko": "소원",
+      "zh": "愿望",
+      "py": "yuàn wàng"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "song",
-      "ko": "노래"
+      "ko": "노래",
+      "zh": "歌",
+      "py": "gē"
     },
     {
       "en": "clap",
-      "ko": "박수치다"
+      "ko": "박수치다",
+      "zh": "拍手",
+      "py": "pāi shǒu"
     },
     {
       "en": "gift",
-      "ko": "선물"
+      "ko": "선물",
+      "zh": "礼物",
+      "py": "lǐ wù"
     },
     {
       "en": "party",
-      "ko": "파티"
+      "ko": "파티",
+      "zh": "聚会",
+      "py": "jù huì"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "birthday",
         "thirteen"
-      ]
+      ],
+      "zh": "今天是我的生日，我十三岁。",
+      "py": "jīn tiān shì wǒ de shēng rì， wǒ shí sān suì。"
     },
     {
       "en": "I have a cake with a candle.",
@@ -76,14 +98,18 @@
       "highlights": [
         "cake",
         "candle"
-      ]
+      ],
+      "zh": "我有一个蛋糕，上面有蜡烛。",
+      "py": "wǒ yǒu yí gè dàn gāo， shàng miàn yǒu là zhú。"
     },
     {
       "en": "I make a wish.",
       "ko": "나는 소원을 빌어요.",
       "highlights": [
         "wish"
-      ]
+      ],
+      "zh": "我许一个愿望。",
+      "py": "wǒ xǔ yí gè yuàn wàng。"
     },
     {
       "en": "My friend sings a song.",
@@ -91,21 +117,27 @@
       "highlights": [
         "friend",
         "song"
-      ]
+      ],
+      "zh": "我的朋友唱歌。",
+      "py": "wǒ de péng yǒu chàng gē。"
     },
     {
       "en": "They clap for me.",
       "ko": "친구들은 나를 위해 박수를 쳐요.",
       "highlights": [
         "clap"
-      ]
+      ],
+      "zh": "他们为我拍手。",
+      "py": "tā men wèi wǒ pāi shǒu。"
     },
     {
       "en": "I get a small gift.",
       "ko": "나는 작은 선물을 받아요.",
       "highlights": [
         "gift"
-      ]
+      ],
+      "zh": "我得到一个小礼物。",
+      "py": "wǒ dé dào yí gè xiǎo lǐ wù。"
     },
     {
       "en": "I love my birthday party.",
@@ -113,7 +145,9 @@
       "highlights": [
         "birthday",
         "party"
-      ]
+      ],
+      "zh": "我喜欢我的生日聚会。",
+      "py": "wǒ xǐ huān wǒ de shēng rì jù huì。"
     },
     {
       "en": "Thirteen candles would be a lot, so we use one candle.",
@@ -121,14 +155,18 @@
       "highlights": [
         "thirteen",
         "candle"
-      ]
+      ],
+      "zh": "十三支蜡烛太多了，所以我们只用一支。",
+      "py": "shí sān zhī là zhú tài duō le， suǒ yǐ wǒ men zhǐ yòng yī zhī。"
     },
     {
       "en": "My wish is a secret.",
       "ko": "나의 소원은 비밀이에요.",
       "highlights": [
         "wish"
-      ]
+      ],
+      "zh": "我的愿望是秘密。",
+      "py": "wǒ de yuàn wàng shì mì mì。"
     },
     {
       "en": "Friends clap when the song ends.",
@@ -137,7 +175,9 @@
         "friend",
         "song",
         "clap"
-      ]
+      ],
+      "zh": "歌唱完的时候，朋友们拍手。",
+      "py": "gē chàng wán de shí hòu， péng yǒu men pāi shǒu。"
     },
     {
       "en": "The party is small, but the gift of time is big.",
@@ -145,7 +185,9 @@
       "highlights": [
         "gift",
         "party"
-      ]
+      ],
+      "zh": "聚会很小，可是在一起的时间是很大的礼物。",
+      "py": "jù huì hěn xiǎo， kě shì zài yì qǐ de shí jiān shì hěn dà de lǐ wù。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Today is my birthday, and I am thirteen years old. I have a cake with a candle. I make a wish. My friend sings a song. They clap for me. I get a small gift. I love my birthday party. Thirteen candles would be a lot, so we use one candle. My wish is a secret. Friends clap when the song ends. The party is small, but the gift of time is big."
+  "full_passage_spoken": "Today is my birthday, and I am thirteen years old. I have a cake with a candle. I make a wish. My friend sings a song. They clap for me. I get a small gift. I love my birthday party. Thirteen candles would be a lot, so we use one candle. My wish is a secret. Friends clap when the song ends. The party is small, but the gift of time is big.",
+  "topic_zh": "我的生日",
+  "topic_pinyin": "wǒ de shēng rì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "今天是我的生日，我十三岁。我有一个蛋糕，上面有蜡烛。我许一个愿望。我的朋友唱歌。他们为我拍手。我得到一个小礼物。我喜欢我的生日聚会。十三支蜡烛太多了，所以我们只用一支。我的愿望是秘密。歌唱完的时候，朋友们拍手。聚会很小，可是在一起的时间是很大的礼物。",
+  "full_passage_pinyin": "jīn tiān shì wǒ de shēng rì， wǒ shí sān suì。 wǒ yǒu yí gè dàn gāo， shàng miàn yǒu là zhú。 wǒ xǔ yí gè yuàn wàng。 wǒ de péng yǒu chàng gē。 tā men wèi wǒ pāi shǒu。 wǒ dé dào yí gè xiǎo lǐ wù。 wǒ xǐ huān wǒ de shēng rì jù huì。 shí sān zhī là zhú tài duō le， suǒ yǐ wǒ men zhǐ yòng yī zhī。 wǒ de yuàn wàng shì mì mì。 gē chàng wán de shí hòu， péng yǒu men pāi shǒu。 jù huì hěn xiǎo， kě shì zài yì qǐ de shí jiān shì hěn dà de lǐ wù。"
 }

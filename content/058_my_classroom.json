@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "classroom",
-      "ko": "교실"
+      "ko": "교실",
+      "zh": "教室",
+      "py": "jiào shì"
     },
     {
       "en": "seat",
-      "ko": "자리"
+      "ko": "자리",
+      "zh": "座位",
+      "py": "zuò wèi"
     },
     {
       "en": "window",
-      "ko": "창문"
+      "ko": "창문",
+      "zh": "窗户",
+      "py": "chuāng hù"
     },
     {
       "en": "board",
-      "ko": "칠판"
+      "ko": "칠판",
+      "zh": "黑板",
+      "py": "hēi bǎn"
     },
     {
       "en": "clean",
-      "ko": "깨끗한"
+      "ko": "깨끗한",
+      "zh": "干净",
+      "py": "gān jìng"
     },
     {
       "en": "clock",
-      "ko": "시계"
+      "ko": "시계",
+      "zh": "钟",
+      "py": "zhōng"
     },
     {
       "en": "wall",
-      "ko": "벽"
+      "ko": "벽",
+      "zh": "墙",
+      "py": "qiáng"
     },
     {
       "en": "bright",
-      "ko": "밝은"
+      "ko": "밝은",
+      "zh": "明亮",
+      "py": "míng liàng"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "like",
-      "ko": "좋아하다"
+      "ko": "좋아하다",
+      "zh": "喜欢",
+      "py": "xǐ huān"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "classroom",
         "like"
-      ]
+      ],
+      "zh": "这是我的教室，我喜欢我的教室。",
+      "py": "zhè shì wǒ de jiào shì， wǒ xǐ huān wǒ de jiào shì。"
     },
     {
       "en": "My seat is near the window.",
@@ -76,7 +98,9 @@
       "highlights": [
         "seat",
         "window"
-      ]
+      ],
+      "zh": "我的座位在窗户附近。",
+      "py": "wǒ de zuò wèi zài chuāng hù fù jìn。"
     },
     {
       "en": "The board is clean.",
@@ -84,7 +108,9 @@
       "highlights": [
         "board",
         "clean"
-      ]
+      ],
+      "zh": "黑板很干净。",
+      "py": "hēi bǎn hěn gān jìng。"
     },
     {
       "en": "A clock is on the wall.",
@@ -92,7 +118,9 @@
       "highlights": [
         "clock",
         "wall"
-      ]
+      ],
+      "zh": "墙上有一个钟。",
+      "py": "qiáng shàng yǒu yí gè zhōng。"
     },
     {
       "en": "The room is bright, and we keep it quiet.",
@@ -100,7 +128,9 @@
       "highlights": [
         "bright",
         "quiet"
-      ]
+      ],
+      "zh": "房间很明亮，我们让它保持安静。",
+      "py": "fáng jiān hěn míng liàng， wǒ men ràng tā bǎo chí ān jìng。"
     },
     {
       "en": "I like the light from the window.",
@@ -108,7 +138,9 @@
       "highlights": [
         "window",
         "like"
-      ]
+      ],
+      "zh": "我喜欢从窗户进来的光。",
+      "py": "wǒ xǐ huān cóng chuāng hù jìn lái de guāng。"
     },
     {
       "en": "A clean board helps me see the lesson.",
@@ -116,7 +148,9 @@
       "highlights": [
         "board",
         "clean"
-      ]
+      ],
+      "zh": "干净的黑板帮助我看清课上的内容。",
+      "py": "gān jìng de hēi bǎn bāng zhù wǒ kàn qīng kè shàng de nèi róng。"
     },
     {
       "en": "The clock on the wall tells us the time.",
@@ -124,7 +158,9 @@
       "highlights": [
         "clock",
         "wall"
-      ]
+      ],
+      "zh": "墙上的钟告诉我们时间。",
+      "py": "qiáng shàng de zhōng gào sù wǒ men shí jiān。"
     },
     {
       "en": "A bright, quiet classroom is a good place to think.",
@@ -133,14 +169,18 @@
         "classroom",
         "bright",
         "quiet"
-      ]
+      ],
+      "zh": "明亮又安静的教室是思考的好地方。",
+      "py": "míng liàng yòu ān jìng de jiào shì shì sī kǎo de hǎo dì fāng。"
     },
     {
       "en": "My seat is also next to Amy.",
       "ko": "나의 자리는 에이미 옆이기도 해요.",
       "highlights": [
         "seat"
-      ]
+      ],
+      "zh": "我的座位也在艾米旁边。",
+      "py": "wǒ de zuò wèi yě zài ài mǐ páng biān。"
     },
     {
       "en": "I like this classroom because it feels like ours.",
@@ -148,7 +188,9 @@
       "highlights": [
         "classroom",
         "like"
-      ]
+      ],
+      "zh": "这个教室像我们自己的，所以我喜欢它。",
+      "py": "zhè ge jiào shì xiàng wǒ men zì jǐ de， suǒ yǐ wǒ xǐ huān tā。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is my classroom, and I like my classroom. My seat is near the window. The board is clean. A clock is on the wall. The room is bright, and we keep it quiet. I like the light from the window. A clean board helps me see the lesson. The clock on the wall tells us the time. A bright, quiet classroom is a good place to think. My seat is also next to Amy. I like this classroom because it feels like ours."
+  "full_passage_spoken": "This is my classroom, and I like my classroom. My seat is near the window. The board is clean. A clock is on the wall. The room is bright, and we keep it quiet. I like the light from the window. A clean board helps me see the lesson. The clock on the wall tells us the time. A bright, quiet classroom is a good place to think. My seat is also next to Amy. I like this classroom because it feels like ours.",
+  "topic_zh": "我的教室",
+  "topic_pinyin": "wǒ de jiào shì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的教室，我喜欢我的教室。我的座位在窗户附近。黑板很干净。墙上有一个钟。房间很明亮，我们让它保持安静。我喜欢从窗户进来的光。干净的黑板帮助我看清课上的内容。墙上的钟告诉我们时间。明亮又安静的教室是思考的好地方。我的座位也在艾米旁边。这个教室像我们自己的，所以我喜欢它。",
+  "full_passage_pinyin": "zhè shì wǒ de jiào shì， wǒ xǐ huān wǒ de jiào shì。 wǒ de zuò wèi zài chuāng hù fù jìn。 hēi bǎn hěn gān jìng。 qiáng shàng yǒu yí gè zhōng。 fáng jiān hěn míng liàng， wǒ men ràng tā bǎo chí ān jìng。 wǒ xǐ huān cóng chuāng hù jìn lái de guāng。 gān jìng de hēi bǎn bāng zhù wǒ kàn qīng kè shàng de nèi róng。 qiáng shàng de zhōng gào sù wǒ men shí jiān。 míng liàng yòu ān jìng de jiào shì shì sī kǎo de hǎo dì fāng。 wǒ de zuò wèi yě zài ài mǐ páng biān。 zhè ge jiào shì xiàng wǒ men zì jǐ de， suǒ yǐ wǒ xǐ huān tā。"
 }

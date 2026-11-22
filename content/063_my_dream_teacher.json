@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "dream",
-      "ko": "꿈"
+      "ko": "꿈",
+      "zh": "梦想",
+      "py": "mèng xiǎng"
     },
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "child",
-      "ko": "아이"
+      "ko": "아이",
+      "zh": "孩子",
+      "py": "hái zi"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "patient",
-      "ko": "참을성 있는"
+      "ko": "참을성 있는",
+      "zh": "有耐心",
+      "py": "yǒu nài xīn"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     },
     {
       "en": "study",
-      "ko": "공부하다"
+      "ko": "공부하다",
+      "zh": "学习",
+      "py": "xué xí"
     },
     {
       "en": "hard",
-      "ko": "열심히"
+      "ko": "열심히",
+      "zh": "努力",
+      "py": "nǔ lì"
     },
     {
       "en": "future",
-      "ko": "미래"
+      "ko": "미래",
+      "zh": "将来",
+      "py": "jiāng lái"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "dream",
         "teacher"
-      ]
+      ],
+      "zh": "我的一个梦想是当老师。",
+      "py": "wǒ de yí gè mèng xiǎng shì dāng lǎo shī。"
     },
     {
       "en": "I want to help a child.",
@@ -76,7 +98,9 @@
       "highlights": [
         "child",
         "help"
-      ]
+      ],
+      "zh": "我想帮助一个孩子。",
+      "py": "wǒ xiǎng bāng zhù yí gè hái zi。"
     },
     {
       "en": "I want to be kind, and I want to be patient.",
@@ -84,14 +108,18 @@
       "highlights": [
         "kind",
         "patient"
-      ]
+      ],
+      "zh": "我想变得善良，也想变得有耐心。",
+      "py": "wǒ xiǎng biàn de shàn liáng， yě xiǎng biàn de yǒu nài xīn。"
     },
     {
       "en": "I will teach at a school.",
       "ko": "나는 학교에서 가르칠 거예요.",
       "highlights": [
         "school"
-      ]
+      ],
+      "zh": "我将在一所学校教书。",
+      "py": "wǒ jiāng zài yī suǒ xué xiào jiāo shū。"
     },
     {
       "en": "I study hard now.",
@@ -99,7 +127,9 @@
       "highlights": [
         "study",
         "hard"
-      ]
+      ],
+      "zh": "我现在努力学习。",
+      "py": "wǒ xiàn zài nǔ lì xué xí。"
     },
     {
       "en": "The future can be bright, and this is my dream.",
@@ -107,7 +137,9 @@
       "highlights": [
         "dream",
         "future"
-      ]
+      ],
+      "zh": "将来可以很明亮，这就是我的梦想。",
+      "py": "jiāng lái kě yǐ hěn míng liàng， zhè jiù shì wǒ de mèng xiǎng。"
     },
     {
       "en": "A kind teacher helps a child feel safe.",
@@ -117,7 +149,9 @@
         "child",
         "help",
         "kind"
-      ]
+      ],
+      "zh": "善良的老师让孩子觉得安全。",
+      "py": "shàn liáng de lǎo shī ràng hái zi jué de ān quán。"
     },
     {
       "en": "I study hard because a dream needs work.",
@@ -126,7 +160,9 @@
         "dream",
         "study",
         "hard"
-      ]
+      ],
+      "zh": "梦想需要努力，所以我努力学习。",
+      "py": "mèng xiǎng xū yào nǔ lì， suǒ yǐ wǒ nǔ lì xué xí。"
     },
     {
       "en": "I hope the future school is full of smiles.",
@@ -134,14 +170,18 @@
       "highlights": [
         "school",
         "future"
-      ]
+      ],
+      "zh": "我希望将来的学校充满微笑。",
+      "py": "wǒ xī wàng jiāng lái de xué xiào chōng mǎn wēi xiào。"
     },
     {
       "en": "My mother is a teacher, and she is my example.",
       "ko": "어머니는 선생님이고, 나의 본보기예요.",
       "highlights": [
         "teacher"
-      ]
+      ],
+      "zh": "我的妈妈是老师，她是我的榜样。",
+      "py": "wǒ de mā mā shì lǎo shī， tā shì wǒ de bǎng yàng。"
     },
     {
       "en": "This dream is patient work, one day at a time.",
@@ -149,7 +189,9 @@
       "highlights": [
         "dream",
         "patient"
-      ]
+      ],
+      "zh": "这个梦想是有耐心的事，一天一天来。",
+      "py": "zhè ge mèng xiǎng shì yǒu nài xīn de shì， yī tiān yī tiān lái。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "One dream is to be a teacher. I want to help a child. I want to be kind, and I want to be patient. I will teach at a school. I study hard now. The future can be bright, and this is my dream. A kind teacher helps a child feel safe. I study hard because a dream needs work. I hope the future school is full of smiles. My mother is a teacher, and she is my example. This dream is patient work, one day at a time."
+  "full_passage_spoken": "One dream is to be a teacher. I want to help a child. I want to be kind, and I want to be patient. I will teach at a school. I study hard now. The future can be bright, and this is my dream. A kind teacher helps a child feel safe. I study hard because a dream needs work. I hope the future school is full of smiles. My mother is a teacher, and she is my example. This dream is patient work, one day at a time.",
+  "topic_zh": "我的梦想（老师）",
+  "topic_pinyin": "wǒ de mèng xiǎng（ lǎo shī）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的一个梦想是当老师。我想帮助一个孩子。我想变得善良，也想变得有耐心。我将在一所学校教书。我现在努力学习。将来可以很明亮，这就是我的梦想。善良的老师让孩子觉得安全。梦想需要努力，所以我努力学习。我希望将来的学校充满微笑。我的妈妈是老师，她是我的榜样。这个梦想是有耐心的事，一天一天来。",
+  "full_passage_pinyin": "wǒ de yí gè mèng xiǎng shì dāng lǎo shī。 wǒ xiǎng bāng zhù yí gè hái zi。 wǒ xiǎng biàn de shàn liáng， yě xiǎng biàn de yǒu nài xīn。 wǒ jiāng zài yī suǒ xué xiào jiāo shū。 wǒ xiàn zài nǔ lì xué xí。 jiāng lái kě yǐ hěn míng liàng， zhè jiù shì wǒ de mèng xiǎng。 shàn liáng de lǎo shī ràng hái zi jué de ān quán。 mèng xiǎng xū yào nǔ lì， suǒ yǐ wǒ nǔ lì xué xí。 wǒ xī wàng jiāng lái de xué xiào chōng mǎn wēi xiào。 wǒ de mā mā shì lǎo shī， tā shì wǒ de bǎng yàng。 zhè ge mèng xiǎng shì yǒu nài xīn de shì， yī tiān yī tiān lái。"
 }

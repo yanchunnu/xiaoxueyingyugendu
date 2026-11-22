@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "fruit",
-      "ko": "과일"
+      "ko": "과일",
+      "zh": "水果",
+      "py": "shuǐ guǒ"
     },
     {
       "en": "apple",
-      "ko": "사과"
+      "ko": "사과",
+      "zh": "苹果",
+      "py": "píng guǒ"
     },
     {
       "en": "red",
-      "ko": "빨간"
+      "ko": "빨간",
+      "zh": "红",
+      "py": "hóng"
     },
     {
       "en": "sweet",
-      "ko": "달콤한"
+      "ko": "달콤한",
+      "zh": "甜",
+      "py": "tián"
     },
     {
       "en": "wash",
-      "ko": "씻다"
+      "ko": "씻다",
+      "zh": "洗",
+      "py": "xǐ"
     },
     {
       "en": "bite",
-      "ko": "한 입 베어 물다"
+      "ko": "한 입 베어 물다",
+      "zh": "咬",
+      "py": "yǎo"
     },
     {
       "en": "juice",
-      "ko": "주스"
+      "ko": "주스",
+      "zh": "果汁",
+      "py": "guǒ zhī"
     },
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "snack",
-      "ko": "간식"
+      "ko": "간식",
+      "zh": "零食",
+      "py": "líng shí"
     },
     {
       "en": "every day",
-      "ko": "매일"
+      "ko": "매일",
+      "zh": "每天",
+      "py": "měi tiān"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "fruit",
         "apple"
-      ]
+      ],
+      "zh": "我最喜欢的水果是苹果。",
+      "py": "wǒ zuì xǐ huān de shuǐ guǒ shì píng guǒ。"
     },
     {
       "en": "It is red and sweet.",
@@ -76,7 +98,9 @@
       "highlights": [
         "red",
         "sweet"
-      ]
+      ],
+      "zh": "它又红又甜。",
+      "py": "tā yòu hóng yòu tián。"
     },
     {
       "en": "I wash it first, and I take a big bite.",
@@ -84,14 +108,18 @@
       "highlights": [
         "wash",
         "bite"
-      ]
+      ],
+      "zh": "我先把它洗干净，再大咬一口。",
+      "py": "wǒ xiān bǎ tā xǐ gān jìng， zài dà yǎo yī kǒu。"
     },
     {
       "en": "Sometimes I drink juice.",
       "ko": "가끔 나는 주스를 마셔요.",
       "highlights": [
         "juice"
-      ]
+      ],
+      "zh": "有时我喝果汁。",
+      "py": "yǒu shí wǒ hē guǒ zhī。"
     },
     {
       "en": "An apple is healthy.",
@@ -99,7 +127,9 @@
       "highlights": [
         "apple",
         "healthy"
-      ]
+      ],
+      "zh": "苹果很健康。",
+      "py": "píng guǒ hěn jiàn kāng。"
     },
     {
       "en": "I eat fruit as a snack, and I eat fruit every day.",
@@ -108,7 +138,9 @@
         "fruit",
         "snack",
         "every day"
-      ]
+      ],
+      "zh": "我把水果当零食，而且每天都吃水果。",
+      "py": "wǒ bǎ shuǐ guǒ dāng líng shí， ér qiě měi tiān dōu chī shuǐ guǒ。"
     },
     {
       "en": "A red apple looks sweet before I bite it.",
@@ -118,7 +150,9 @@
         "red",
         "sweet",
         "bite"
-      ]
+      ],
+      "zh": "我咬之前，红苹果看起来就很甜。",
+      "py": "wǒ yǎo zhī qián， hóng píng guǒ kàn qǐ lái jiù hěn tián。"
     },
     {
       "en": "I wash the fruit because clean food is better.",
@@ -126,7 +160,9 @@
       "highlights": [
         "fruit",
         "wash"
-      ]
+      ],
+      "zh": "干净的食物更好，所以我洗水果。",
+      "py": "gān jìng de shí wù gèng hǎo， suǒ yǐ wǒ xǐ shuǐ guǒ。"
     },
     {
       "en": "Juice is sweet, but a whole apple is healthier.",
@@ -135,7 +171,9 @@
         "apple",
         "sweet",
         "juice"
-      ]
+      ],
+      "zh": "果汁很甜，可是整个苹果更健康。",
+      "py": "guǒ zhī hěn tián， kě shì zhěng gè píng guǒ gèng jiàn kāng。"
     },
     {
       "en": "Every day I put fruit in my schoolbag.",
@@ -143,7 +181,9 @@
       "highlights": [
         "fruit",
         "every day"
-      ]
+      ],
+      "zh": "我每天把水果放进书包。",
+      "py": "wǒ měi tiān bǎ shuǐ guǒ fàng jìn shū bāo。"
     },
     {
       "en": "A healthy snack helps me study.",
@@ -151,7 +191,9 @@
       "highlights": [
         "healthy",
         "snack"
-      ]
+      ],
+      "zh": "健康的零食帮助我学习。",
+      "py": "jiàn kāng de líng shí bāng zhù wǒ xué xí。"
     }
   ],
   "full_passage_lines": [
@@ -247,5 +289,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite fruit is an apple. It is red and sweet. I wash it first, and I take a big bite. Sometimes I drink juice. An apple is healthy. I eat fruit as a snack, and I eat fruit every day. A red apple looks sweet before I bite it. I wash the fruit because clean food is better. Juice is sweet, but a whole apple is healthier. Every day I put fruit in my schoolbag. A healthy snack helps me study."
+  "full_passage_spoken": "My favorite fruit is an apple. It is red and sweet. I wash it first, and I take a big bite. Sometimes I drink juice. An apple is healthy. I eat fruit as a snack, and I eat fruit every day. A red apple looks sweet before I bite it. I wash the fruit because clean food is better. Juice is sweet, but a whole apple is healthier. Every day I put fruit in my schoolbag. A healthy snack helps me study.",
+  "topic_zh": "我最喜欢的水果",
+  "topic_pinyin": "wǒ zuì xǐ huān de shuǐ guǒ",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的水果是苹果。它又红又甜。我先把它洗干净，再大咬一口。有时我喝果汁。苹果很健康。我把水果当零食，而且每天都吃水果。我咬之前，红苹果看起来就很甜。干净的食物更好，所以我洗水果。果汁很甜，可是整个苹果更健康。我每天把水果放进书包。健康的零食帮助我学习。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de shuǐ guǒ shì píng guǒ。 tā yòu hóng yòu tián。 wǒ xiān bǎ tā xǐ gān jìng， zài dà yǎo yī kǒu。 yǒu shí wǒ hē guǒ zhī。 píng guǒ hěn jiàn kāng。 wǒ bǎ shuǐ guǒ dāng líng shí， ér qiě měi tiān dōu chī shuǐ guǒ。 wǒ yǎo zhī qián， hóng píng guǒ kàn qǐ lái jiù hěn tián。 gān jìng de shí wù gèng hǎo， suǒ yǐ wǒ xǐ shuǐ guǒ。 guǒ zhī hěn tián， kě shì zhěng gè píng guǒ gèng jiàn kāng。 wǒ měi tiān bǎ shuǐ guǒ fàng jìn shū bāo。 jiàn kāng de líng shí bāng zhù wǒ xué xí。"
 }

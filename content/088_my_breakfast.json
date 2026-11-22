@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "breakfast",
-      "ko": "아침 식사"
+      "ko": "아침 식사",
+      "zh": "早饭",
+      "py": "zǎo fàn"
     },
     {
       "en": "morning",
-      "ko": "아침"
+      "ko": "아침",
+      "zh": "早上",
+      "py": "zǎo shàng"
     },
     {
       "en": "hungry",
-      "ko": "배고픈"
+      "ko": "배고픈",
+      "zh": "饿",
+      "py": "è"
     },
     {
       "en": "milk",
-      "ko": "우유"
+      "ko": "우유",
+      "zh": "牛奶",
+      "py": "niú nǎi"
     },
     {
       "en": "bread",
-      "ko": "빵"
+      "ko": "빵",
+      "zh": "面包",
+      "py": "miàn bāo"
     },
     {
       "en": "egg",
-      "ko": "달걀"
+      "ko": "달걀",
+      "zh": "鸡蛋",
+      "py": "jī dàn"
     },
     {
       "en": "fruit",
-      "ko": "과일"
+      "ko": "과일",
+      "zh": "水果",
+      "py": "shuǐ guǒ"
     },
     {
       "en": "energy",
-      "ko": "힘"
+      "ko": "힘",
+      "zh": "能量",
+      "py": "néng liàng"
     },
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "breakfast",
         "morning"
-      ]
+      ],
+      "zh": "我每天早上吃早饭。",
+      "py": "wǒ měi tiān zǎo shàng chī zǎo fàn。"
     },
     {
       "en": "I am hungry.",
       "ko": "나는 배가 고파요.",
       "highlights": [
         "hungry"
-      ]
+      ],
+      "zh": "我饿了。",
+      "py": "wǒ è le。"
     },
     {
       "en": "I have milk and bread.",
@@ -83,7 +107,9 @@
       "highlights": [
         "milk",
         "bread"
-      ]
+      ],
+      "zh": "我喝牛奶，吃面包。",
+      "py": "wǒ hē niú nǎi， chī miàn bāo。"
     },
     {
       "en": "I have an egg and fruit.",
@@ -91,7 +117,9 @@
       "highlights": [
         "egg",
         "fruit"
-      ]
+      ],
+      "zh": "我吃一个鸡蛋和水果。",
+      "py": "wǒ chī yí gè jī dàn hé shuǐ guǒ。"
     },
     {
       "en": "Breakfast gives me energy.",
@@ -99,21 +127,27 @@
       "highlights": [
         "breakfast",
         "energy"
-      ]
+      ],
+      "zh": "早饭给我能量。",
+      "py": "zǎo fàn gěi wǒ néng liàng。"
     },
     {
       "en": "It is a healthy start.",
       "ko": "건강한 시작이에요.",
       "highlights": [
         "healthy"
-      ]
+      ],
+      "zh": "这是健康的开始。",
+      "py": "zhè shì jiàn kāng de kāi shǐ。"
     },
     {
       "en": "Then I go to school.",
       "ko": "그리고 나는 학교에 가요.",
       "highlights": [
         "school"
-      ]
+      ],
+      "zh": "然后我去上学。",
+      "py": "rán hòu wǒ qù shàng xué。"
     },
     {
       "en": "A hungry morning needs a real breakfast.",
@@ -122,7 +156,9 @@
         "breakfast",
         "morning",
         "hungry"
-      ]
+      ],
+      "zh": "饥饿的早上需要一顿真正的早饭。",
+      "py": "jī è de zǎo shàng xū yào yī dùn zhēn zhèng de zǎo fàn。"
     },
     {
       "en": "Milk, bread, an egg, and fruit are enough.",
@@ -132,7 +168,9 @@
         "bread",
         "egg",
         "fruit"
-      ]
+      ],
+      "zh": "牛奶、面包、一个鸡蛋和水果就够了。",
+      "py": "niú nǎi、 miàn bāo、 yí gè jī dàn hé shuǐ guǒ jiù gòu le。"
     },
     {
       "en": "This healthy meal gives me energy for school.",
@@ -141,7 +179,9 @@
         "energy",
         "healthy",
         "school"
-      ]
+      ],
+      "zh": "这顿健康的饭给我上学的能量。",
+      "py": "zhè dùn jiàn kāng de fàn gěi wǒ shàng xué de néng liàng。"
     },
     {
       "en": "I do not skip breakfast before school.",
@@ -149,7 +189,9 @@
       "highlights": [
         "breakfast",
         "school"
-      ]
+      ],
+      "zh": "上学前我不会不吃早饭。",
+      "py": "shàng xué qián wǒ bú huì bù chī zǎo fàn。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I eat breakfast every morning. I am hungry. I have milk and bread. I have an egg and fruit. Breakfast gives me energy. It is a healthy start. Then I go to school. A hungry morning needs a real breakfast. Milk, bread, an egg, and fruit are enough. This healthy meal gives me energy for school. I do not skip breakfast before school."
+  "full_passage_spoken": "I eat breakfast every morning. I am hungry. I have milk and bread. I have an egg and fruit. Breakfast gives me energy. It is a healthy start. Then I go to school. A hungry morning needs a real breakfast. Milk, bread, an egg, and fruit are enough. This healthy meal gives me energy for school. I do not skip breakfast before school.",
+  "topic_zh": "我的早饭",
+  "topic_pinyin": "wǒ de zǎo fàn",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我每天早上吃早饭。我饿了。我喝牛奶，吃面包。我吃一个鸡蛋和水果。早饭给我能量。这是健康的开始。然后我去上学。饥饿的早上需要一顿真正的早饭。牛奶、面包、一个鸡蛋和水果就够了。这顿健康的饭给我上学的能量。上学前我不会不吃早饭。",
+  "full_passage_pinyin": "wǒ měi tiān zǎo shàng chī zǎo fàn。 wǒ è le。 wǒ hē niú nǎi， chī miàn bāo。 wǒ chī yí gè jī dàn hé shuǐ guǒ。 zǎo fàn gěi wǒ néng liàng。 zhè shì jiàn kāng de kāi shǐ。 rán hòu wǒ qù shàng xué。 jī è de zǎo shàng xū yào yī dùn zhēn zhèng de zǎo fàn。 niú nǎi、 miàn bāo、 yí gè jī dàn hé shuǐ guǒ jiù gòu le。 zhè dùn jiàn kāng de fàn gěi wǒ shàng xué de néng liàng。 shàng xué qián wǒ bú huì bù chī zǎo fàn。"
 }

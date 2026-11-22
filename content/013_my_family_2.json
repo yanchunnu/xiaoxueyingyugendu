@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "weekend",
-      "ko": "주말"
+      "ko": "주말",
+      "zh": "周末",
+      "py": "zhōu mò"
     },
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "picnic",
-      "ko": "소풍"
+      "ko": "소풍",
+      "zh": "野餐",
+      "py": "yě cān"
     },
     {
       "en": "photo",
-      "ko": "사진"
+      "ko": "사진",
+      "zh": "照片",
+      "py": "zhào piān"
     },
     {
       "en": "game",
-      "ko": "놀이"
+      "ko": "놀이",
+      "zh": "游戏",
+      "py": "yóu xì"
     },
     {
       "en": "parents",
-      "ko": "부모님"
+      "ko": "부모님",
+      "zh": "父母",
+      "py": "fù mǔ"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     },
     {
       "en": "care",
-      "ko": "돌보다"
+      "ko": "돌보다",
+      "zh": "照顾",
+      "py": "zhào gù"
     },
     {
       "en": "lucky",
-      "ko": "운이 좋은"
+      "ko": "운이 좋은",
+      "zh": "幸运",
+      "py": "xìng yùn"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "weekend",
         "park",
         "together"
-      ]
+      ],
+      "zh": "周末我们一起去公园。",
+      "py": "zhōu mò wǒ men yì qǐ qù gōng yuán。"
     },
     {
       "en": "We have a picnic, and we take a photo.",
@@ -77,14 +99,18 @@
       "highlights": [
         "picnic",
         "photo"
-      ]
+      ],
+      "zh": "我们去野餐，还拍照片。",
+      "py": "wǒ men qù yě cān， hái pāi zhào piān。"
     },
     {
       "en": "We play a game on the grass.",
       "ko": "우리는 풀밭에서 놀이를 해요.",
       "highlights": [
         "game"
-      ]
+      ],
+      "zh": "我们在草地上玩游戏。",
+      "py": "wǒ men zài cǎo dì shàng wán yóu xì。"
     },
     {
       "en": "My parents help me when I need them.",
@@ -92,54 +118,70 @@
       "highlights": [
         "parents",
         "help"
-      ]
+      ],
+      "zh": "我需要的时候，父母会帮助我。",
+      "py": "wǒ xū yào de shí hòu， fù mǔ huì bāng zhù wǒ。"
     },
     {
       "en": "They care for me and for my sisters.",
       "ko": "부모님은 나와 내 동생들을 돌봐요.",
       "highlights": [
         "care"
-      ]
+      ],
+      "zh": "他们照顾我，也照顾我的姐姐和妹妹。",
+      "py": "tā men zhào gù wǒ， yě zhào gù wǒ de jiě jiě hé mèi mèi。"
     },
     {
       "en": "I am lucky because my family is kind.",
       "ko": "우리 가족이 친절해서 나는 운이 좋아요.",
       "highlights": [
         "lucky"
-      ]
+      ],
+      "zh": "我很幸运，因为家人很善良。",
+      "py": "wǒ hěn xìng yùn， yīn wèi jiā rén hěn shàn liáng。"
     },
     {
       "en": "My brother carries the picnic bag.",
       "ko": "오빠는 소풍 가방을 들어 줘요.",
       "highlights": [
         "picnic"
-      ]
+      ],
+      "zh": "哥哥提着野餐包。",
+      "py": "gē gē tí zhe yě cān bāo。"
     },
     {
       "en": "My little sister runs ahead and laughs.",
       "ko": "여동생은 앞에서 달리며 웃어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "妹妹跑在前面，还笑着。",
+      "py": "mèi mèi pǎo zài qián miàn， hái xiào zhe。"
     },
     {
       "en": "We sit together and share our food.",
       "ko": "우리는 함께 앉아 음식을 나눠요.",
       "highlights": [
         "together"
-      ]
+      ],
+      "zh": "我们坐在一起，分享食物。",
+      "py": "wǒ men zuò zài yì qǐ， fēn xiǎng shí wù。"
     },
     {
       "en": "The photo shows six happy people.",
       "ko": "사진에는 행복한 여섯 사람이 있어요.",
       "highlights": [
         "photo"
-      ]
+      ],
+      "zh": "照片里有六个快乐的人。",
+      "py": "zhào piān lǐ yǒu liù gè kuài lè de rén。"
     },
     {
       "en": "I love these weekend hours with them.",
       "ko": "그들과 보내는 주말 시간이 좋아요.",
       "highlights": [
         "weekend"
-      ]
+      ],
+      "zh": "我和他们一起过周末，我很喜欢。",
+      "py": "wǒ hé tā men yì qǐ guò zhōu mò， wǒ hěn xǐ huān。"
     }
   ],
   "full_passage_lines": [
@@ -223,5 +265,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "On the weekend, we go to the park together. We have a picnic, and we take a photo. We play a game on the grass. My parents help me when I need them. They care for me and for my sisters. I am lucky because my family is kind. My brother carries the picnic bag. My little sister runs ahead and laughs. We sit together and share our food. The photo shows six happy people. I love these weekend hours with them."
+  "full_passage_spoken": "On the weekend, we go to the park together. We have a picnic, and we take a photo. We play a game on the grass. My parents help me when I need them. They care for me and for my sisters. I am lucky because my family is kind. My brother carries the picnic bag. My little sister runs ahead and laughs. We sit together and share our food. The photo shows six happy people. I love these weekend hours with them.",
+  "topic_zh": "我的家人（二）",
+  "topic_pinyin": "wǒ de jiā rén（ èr）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "周末我们一起去公园。我们去野餐，还拍照片。我们在草地上玩游戏。我需要的时候，父母会帮助我。他们照顾我，也照顾我的姐姐和妹妹。我很幸运，因为家人很善良。哥哥提着野餐包。妹妹跑在前面，还笑着。我们坐在一起，分享食物。照片里有六个快乐的人。我和他们一起过周末，我很喜欢。",
+  "full_passage_pinyin": "zhōu mò wǒ men yì qǐ qù gōng yuán。 wǒ men qù yě cān， hái pāi zhào piān。 wǒ men zài cǎo dì shàng wán yóu xì。 wǒ xū yào de shí hòu， fù mǔ huì bāng zhù wǒ。 tā men zhào gù wǒ， yě zhào gù wǒ de jiě jiě hé mèi mèi。 wǒ hěn xìng yùn， yīn wèi jiā rén hěn shàn liáng。 gē gē tí zhe yě cān bāo。 mèi mèi pǎo zài qián miàn， hái xiào zhe。 wǒ men zuò zài yì qǐ， fēn xiǎng shí wù。 zhào piān lǐ yǒu liù gè kuài lè de rén。 wǒ hé tā men yì qǐ guò zhōu mò， wǒ hěn xǐ huān。"
 }

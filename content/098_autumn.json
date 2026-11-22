@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "autumn",
-      "ko": "가을"
+      "ko": "가을",
+      "zh": "秋天",
+      "py": "qiū tiān"
     },
     {
       "en": "cool",
-      "ko": "시원한"
+      "ko": "시원한",
+      "zh": "凉快",
+      "py": "liáng kuài"
     },
     {
       "en": "leaf",
-      "ko": "나뭇잎"
+      "ko": "나뭇잎",
+      "zh": "叶子",
+      "py": "yè zi"
     },
     {
       "en": "orange",
-      "ko": "주황색"
+      "ko": "주황색",
+      "zh": "橙色",
+      "py": "chéng sè"
     },
     {
       "en": "fall",
-      "ko": "떨어지다"
+      "ko": "떨어지다",
+      "zh": "落下",
+      "py": "là xià"
     },
     {
       "en": "wind",
-      "ko": "바람"
+      "ko": "바람",
+      "zh": "风",
+      "py": "fēng"
     },
     {
       "en": "sky",
-      "ko": "하늘"
+      "ko": "하늘",
+      "zh": "天空",
+      "py": "tiān kōng"
     },
     {
       "en": "clear",
-      "ko": "맑은"
+      "ko": "맑은",
+      "zh": "晴朗",
+      "py": "qíng lǎng"
     },
     {
       "en": "fruit",
-      "ko": "과일"
+      "ko": "과일",
+      "zh": "水果",
+      "py": "shuǐ guǒ"
     },
     {
       "en": "sweater",
-      "ko": "스웨터"
+      "ko": "스웨터",
+      "zh": "毛衣",
+      "py": "máo yī"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "autumn",
         "cool"
-      ]
+      ],
+      "zh": "秋天很凉快。",
+      "py": "qiū tiān hěn liáng kuài。"
     },
     {
       "en": "A leaf turns orange.",
@@ -76,7 +98,9 @@
       "highlights": [
         "leaf",
         "orange"
-      ]
+      ],
+      "zh": "叶子变成橙色。",
+      "py": "yè zi biàn chéng chéng sè。"
     },
     {
       "en": "Leaves fall down in the wind.",
@@ -84,7 +108,9 @@
       "highlights": [
         "fall",
         "wind"
-      ]
+      ],
+      "zh": "叶子在风里落下来。",
+      "py": "yè zi zài fēng lǐ là xià lái。"
     },
     {
       "en": "The sky is clear.",
@@ -92,28 +118,36 @@
       "highlights": [
         "sky",
         "clear"
-      ]
+      ],
+      "zh": "天空很晴朗。",
+      "py": "tiān kōng hěn qíng lǎng。"
     },
     {
       "en": "I pick fruit.",
       "ko": "나는 과일을 따요.",
       "highlights": [
         "fruit"
-      ]
+      ],
+      "zh": "我摘水果。",
+      "py": "wǒ zhāi shuǐ guǒ。"
     },
     {
       "en": "I wear a sweater.",
       "ko": "나는 스웨터를 입어요.",
       "highlights": [
         "sweater"
-      ]
+      ],
+      "zh": "我穿一件毛衣。",
+      "py": "wǒ chuān yī jiàn máo yī。"
     },
     {
       "en": "I like autumn.",
       "ko": "나는 가을을 좋아해요.",
       "highlights": [
         "autumn"
-      ]
+      ],
+      "zh": "我喜欢秋天。",
+      "py": "wǒ xǐ huān qiū tiān。"
     },
     {
       "en": "Cool wind makes the orange leaf fall.",
@@ -124,7 +158,9 @@
         "orange",
         "fall",
         "wind"
-      ]
+      ],
+      "zh": "凉快的风让橙色的叶子落下。",
+      "py": "liáng kuài de fēng ràng chéng sè de yè zi là xià。"
     },
     {
       "en": "The clear sky is high and blue.",
@@ -132,7 +168,9 @@
       "highlights": [
         "sky",
         "clear"
-      ]
+      ],
+      "zh": "晴朗的天空又高又蓝。",
+      "py": "qíng lǎng de tiān kōng yòu gāo yòu lán。"
     },
     {
       "en": "I pick fruit, and then I put on a sweater.",
@@ -140,7 +178,9 @@
       "highlights": [
         "fruit",
         "sweater"
-      ]
+      ],
+      "zh": "我摘了水果，然后穿上毛衣。",
+      "py": "wǒ zhāi le shuǐ guǒ， rán hòu chuān shàng máo yī。"
     },
     {
       "en": "I like autumn because it is cool and clear.",
@@ -149,7 +189,9 @@
         "autumn",
         "cool",
         "clear"
-      ]
+      ],
+      "zh": "我喜欢秋天，因为它又凉快又晴朗。",
+      "py": "wǒ xǐ huān qiū tiān， yīn wèi tā yòu liáng kuài yòu qíng lǎng。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Autumn is cool. A leaf turns orange. Leaves fall down in the wind. The sky is clear. I pick fruit. I wear a sweater. I like autumn. Cool wind makes the orange leaf fall. The clear sky is high and blue. I pick fruit, and then I put on a sweater. I like autumn because it is cool and clear."
+  "full_passage_spoken": "Autumn is cool. A leaf turns orange. Leaves fall down in the wind. The sky is clear. I pick fruit. I wear a sweater. I like autumn. Cool wind makes the orange leaf fall. The clear sky is high and blue. I pick fruit, and then I put on a sweater. I like autumn because it is cool and clear.",
+  "topic_zh": "秋天",
+  "topic_pinyin": "qiū tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "秋天很凉快。叶子变成橙色。叶子在风里落下来。天空很晴朗。我摘水果。我穿一件毛衣。我喜欢秋天。凉快的风让橙色的叶子落下。晴朗的天空又高又蓝。我摘了水果，然后穿上毛衣。我喜欢秋天，因为它又凉快又晴朗。",
+  "full_passage_pinyin": "qiū tiān hěn liáng kuài。 yè zi biàn chéng chéng sè。 yè zi zài fēng lǐ là xià lái。 tiān kōng hěn qíng lǎng。 wǒ zhāi shuǐ guǒ。 wǒ chuān yī jiàn máo yī。 wǒ xǐ huān qiū tiān。 liáng kuài de fēng ràng chéng sè de yè zi là xià。 qíng lǎng de tiān kōng yòu gāo yòu lán。 wǒ zhāi le shuǐ guǒ， rán hòu chuān shàng máo yī。 wǒ xǐ huān qiū tiān， yīn wèi tā yòu liáng kuài yòu qíng lǎng。"
 }

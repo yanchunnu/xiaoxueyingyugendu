@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "classmate",
-      "ko": "반 친구"
+      "ko": "반 친구",
+      "zh": "同学",
+      "py": "tóng xué"
     },
     {
       "en": "girl",
-      "ko": "여자아이"
+      "ko": "여자아이",
+      "zh": "女孩",
+      "py": "nǚ hái"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "sit",
-      "ko": "앉다"
+      "ko": "앉다",
+      "zh": "坐",
+      "py": "zuò"
     },
     {
       "en": "next to",
-      "ko": "옆에"
+      "ko": "옆에",
+      "zh": "旁边",
+      "py": "páng biān"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "lend",
-      "ko": "빌려 주다"
+      "ko": "빌려 주다",
+      "zh": "借",
+      "py": "jiè"
     },
     {
       "en": "pencil",
-      "ko": "연필"
+      "ko": "연필",
+      "zh": "铅笔",
+      "py": "qiān bǐ"
     },
     {
       "en": "study",
-      "ko": "공부하다"
+      "ko": "공부하다",
+      "zh": "学习",
+      "py": "xué xí"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "classmate",
         "girl",
         "kind"
-      ]
+      ],
+      "zh": "艾米是我的同学，她是个善良的女孩。",
+      "py": "ài mǐ shì wǒ de tóng xué， tā shì gè shàn liáng de nǚ hái。"
     },
     {
       "en": "I sit next to her in class.",
@@ -77,14 +99,18 @@
       "highlights": [
         "sit",
         "next to"
-      ]
+      ],
+      "zh": "上课时我坐在她旁边。",
+      "py": "shàng kè shí wǒ zuò zài tā páng biān。"
     },
     {
       "en": "She is quiet, but she smiles at me.",
       "ko": "에이미는 조용하지만 나에게 미소를 지어요.",
       "highlights": [
         "quiet"
-      ]
+      ],
+      "zh": "她很安静，可是会对我笑。",
+      "py": "tā hěn ān jìng， kě shì huì duì wǒ xiào。"
     },
     {
       "en": "She can lend a pencil when I forget mine.",
@@ -92,7 +118,9 @@
       "highlights": [
         "lend",
         "pencil"
-      ]
+      ],
+      "zh": "我忘了带铅笔，她可以借给我。",
+      "py": "wǒ wàng le dài qiān bǐ， tā kě yǐ jiè gěi wǒ。"
     },
     {
       "en": "We study together after lunch.",
@@ -100,19 +128,25 @@
       "highlights": [
         "study",
         "together"
-      ]
+      ],
+      "zh": "午饭后我们一起学习。",
+      "py": "wǔ fàn hòu wǒ men yì qǐ xué xí。"
     },
     {
       "en": "I like my classmate because she is fair.",
       "ko": "에이미는 공정해서 나는 반 친구를 좋아해요.",
       "highlights": [
         "classmate"
-      ]
+      ],
+      "zh": "我喜欢我的同学，因为她很公平。",
+      "py": "wǒ xǐ huān wǒ de tóng xué， yīn wèi tā hěn gōng píng。"
     },
     {
       "en": "We are both in the sixth grade.",
       "ko": "우리 둘 다 6학년이에요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我们都上六年级。",
+      "py": "wǒ men dōu shàng liù nián jí。"
     },
     {
       "en": "She sits next to the window.",
@@ -120,7 +154,9 @@
       "highlights": [
         "sit",
         "next to"
-      ]
+      ],
+      "zh": "她坐在窗户旁边。",
+      "py": "tā zuò zài chuāng hù páng biān。"
     },
     {
       "en": "A quiet classmate can still be a good friend.",
@@ -128,7 +164,9 @@
       "highlights": [
         "classmate",
         "quiet"
-      ]
+      ],
+      "zh": "安静的同学也可以是好朋友。",
+      "py": "ān jìng de tóng xué yě kě yǐ shì hǎo péng yǒu。"
     },
     {
       "en": "We study English together.",
@@ -136,7 +174,9 @@
       "highlights": [
         "study",
         "together"
-      ]
+      ],
+      "zh": "我们一起学英语。",
+      "py": "wǒ men yì qǐ xué yīng yǔ。"
     },
     {
       "en": "I am happy she can lend me a pencil.",
@@ -144,7 +184,9 @@
       "highlights": [
         "lend",
         "pencil"
-      ]
+      ],
+      "zh": "她能借给我铅笔，我很高兴。",
+      "py": "tā néng jiè gěi wǒ qiān bǐ， wǒ hěn gāo xìng。"
     }
   ],
   "full_passage_lines": [
@@ -233,5 +275,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Amy is my classmate, and she is a kind girl. I sit next to her in class. She is quiet, but she smiles at me. She can lend a pencil when I forget mine. We study together after lunch. I like my classmate because she is fair. We are both in the sixth grade. She sits next to the window. A quiet classmate can still be a good friend. We study English together. I am happy she can lend me a pencil."
+  "full_passage_spoken": "Amy is my classmate, and she is a kind girl. I sit next to her in class. She is quiet, but she smiles at me. She can lend a pencil when I forget mine. We study together after lunch. I like my classmate because she is fair. We are both in the sixth grade. She sits next to the window. A quiet classmate can still be a good friend. We study English together. I am happy she can lend me a pencil.",
+  "topic_zh": "我的同学",
+  "topic_pinyin": "wǒ de tóng xué",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "艾米是我的同学，她是个善良的女孩。上课时我坐在她旁边。她很安静，可是会对我笑。我忘了带铅笔，她可以借给我。午饭后我们一起学习。我喜欢我的同学，因为她很公平。我们都上六年级。她坐在窗户旁边。安静的同学也可以是好朋友。我们一起学英语。她能借给我铅笔，我很高兴。",
+  "full_passage_pinyin": "ài mǐ shì wǒ de tóng xué， tā shì gè shàn liáng de nǚ hái。 shàng kè shí wǒ zuò zài tā páng biān。 tā hěn ān jìng， kě shì huì duì wǒ xiào。 wǒ wàng le dài qiān bǐ， tā kě yǐ jiè gěi wǒ。 wǔ fàn hòu wǒ men yì qǐ xué xí。 wǒ xǐ huān wǒ de tóng xué， yīn wèi tā hěn gōng píng。 wǒ men dōu shàng liù nián jí。 tā zuò zài chuāng hù páng biān。 ān jìng de tóng xué yě kě yǐ shì hǎo péng yǒu。 wǒ men yì qǐ xué yīng yǔ。 tā néng jiè gěi wǒ qiān bǐ， wǒ hěn gāo xìng。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "sister",
-      "ko": "언니"
+      "ko": "언니",
+      "zh": "姐姐",
+      "py": "jiě jiě"
     },
     {
       "en": "fifteen",
-      "ko": "열다섯"
+      "ko": "열다섯",
+      "zh": "十五",
+      "py": "shí wǔ"
     },
     {
       "en": "long",
-      "ko": "긴"
+      "ko": "긴",
+      "zh": "很长",
+      "py": "hěn cháng"
     },
     {
       "en": "hair",
-      "ko": "머리"
+      "ko": "머리",
+      "zh": "头发",
+      "py": "tóu fa"
     },
     {
       "en": "music",
-      "ko": "음악"
+      "ko": "음악",
+      "zh": "音乐",
+      "py": "yīn yuè"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     },
     {
       "en": "play",
-      "ko": "놀다"
+      "ko": "놀다",
+      "zh": "玩",
+      "py": "wán"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "fifteen",
         "long",
         "hair"
-      ]
+      ],
+      "zh": "我的姐姐十五岁，她有长头发。",
+      "py": "wǒ de jiě jiě shí wǔ suì， tā yǒu cháng tóu fa。"
     },
     {
       "en": "She loves music, and she is kind to me.",
@@ -79,7 +101,9 @@
         "music",
         "kind",
         "love"
-      ]
+      ],
+      "zh": "她爱音乐，对我很善良。",
+      "py": "tā ài yīn yuè， duì wǒ hěn shàn liáng。"
     },
     {
       "en": "We like to read a book together.",
@@ -87,7 +111,9 @@
       "highlights": [
         "book",
         "together"
-      ]
+      ],
+      "zh": "我们喜欢一起看书。",
+      "py": "wǒ men xǐ huān yì qǐ kàn shū。"
     },
     {
       "en": "We play together on the weekend.",
@@ -95,7 +121,9 @@
       "highlights": [
         "together",
         "play"
-      ]
+      ],
+      "zh": "周末我们一起玩。",
+      "py": "zhōu mò wǒ men yì qǐ wán。"
     },
     {
       "en": "I love my sister, and she loves me too.",
@@ -103,12 +131,16 @@
       "highlights": [
         "sister",
         "love"
-      ]
+      ],
+      "zh": "我爱姐姐，她也爱我。",
+      "py": "wǒ ài jiě jiě， tā yě ài wǒ。"
     },
     {
       "en": "She helps me when my homework is hard.",
       "ko": "숙제가 어려우면 언니가 도와줘요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "作业难的时候，她帮助我。",
+      "py": "zuò yè nán de shí hòu， tā bāng zhù wǒ。"
     },
     {
       "en": "Her long hair is black and shiny.",
@@ -116,19 +148,25 @@
       "highlights": [
         "long",
         "hair"
-      ]
+      ],
+      "zh": "她的长头发又黑又亮。",
+      "py": "tā de cháng tóu fa yòu hēi yòu liàng。"
     },
     {
       "en": "She listens to music in her room.",
       "ko": "언니는 방에서 음악을 들어요.",
       "highlights": [
         "music"
-      ]
+      ],
+      "zh": "她在自己的房间听音乐。",
+      "py": "tā zài zì jǐ de fáng jiān tīng yīn yuè。"
     },
     {
       "en": "I am thirteen, so she is two years older.",
       "ko": "나는 열세 살이니 언니는 두 살 더 많아요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我十三岁，所以她比我大两岁。",
+      "py": "wǒ shí sān suì， suǒ yǐ tā bǐ wǒ dà liǎng suì。"
     },
     {
       "en": "We also play with our little sister.",
@@ -136,7 +174,9 @@
       "highlights": [
         "sister",
         "play"
-      ]
+      ],
+      "zh": "我们也会和妹妹一起玩。",
+      "py": "wǒ men yě huì hé mèi mèi yì qǐ wán。"
     },
     {
       "en": "A kind sister makes home feel warm.",
@@ -144,7 +184,9 @@
       "highlights": [
         "sister",
         "kind"
-      ]
+      ],
+      "zh": "善良的姐姐让家变得温暖。",
+      "py": "shàn liáng de jiě jiě ràng jiā biàn de wēn nuǎn。"
     }
   ],
   "full_passage_lines": [
@@ -233,5 +275,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My older sister is fifteen, and she has long hair. She loves music, and she is kind to me. We like to read a book together. We play together on the weekend. I love my sister, and she loves me too. She helps me when my homework is hard. Her long hair is black and shiny. She listens to music in her room. I am thirteen, so she is two years older. We also play with our little sister. A kind sister makes home feel warm."
+  "full_passage_spoken": "My older sister is fifteen, and she has long hair. She loves music, and she is kind to me. We like to read a book together. We play together on the weekend. I love my sister, and she loves me too. She helps me when my homework is hard. Her long hair is black and shiny. She listens to music in her room. I am thirteen, so she is two years older. We also play with our little sister. A kind sister makes home feel warm.",
+  "topic_zh": "我的姐姐",
+  "topic_pinyin": "wǒ de jiě jiě",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的姐姐十五岁，她有长头发。她爱音乐，对我很善良。我们喜欢一起看书。周末我们一起玩。我爱姐姐，她也爱我。作业难的时候，她帮助我。她的长头发又黑又亮。她在自己的房间听音乐。我十三岁，所以她比我大两岁。我们也会和妹妹一起玩。善良的姐姐让家变得温暖。",
+  "full_passage_pinyin": "wǒ de jiě jiě shí wǔ suì， tā yǒu cháng tóu fa。 tā ài yīn yuè， duì wǒ hěn shàn liáng。 wǒ men xǐ huān yì qǐ kàn shū。 zhōu mò wǒ men yì qǐ wán。 wǒ ài jiě jiě， tā yě ài wǒ。 zuò yè nán de shí hòu， tā bāng zhù wǒ。 tā de cháng tóu fa yòu hēi yòu liàng。 tā zài zì jǐ de fáng jiān tīng yīn yuè。 wǒ shí sān suì， suǒ yǐ tā bǐ wǒ dà liǎng suì。 wǒ men yě huì hé mèi mèi yì qǐ wán。 shàn liáng de jiě jiě ràng jiā biàn de wēn nuǎn。"
 }

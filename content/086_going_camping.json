@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "camping",
-      "ko": "캠핑"
+      "ko": "캠핑",
+      "zh": "露营",
+      "py": "lù yíng"
     },
     {
       "en": "tent",
-      "ko": "텐트"
+      "ko": "텐트",
+      "zh": "帐篷",
+      "py": "zhàng péng"
     },
     {
       "en": "night",
-      "ko": "밤"
+      "ko": "밤",
+      "zh": "晚上",
+      "py": "wǎn shàng"
     },
     {
       "en": "star",
-      "ko": "별"
+      "ko": "별",
+      "zh": "星星",
+      "py": "xīng xīng"
     },
     {
       "en": "fire",
-      "ko": "모닥불"
+      "ko": "모닥불",
+      "zh": "火",
+      "py": "huǒ"
     },
     {
       "en": "story",
-      "ko": "이야기"
+      "ko": "이야기",
+      "zh": "故事",
+      "py": "gù shì"
     },
     {
       "en": "sleep",
-      "ko": "자다"
+      "ko": "자다",
+      "zh": "睡觉",
+      "py": "shuì jiào"
     },
     {
       "en": "sleeping bag",
-      "ko": "침낭"
+      "ko": "침낭",
+      "zh": "睡袋",
+      "py": "shuì dài"
     },
     {
       "en": "exciting",
-      "ko": "신나는"
+      "ko": "신나는",
+      "zh": "兴奋",
+      "py": "xīng fèn"
     },
     {
       "en": "again",
-      "ko": "다시"
+      "ko": "다시",
+      "zh": "再一次",
+      "py": "zài yí cì"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "camping",
         "tent"
-      ]
+      ],
+      "zh": "我们去露营，支起一个帐篷。",
+      "py": "wǒ men qù lù yíng， zhī qǐ yí gè zhàng péng。"
     },
     {
       "en": "At night I see a star.",
@@ -76,21 +98,27 @@
       "highlights": [
         "night",
         "star"
-      ]
+      ],
+      "zh": "晚上我看见一颗星星。",
+      "py": "wǎn shàng wǒ kàn jiàn yī kē xīng xīng。"
     },
     {
       "en": "We sit by a small fire.",
       "ko": "우리는 작은 모닥불 옆에 앉아요.",
       "highlights": [
         "fire"
-      ]
+      ],
+      "zh": "我们坐在一小堆火旁边。",
+      "py": "wǒ men zuò zài yī xiǎo duī huǒ páng biān。"
     },
     {
       "en": "Dad tells a story.",
       "ko": "아빠는 이야기를 해 줘요.",
       "highlights": [
         "story"
-      ]
+      ],
+      "zh": "爸爸讲一个故事。",
+      "py": "bà bà jiǎng yí gè gù shì。"
     },
     {
       "en": "I sleep in a sleeping bag.",
@@ -98,7 +126,9 @@
       "highlights": [
         "sleep",
         "sleeping bag"
-      ]
+      ],
+      "zh": "我睡在睡袋里。",
+      "py": "wǒ shuì zài shuì dài lǐ。"
     },
     {
       "en": "Camping is exciting.",
@@ -106,21 +136,27 @@
       "highlights": [
         "camping",
         "exciting"
-      ]
+      ],
+      "zh": "露营让人兴奋。",
+      "py": "lù yíng ràng rén xīng fèn。"
     },
     {
       "en": "I want to go again.",
       "ko": "나는 다시 가고 싶어요.",
       "highlights": [
         "again"
-      ]
+      ],
+      "zh": "我还想再去一次。",
+      "py": "wǒ hái xiǎng zài qù yī cì。"
     },
     {
       "en": "The tent is small, but it keeps us dry.",
       "ko": "텐트는 작지만 우리를 젖지 않게 해 줘요.",
       "highlights": [
         "tent"
-      ]
+      ],
+      "zh": "帐篷很小，可是能让我们不淋湿。",
+      "py": "zhàng péng hěn xiǎo， kě shì néng ràng wǒ men bù lín shī。"
     },
     {
       "en": "A star above the fire looks very bright.",
@@ -128,7 +164,9 @@
       "highlights": [
         "star",
         "fire"
-      ]
+      ],
+      "zh": "火上方的星星看起来很亮。",
+      "py": "huǒ shàng fāng de xīng xīng kàn qǐ lái hěn liàng。"
     },
     {
       "en": "I sleep well in the sleeping bag.",
@@ -136,7 +174,9 @@
       "highlights": [
         "sleep",
         "sleeping bag"
-      ]
+      ],
+      "zh": "我在睡袋里睡得很好。",
+      "py": "wǒ zài shuì dài lǐ shuì de hěn hǎo。"
     },
     {
       "en": "This exciting night makes me want to go again.",
@@ -145,7 +185,9 @@
         "night",
         "exciting",
         "again"
-      ]
+      ],
+      "zh": "这个令人兴奋的晚上让我还想再去。",
+      "py": "zhè ge lìng rén xīng fèn de wǎn shàng ràng wǒ hái xiǎng zài qù。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "We go camping, and we put up a tent. At night I see a star. We sit by a small fire. Dad tells a story. I sleep in a sleeping bag. Camping is exciting. I want to go again. The tent is small, but it keeps us dry. A star above the fire looks very bright. I sleep well in the sleeping bag. This exciting night makes me want to go again."
+  "full_passage_spoken": "We go camping, and we put up a tent. At night I see a star. We sit by a small fire. Dad tells a story. I sleep in a sleeping bag. Camping is exciting. I want to go again. The tent is small, but it keeps us dry. A star above the fire looks very bright. I sleep well in the sleeping bag. This exciting night makes me want to go again.",
+  "topic_zh": "去露营",
+  "topic_pinyin": "qù lù yíng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们去露营，支起一个帐篷。晚上我看见一颗星星。我们坐在一小堆火旁边。爸爸讲一个故事。我睡在睡袋里。露营让人兴奋。我还想再去一次。帐篷很小，可是能让我们不淋湿。火上方的星星看起来很亮。我在睡袋里睡得很好。这个令人兴奋的晚上让我还想再去。",
+  "full_passage_pinyin": "wǒ men qù lù yíng， zhī qǐ yí gè zhàng péng。 wǎn shàng wǒ kàn jiàn yī kē xīng xīng。 wǒ men zuò zài yī xiǎo duī huǒ páng biān。 bà bà jiǎng yí gè gù shì。 wǒ shuì zài shuì dài lǐ。 lù yíng ràng rén xīng fèn。 wǒ hái xiǎng zài qù yī cì。 zhàng péng hěn xiǎo， kě shì néng ràng wǒ men bù lín shī。 huǒ shàng fāng de xīng xīng kàn qǐ lái hěn liàng。 wǒ zài shuì dài lǐ shuì de hěn hǎo。 zhè ge lìng rén xīng fèn de wǎn shàng ràng wǒ hái xiǎng zài qù。"
 }

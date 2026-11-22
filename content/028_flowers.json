@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "flower",
-      "ko": "꽃"
+      "ko": "꽃",
+      "zh": "花",
+      "py": "huā"
     },
     {
       "en": "garden",
-      "ko": "정원"
+      "ko": "정원",
+      "zh": "花园",
+      "py": "huā yuán"
     },
     {
       "en": "rose",
-      "ko": "장미"
+      "ko": "장미",
+      "zh": "玫瑰",
+      "py": "méi guī"
     },
     {
       "en": "red",
-      "ko": "빨간"
+      "ko": "빨간",
+      "zh": "红",
+      "py": "hóng"
     },
     {
       "en": "yellow",
-      "ko": "노란"
+      "ko": "노란",
+      "zh": "黄",
+      "py": "huáng"
     },
     {
       "en": "smell",
-      "ko": "냄새"
+      "ko": "냄새",
+      "zh": "气味",
+      "py": "qì wèi"
     },
     {
       "en": "sweet",
-      "ko": "달콤한"
+      "ko": "달콤한",
+      "zh": "甜",
+      "py": "tián"
     },
     {
       "en": "petal",
-      "ko": "꽃잎"
+      "ko": "꽃잎",
+      "zh": "花瓣",
+      "py": "huā bàn"
     },
     {
       "en": "water",
-      "ko": "물을 주다"
+      "ko": "물을 주다",
+      "zh": "浇水",
+      "py": "jiāo shuǐ"
     },
     {
       "en": "spring",
-      "ko": "봄"
+      "ko": "봄",
+      "zh": "春天",
+      "py": "chūn tiān"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "flower",
         "garden"
-      ]
+      ],
+      "zh": "我在花园里看见一朵花。",
+      "py": "wǒ zài huā yuán lǐ kàn jiàn yī duǒ huā。"
     },
     {
       "en": "The rose is red, and one flower is yellow.",
@@ -78,7 +100,9 @@
         "rose",
         "red",
         "yellow"
-      ]
+      ],
+      "zh": "玫瑰是红色的，有一朵花是黄色的。",
+      "py": "méi guī shì hóng sè de， yǒu yī duǒ huā shì huáng sè de。"
     },
     {
       "en": "The smell is sweet.",
@@ -86,14 +110,18 @@
       "highlights": [
         "smell",
         "sweet"
-      ]
+      ],
+      "zh": "气味很甜。",
+      "py": "qì wèi hěn tián。"
     },
     {
       "en": "I touch a petal, and it is soft.",
       "ko": "나는 꽃잎을 만지고, 꽃잎은 부드러워요.",
       "highlights": [
         "petal"
-      ]
+      ],
+      "zh": "我摸一片花瓣，它很柔软。",
+      "py": "wǒ mō yī piàn huā bàn， tā hěn róu ruǎn。"
     },
     {
       "en": "I water the rose in spring.",
@@ -102,7 +130,9 @@
         "rose",
         "water",
         "spring"
-      ]
+      ],
+      "zh": "春天我给玫瑰浇水。",
+      "py": "chūn tiān wǒ gěi méi guī jiāo shuǐ。"
     },
     {
       "en": "I like flowers in spring because they are bright.",
@@ -110,7 +140,9 @@
       "highlights": [
         "flower",
         "spring"
-      ]
+      ],
+      "zh": "我喜欢春天的花，因为它们很明亮。",
+      "py": "wǒ xǐ huān chūn tiān de huā， yīn wèi tā men hěn míng liàng。"
     },
     {
       "en": "My grandmother grows a rose in her garden.",
@@ -118,7 +150,9 @@
       "highlights": [
         "garden",
         "rose"
-      ]
+      ],
+      "zh": "奶奶在花园里种玫瑰。",
+      "py": "nǎi nǎi zài huā yuán lǐ zhòng méi gui。"
     },
     {
       "en": "A yellow flower smells sweet too.",
@@ -128,21 +162,27 @@
         "yellow",
         "smell",
         "sweet"
-      ]
+      ],
+      "zh": "黄花的气味也很甜。",
+      "py": "huáng huā de qì wèi yě hěn tián。"
     },
     {
       "en": "A petal falls when the wind comes.",
       "ko": "바람이 오면 꽃잎이 떨어져요.",
       "highlights": [
         "petal"
-      ]
+      ],
+      "zh": "风来的时候，花瓣会落下。",
+      "py": "fēng lái de shí hòu， huā bàn huì là xià。"
     },
     {
       "en": "I water them in the morning.",
       "ko": "나는 아침에 꽃에 물을 줘요.",
       "highlights": [
         "water"
-      ]
+      ],
+      "zh": "我早上给它们浇水。",
+      "py": "wǒ zǎo shàng gěi tā men jiāo shuǐ。"
     },
     {
       "en": "Spring flowers make me happy.",
@@ -150,7 +190,9 @@
       "highlights": [
         "flower",
         "spring"
-      ]
+      ],
+      "zh": "春天的花让我快乐。",
+      "py": "chūn tiān de huā ràng wǒ kuài lè。"
     }
   ],
   "full_passage_lines": [
@@ -245,5 +287,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I see a flower in the garden. The rose is red, and one flower is yellow. The smell is sweet. I touch a petal, and it is soft. I water the rose in spring. I like flowers in spring because they are bright. My grandmother grows a rose in her garden. A yellow flower smells sweet too. A petal falls when the wind comes. I water them in the morning. Spring flowers make me happy."
+  "full_passage_spoken": "I see a flower in the garden. The rose is red, and one flower is yellow. The smell is sweet. I touch a petal, and it is soft. I water the rose in spring. I like flowers in spring because they are bright. My grandmother grows a rose in her garden. A yellow flower smells sweet too. A petal falls when the wind comes. I water them in the morning. Spring flowers make me happy.",
+  "topic_zh": "花",
+  "topic_pinyin": "huā",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我在花园里看见一朵花。玫瑰是红色的，有一朵花是黄色的。气味很甜。我摸一片花瓣，它很柔软。春天我给玫瑰浇水。我喜欢春天的花，因为它们很明亮。奶奶在花园里种玫瑰。黄花的气味也很甜。风来的时候，花瓣会落下。我早上给它们浇水。春天的花让我快乐。",
+  "full_passage_pinyin": "wǒ zài huā yuán lǐ kàn jiàn yī duǒ huā。 méi guī shì hóng sè de， yǒu yī duǒ huā shì huáng sè de。 qì wèi hěn tián。 wǒ mō yī piàn huā bàn， tā hěn róu ruǎn。 chūn tiān wǒ gěi méi guī jiāo shuǐ。 wǒ xǐ huān chūn tiān de huā， yīn wèi tā men hěn míng liàng。 nǎi nǎi zài huā yuán lǐ zhòng méi gui。 huáng huā de qì wèi yě hěn tián。 fēng lái de shí hòu， huā bàn huì là xià。 wǒ zǎo shàng gěi tā men jiāo shuǐ。 chūn tiān de huā ràng wǒ kuài lè。"
 }

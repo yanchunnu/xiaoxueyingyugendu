@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "food",
-      "ko": "음식"
+      "ko": "음식",
+      "zh": "食物",
+      "py": "shí wù"
     },
     {
       "en": "body",
-      "ko": "몸"
+      "ko": "몸",
+      "zh": "身体",
+      "py": "shēn tǐ"
     },
     {
       "en": "vegetable",
-      "ko": "채소"
+      "ko": "채소",
+      "zh": "蔬菜",
+      "py": "shū cài"
     },
     {
       "en": "fruit",
-      "ko": "과일"
+      "ko": "과일",
+      "zh": "水果",
+      "py": "shuǐ guǒ"
     },
     {
       "en": "water",
-      "ko": "물"
+      "ko": "물",
+      "zh": "水",
+      "py": "shuǐ"
     },
     {
       "en": "little",
-      "ko": "조금"
+      "ko": "조금",
+      "zh": "一点",
+      "py": "yì diǎn"
     },
     {
       "en": "candy",
-      "ko": "사탕"
+      "ko": "사탕",
+      "zh": "糖果",
+      "py": "táng guǒ"
     },
     {
       "en": "rice",
-      "ko": "밥"
+      "ko": "밥",
+      "zh": "米饭",
+      "py": "mǐ fàn"
     },
     {
       "en": "strong",
-      "ko": "튼튼한"
+      "ko": "튼튼한",
+      "zh": "强壮",
+      "py": "qiáng zhuàng"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "healthy",
         "food",
         "body"
-      ]
+      ],
+      "zh": "健康的食物帮助我的身体。",
+      "py": "jiàn kāng de shí wù bāng zhù wǒ de shēn tǐ。"
     },
     {
       "en": "I eat a vegetable, and I eat fruit.",
@@ -77,14 +99,18 @@
       "highlights": [
         "vegetable",
         "fruit"
-      ]
+      ],
+      "zh": "我吃蔬菜，也吃水果。",
+      "py": "wǒ chī shū cài， yě chī shuǐ guǒ。"
     },
     {
       "en": "I drink water.",
       "ko": "나는 물을 마셔요.",
       "highlights": [
         "water"
-      ]
+      ],
+      "zh": "我喝水。",
+      "py": "wǒ hē shuǐ。"
     },
     {
       "en": "I eat a little candy.",
@@ -92,14 +118,18 @@
       "highlights": [
         "little",
         "candy"
-      ]
+      ],
+      "zh": "我吃一点糖果。",
+      "py": "wǒ chī yì diǎn táng guǒ。"
     },
     {
       "en": "I choose rice.",
       "ko": "나는 밥을 골라요.",
       "highlights": [
         "rice"
-      ]
+      ],
+      "zh": "我选择米饭。",
+      "py": "wǒ xuǎn zé mǐ fàn。"
     },
     {
       "en": "Healthy food makes me strong.",
@@ -108,14 +138,18 @@
         "healthy",
         "food",
         "strong"
-      ]
+      ],
+      "zh": "健康的食物让我强壮。",
+      "py": "jiàn kāng de shí wù ràng wǒ qiáng zhuàng。"
     },
     {
       "en": "I try a new vegetable.",
       "ko": "나는 새 채소를 먹어 봐요.",
       "highlights": [
         "vegetable"
-      ]
+      ],
+      "zh": "我试一种新蔬菜。",
+      "py": "wǒ shì yī zhǒng xīn shū cài。"
     },
     {
       "en": "Water is the best drink for my body.",
@@ -123,7 +157,9 @@
       "highlights": [
         "body",
         "water"
-      ]
+      ],
+      "zh": "水是对我身体最好的饮料。",
+      "py": "shuǐ shì duì wǒ shēn tǐ zuì hǎo de yǐn liào。"
     },
     {
       "en": "A little candy is fine, but not a lot.",
@@ -131,7 +167,9 @@
       "highlights": [
         "little",
         "candy"
-      ]
+      ],
+      "zh": "一点糖果没关系，可是不能吃很多。",
+      "py": "yì diǎn táng guǒ méi guān xì， kě shì bù néng chī hěn duō。"
     },
     {
       "en": "I choose rice and fruit more often.",
@@ -139,7 +177,9 @@
       "highlights": [
         "fruit",
         "rice"
-      ]
+      ],
+      "zh": "我更常选择米饭和水果。",
+      "py": "wǒ gèng cháng xuǎn zé mǐ fàn hé shuǐ guǒ。"
     },
     {
       "en": "Strong days start with healthy food.",
@@ -148,7 +188,9 @@
         "healthy",
         "food",
         "strong"
-      ]
+      ],
+      "zh": "强壮的一天从健康的食物开始。",
+      "py": "qiáng zhuàng de yī tiān cóng jiàn kāng de shí wù kāi shǐ。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Healthy food helps my body. I eat a vegetable, and I eat fruit. I drink water. I eat a little candy. I choose rice. Healthy food makes me strong. I try a new vegetable. Water is the best drink for my body. A little candy is fine, but not a lot. I choose rice and fruit more often. Strong days start with healthy food."
+  "full_passage_spoken": "Healthy food helps my body. I eat a vegetable, and I eat fruit. I drink water. I eat a little candy. I choose rice. Healthy food makes me strong. I try a new vegetable. Water is the best drink for my body. A little candy is fine, but not a lot. I choose rice and fruit more often. Strong days start with healthy food.",
+  "topic_zh": "健康的食物",
+  "topic_pinyin": "jiàn kāng de shí wù",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "健康的食物帮助我的身体。我吃蔬菜，也吃水果。我喝水。我吃一点糖果。我选择米饭。健康的食物让我强壮。我试一种新蔬菜。水是对我身体最好的饮料。一点糖果没关系，可是不能吃很多。我更常选择米饭和水果。强壮的一天从健康的食物开始。",
+  "full_passage_pinyin": "jiàn kāng de shí wù bāng zhù wǒ de shēn tǐ。 wǒ chī shū cài， yě chī shuǐ guǒ。 wǒ hē shuǐ。 wǒ chī yì diǎn táng guǒ。 wǒ xuǎn zé mǐ fàn。 jiàn kāng de shí wù ràng wǒ qiáng zhuàng。 wǒ shì yī zhǒng xīn shū cài。 shuǐ shì duì wǒ shēn tǐ zuì hǎo de yǐn liào。 yì diǎn táng guǒ méi guān xì， kě shì bù néng chī hěn duō。 wǒ gèng cháng xuǎn zé mǐ fàn hé shuǐ guǒ。 qiáng zhuàng de yī tiān cóng jiàn kāng de shí wù kāi shǐ。"
 }

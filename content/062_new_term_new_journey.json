@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "term",
-      "ko": "학기"
+      "ko": "학기",
+      "zh": "学期",
+      "py": "xué qī"
     },
     {
       "en": "new",
-      "ko": "새로운"
+      "ko": "새로운",
+      "zh": "新",
+      "py": "xīn"
     },
     {
       "en": "today",
-      "ko": "오늘"
+      "ko": "오늘",
+      "zh": "今天",
+      "py": "jīn tiān"
     },
     {
       "en": "start",
-      "ko": "시작하다"
+      "ko": "시작하다",
+      "zh": "开始",
+      "py": "kāi shǐ"
     },
     {
       "en": "journey",
-      "ko": "여정"
+      "ko": "여정",
+      "zh": "旅程",
+      "py": "lǚ chéng"
     },
     {
       "en": "goal",
-      "ko": "목표"
+      "ko": "목표",
+      "zh": "目标",
+      "py": "mù biāo"
     },
     {
       "en": "plan",
-      "ko": "계획"
+      "ko": "계획",
+      "zh": "计划",
+      "py": "jì huà"
     },
     {
       "en": "hope",
-      "ko": "바라다"
+      "ko": "바라다",
+      "zh": "希望",
+      "py": "xī wàng"
     },
     {
       "en": "grow",
-      "ko": "성장하다"
+      "ko": "성장하다",
+      "zh": "成长",
+      "py": "chéng zhǎng"
     },
     {
       "en": "ready",
-      "ko": "준비된"
+      "ko": "준비된",
+      "zh": "准备好",
+      "py": "zhǔn bèi hǎo"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "new",
         "today",
         "start"
-      ]
+      ],
+      "zh": "新学期今天开始。",
+      "py": "xīn xué qī jīn tiān kāi shǐ。"
     },
     {
       "en": "It is a new journey.",
@@ -78,7 +100,9 @@
       "highlights": [
         "new",
         "journey"
-      ]
+      ],
+      "zh": "这是一段新旅程。",
+      "py": "zhè shì yī duàn xīn lǚ chéng。"
     },
     {
       "en": "I have a small goal, and I make a plan.",
@@ -86,7 +110,9 @@
       "highlights": [
         "goal",
         "plan"
-      ]
+      ],
+      "zh": "我有一个小目标，也制定一个计划。",
+      "py": "wǒ yǒu yí gè xiǎo mù biāo， yě zhì dìng yí gè jì huà。"
     },
     {
       "en": "I hope to grow.",
@@ -94,7 +120,9 @@
       "highlights": [
         "hope",
         "grow"
-      ]
+      ],
+      "zh": "我希望自己成长。",
+      "py": "wǒ xī wàng zì jǐ chéng zhǎng。"
     },
     {
       "en": "I am ready to start.",
@@ -102,14 +130,18 @@
       "highlights": [
         "start",
         "ready"
-      ]
+      ],
+      "zh": "我准备好开始了。",
+      "py": "wǒ zhǔn bèi hǎo kāi shǐ le。"
     },
     {
       "en": "This journey can be good.",
       "ko": "이 여정은 좋을 수 있어요.",
       "highlights": [
         "journey"
-      ]
+      ],
+      "zh": "这段旅程可以很好。",
+      "py": "zhè duàn lǚ chéng kě yǐ hěn hǎo。"
     },
     {
       "en": "Today I open a new notebook for the new term.",
@@ -118,14 +150,18 @@
         "term",
         "new",
         "today"
-      ]
+      ],
+      "zh": "今天我为新学期打开一本新笔记本。",
+      "py": "jīn tiān wǒ wèi xīn xué qī dǎ kāi yī běn xīn bǐ jì běn。"
     },
     {
       "en": "My goal is to read more and speak more.",
       "ko": "나의 목표는 더 읽고 더 말하는 것이에요.",
       "highlights": [
         "goal"
-      ]
+      ],
+      "zh": "我的目标是多读，也多说。",
+      "py": "wǒ de mù biāo shì duō dú， yě duō shuō。"
     },
     {
       "en": "A plan helps the journey feel clear.",
@@ -133,7 +169,9 @@
       "highlights": [
         "journey",
         "plan"
-      ]
+      ],
+      "zh": "计划让旅程变得清楚。",
+      "py": "jì huà ràng lǚ chéng biàn de qīng chǔ。"
     },
     {
       "en": "I hope to grow a little each week.",
@@ -141,7 +179,9 @@
       "highlights": [
         "hope",
         "grow"
-      ]
+      ],
+      "zh": "我希望每个星期都成长一点点。",
+      "py": "wǒ xī wàng měi gè xīng qī dōu chéng zhǎng yì diǎn diǎn。"
     },
     {
       "en": "I am ready, and I start with a smile.",
@@ -149,7 +189,9 @@
       "highlights": [
         "start",
         "ready"
-      ]
+      ],
+      "zh": "我准备好了，我微笑着开始。",
+      "py": "wǒ zhǔn bèi hǎo le， wǒ wēi xiào zhe kāi shǐ。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "A new term starts today. It is a new journey. I have a small goal, and I make a plan. I hope to grow. I am ready to start. This journey can be good. Today I open a new notebook for the new term. My goal is to read more and speak more. A plan helps the journey feel clear. I hope to grow a little each week. I am ready, and I start with a smile."
+  "full_passage_spoken": "A new term starts today. It is a new journey. I have a small goal, and I make a plan. I hope to grow. I am ready to start. This journey can be good. Today I open a new notebook for the new term. My goal is to read more and speak more. A plan helps the journey feel clear. I hope to grow a little each week. I am ready, and I start with a smile.",
+  "topic_zh": "新学期，新旅程",
+  "topic_pinyin": "xīn xué qī， xīn lǚ chéng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "新学期今天开始。这是一段新旅程。我有一个小目标，也制定一个计划。我希望自己成长。我准备好开始了。这段旅程可以很好。今天我为新学期打开一本新笔记本。我的目标是多读，也多说。计划让旅程变得清楚。我希望每个星期都成长一点点。我准备好了，我微笑着开始。",
+  "full_passage_pinyin": "xīn xué qī jīn tiān kāi shǐ。 zhè shì yī duàn xīn lǚ chéng。 wǒ yǒu yí gè xiǎo mù biāo， yě zhì dìng yí gè jì huà。 wǒ xī wàng zì jǐ chéng zhǎng。 wǒ zhǔn bèi hǎo kāi shǐ le。 zhè duàn lǚ chéng kě yǐ hěn hǎo。 jīn tiān wǒ wèi xīn xué qī dǎ kāi yī běn xīn bǐ jì běn。 wǒ de mù biāo shì duō dú， yě duō shuō。 jì huà ràng lǚ chéng biàn de qīng chǔ。 wǒ xī wàng měi gè xīng qī dōu chéng zhǎng yì diǎn diǎn。 wǒ zhǔn bèi hǎo le， wǒ wēi xiào zhe kāi shǐ。"
 }

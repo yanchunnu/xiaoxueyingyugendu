@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "summer",
-      "ko": "여름"
+      "ko": "여름",
+      "zh": "夏天",
+      "py": "xià tiān"
     },
     {
       "en": "vacation",
-      "ko": "방학"
+      "ko": "방학",
+      "zh": "暑假",
+      "py": "shǔ jià"
     },
     {
       "en": "hot",
-      "ko": "더운"
+      "ko": "더운",
+      "zh": "热",
+      "py": "rè"
     },
     {
       "en": "swim",
-      "ko": "수영하다"
+      "ko": "수영하다",
+      "zh": "游泳",
+      "py": "yóu yǒng"
     },
     {
       "en": "ice cream",
-      "ko": "아이스크림"
+      "ko": "아이스크림",
+      "zh": "冰淇淋",
+      "py": "bīng qí lín"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "trip",
-      "ko": "여행"
+      "ko": "여행",
+      "zh": "短途旅行",
+      "py": "duǎn tú lǚ xíng"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "free",
-      "ko": "자유로운"
+      "ko": "자유로운",
+      "zh": "自由",
+      "py": "zì yóu"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "summer",
         "vacation",
         "hot"
-      ]
+      ],
+      "zh": "暑假到了，天气很热。",
+      "py": "shǔ jià dào le， tiān qì hěn rè。"
     },
     {
       "en": "I swim and eat ice cream.",
@@ -77,28 +99,36 @@
       "highlights": [
         "swim",
         "ice cream"
-      ]
+      ],
+      "zh": "我去游泳，也吃冰淇淋。",
+      "py": "wǒ qù yóu yǒng， yě chī bīng qí lín。"
     },
     {
       "en": "I like to read a book.",
       "ko": "나는 책 읽는 것을 좋아해요.",
       "highlights": [
         "book"
-      ]
+      ],
+      "zh": "我喜欢读一本书。",
+      "py": "wǒ xǐ huān dú yī běn shū。"
     },
     {
       "en": "I take a short trip.",
       "ko": "나는 짧은 여행을 가요.",
       "highlights": [
         "trip"
-      ]
+      ],
+      "zh": "我去一次短途旅行。",
+      "py": "wǒ qù yī cì duǎn tú lǚ xíng。"
     },
     {
       "en": "I play with a friend.",
       "ko": "나는 친구와 놀아요.",
       "highlights": [
         "friend"
-      ]
+      ],
+      "zh": "我和一个朋友玩。",
+      "py": "wǒ hé yí gè péng yǒu wán。"
     },
     {
       "en": "I feel free, and summer is fun.",
@@ -107,7 +137,9 @@
         "summer",
         "free",
         "fun"
-      ]
+      ],
+      "zh": "我感到自由，夏天很有趣。",
+      "py": "wǒ gǎn dào zì yóu， xià tiān hěn yǒu qù。"
     },
     {
       "en": "Hot days are better with ice cream.",
@@ -115,7 +147,9 @@
       "highlights": [
         "hot",
         "ice cream"
-      ]
+      ],
+      "zh": "热天有冰淇淋就更好。",
+      "py": "rè tiān yǒu bīng qí lín jiù gèng hǎo。"
     },
     {
       "en": "A free afternoon is for a book or a friend.",
@@ -124,7 +158,9 @@
         "book",
         "friend",
         "free"
-      ]
+      ],
+      "zh": "自由的下午可以看书，也可以见朋友。",
+      "py": "zì yóu de xià wǔ kě yǐ kàn shū， yě kě yǐ jiàn péng yǒu。"
     },
     {
       "en": "The trip is short, but it is fun.",
@@ -132,7 +168,9 @@
       "highlights": [
         "trip",
         "fun"
-      ]
+      ],
+      "zh": "这次旅行很短，可是很有趣。",
+      "py": "zhè cì lǚ xíng hěn duǎn， kě shì hěn yǒu qù。"
     },
     {
       "en": "I swim in the morning when it is not too hot.",
@@ -140,7 +178,9 @@
       "highlights": [
         "hot",
         "swim"
-      ]
+      ],
+      "zh": "早上不太热的时候，我去游泳。",
+      "py": "zǎo shàng bù tài rè de shí hòu， wǒ qù yóu yǒng。"
     },
     {
       "en": "Summer vacation feels free, and I like that.",
@@ -149,7 +189,9 @@
         "summer",
         "vacation",
         "free"
-      ]
+      ],
+      "zh": "暑假让人感到自由，我喜欢这样。",
+      "py": "shǔ jià ràng rén gǎn dào zì yóu， wǒ xǐ huān zhè yàng。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Summer vacation is here, and the days are hot. I swim and eat ice cream. I like to read a book. I take a short trip. I play with a friend. I feel free, and summer is fun. Hot days are better with ice cream. A free afternoon is for a book or a friend. The trip is short, but it is fun. I swim in the morning when it is not too hot. Summer vacation feels free, and I like that."
+  "full_passage_spoken": "Summer vacation is here, and the days are hot. I swim and eat ice cream. I like to read a book. I take a short trip. I play with a friend. I feel free, and summer is fun. Hot days are better with ice cream. A free afternoon is for a book or a friend. The trip is short, but it is fun. I swim in the morning when it is not too hot. Summer vacation feels free, and I like that.",
+  "topic_zh": "暑假",
+  "topic_pinyin": "shǔ jià",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "暑假到了，天气很热。我去游泳，也吃冰淇淋。我喜欢读一本书。我去一次短途旅行。我和一个朋友玩。我感到自由，夏天很有趣。热天有冰淇淋就更好。自由的下午可以看书，也可以见朋友。这次旅行很短，可是很有趣。早上不太热的时候，我去游泳。暑假让人感到自由，我喜欢这样。",
+  "full_passage_pinyin": "shǔ jià dào le， tiān qì hěn rè。 wǒ qù yóu yǒng， yě chī bīng qí lín。 wǒ xǐ huān dú yī běn shū。 wǒ qù yī cì duǎn tú lǚ xíng。 wǒ hé yí gè péng yǒu wán。 wǒ gǎn dào zì yóu， xià tiān hěn yǒu qù。 rè tiān yǒu bīng qí lín jiù gèng hǎo。 zì yóu de xià wǔ kě yǐ kàn shū， yě kě yǐ jiàn péng yǒu。 zhè cì lǚ xíng hěn duǎn， kě shì hěn yǒu qù。 zǎo shàng bù tài rè de shí hòu， wǒ qù yóu yǒng。 shǔ jià ràng rén gǎn dào zì yóu， wǒ xǐ huān zhè yàng。"
 }

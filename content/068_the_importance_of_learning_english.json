@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "important",
-      "ko": "중요한"
+      "ko": "중요한",
+      "zh": "重要",
+      "py": "zhòng yào"
     },
     {
       "en": "English",
-      "ko": "영어"
+      "ko": "영어",
+      "zh": "英语",
+      "py": "yīng yǔ"
     },
     {
       "en": "world",
-      "ko": "세계"
+      "ko": "세계",
+      "zh": "世界",
+      "py": "shì jiè"
     },
     {
       "en": "speak",
-      "ko": "말하다"
+      "ko": "말하다",
+      "zh": "说",
+      "py": "shuō"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "song",
-      "ko": "노래"
+      "ko": "노래",
+      "zh": "歌",
+      "py": "gē"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "useful",
-      "ko": "유용한"
+      "ko": "유용한",
+      "zh": "有用",
+      "py": "yǒu yòng"
     },
     {
       "en": "step",
-      "ko": "단계"
+      "ko": "단계",
+      "zh": "一步",
+      "py": "yī bù"
     },
     {
       "en": "little",
-      "ko": "조금"
+      "ko": "조금",
+      "zh": "一点",
+      "py": "yì diǎn"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "important",
         "English"
-      ]
+      ],
+      "zh": "英语很重要。",
+      "py": "yīng yǔ hěn zhòng yào。"
     },
     {
       "en": "People speak it in the world.",
@@ -76,7 +98,9 @@
       "highlights": [
         "world",
         "speak"
-      ]
+      ],
+      "zh": "世界上有人说英语。",
+      "py": "shì jiè shàng yǒu rén shuō yīng yǔ。"
     },
     {
       "en": "I can speak with a new friend.",
@@ -84,7 +108,9 @@
       "highlights": [
         "speak",
         "friend"
-      ]
+      ],
+      "zh": "我可以和一个新朋友说英语。",
+      "py": "wǒ kě yǐ hé yí gè xīn péng yǒu shuō yīng yǔ。"
     },
     {
       "en": "I can enjoy an English song, and I can enjoy an English book.",
@@ -93,7 +119,9 @@
         "English",
         "song",
         "book"
-      ]
+      ],
+      "zh": "我可以欣赏英语歌，也可以欣赏英语书。",
+      "py": "wǒ kě yǐ xīn shǎng yīng yǔ gē， yě kě yǐ xīn shǎng yīng yǔ shū。"
     },
     {
       "en": "English is useful.",
@@ -101,14 +129,18 @@
       "highlights": [
         "English",
         "useful"
-      ]
+      ],
+      "zh": "英语很有用。",
+      "py": "yīng yǔ hěn yǒu yòng。"
     },
     {
       "en": "I learn it step by step.",
       "ko": "나는 한 단계씩 배워요.",
       "highlights": [
         "step"
-      ]
+      ],
+      "zh": "我一步一步地学。",
+      "py": "wǒ yī bù yī bù de xué。"
     },
     {
       "en": "A little English helps.",
@@ -116,7 +148,9 @@
       "highlights": [
         "English",
         "little"
-      ]
+      ],
+      "zh": "一点英语也会有帮助。",
+      "py": "yì diǎn yīng yǔ yě huì yǒu bāng zhù。"
     },
     {
       "en": "The world feels closer when I can speak.",
@@ -124,7 +158,9 @@
       "highlights": [
         "world",
         "speak"
-      ]
+      ],
+      "zh": "我能说英语的时候，世界就觉得更近。",
+      "py": "wǒ néng shuō yīng yǔ de shí hòu， shì jiè jiù jué de gèng jìn。"
     },
     {
       "en": "A song is a fun way to learn a useful word.",
@@ -132,7 +168,9 @@
       "highlights": [
         "song",
         "useful"
-      ]
+      ],
+      "zh": "唱歌是学习有用单词的有趣方法。",
+      "py": "chàng gē shì xué xí yǒu yòng dān cí de yǒu qù fāng fǎ。"
     },
     {
       "en": "Step by step, a little becomes a lot.",
@@ -140,7 +178,9 @@
       "highlights": [
         "step",
         "little"
-      ]
+      ],
+      "zh": "一步一步，一点会变成很多。",
+      "py": "yí bù yí bù， yì diǎn huì biàn chéng hěn duō。"
     },
     {
       "en": "English is important because it opens a book and a friendship.",
@@ -149,7 +189,9 @@
         "important",
         "English",
         "book"
-      ]
+      ],
+      "zh": "英语很重要，因为它打开一本书，也打开一份友谊。",
+      "py": "yīng yǔ hěn zhòng yào， yīn wèi tā dǎ kāi yī běn shū， yě dǎ kāi yī fèn yǒu yì。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "English is important. People speak it in the world. I can speak with a new friend. I can enjoy an English song, and I can enjoy an English book. English is useful. I learn it step by step. A little English helps. The world feels closer when I can speak. A song is a fun way to learn a useful word. Step by step, a little becomes a lot. English is important because it opens a book and a friendship."
+  "full_passage_spoken": "English is important. People speak it in the world. I can speak with a new friend. I can enjoy an English song, and I can enjoy an English book. English is useful. I learn it step by step. A little English helps. The world feels closer when I can speak. A song is a fun way to learn a useful word. Step by step, a little becomes a lot. English is important because it opens a book and a friendship.",
+  "topic_zh": "学英语为什么重要",
+  "topic_pinyin": "xué yīng yǔ wèi shén me zhòng yào",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "英语很重要。世界上有人说英语。我可以和一个新朋友说英语。我可以欣赏英语歌，也可以欣赏英语书。英语很有用。我一步一步地学。一点英语也会有帮助。我能说英语的时候，世界就觉得更近。唱歌是学习有用单词的有趣方法。一步一步，一点会变成很多。英语很重要，因为它打开一本书，也打开一份友谊。",
+  "full_passage_pinyin": "yīng yǔ hěn zhòng yào。 shì jiè shàng yǒu rén shuō yīng yǔ。 wǒ kě yǐ hé yí gè xīn péng yǒu shuō yīng yǔ。 wǒ kě yǐ xīn shǎng yīng yǔ gē， yě kě yǐ xīn shǎng yīng yǔ shū。 yīng yǔ hěn yǒu yòng。 wǒ yī bù yī bù de xué。 yì diǎn yīng yǔ yě huì yǒu bāng zhù。 wǒ néng shuō yīng yǔ de shí hòu， shì jiè jiù jué de gèng jìn。 chàng gē shì xué xí yǒu yòng dān cí de yǒu qù fāng fǎ。 yí bù yí bù， yì diǎn huì biàn chéng hěn duō。 yīng yǔ hěn zhòng yào， yīn wèi tā dǎ kāi yī běn shū， yě dǎ kāi yī fèn yǒu yì。"
 }

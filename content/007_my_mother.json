@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "mother",
-      "ko": "어머니"
+      "ko": "어머니",
+      "zh": "妈妈",
+      "py": "mā mā"
     },
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "busy",
-      "ko": "바쁜"
+      "ko": "바쁜",
+      "zh": "忙",
+      "py": "máng"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "breakfast",
-      "ko": "아침 식사"
+      "ko": "아침 식사",
+      "zh": "早饭",
+      "py": "zǎo fàn"
     },
     {
       "en": "hug",
-      "ko": "안아 주다"
+      "ko": "안아 주다",
+      "zh": "拥抱",
+      "py": "yōng bào"
     },
     {
       "en": "song",
-      "ko": "노래"
+      "ko": "노래",
+      "zh": "歌",
+      "py": "gē"
     },
     {
       "en": "night",
-      "ko": "밤"
+      "ko": "밤",
+      "zh": "晚上",
+      "py": "wǎn shàng"
     },
     {
       "en": "beautiful",
-      "ko": "아름다운"
+      "ko": "아름다운",
+      "zh": "美丽",
+      "py": "měi lì"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,28 +89,36 @@
         "mother",
         "teacher",
         "busy"
-      ]
+      ],
+      "zh": "我的妈妈是老师，她常常很忙。",
+      "py": "wǒ de mā mā shì lǎo shī， tā cháng cháng hěn máng。"
     },
     {
       "en": "She still has a warm smile for me.",
       "ko": "그래도 어머니는 나에게 따뜻한 미소를 지어요.",
       "highlights": [
         "smile"
-      ]
+      ],
+      "zh": "她仍然对我有温暖的微笑。",
+      "py": "tā réng rán duì wǒ yǒu wēn nuǎn de wēi xiào。"
     },
     {
       "en": "She makes breakfast before school.",
       "ko": "어머니는 학교 가기 전에 아침 식사를 만들어요.",
       "highlights": [
         "breakfast"
-      ]
+      ],
+      "zh": "上学前她做早饭。",
+      "py": "shàng xué qián tā zuò zǎo fàn。"
     },
     {
       "en": "She gives me a hug in the morning.",
       "ko": "어머니는 아침에 나를 안아 줘요.",
       "highlights": [
         "hug"
-      ]
+      ],
+      "zh": "早上她拥抱我。",
+      "py": "zǎo shàng tā yōng bào wǒ。"
     },
     {
       "en": "At night she sings a soft song.",
@@ -98,7 +126,9 @@
       "highlights": [
         "song",
         "night"
-      ]
+      ],
+      "zh": "晚上她唱一首轻柔的歌。",
+      "py": "wǎn shàng tā chàng yī shǒu qīng róu de gē。"
     },
     {
       "en": "My mother is beautiful, and I love her.",
@@ -107,24 +137,32 @@
         "mother",
         "beautiful",
         "love"
-      ]
+      ],
+      "zh": "我的妈妈很美丽，我爱她。",
+      "py": "wǒ de mā mā hěn měi lì， wǒ ài tā。"
     },
     {
       "en": "She helps my little sister with homework.",
       "ko": "어머니는 여동생 숙제를 도와줘요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "她帮助妹妹做作业。",
+      "py": "tā bāng zhù mèi mèi zuò zuò yè。"
     },
     {
       "en": "She is tired sometimes, but she still smiles.",
       "ko": "어머니는 가끔 피곤하지만 그래도 미소를 지어요.",
       "highlights": [
         "smile"
-      ]
+      ],
+      "zh": "她有时很累，可是仍然会笑。",
+      "py": "tā yǒu shí hěn lèi， kě shì réng rán huì xiào。"
     },
     {
       "en": "I say thank you because she cares for us.",
       "ko": "어머니가 우리를 돌봐 주셔서 나는 고마워요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我说谢谢，因为她照顾我们。",
+      "py": "wǒ shuō xiè xiè， yīn wèi tā zhào gù wǒ men。"
     },
     {
       "en": "I want to be a kind teacher like my mother.",
@@ -132,7 +170,9 @@
       "highlights": [
         "mother",
         "teacher"
-      ]
+      ],
+      "zh": "我想成为像妈妈一样善良的老师。",
+      "py": "wǒ xiǎng chéng wéi xiàng mā mā yī yàng shàn liáng de lǎo shī。"
     },
     {
       "en": "At night I hug her and say good night.",
@@ -140,7 +180,9 @@
       "highlights": [
         "hug",
         "night"
-      ]
+      ],
+      "zh": "晚上我拥抱她，说晚安。",
+      "py": "wǎn shàng wǒ yōng bào tā， shuō wǎn ān。"
     }
   ],
   "full_passage_lines": [
@@ -225,5 +267,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My mother is a teacher, and she is often busy. She still has a warm smile for me. She makes breakfast before school. She gives me a hug in the morning. At night she sings a soft song. My mother is beautiful, and I love her. She helps my little sister with homework. She is tired sometimes, but she still smiles. I say thank you because she cares for us. I want to be a kind teacher like my mother. At night I hug her and say good night."
+  "full_passage_spoken": "My mother is a teacher, and she is often busy. She still has a warm smile for me. She makes breakfast before school. She gives me a hug in the morning. At night she sings a soft song. My mother is beautiful, and I love her. She helps my little sister with homework. She is tired sometimes, but she still smiles. I say thank you because she cares for us. I want to be a kind teacher like my mother. At night I hug her and say good night.",
+  "topic_zh": "我的妈妈",
+  "topic_pinyin": "wǒ de mā mā",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的妈妈是老师，她常常很忙。她仍然对我有温暖的微笑。上学前她做早饭。早上她拥抱我。晚上她唱一首轻柔的歌。我的妈妈很美丽，我爱她。她帮助妹妹做作业。她有时很累，可是仍然会笑。我说谢谢，因为她照顾我们。我想成为像妈妈一样善良的老师。晚上我拥抱她，说晚安。",
+  "full_passage_pinyin": "wǒ de mā mā shì lǎo shī， tā cháng cháng hěn máng。 tā réng rán duì wǒ yǒu wēn nuǎn de wēi xiào。 shàng xué qián tā zuò zǎo fàn。 zǎo shàng tā yōng bào wǒ。 wǎn shàng tā chàng yī shǒu qīng róu de gē。 wǒ de mā mā hěn měi lì， wǒ ài tā。 tā bāng zhù mèi mèi zuò zuò yè。 tā yǒu shí hěn lèi， kě shì réng rán huì xiào。 wǒ shuō xiè xiè， yīn wèi tā zhào gù wǒ men。 wǒ xiǎng chéng wéi xiàng mā mā yī yàng shàn liáng de lǎo shī。 wǎn shàng wǒ yōng bào tā， shuō wǎn ān。"
 }

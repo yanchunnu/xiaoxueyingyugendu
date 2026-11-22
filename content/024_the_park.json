@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "nearby",
-      "ko": "가까운"
+      "ko": "가까운",
+      "zh": "附近",
+      "py": "fù jìn"
     },
     {
       "en": "tree",
-      "ko": "나무"
+      "ko": "나무",
+      "zh": "树",
+      "py": "shù"
     },
     {
       "en": "bench",
-      "ko": "벤치"
+      "ko": "벤치",
+      "zh": "板凳",
+      "py": "bǎn dèng"
     },
     {
       "en": "path",
-      "ko": "길"
+      "ko": "길",
+      "zh": "小路",
+      "py": "xiǎo lù"
     },
     {
       "en": "flower",
-      "ko": "꽃"
+      "ko": "꽃",
+      "zh": "花",
+      "py": "huā"
     },
     {
       "en": "bird",
-      "ko": "새"
+      "ko": "새",
+      "zh": "鸟",
+      "py": "niǎo"
     },
     {
       "en": "swing",
-      "ko": "그네"
+      "ko": "그네",
+      "zh": "秋千",
+      "py": "qiū qiān"
     },
     {
       "en": "grass",
-      "ko": "풀"
+      "ko": "풀",
+      "zh": "草",
+      "py": "cǎo"
     },
     {
       "en": "green",
-      "ko": "초록색"
+      "ko": "초록색",
+      "zh": "绿色",
+      "py": "lǜ sè"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "park",
         "nearby"
-      ]
+      ],
+      "zh": "公园就在附近，我常常去。",
+      "py": "gōng yuán jiù zài fù jìn， wǒ cháng cháng qù。"
     },
     {
       "en": "There are many trees, and the grass is green.",
@@ -77,7 +99,9 @@
         "tree",
         "grass",
         "green"
-      ]
+      ],
+      "zh": "那里有许多树，草是绿色的。",
+      "py": "nà lǐ yǒu xǔ duō shù， cǎo shì lǜ sè de。"
     },
     {
       "en": "I sit on a bench and watch a bird.",
@@ -85,14 +109,18 @@
       "highlights": [
         "bench",
         "bird"
-      ]
+      ],
+      "zh": "我坐在板凳上看一只鸟。",
+      "py": "wǒ zuò zài bǎn dèng shàng kàn yī zhī niǎo。"
     },
     {
       "en": "I walk on the path with my little sister.",
       "ko": "나는 여동생과 길을 따라 걸어요.",
       "highlights": [
         "path"
-      ]
+      ],
+      "zh": "我和妹妹走在小路上。",
+      "py": "wǒ hé mèi mèi zǒu zài xiǎo lù shàng。"
     },
     {
       "en": "I see a flower, and I play on the swing.",
@@ -100,7 +128,9 @@
       "highlights": [
         "flower",
         "swing"
-      ]
+      ],
+      "zh": "我看见一朵花，也去荡秋千。",
+      "py": "wǒ kàn jiàn yī duǒ huā， yě qù dàng qiū qiān。"
     },
     {
       "en": "The green grass is soft under my shoes.",
@@ -108,7 +138,9 @@
       "highlights": [
         "grass",
         "green"
-      ]
+      ],
+      "zh": "绿色的草在我的鞋下很柔软。",
+      "py": "lǜ sè de cǎo zài wǒ de xié xià hěn róu ruǎn。"
     },
     {
       "en": "A bird sings in the tree.",
@@ -116,14 +148,18 @@
       "highlights": [
         "tree",
         "bird"
-      ]
+      ],
+      "zh": "一只鸟在树上唱歌。",
+      "py": "yī zhī niǎo zài shù shàng chàng gē。"
     },
     {
       "en": "My brother plays ball along the path.",
       "ko": "오빠는 길을 따라 공을 가지고 놀아요.",
       "highlights": [
         "path"
-      ]
+      ],
+      "zh": "哥哥沿着小路玩球。",
+      "py": "gē gē yán zhe xiǎo lù wán qiú。"
     },
     {
       "en": "We like this park because it is nearby.",
@@ -131,21 +167,27 @@
       "highlights": [
         "park",
         "nearby"
-      ]
+      ],
+      "zh": "我们喜欢这个公园，因为它就在附近。",
+      "py": "wǒ men xǐ huān zhè ge gōng yuán， yīn wèi tā jiù zài fù jìn。"
     },
     {
       "en": "I rest on the bench when I am tired.",
       "ko": "피곤하면 나는 벤치에서 쉬어요.",
       "highlights": [
         "bench"
-      ]
+      ],
+      "zh": "我累了就在板凳上休息。",
+      "py": "wǒ lèi le jiù zài bǎn dèng shàng xiū xī。"
     },
     {
       "en": "The park is my favorite place after school.",
       "ko": "공원은 방과 후에 내가 가장 좋아하는 곳이에요.",
       "highlights": [
         "park"
-      ]
+      ],
+      "zh": "公园是我放学后最喜欢的地方。",
+      "py": "gōng yuán shì wǒ fàng xué hòu zuì xǐ huān de dì fāng。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "The park is nearby, and I go there often. There are many trees, and the grass is green. I sit on a bench and watch a bird. I walk on the path with my little sister. I see a flower, and I play on the swing. The green grass is soft under my shoes. A bird sings in the tree. My brother plays ball along the path. We like this park because it is nearby. I rest on the bench when I am tired. The park is my favorite place after school."
+  "full_passage_spoken": "The park is nearby, and I go there often. There are many trees, and the grass is green. I sit on a bench and watch a bird. I walk on the path with my little sister. I see a flower, and I play on the swing. The green grass is soft under my shoes. A bird sings in the tree. My brother plays ball along the path. We like this park because it is nearby. I rest on the bench when I am tired. The park is my favorite place after school.",
+  "topic_zh": "公园",
+  "topic_pinyin": "gōng yuán",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "公园就在附近，我常常去。那里有许多树，草是绿色的。我坐在板凳上看一只鸟。我和妹妹走在小路上。我看见一朵花，也去荡秋千。绿色的草在我的鞋下很柔软。一只鸟在树上唱歌。哥哥沿着小路玩球。我们喜欢这个公园，因为它就在附近。我累了就在板凳上休息。公园是我放学后最喜欢的地方。",
+  "full_passage_pinyin": "gōng yuán jiù zài fù jìn， wǒ cháng cháng qù。 nà lǐ yǒu xǔ duō shù， cǎo shì lǜ sè de。 wǒ zuò zài bǎn dèng shàng kàn yī zhī niǎo。 wǒ hé mèi mèi zǒu zài xiǎo lù shàng。 wǒ kàn jiàn yī duǒ huā， yě qù dàng qiū qiān。 lǜ sè de cǎo zài wǒ de xié xià hěn róu ruǎn。 yī zhī niǎo zài shù shàng chàng gē。 gē gē yán zhe xiǎo lù wán qiú。 wǒ men xǐ huān zhè ge gōng yuán， yīn wèi tā jiù zài fù jìn。 wǒ lèi le jiù zài bǎn dèng shàng xiū xī。 gōng yuán shì wǒ fàng xué hòu zuì xǐ huān de dì fāng。"
 }

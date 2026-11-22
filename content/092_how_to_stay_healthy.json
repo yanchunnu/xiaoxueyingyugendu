@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "stay",
-      "ko": "유지하다"
+      "ko": "유지하다",
+      "zh": "保持",
+      "py": "bǎo chí"
     },
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "water",
-      "ko": "물"
+      "ko": "물",
+      "zh": "水",
+      "py": "shuǐ"
     },
     {
       "en": "play",
-      "ko": "놀다"
+      "ko": "놀다",
+      "zh": "玩",
+      "py": "wán"
     },
     {
       "en": "outside",
-      "ko": "바깥"
+      "ko": "바깥",
+      "zh": "外面",
+      "py": "wài miàn"
     },
     {
       "en": "screen",
-      "ko": "화면"
+      "ko": "화면",
+      "zh": "屏幕",
+      "py": "píng mù"
     },
     {
       "en": "long",
-      "ko": "긴"
+      "ko": "긴",
+      "zh": "很长",
+      "py": "hěn cháng"
     },
     {
       "en": "rest",
-      "ko": "쉬다"
+      "ko": "쉬다",
+      "zh": "休息",
+      "py": "xiū xī"
     },
     {
       "en": "tired",
-      "ko": "피곤한"
+      "ko": "피곤한",
+      "zh": "累",
+      "py": "lèi"
     },
     {
       "en": "care",
-      "ko": "돌보다"
+      "ko": "돌보다",
+      "zh": "照顾",
+      "py": "zhào gù"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "stay",
         "healthy"
-      ]
+      ],
+      "zh": "我怎样才能保持健康？",
+      "py": "wǒ zěn yàng cái néng bǎo chí jiàn kāng？"
     },
     {
       "en": "I drink water.",
       "ko": "나는 물을 마셔요.",
       "highlights": [
         "water"
-      ]
+      ],
+      "zh": "我喝水。",
+      "py": "wǒ hē shuǐ。"
     },
     {
       "en": "I play outside.",
@@ -83,7 +107,9 @@
       "highlights": [
         "play",
         "outside"
-      ]
+      ],
+      "zh": "我在外面玩。",
+      "py": "wǒ zài wài miàn wán。"
     },
     {
       "en": "I do not look at a screen for too long.",
@@ -91,7 +117,9 @@
       "highlights": [
         "screen",
         "long"
-      ]
+      ],
+      "zh": "我看屏幕的时间不会太长。",
+      "py": "wǒ kàn píng mù de shí jiān bú huì tài cháng。"
     },
     {
       "en": "I rest when I am tired.",
@@ -99,19 +127,25 @@
       "highlights": [
         "rest",
         "tired"
-      ]
+      ],
+      "zh": "我累了就休息。",
+      "py": "wǒ lèi le jiù xiū xī。"
     },
     {
       "en": "I care for my body.",
       "ko": "나는 나의 몸을 돌봐요.",
       "highlights": [
         "care"
-      ]
+      ],
+      "zh": "我照顾自己的身体。",
+      "py": "wǒ zhào gù zì jǐ de shēn tǐ。"
     },
     {
       "en": "I can start today.",
       "ko": "나는 오늘부터 할 수 있어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我可以今天就开始。",
+      "py": "wǒ kě yǐ jīn tiān jiù kāi shǐ。"
     },
     {
       "en": "Playing outside is better than a long time on a screen.",
@@ -121,7 +155,9 @@
         "outside",
         "screen",
         "long"
-      ]
+      ],
+      "zh": "在外面玩，比长时间看屏幕更好。",
+      "py": "zài wài miàn wán， bǐ zhǎng shí jiān kàn píng mù gèng hǎo。"
     },
     {
       "en": "When I am tired, rest helps me stay healthy.",
@@ -131,7 +167,9 @@
         "healthy",
         "rest",
         "tired"
-      ]
+      ],
+      "zh": "我累的时候，休息帮助我保持健康。",
+      "py": "wǒ lèi de shí hòu， xiū xī bāng zhù wǒ bǎo chí jiàn kāng。"
     },
     {
       "en": "I care for my body with water, play, and rest.",
@@ -141,12 +179,16 @@
         "play",
         "rest",
         "care"
-      ]
+      ],
+      "zh": "我用水、玩耍和休息来照顾身体。",
+      "py": "wǒ yòng shuǐ、 wán shuǎ hé xiū xī lái zhào gù shēn tǐ。"
     },
     {
       "en": "Today is a good day to start.",
       "ko": "오늘은 시작하기 좋은 날이에요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "今天是开始的好日子。",
+      "py": "jīn tiān shì kāi shǐ de hǎo rì zi。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       "highlights": []
     }
   ],
-  "full_passage_spoken": "How can I stay healthy? I drink water. I play outside. I do not look at a screen for too long. I rest when I am tired. I care for my body. I can start today. Playing outside is better than a long time on a screen. When I am tired, rest helps me stay healthy. I care for my body with water, play, and rest. Today is a good day to start."
+  "full_passage_spoken": "How can I stay healthy? I drink water. I play outside. I do not look at a screen for too long. I rest when I am tired. I care for my body. I can start today. Playing outside is better than a long time on a screen. When I am tired, rest helps me stay healthy. I care for my body with water, play, and rest. Today is a good day to start.",
+  "topic_zh": "怎样保持健康",
+  "topic_pinyin": "zěn yàng bǎo chí jiàn kāng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我怎样才能保持健康？我喝水。我在外面玩。我看屏幕的时间不会太长。我累了就休息。我照顾自己的身体。我可以今天就开始。在外面玩，比长时间看屏幕更好。我累的时候，休息帮助我保持健康。我用水、玩耍和休息来照顾身体。今天是开始的好日子。",
+  "full_passage_pinyin": "wǒ zěn yàng cái néng bǎo chí jiàn kāng？ wǒ hē shuǐ。 wǒ zài wài miàn wán。 wǒ kàn píng mù de shí jiān bú huì tài cháng。 wǒ lèi le jiù xiū xī。 wǒ zhào gù zì jǐ de shēn tǐ。 wǒ kě yǐ jīn tiān jiù kāi shǐ。 zài wài miàn wán， bǐ zhǎng shí jiān kàn píng mù gèng hǎo。 wǒ lèi de shí hòu， xiū xī bāng zhù wǒ bǎo chí jiàn kāng。 wǒ yòng shuǐ、 wán shuǎ hé xiū xī lái zhào gù shēn tǐ。 jīn tiān shì kāi shǐ de hǎo rì zi。"
 }

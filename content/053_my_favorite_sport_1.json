@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "sport",
-      "ko": "운동"
+      "ko": "운동",
+      "zh": "运动",
+      "py": "yùn dòng"
     },
     {
       "en": "soccer",
-      "ko": "축구"
+      "ko": "축구",
+      "zh": "足球",
+      "py": "zú qiú"
     },
     {
       "en": "kick",
-      "ko": "차다"
+      "ko": "차다",
+      "zh": "踢",
+      "py": "tī"
     },
     {
       "en": "ball",
-      "ko": "공"
+      "ko": "공",
+      "zh": "球",
+      "py": "qiú"
     },
     {
       "en": "team",
-      "ko": "팀"
+      "ko": "팀",
+      "zh": "队",
+      "py": "duì"
     },
     {
       "en": "goal",
-      "ko": "골"
+      "ko": "골",
+      "zh": "进球",
+      "py": "jìn qiú"
     },
     {
       "en": "practice",
-      "ko": "연습하다"
+      "ko": "연습하다",
+      "zh": "练习",
+      "py": "liàn xí"
     },
     {
       "en": "Saturday",
-      "ko": "토요일"
+      "ko": "토요일",
+      "zh": "星期六",
+      "py": "xīng qī liù"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "favorite",
         "sport",
         "soccer"
-      ]
+      ],
+      "zh": "我最喜欢的运动是足球。",
+      "py": "wǒ zuì xǐ huān de yùn dòng shì zú qiú。"
     },
     {
       "en": "I kick the ball.",
@@ -77,21 +99,27 @@
       "highlights": [
         "kick",
         "ball"
-      ]
+      ],
+      "zh": "我踢球。",
+      "py": "wǒ tī qiú。"
     },
     {
       "en": "I run with my team.",
       "ko": "나는 팀과 함께 달려요.",
       "highlights": [
         "team"
-      ]
+      ],
+      "zh": "我和我的队一起跑。",
+      "py": "wǒ hé wǒ de duì yì qǐ pǎo。"
     },
     {
       "en": "We try to make a goal.",
       "ko": "우리는 골을 넣으려고 해요.",
       "highlights": [
         "goal"
-      ]
+      ],
+      "zh": "我们努力把球踢进球门。",
+      "py": "wǒ men nǔ lì bǎ qiú tī jìn qiú mén。"
     },
     {
       "en": "We practice on Saturday.",
@@ -99,7 +127,9 @@
       "highlights": [
         "practice",
         "Saturday"
-      ]
+      ],
+      "zh": "我们星期六练习。",
+      "py": "wǒ men xīng qī liù liàn xí。"
     },
     {
       "en": "I play with my friend, and I like this sport.",
@@ -107,7 +137,9 @@
       "highlights": [
         "sport",
         "friend"
-      ]
+      ],
+      "zh": "我和朋友一起玩，我喜欢这项运动。",
+      "py": "wǒ hé péng yǒu yì qǐ wán， wǒ xǐ huān zhè xiàng yùn dòng。"
     },
     {
       "en": "A good team passes the ball.",
@@ -115,14 +147,18 @@
       "highlights": [
         "ball",
         "team"
-      ]
+      ],
+      "zh": "好的队伍会传球。",
+      "py": "hǎo de duì wǔ huì chuán qiú。"
     },
     {
       "en": "I kick hard, but I also play fair.",
       "ko": "나는 세게 차지만, 공정하게도 해요.",
       "highlights": [
         "kick"
-      ]
+      ],
+      "zh": "我踢得很有力，可是也踢得很公平。",
+      "py": "wǒ tī de hěn yǒu lì， kě shì yě tī de hěn gōng píng。"
     },
     {
       "en": "Saturday practice makes us better.",
@@ -130,7 +166,9 @@
       "highlights": [
         "practice",
         "Saturday"
-      ]
+      ],
+      "zh": "星期六的练习让我们变得更好。",
+      "py": "xīng qī liù de liàn xí ràng wǒ men biàn de gèng hǎo。"
     },
     {
       "en": "My friend cheers when we make a goal.",
@@ -138,7 +176,9 @@
       "highlights": [
         "goal",
         "friend"
-      ]
+      ],
+      "zh": "我们进球的时候，朋友为我们加油。",
+      "py": "wǒ men jìn qiú de shí hòu， péng yǒu wèi wǒ men jiā yóu。"
     },
     {
       "en": "Soccer is my favorite sport because it is exciting.",
@@ -147,7 +187,9 @@
         "favorite",
         "sport",
         "soccer"
-      ]
+      ],
+      "zh": "足球很令人兴奋，所以它是我最喜欢的运动。",
+      "py": "zú qiú hěn lìng rén xīng fèn， suǒ yǐ tā shì wǒ zuì xǐ huān de yùn dòng。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite sport is soccer. I kick the ball. I run with my team. We try to make a goal. We practice on Saturday. I play with my friend, and I like this sport. A good team passes the ball. I kick hard, but I also play fair. Saturday practice makes us better. My friend cheers when we make a goal. Soccer is my favorite sport because it is exciting."
+  "full_passage_spoken": "My favorite sport is soccer. I kick the ball. I run with my team. We try to make a goal. We practice on Saturday. I play with my friend, and I like this sport. A good team passes the ball. I kick hard, but I also play fair. Saturday practice makes us better. My friend cheers when we make a goal. Soccer is my favorite sport because it is exciting.",
+  "topic_zh": "我最喜欢的运动（一）",
+  "topic_pinyin": "wǒ zuì xǐ huān de yùn dòng（ yī）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的运动是足球。我踢球。我和我的队一起跑。我们努力把球踢进球门。我们星期六练习。我和朋友一起玩，我喜欢这项运动。好的队伍会传球。我踢得很有力，可是也踢得很公平。星期六的练习让我们变得更好。我们进球的时候，朋友为我们加油。足球很令人兴奋，所以它是我最喜欢的运动。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de yùn dòng shì zú qiú。 wǒ tī qiú。 wǒ hé wǒ de duì yì qǐ pǎo。 wǒ men nǔ lì bǎ qiú tī jìn qiú mén。 wǒ men xīng qī liù liàn xí。 wǒ hé péng yǒu yì qǐ wán， wǒ xǐ huān zhè xiàng yùn dòng。 hǎo de duì wǔ huì chuán qiú。 wǒ tī de hěn yǒu lì， kě shì yě tī de hěn gōng píng。 xīng qī liù de liàn xí ràng wǒ men biàn de gèng hǎo。 wǒ men jìn qiú de shí hòu， péng yǒu wèi wǒ men jiā yóu。 zú qiú hěn lìng rén xīng fèn， suǒ yǐ tā shì wǒ zuì xǐ huān de yùn dòng。"
 }

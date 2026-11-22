@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "meaning",
-      "ko": "의미"
+      "ko": "의미",
+      "zh": "意义",
+      "py": "yì yì"
     },
     {
       "en": "learn",
-      "ko": "배우다"
+      "ko": "배우다",
+      "zh": "学",
+      "py": "xué"
     },
     {
       "en": "know",
-      "ko": "알다"
+      "ko": "알다",
+      "zh": "知道",
+      "py": "zhī dào"
     },
     {
       "en": "new",
-      "ko": "새로운"
+      "ko": "새로운",
+      "zh": "新",
+      "py": "xīn"
     },
     {
       "en": "grow",
-      "ko": "자라다"
+      "ko": "자라다",
+      "zh": "成长",
+      "py": "chéng zhǎng"
     },
     {
       "en": "day",
-      "ko": "하루"
+      "ko": "하루",
+      "zh": "一天",
+      "py": "yī tiān"
     },
     {
       "en": "mistake",
-      "ko": "실수"
+      "ko": "실수",
+      "zh": "错误",
+      "py": "cuò wù"
     },
     {
       "en": "try",
-      "ko": "해 보다"
+      "ko": "해 보다",
+      "zh": "再试",
+      "py": "zài shì"
     },
     {
       "en": "question",
-      "ko": "질문"
+      "ko": "질문",
+      "zh": "问题",
+      "py": "wèn tí"
     },
     {
       "en": "better",
-      "ko": "더 나아진"
+      "ko": "더 나아진",
+      "zh": "更好",
+      "py": "gèng hǎo"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "meaning",
         "learn"
-      ]
+      ],
+      "zh": "学习的意义是什么？",
+      "py": "xué xí de yì yì shì shén me？"
     },
     {
       "en": "The meaning is to know new things.",
@@ -77,7 +99,9 @@
         "meaning",
         "know",
         "new"
-      ]
+      ],
+      "zh": "意义就是知道新的事情。",
+      "py": "yì yì jiù shì zhī dào xīn de shì qíng。"
     },
     {
       "en": "I grow a little every day.",
@@ -85,7 +109,9 @@
       "highlights": [
         "grow",
         "day"
-      ]
+      ],
+      "zh": "我每天成长一点点。",
+      "py": "wǒ měi tiān chéng zhǎng yì diǎn diǎn。"
     },
     {
       "en": "I make a mistake, and then I try again.",
@@ -93,14 +119,18 @@
       "highlights": [
         "mistake",
         "try"
-      ]
+      ],
+      "zh": "我犯了一个错误，然后再试一次。",
+      "py": "wǒ fàn le yí gè cuò wù， rán hòu zài shì yī cì。"
     },
     {
       "en": "I ask a question.",
       "ko": "나는 질문을 해요.",
       "highlights": [
         "question"
-      ]
+      ],
+      "zh": "我提出一个问题。",
+      "py": "wǒ tí chū yí gè wèn tí。"
     },
     {
       "en": "I get better, and I learn every day.",
@@ -109,7 +139,9 @@
         "learn",
         "day",
         "better"
-      ]
+      ],
+      "zh": "我变得更好，也每天学习。",
+      "py": "wǒ biàn de gèng hǎo， yě měi tiān xué xí。"
     },
     {
       "en": "A mistake is not the end of the day.",
@@ -117,7 +149,9 @@
       "highlights": [
         "day",
         "mistake"
-      ]
+      ],
+      "zh": "错误不是一天的结束。",
+      "py": "cuò wù bú shì yī tiān de jié shù。"
     },
     {
       "en": "I try again because I want to know more.",
@@ -125,7 +159,9 @@
       "highlights": [
         "know",
         "try"
-      ]
+      ],
+      "zh": "我想知道更多，所以我再试一次。",
+      "py": "wǒ xiǎng zhī dào gèng duō， suǒ yǐ wǒ zài shì yī cì。"
     },
     {
       "en": "A good question helps me learn.",
@@ -133,14 +169,18 @@
       "highlights": [
         "learn",
         "question"
-      ]
+      ],
+      "zh": "一个好问题帮助我学习。",
+      "py": "yí gè hǎo wèn tí bāng zhù wǒ xué xí。"
     },
     {
       "en": "I get better when I do not give up.",
       "ko": "포기하지 않으면 나는 더 나아져요.",
       "highlights": [
         "better"
-      ]
+      ],
+      "zh": "我不放弃的时候，就会变得更好。",
+      "py": "wǒ bù fàng qì de shí hòu， jiù huì biàn de gèng hǎo。"
     },
     {
       "en": "The meaning of learning is to grow.",
@@ -149,7 +189,9 @@
         "meaning",
         "learn",
         "grow"
-      ]
+      ],
+      "zh": "学习的意义就是成长。",
+      "py": "xué xí de yì yì jiù shì chéng zhǎng。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "What is the meaning of learning? The meaning is to know new things. I grow a little every day. I make a mistake, and then I try again. I ask a question. I get better, and I learn every day. A mistake is not the end of the day. I try again because I want to know more. A good question helps me learn. I get better when I do not give up. The meaning of learning is to grow."
+  "full_passage_spoken": "What is the meaning of learning? The meaning is to know new things. I grow a little every day. I make a mistake, and then I try again. I ask a question. I get better, and I learn every day. A mistake is not the end of the day. I try again because I want to know more. A good question helps me learn. I get better when I do not give up. The meaning of learning is to grow.",
+  "topic_zh": "学习的意义",
+  "topic_pinyin": "xué xí de yì yì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "学习的意义是什么？意义就是知道新的事情。我每天成长一点点。我犯了一个错误，然后再试一次。我提出一个问题。我变得更好，也每天学习。错误不是一天的结束。我想知道更多，所以我再试一次。一个好问题帮助我学习。我不放弃的时候，就会变得更好。学习的意义就是成长。",
+  "full_passage_pinyin": "xué xí de yì yì shì shén me？ yì yì jiù shì zhī dào xīn de shì qíng。 wǒ měi tiān chéng zhǎng yì diǎn diǎn。 wǒ fàn le yí gè cuò wù， rán hòu zài shì yī cì。 wǒ tí chū yí gè wèn tí。 wǒ biàn de gèng hǎo， yě měi tiān xué xí。 cuò wù bú shì yī tiān de jié shù。 wǒ xiǎng zhī dào gèng duō， suǒ yǐ wǒ zài shì yī cì。 yí gè hǎo wèn tí bāng zhù wǒ xué xí。 wǒ bù fàng qì de shí hòu， jiù huì biàn de gèng hǎo。 xué xí de yì yì jiù shì chéng zhǎng。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "fishing",
-      "ko": "낚시"
+      "ko": "낚시",
+      "zh": "钓鱼",
+      "py": "diào yú"
     },
     {
       "en": "grandpa",
-      "ko": "할아버지"
+      "ko": "할아버지",
+      "zh": "爷爷",
+      "py": "yé yé"
     },
     {
       "en": "lake",
-      "ko": "호수"
+      "ko": "호수",
+      "zh": "湖",
+      "py": "hú"
     },
     {
       "en": "rod",
-      "ko": "낚싯대"
+      "ko": "낚싯대",
+      "zh": "鱼竿",
+      "py": "yú gān"
     },
     {
       "en": "wait",
-      "ko": "기다리다"
+      "ko": "기다리다",
+      "zh": "等",
+      "py": "děng"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "catch",
-      "ko": "잡다"
+      "ko": "잡다",
+      "zh": "钓到",
+      "py": "diào dào"
     },
     {
       "en": "fish",
-      "ko": "물고기"
+      "ko": "물고기",
+      "zh": "鱼",
+      "py": "yú"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "patient",
-      "ko": "참을성 있는"
+      "ko": "참을성 있는",
+      "zh": "有耐心",
+      "py": "yǒu nài xīn"
     }
   ],
   "phrases": [
@@ -69,21 +89,27 @@
         "fishing",
         "grandpa",
         "fish"
-      ]
+      ],
+      "zh": "我和爷爷一起去钓鱼。",
+      "py": "wǒ hé yé yé yì qǐ qù diào yú。"
     },
     {
       "en": "We sit by the lake.",
       "ko": "우리는 호숫가에 앉아요.",
       "highlights": [
         "lake"
-      ]
+      ],
+      "zh": "我们坐在湖边。",
+      "py": "wǒ men zuò zài hú biān。"
     },
     {
       "en": "I hold a rod.",
       "ko": "나는 낚싯대를 잡아요.",
       "highlights": [
         "rod"
-      ]
+      ],
+      "zh": "我拿着鱼竿。",
+      "py": "wǒ ná zhe yú gān。"
     },
     {
       "en": "We wait, and we are quiet.",
@@ -91,7 +117,9 @@
       "highlights": [
         "wait",
         "quiet"
-      ]
+      ],
+      "zh": "我们等着，也很安静。",
+      "py": "wǒ men děng zhe， yě hěn ān jìng。"
     },
     {
       "en": "I catch a small fish.",
@@ -99,7 +127,9 @@
       "highlights": [
         "catch",
         "fish"
-      ]
+      ],
+      "zh": "我钓到一条小鱼。",
+      "py": "wǒ diào dào yī tiáo xiǎo yú。"
     },
     {
       "en": "Grandpa has a smile.",
@@ -107,7 +137,9 @@
       "highlights": [
         "grandpa",
         "smile"
-      ]
+      ],
+      "zh": "爷爷露出微笑。",
+      "py": "yé yé lù chū wēi xiào。"
     },
     {
       "en": "Fishing makes me patient.",
@@ -116,14 +148,18 @@
         "fishing",
         "fish",
         "patient"
-      ]
+      ],
+      "zh": "钓鱼让我变得有耐心。",
+      "py": "diào yú ràng wǒ biàn de yǒu nài xīn。"
     },
     {
       "en": "The lake is calm in the morning.",
       "ko": "아침의 호수는 잔잔해요.",
       "highlights": [
         "lake"
-      ]
+      ],
+      "zh": "早上的湖很平静。",
+      "py": "zǎo shàng de hú hěn píng jìng。"
     },
     {
       "en": "A patient person can wait with a rod.",
@@ -132,7 +168,9 @@
         "rod",
         "wait",
         "patient"
-      ]
+      ],
+      "zh": "有耐心的人可以拿着鱼竿等。",
+      "py": "yǒu nài xīn de rén kě yǐ ná zhe yú gān děng。"
     },
     {
       "en": "The small fish goes back into the lake.",
@@ -140,7 +178,9 @@
       "highlights": [
         "lake",
         "fish"
-      ]
+      ],
+      "zh": "小鱼回到湖里。",
+      "py": "xiǎo yú huí dào hú lǐ。"
     },
     {
       "en": "Grandpa's smile says I did well.",
@@ -148,7 +188,9 @@
       "highlights": [
         "grandpa",
         "smile"
-      ]
+      ],
+      "zh": "爷爷的微笑是在说我做得好。",
+      "py": "yé yé de wēi xiào shì zài shuō wǒ zuò de hǎo。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I go fishing with my grandpa. We sit by the lake. I hold a rod. We wait, and we are quiet. I catch a small fish. Grandpa has a smile. Fishing makes me patient. The lake is calm in the morning. A patient person can wait with a rod. The small fish goes back into the lake. Grandpa's smile says I did well."
+  "full_passage_spoken": "I go fishing with my grandpa. We sit by the lake. I hold a rod. We wait, and we are quiet. I catch a small fish. Grandpa has a smile. Fishing makes me patient. The lake is calm in the morning. A patient person can wait with a rod. The small fish goes back into the lake. Grandpa's smile says I did well.",
+  "topic_zh": "去钓鱼",
+  "topic_pinyin": "qù diào yú",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我和爷爷一起去钓鱼。我们坐在湖边。我拿着鱼竿。我们等着，也很安静。我钓到一条小鱼。爷爷露出微笑。钓鱼让我变得有耐心。早上的湖很平静。有耐心的人可以拿着鱼竿等。小鱼回到湖里。爷爷的微笑是在说我做得好。",
+  "full_passage_pinyin": "wǒ hé yé yé yì qǐ qù diào yú。 wǒ men zuò zài hú biān。 wǒ ná zhe yú gān。 wǒ men děng zhe， yě hěn ān jìng。 wǒ diào dào yī tiáo xiǎo yú。 yé yé lù chū wēi xiào。 diào yú ràng wǒ biàn de yǒu nài xīn。 zǎo shàng de hú hěn píng jìng。 yǒu nài xīn de rén kě yǐ ná zhe yú gān děng。 xiǎo yú huí dào hú lǐ。 yé yé de wēi xiào shì zài shuō wǒ zuò de hǎo。"
 }

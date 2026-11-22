@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "garden",
-      "ko": "정원"
+      "ko": "정원",
+      "zh": "花园",
+      "py": "huā yuán"
     },
     {
       "en": "plant",
-      "ko": "심다"
+      "ko": "심다",
+      "zh": "种菜",
+      "py": "zhòng cài"
     },
     {
       "en": "seed",
-      "ko": "씨"
+      "ko": "씨",
+      "zh": "种子",
+      "py": "zhǒng zi"
     },
     {
       "en": "soil",
-      "ko": "흙"
+      "ko": "흙",
+      "zh": "土",
+      "py": "tǔ"
     },
     {
       "en": "water",
-      "ko": "물을 주다"
+      "ko": "물을 주다",
+      "zh": "浇水",
+      "py": "jiāo shuǐ"
     },
     {
       "en": "leaf",
-      "ko": "잎"
+      "ko": "잎",
+      "zh": "叶子",
+      "py": "yè zi"
     },
     {
       "en": "green",
-      "ko": "초록색"
+      "ko": "초록색",
+      "zh": "绿色",
+      "py": "lǜ sè"
     },
     {
       "en": "tomato",
-      "ko": "토마토"
+      "ko": "토마토",
+      "zh": "西红柿",
+      "py": "xī hóng shì"
     },
     {
       "en": "sunny",
-      "ko": "햇빛이 좋은"
+      "ko": "햇빛이 좋은",
+      "zh": "阳光好",
+      "py": "yáng guāng hǎo"
     },
     {
       "en": "grow",
-      "ko": "자라다"
+      "ko": "자라다",
+      "zh": "长大",
+      "py": "zhǎng dà"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "plant",
         "seed",
         "soil"
-      ]
+      ],
+      "zh": "我们有一个小花园，我把种子种在土里。",
+      "py": "wǒ men yǒu yí gè xiǎo huā yuán， wǒ bǎ zhǒng zi zhòng zài tǔ lǐ。"
     },
     {
       "en": "I water the seed.",
@@ -78,7 +100,9 @@
       "highlights": [
         "seed",
         "water"
-      ]
+      ],
+      "zh": "我给种子浇水。",
+      "py": "wǒ gěi zhǒng zi jiāo shuǐ。"
     },
     {
       "en": "A green leaf grows.",
@@ -87,14 +111,18 @@
         "leaf",
         "green",
         "grow"
-      ]
+      ],
+      "zh": "一片绿色的叶子长出来了。",
+      "py": "yī piàn lǜ sè de yè zi zhǎng chū lái le。"
     },
     {
       "en": "A tomato turns red.",
       "ko": "토마토가 빨갛게 변해요.",
       "highlights": [
         "tomato"
-      ]
+      ],
+      "zh": "西红柿变红了。",
+      "py": "xī hóng shì biàn hóng le。"
     },
     {
       "en": "The garden is sunny.",
@@ -102,14 +130,18 @@
       "highlights": [
         "garden",
         "sunny"
-      ]
+      ],
+      "zh": "花园里阳光很好。",
+      "py": "huā yuán lǐ yáng guāng hěn hǎo。"
     },
     {
       "en": "I like to grow food.",
       "ko": "나는 먹을 것을 기르는 것이 좋아요.",
       "highlights": [
         "grow"
-      ]
+      ],
+      "zh": "我喜欢种可以吃的菜。",
+      "py": "wǒ xǐ huān zhòng kě yǐ chī de cài。"
     },
     {
       "en": "My mother helps me plant the seed.",
@@ -117,7 +149,9 @@
       "highlights": [
         "plant",
         "seed"
-      ]
+      ],
+      "zh": "妈妈帮助我种种子。",
+      "py": "mā mā bāng zhù wǒ zhòng zhǒng zi。"
     },
     {
       "en": "I water the garden in the morning.",
@@ -125,7 +159,9 @@
       "highlights": [
         "garden",
         "water"
-      ]
+      ],
+      "zh": "我早上给花园浇水。",
+      "py": "wǒ zǎo shàng gěi huā yuán jiāo shuǐ。"
     },
     {
       "en": "A sunny day helps the leaf grow.",
@@ -134,14 +170,18 @@
         "leaf",
         "sunny",
         "grow"
-      ]
+      ],
+      "zh": "阳光好的日子帮助叶子长大。",
+      "py": "yáng guāng hǎo de rì zi bāng zhù yè zi zhǎng dà。"
     },
     {
       "en": "We eat the red tomato at dinner.",
       "ko": "우리는 저녁에 빨간 토마토를 먹어요.",
       "highlights": [
         "tomato"
-      ]
+      ],
+      "zh": "晚饭时我们吃红红的西红柿。",
+      "py": "wǎn fàn shí wǒ men chī hóng hóng de xī hóng shì。"
     },
     {
       "en": "I like our garden because we grow food there.",
@@ -149,7 +189,9 @@
       "highlights": [
         "garden",
         "grow"
-      ]
+      ],
+      "zh": "我们在那里种菜，所以我喜欢我们的花园。",
+      "py": "wǒ men zài nà lǐ zhòng cài， suǒ yǐ wǒ xǐ huān wǒ men de huā yuán。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "We have a small garden, and I plant a seed in the soil. I water the seed. A green leaf grows. A tomato turns red. The garden is sunny. I like to grow food. My mother helps me plant the seed. I water the garden in the morning. A sunny day helps the leaf grow. We eat the red tomato at dinner. I like our garden because we grow food there."
+  "full_passage_spoken": "We have a small garden, and I plant a seed in the soil. I water the seed. A green leaf grows. A tomato turns red. The garden is sunny. I like to grow food. My mother helps me plant the seed. I water the garden in the morning. A sunny day helps the leaf grow. We eat the red tomato at dinner. I like our garden because we grow food there.",
+  "topic_zh": "我的花园",
+  "topic_pinyin": "wǒ de huā yuán",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们有一个小花园，我把种子种在土里。我给种子浇水。一片绿色的叶子长出来了。西红柿变红了。花园里阳光很好。我喜欢种可以吃的菜。妈妈帮助我种种子。我早上给花园浇水。阳光好的日子帮助叶子长大。晚饭时我们吃红红的西红柿。我们在那里种菜，所以我喜欢我们的花园。",
+  "full_passage_pinyin": "wǒ men yǒu yí gè xiǎo huā yuán， wǒ bǎ zhǒng zi zhòng zài tǔ lǐ。 wǒ gěi zhǒng zi jiāo shuǐ。 yī piàn lǜ sè de yè zi zhǎng chū lái le。 xī hóng shì biàn hóng le。 huā yuán lǐ yáng guāng hěn hǎo。 wǒ xǐ huān zhòng kě yǐ chī de cài。 mā mā bāng zhù wǒ zhòng zhǒng zi。 wǒ zǎo shàng gěi huā yuán jiāo shuǐ。 yáng guāng hǎo de rì zi bāng zhù yè zi zhǎng dà。 wǎn fàn shí wǒ men chī hóng hóng de xī hóng shì。 wǒ men zài nà lǐ zhòng cài， suǒ yǐ wǒ xǐ huān wǒ men de huā yuán。"
 }

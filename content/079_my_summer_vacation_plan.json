@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "summer",
-      "ko": "여름"
+      "ko": "여름",
+      "zh": "夏天",
+      "py": "xià tiān"
     },
     {
       "en": "plan",
-      "ko": "계획"
+      "ko": "계획",
+      "zh": "计划",
+      "py": "jì huà"
     },
     {
       "en": "morning",
-      "ko": "아침"
+      "ko": "아침",
+      "zh": "早上",
+      "py": "zǎo shàng"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "swim",
-      "ko": "수영하다"
+      "ko": "수영하다",
+      "zh": "游泳",
+      "py": "yóu yǒng"
     },
     {
       "en": "week",
-      "ko": "주"
+      "ko": "주",
+      "zh": "星期",
+      "py": "xīng qī"
     },
     {
       "en": "grandmother",
-      "ko": "할머니"
+      "ko": "할머니",
+      "zh": "奶奶",
+      "py": "nǎi nǎi"
     },
     {
       "en": "visit",
-      "ko": "방문하다"
+      "ko": "방문하다",
+      "zh": "看望",
+      "py": "kàn wàng"
     },
     {
       "en": "camp",
-      "ko": "캠프"
+      "ko": "캠프",
+      "zh": "日间营",
+      "py": "rì jiān yíng"
     },
     {
       "en": "diary",
-      "ko": "일기"
+      "ko": "일기",
+      "zh": "日记",
+      "py": "rì jì"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "summer",
         "plan"
-      ]
+      ],
+      "zh": "我有一个夏天的计划。",
+      "py": "wǒ yǒu yí gè xià tiān de jì huà。"
     },
     {
       "en": "In the morning I enjoy a book.",
@@ -76,7 +98,9 @@
       "highlights": [
         "morning",
         "book"
-      ]
+      ],
+      "zh": "早上我开心地读一本书。",
+      "py": "zǎo shàng wǒ kāi xīn dì dú yī běn shū。"
     },
     {
       "en": "I swim every week.",
@@ -84,7 +108,9 @@
       "highlights": [
         "swim",
         "week"
-      ]
+      ],
+      "zh": "我每个星期游泳。",
+      "py": "wǒ měi gè xīng qī yóu yǒng。"
     },
     {
       "en": "I visit my grandmother.",
@@ -92,35 +118,45 @@
       "highlights": [
         "grandmother",
         "visit"
-      ]
+      ],
+      "zh": "我去看望奶奶。",
+      "py": "wǒ qù kàn wàng nǎi nǎi。"
     },
     {
       "en": "I go to a day camp.",
       "ko": "나는 낮 캠프에 가요.",
       "highlights": [
         "camp"
-      ]
+      ],
+      "zh": "我去参加日间营。",
+      "py": "wǒ qù cān jiā rì jiān yíng。"
     },
     {
       "en": "I keep a diary.",
       "ko": "나는 일기를 써요.",
       "highlights": [
         "diary"
-      ]
+      ],
+      "zh": "我写日记。",
+      "py": "wǒ xiě rì jì。"
     },
     {
       "en": "I will follow my plan.",
       "ko": "나는 나의 계획을 따를 거예요.",
       "highlights": [
         "plan"
-      ]
+      ],
+      "zh": "我会照着我的计划做。",
+      "py": "wǒ huì zhào zhe wǒ de jì huà zuò。"
     },
     {
       "en": "I hope for a good summer.",
       "ko": "나는 좋은 여름이 되기를 바라요.",
       "highlights": [
         "summer"
-      ]
+      ],
+      "zh": "我希望有一个好夏天。",
+      "py": "wǒ xī wàng yǒu yí gè hǎo xià tiān。"
     },
     {
       "en": "The camp is in the morning three days a week.",
@@ -129,7 +165,9 @@
         "morning",
         "week",
         "camp"
-      ]
+      ],
+      "zh": "日间营在早上，一星期有三天。",
+      "py": "rì jiān yíng zài zǎo shàng， yī xīng qī yǒu sān tiān。"
     },
     {
       "en": "I keep a diary so I remember the summer.",
@@ -137,7 +175,9 @@
       "highlights": [
         "summer",
         "diary"
-      ]
+      ],
+      "zh": "我写日记，这样我就记得这个夏天。",
+      "py": "wǒ xiě rì jì， zhè yàng wǒ jiù jì de zhè ge xià tiān。"
     },
     {
       "en": "A good plan still leaves time to visit Grandmother.",
@@ -146,7 +186,9 @@
         "plan",
         "grandmother",
         "visit"
-      ]
+      ],
+      "zh": "好计划仍然留出时间去看望奶奶。",
+      "py": "hǎo jì huà réng rán liú chū shí jiān qù kàn wàng nǎi nǎi。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I have a summer plan. In the morning I enjoy a book. I swim every week. I visit my grandmother. I go to a day camp. I keep a diary. I will follow my plan. I hope for a good summer. The camp is in the morning three days a week. I keep a diary so I remember the summer. A good plan still leaves time to visit Grandmother."
+  "full_passage_spoken": "I have a summer plan. In the morning I enjoy a book. I swim every week. I visit my grandmother. I go to a day camp. I keep a diary. I will follow my plan. I hope for a good summer. The camp is in the morning three days a week. I keep a diary so I remember the summer. A good plan still leaves time to visit Grandmother.",
+  "topic_zh": "我的暑假计划",
+  "topic_pinyin": "wǒ de shǔ jià jì huà",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我有一个夏天的计划。早上我开心地读一本书。我每个星期游泳。我去看望奶奶。我去参加日间营。我写日记。我会照着我的计划做。我希望有一个好夏天。日间营在早上，一星期有三天。我写日记，这样我就记得这个夏天。好计划仍然留出时间去看望奶奶。",
+  "full_passage_pinyin": "wǒ yǒu yí gè xià tiān de jì huà。 zǎo shàng wǒ kāi xīn dì dú yī běn shū。 wǒ měi gè xīng qī yóu yǒng。 wǒ qù kàn wàng nǎi nǎi。 wǒ qù cān jiā rì jiān yíng。 wǒ xiě rì jì。 wǒ huì zhào zhe wǒ de jì huà zuò。 wǒ xī wàng yǒu yí gè hǎo xià tiān。 rì jiān yíng zài zǎo shàng， yī xīng qī yǒu sān tiān。 wǒ xiě rì jì， zhè yàng wǒ jiù jì de zhè ge xià tiān。 hǎo jì huà réng rán liú chū shí jiān qù kàn wàng nǎi nǎi。"
 }

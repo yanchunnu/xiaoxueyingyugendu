@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "can",
-      "ko": "할 수 있다"
+      "ko": "할 수 있다",
+      "zh": "会",
+      "py": "huì"
     },
     {
       "en": "swim",
-      "ko": "수영하다"
+      "ko": "수영하다",
+      "zh": "游泳",
+      "py": "yóu yǒng"
     },
     {
       "en": "sing",
-      "ko": "노래 부르다"
+      "ko": "노래 부르다",
+      "zh": "唱歌",
+      "py": "chàng gē"
     },
     {
       "en": "draw",
-      "ko": "그리다"
+      "ko": "그리다",
+      "zh": "画",
+      "py": "huà"
     },
     {
       "en": "run",
-      "ko": "달리다"
+      "ko": "달리다",
+      "zh": "跑",
+      "py": "pǎo"
     },
     {
       "en": "fast",
-      "ko": "빨리"
+      "ko": "빨리",
+      "zh": "快",
+      "py": "kuài"
     },
     {
       "en": "piano",
-      "ko": "피아노"
+      "ko": "피아노",
+      "zh": "钢琴",
+      "py": "gāng qín"
     },
     {
       "en": "story",
-      "ko": "이야기"
+      "ko": "이야기",
+      "zh": "故事",
+      "py": "gù shì"
     },
     {
       "en": "night",
-      "ko": "밤"
+      "ko": "밤",
+      "zh": "晚上",
+      "py": "wǎn shàng"
     },
     {
       "en": "little",
-      "ko": "조금"
+      "ko": "조금",
+      "zh": "一点",
+      "py": "yì diǎn"
     }
   ],
   "phrases": [
@@ -70,14 +90,18 @@
         "swim",
         "sing",
         "little"
-      ]
+      ],
+      "zh": "我会游泳，也会唱一点歌。",
+      "py": "wǒ huì yóu yǒng， yě huì chàng yì diǎn gē。"
     },
     {
       "en": "I like to draw pictures of animals.",
       "ko": "나는 동물 그림을 그리는 것을 좋아해요.",
       "highlights": [
         "draw"
-      ]
+      ],
+      "zh": "我喜欢画动物。",
+      "py": "wǒ xǐ huān huà dòng wù。"
     },
     {
       "en": "I can run fast when I play with my friends.",
@@ -86,14 +110,18 @@
         "can",
         "run",
         "fast"
-      ]
+      ],
+      "zh": "和朋友玩的时候，我能跑得很快。",
+      "py": "hé péng yǒu wán de shí hòu， wǒ néng pǎo de hěn kuài。"
     },
     {
       "en": "I play the piano at home in the evening.",
       "ko": "나는 저녁에 집에서 피아노를 쳐요.",
       "highlights": [
         "piano"
-      ]
+      ],
+      "zh": "傍晚我在家弹钢琴。",
+      "py": "bàng wǎn wǒ zài jiā tán gāng qín。"
     },
     {
       "en": "I like to read a story at night.",
@@ -101,7 +129,9 @@
       "highlights": [
         "story",
         "night"
-      ]
+      ],
+      "zh": "我喜欢晚上读一个故事。",
+      "py": "wǒ xǐ huān wǎn shàng dú yí gè gù shì。"
     },
     {
       "en": "My little sister listens when I sing.",
@@ -109,12 +139,16 @@
       "highlights": [
         "sing",
         "little"
-      ]
+      ],
+      "zh": "我唱歌的时候，妹妹会听。",
+      "py": "wǒ chàng gē de shí hòu， mèi mèi huì tīng。"
     },
     {
       "en": "She is eleven, and she likes my stories.",
       "ko": "동생은 열한 살이고, 내 이야기를 좋아해요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "她十一岁，喜欢我的故事。",
+      "py": "tā shí yī suì， xǐ huān wǒ de gù shì。"
     },
     {
       "en": "I can help her with a short story.",
@@ -122,7 +156,9 @@
       "highlights": [
         "can",
         "story"
-      ]
+      ],
+      "zh": "我可以用一个短故事帮助她。",
+      "py": "wǒ kě yǐ yòng yí gè duǎn gù shì bāng zhù tā。"
     },
     {
       "en": "I draw, I run, and I swim because they make me happy.",
@@ -131,7 +167,9 @@
         "swim",
         "draw",
         "run"
-      ]
+      ],
+      "zh": "我画画、跑步、游泳，因为这些让我快乐。",
+      "py": "wǒ huà huà、 pǎo bù、 yóu yǒng， yīn wèi zhè xiē ràng wǒ kuài lè。"
     },
     {
       "en": "At night I play the piano a little.",
@@ -140,12 +178,16 @@
         "piano",
         "night",
         "little"
-      ]
+      ],
+      "zh": "晚上我再练一会儿钢琴。",
+      "py": "wǎn shàng wǒ zài liàn yī huì er gāng qín。"
     },
     {
       "en": "This is more about me, and I am glad to tell you.",
       "ko": "이것이 나에 대한 이야기이고, 말해 주어서 기뻐요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "这是更多关于我的事，我很高兴告诉你。",
+      "py": "zhè shì gèng duō guān yú wǒ de shì， wǒ hěn gāo xìng gào sù nǐ。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       "highlights": []
     }
   ],
-  "full_passage_spoken": "I can swim, and I can also sing a little. I like to draw pictures of animals. I can run fast when I play with my friends. I play the piano at home in the evening. I like to read a story at night. My little sister listens when I sing. She is eleven, and she likes my stories. I can help her with a short story. I draw, I run, and I swim because they make me happy. At night I play the piano a little. This is more about me, and I am glad to tell you."
+  "full_passage_spoken": "I can swim, and I can also sing a little. I like to draw pictures of animals. I can run fast when I play with my friends. I play the piano at home in the evening. I like to read a story at night. My little sister listens when I sing. She is eleven, and she likes my stories. I can help her with a short story. I draw, I run, and I swim because they make me happy. At night I play the piano a little. This is more about me, and I am glad to tell you.",
+  "topic_zh": "自我介绍（二）",
+  "topic_pinyin": "zì wǒ jiè shào（ èr）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我会游泳，也会唱一点歌。我喜欢画动物。和朋友玩的时候，我能跑得很快。傍晚我在家弹钢琴。我喜欢晚上读一个故事。我唱歌的时候，妹妹会听。她十一岁，喜欢我的故事。我可以用一个短故事帮助她。我画画、跑步、游泳，因为这些让我快乐。晚上我再练一会儿钢琴。这是更多关于我的事，我很高兴告诉你。",
+  "full_passage_pinyin": "wǒ huì yóu yǒng， yě huì chàng yì diǎn gē。 wǒ xǐ huān huà dòng wù。 hé péng yǒu wán de shí hòu， wǒ néng pǎo de hěn kuài。 bàng wǎn wǒ zài jiā tán gāng qín。 wǒ xǐ huān wǎn shàng dú yí gè gù shì。 wǒ chàng gē de shí hòu， mèi mèi huì tīng。 tā shí yī suì， xǐ huān wǒ de gù shì。 wǒ kě yǐ yòng yí gè duǎn gù shì bāng zhù tā。 wǒ huà huà、 pǎo bù、 yóu yǒng， yīn wèi zhè xiē ràng wǒ kuài lè。 wǎn shàng wǒ zài liàn yī huì er gāng qín。 zhè shì gèng duō guān yú wǒ de shì， wǒ hěn gāo xìng gào sù nǐ。"
 }

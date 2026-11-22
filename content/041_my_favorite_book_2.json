@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "title",
-      "ko": "제목"
+      "ko": "제목",
+      "zh": "书名",
+      "py": "shū míng"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "forest",
-      "ko": "숲"
+      "ko": "숲",
+      "zh": "森林",
+      "py": "sēn lín"
     },
     {
       "en": "bird",
-      "ko": "새"
+      "ko": "새",
+      "zh": "鸟",
+      "py": "niǎo"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     },
     {
       "en": "ending",
-      "ko": "끝"
+      "ko": "끝",
+      "zh": "结尾",
+      "py": "jié wěi"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     },
     {
       "en": "character",
-      "ko": "등장인물"
+      "ko": "등장인물",
+      "zh": "人物",
+      "py": "rén wù"
     },
     {
       "en": "imagine",
-      "ko": "상상하다"
+      "ko": "상상하다",
+      "zh": "想象",
+      "py": "xiǎng xiàng"
     },
     {
       "en": "world",
-      "ko": "세계"
+      "ko": "세계",
+      "zh": "世界",
+      "py": "shì jiè"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "title",
         "friend"
-      ]
+      ],
+      "zh": "书名是《勇敢的朋友》。",
+      "py": "shū míng shì《 yǒng gǎn de péng yǒu》。"
     },
     {
       "en": "Two friends go to a forest.",
@@ -76,7 +98,9 @@
       "highlights": [
         "friend",
         "forest"
-      ]
+      ],
+      "zh": "两个朋友走进森林。",
+      "py": "liǎng gè péng yǒu zǒu jìn sēn lín。"
     },
     {
       "en": "They help a small bird.",
@@ -84,7 +108,9 @@
       "highlights": [
         "bird",
         "help"
-      ]
+      ],
+      "zh": "他们帮助一只小鸟。",
+      "py": "tā men bāng zhù yī zhī xiǎo niǎo。"
     },
     {
       "en": "The bird is happy, and the ending is happy too.",
@@ -93,7 +119,9 @@
         "bird",
         "ending",
         "happy"
-      ]
+      ],
+      "zh": "小鸟很快乐，结尾也很快乐。",
+      "py": "xiǎo niǎo hěn kuài lè， jié wěi yě hěn kuài lè。"
     },
     {
       "en": "I like the character, and I imagine the forest.",
@@ -102,14 +130,18 @@
         "forest",
         "character",
         "imagine"
-      ]
+      ],
+      "zh": "我喜欢这个人物，也想象那片森林。",
+      "py": "wǒ xǐ huān zhè ge rén wù， yě xiǎng xiàng nà piàn sēn lín。"
     },
     {
       "en": "I see a new world in a book.",
       "ko": "나는 책에서 새로운 세계를 봐요.",
       "highlights": [
         "world"
-      ]
+      ],
+      "zh": "我在书里看见一个新世界。",
+      "py": "wǒ zài shū lǐ kàn jiàn yí gè xīn shì jiè。"
     },
     {
       "en": "The two friends are brave because they help.",
@@ -117,14 +149,18 @@
       "highlights": [
         "friend",
         "help"
-      ]
+      ],
+      "zh": "两个朋友很勇敢，因为他们帮助别人。",
+      "py": "liǎng gè péng yǒu hěn yǒng gǎn， yīn wèi tā men bāng zhù bié rén。"
     },
     {
       "en": "The forest is green and quiet.",
       "ko": "숲은 푸르고 조용해요.",
       "highlights": [
         "forest"
-      ]
+      ],
+      "zh": "森林又绿又安静。",
+      "py": "sēn lín yòu lǜ yòu ān jìng。"
     },
     {
       "en": "A small bird needs a kind friend.",
@@ -132,7 +168,9 @@
       "highlights": [
         "friend",
         "bird"
-      ]
+      ],
+      "zh": "小鸟需要一个善良的朋友。",
+      "py": "xiǎo niǎo xū yào yí gè shàn liáng de péng yǒu。"
     },
     {
       "en": "The happy ending makes me smile.",
@@ -140,7 +178,9 @@
       "highlights": [
         "ending",
         "happy"
-      ]
+      ],
+      "zh": "快乐的结尾让我微笑。",
+      "py": "kuài lè de jié wěi ràng wǒ wēi xiào。"
     },
     {
       "en": "I imagine that world when I close my eyes.",
@@ -148,7 +188,9 @@
       "highlights": [
         "imagine",
         "world"
-      ]
+      ],
+      "zh": "我闭上眼睛，就想象那个世界。",
+      "py": "wǒ bì shàng yǎn jīng， jiù xiǎng xiàng nà ge shì jiè。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "The title is Brave Friends. Two friends go to a forest. They help a small bird. The bird is happy, and the ending is happy too. I like the character, and I imagine the forest. I see a new world in a book. The two friends are brave because they help. The forest is green and quiet. A small bird needs a kind friend. The happy ending makes me smile. I imagine that world when I close my eyes."
+  "full_passage_spoken": "The title is Brave Friends. Two friends go to a forest. They help a small bird. The bird is happy, and the ending is happy too. I like the character, and I imagine the forest. I see a new world in a book. The two friends are brave because they help. The forest is green and quiet. A small bird needs a kind friend. The happy ending makes me smile. I imagine that world when I close my eyes.",
+  "topic_zh": "我最喜欢的书（二）",
+  "topic_pinyin": "wǒ zuì xǐ huān de shū（ èr）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "书名是《勇敢的朋友》。两个朋友走进森林。他们帮助一只小鸟。小鸟很快乐，结尾也很快乐。我喜欢这个人物，也想象那片森林。我在书里看见一个新世界。两个朋友很勇敢，因为他们帮助别人。森林又绿又安静。小鸟需要一个善良的朋友。快乐的结尾让我微笑。我闭上眼睛，就想象那个世界。",
+  "full_passage_pinyin": "shū míng shì《 yǒng gǎn de péng yǒu》。 liǎng gè péng yǒu zǒu jìn sēn lín。 tā men bāng zhù yī zhī xiǎo niǎo。 xiǎo niǎo hěn kuài lè， jié wěi yě hěn kuài lè。 wǒ xǐ huān zhè ge rén wù， yě xiǎng xiàng nà piàn sēn lín。 wǒ zài shū lǐ kàn jiàn yí gè xīn shì jiè。 liǎng gè péng yǒu hěn yǒng gǎn， yīn wèi tā men bāng zhù bié rén。 sēn lín yòu lǜ yòu ān jìng。 xiǎo niǎo xū yào yí gè shàn liáng de péng yǒu。 kuài lè de jié wěi ràng wǒ wēi xiào。 wǒ bì shàng yǎn jīng， jiù xiǎng xiàng nà ge shì jiè。"
 }

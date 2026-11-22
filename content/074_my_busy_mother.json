@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "mother",
-      "ko": "어머니"
+      "ko": "어머니",
+      "zh": "妈妈",
+      "py": "mā mā"
     },
     {
       "en": "busy",
-      "ko": "바쁜"
+      "ko": "바쁜",
+      "zh": "忙",
+      "py": "máng"
     },
     {
       "en": "early",
-      "ko": "일찍"
+      "ko": "일찍",
+      "zh": "早",
+      "py": "zǎo"
     },
     {
       "en": "work",
-      "ko": "일"
+      "ko": "일",
+      "zh": "工作",
+      "py": "gōng zuò"
     },
     {
       "en": "cook",
-      "ko": "요리하다"
+      "ko": "요리하다",
+      "zh": "做饭",
+      "py": "zuò fàn"
     },
     {
       "en": "clean",
-      "ko": "청소하다"
+      "ko": "청소하다",
+      "zh": "打扫",
+      "py": "dǎ sǎo"
     },
     {
       "en": "tired",
-      "ko": "피곤한"
+      "ko": "피곤한",
+      "zh": "累",
+      "py": "lèi"
     },
     {
       "en": "thank",
-      "ko": "고마워하다"
+      "ko": "고마워하다",
+      "zh": "谢谢",
+      "py": "xiè xiè"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮忙",
+      "py": "bāng máng"
     },
     {
       "en": "rest",
-      "ko": "쉬다"
+      "ko": "쉬다",
+      "zh": "休息",
+      "py": "xiū xī"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "mother",
         "busy"
-      ]
+      ],
+      "zh": "我的妈妈非常忙。",
+      "py": "wǒ de mā mā fēi cháng máng。"
     },
     {
       "en": "She gets up early, and she goes to work.",
@@ -76,28 +98,36 @@
       "highlights": [
         "early",
         "work"
-      ]
+      ],
+      "zh": "她起得很早，然后去上班。",
+      "py": "tā qǐ de hěn zǎo， rán hòu qù shàng bān。"
     },
     {
       "en": "She cooks dinner for us.",
       "ko": "어머니는 우리를 위해 저녁을 요리해요.",
       "highlights": [
         "cook"
-      ]
+      ],
+      "zh": "她给我们做晚饭。",
+      "py": "tā gěi wǒ men zuò wǎn fàn。"
     },
     {
       "en": "She cleans our home.",
       "ko": "어머니는 집을 청소해요.",
       "highlights": [
         "clean"
-      ]
+      ],
+      "zh": "她打扫我们的家。",
+      "py": "tā dǎ sǎo wǒ men de jiā。"
     },
     {
       "en": "She looks tired at night.",
       "ko": "어머니는 밤에 피곤해 보여요.",
       "highlights": [
         "tired"
-      ]
+      ],
+      "zh": "晚上她看起来很累。",
+      "py": "wǎn shàng tā kàn qǐ lái hěn lèi。"
     },
     {
       "en": "I say thank you, and I help so she can rest.",
@@ -106,7 +136,9 @@
         "thank",
         "help",
         "rest"
-      ]
+      ],
+      "zh": "我说谢谢，我来帮忙，好让她休息。",
+      "py": "wǒ shuō xiè xiè， wǒ lái bāng máng， hǎo ràng tā xiū xī。"
     },
     {
       "en": "A busy mother still makes time for us.",
@@ -114,7 +146,9 @@
       "highlights": [
         "mother",
         "busy"
-      ]
+      ],
+      "zh": "忙碌的妈妈仍然会抽出时间陪我们。",
+      "py": "máng lù de mā mā réng rán huì chōu chū shí jiān péi wǒ men。"
     },
     {
       "en": "I help clean the table after dinner.",
@@ -122,7 +156,9 @@
       "highlights": [
         "clean",
         "help"
-      ]
+      ],
+      "zh": "晚饭后我帮忙擦桌子。",
+      "py": "wǎn fàn hòu wǒ bāng máng cā zhuō zi。"
     },
     {
       "en": "She cooks, she cleans, and then she is tired.",
@@ -131,14 +167,18 @@
         "cook",
         "clean",
         "tired"
-      ]
+      ],
+      "zh": "她做饭，她打扫，然后她就累了。",
+      "py": "tā zuò fàn， tā dǎ sǎo， rán hòu tā jiù lèi le。"
     },
     {
       "en": "I thank her every night.",
       "ko": "나는 매일 밤 어머니께 고마워해요.",
       "highlights": [
         "thank"
-      ]
+      ],
+      "zh": "我每天晚上谢谢她。",
+      "py": "wǒ měi tiān wǎn shàng xiè xiè tā。"
     },
     {
       "en": "I want her to rest because she works hard.",
@@ -146,7 +186,9 @@
       "highlights": [
         "work",
         "rest"
-      ]
+      ],
+      "zh": "我想让她休息，因为她工作很辛苦。",
+      "py": "wǒ xiǎng ràng tā xiū xī， yīn wèi tā gōng zuò hěn xīn kǔ。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My mother is very busy. She gets up early, and she goes to work. She cooks dinner for us. She cleans our home. She looks tired at night. I say thank you, and I help so she can rest. A busy mother still makes time for us. I help clean the table after dinner. She cooks, she cleans, and then she is tired. I thank her every night. I want her to rest because she works hard."
+  "full_passage_spoken": "My mother is very busy. She gets up early, and she goes to work. She cooks dinner for us. She cleans our home. She looks tired at night. I say thank you, and I help so she can rest. A busy mother still makes time for us. I help clean the table after dinner. She cooks, she cleans, and then she is tired. I thank her every night. I want her to rest because she works hard.",
+  "topic_zh": "我忙碌的妈妈",
+  "topic_pinyin": "wǒ máng lù de mā mā",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的妈妈非常忙。她起得很早，然后去上班。她给我们做晚饭。她打扫我们的家。晚上她看起来很累。我说谢谢，我来帮忙，好让她休息。忙碌的妈妈仍然会抽出时间陪我们。晚饭后我帮忙擦桌子。她做饭，她打扫，然后她就累了。我每天晚上谢谢她。我想让她休息，因为她工作很辛苦。",
+  "full_passage_pinyin": "wǒ de mā mā fēi cháng máng。 tā qǐ de hěn zǎo， rán hòu qù shàng bān。 tā gěi wǒ men zuò wǎn fàn。 tā dǎ sǎo wǒ men de jiā。 wǎn shàng tā kàn qǐ lái hěn lèi。 wǒ shuō xiè xiè， wǒ lái bāng máng， hǎo ràng tā xiū xī。 máng lù de mā mā réng rán huì chōu chū shí jiān péi wǒ men。 wǎn fàn hòu wǒ bāng máng cā zhuō zi。 tā zuò fàn， tā dǎ sǎo， rán hòu tā jiù lèi le。 wǒ měi tiān wǎn shàng xiè xiè tā。 wǒ xiǎng ràng tā xiū xī， yīn wèi tā gōng zuò hěn xīn kǔ。"
 }

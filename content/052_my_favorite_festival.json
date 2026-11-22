@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "festival",
-      "ko": "축제"
+      "ko": "축제",
+      "zh": "节日",
+      "py": "jié rì"
     },
     {
       "en": "Children's Day",
-      "ko": "어린이날"
+      "ko": "어린이날",
+      "zh": "儿童节",
+      "py": "ér tóng jié"
     },
     {
       "en": "May",
-      "ko": "오월"
+      "ko": "오월",
+      "zh": "五月",
+      "py": "wǔ yuè"
     },
     {
       "en": "gift",
-      "ko": "선물"
+      "ko": "선물",
+      "zh": "礼物",
+      "py": "lǐ wù"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "song",
-      "ko": "노래"
+      "ko": "노래",
+      "zh": "歌",
+      "py": "gē"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     }
   ],
   "phrases": [
@@ -69,21 +89,27 @@
         "favorite",
         "festival",
         "Children's Day"
-      ]
+      ],
+      "zh": "我最喜欢的节日是儿童节。",
+      "py": "wǒ zuì xǐ huān de jié rì shì ér tóng jié。"
     },
     {
       "en": "It is in May.",
       "ko": "어린이날은 오월에 있어요.",
       "highlights": [
         "May"
-      ]
+      ],
+      "zh": "它在五月。",
+      "py": "tā zài wǔ yuè。"
     },
     {
       "en": "I get a small gift.",
       "ko": "나는 작은 선물을 받아요.",
       "highlights": [
         "gift"
-      ]
+      ],
+      "zh": "我得到一个小礼物。",
+      "py": "wǒ dé dào yí gè xiǎo lǐ wù。"
     },
     {
       "en": "My family goes to the park.",
@@ -91,7 +117,9 @@
       "highlights": [
         "family",
         "park"
-      ]
+      ],
+      "zh": "我们家人去公园。",
+      "py": "wǒ men jiā rén qù gōng yuán。"
     },
     {
       "en": "We sing a song, and we play together.",
@@ -99,21 +127,27 @@
       "highlights": [
         "song",
         "together"
-      ]
+      ],
+      "zh": "我们唱歌，也一起玩。",
+      "py": "wǒ men chàng gē， yě yì qǐ wán。"
     },
     {
       "en": "Everyone is happy.",
       "ko": "모두 행복해요.",
       "highlights": [
         "happy"
-      ]
+      ],
+      "zh": "每个人都很快乐。",
+      "py": "měi gè rén dōu hěn kuài lè。"
     },
     {
       "en": "This festival is for children, and I am thirteen.",
       "ko": "이 축제는 아이들을 위한 것이고, 나는 열세 살이에요.",
       "highlights": [
         "festival"
-      ]
+      ],
+      "zh": "这个节日是给孩子的，我十三岁。",
+      "py": "zhè ge jié rì shì gěi hái zi de， wǒ shí sān suì。"
     },
     {
       "en": "In May the park is full of families.",
@@ -121,14 +155,18 @@
       "highlights": [
         "May",
         "park"
-      ]
+      ],
+      "zh": "五月的公园里满是一家人。",
+      "py": "wǔ yuè de gōng yuán lǐ mǎn shì yī jiā rén。"
     },
     {
       "en": "A small gift can still make a big smile.",
       "ko": "작은 선물도 큰 미소를 만들 수 있어요.",
       "highlights": [
         "gift"
-      ]
+      ],
+      "zh": "小礼物也能带来大大的微笑。",
+      "py": "xiǎo lǐ wù yě néng dài lái dà dà de wēi xiào。"
     },
     {
       "en": "We sing a song together and clap.",
@@ -136,7 +174,9 @@
       "highlights": [
         "song",
         "together"
-      ]
+      ],
+      "zh": "我们一起唱歌，还拍手。",
+      "py": "wǒ men yì qǐ chàng gē， hái pāi shǒu。"
     },
     {
       "en": "I like this festival because we are happy together.",
@@ -145,7 +185,9 @@
         "festival",
         "happy",
         "together"
-      ]
+      ],
+      "zh": "我们一起很快乐，所以我喜欢这个节日。",
+      "py": "wǒ men yì qǐ hěn kuài lè， suǒ yǐ wǒ xǐ huān zhè ge jié rì。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite festival is Children's Day. It is in May. I get a small gift. My family goes to the park. We sing a song, and we play together. Everyone is happy. This festival is for children, and I am thirteen. In May the park is full of families. A small gift can still make a big smile. We sing a song together and clap. I like this festival because we are happy together."
+  "full_passage_spoken": "My favorite festival is Children's Day. It is in May. I get a small gift. My family goes to the park. We sing a song, and we play together. Everyone is happy. This festival is for children, and I am thirteen. In May the park is full of families. A small gift can still make a big smile. We sing a song together and clap. I like this festival because we are happy together.",
+  "topic_zh": "我最喜欢的节日",
+  "topic_pinyin": "wǒ zuì xǐ huān de jié rì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的节日是儿童节。它在五月。我得到一个小礼物。我们家人去公园。我们唱歌，也一起玩。每个人都很快乐。这个节日是给孩子的，我十三岁。五月的公园里满是一家人。小礼物也能带来大大的微笑。我们一起唱歌，还拍手。我们一起很快乐，所以我喜欢这个节日。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de jié rì shì ér tóng jié。 tā zài wǔ yuè。 wǒ dé dào yí gè xiǎo lǐ wù。 wǒ men jiā rén qù gōng yuán。 wǒ men chàng gē， yě yì qǐ wán。 měi gè rén dōu hěn kuài lè。 zhè ge jié rì shì gěi hái zi de， wǒ shí sān suì。 wǔ yuè de gōng yuán lǐ mǎn shì yī jiā rén。 xiǎo lǐ wù yě néng dài lái dà dà de wēi xiào。 wǒ men yì qǐ chàng gē， hái pāi shǒu。 wǒ men yì qǐ hěn kuài lè， suǒ yǐ wǒ xǐ huān zhè ge jié rì。"
 }

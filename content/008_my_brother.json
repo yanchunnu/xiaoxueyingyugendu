@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "brother",
-      "ko": "오빠"
+      "ko": "오빠",
+      "zh": "哥哥",
+      "py": "gē gē"
     },
     {
       "en": "sixteen",
-      "ko": "열여섯"
+      "ko": "열여섯",
+      "zh": "十六",
+      "py": "shí liù"
     },
     {
       "en": "basketball",
-      "ko": "농구"
+      "ko": "농구",
+      "zh": "篮球",
+      "py": "lán qiú"
     },
     {
       "en": "tall",
-      "ko": "키가 큰"
+      "ko": "키가 큰",
+      "zh": "高",
+      "py": "gāo"
     },
     {
       "en": "funny",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "joke",
-      "ko": "농담"
+      "ko": "농담",
+      "zh": "笑话",
+      "py": "xiào huà"
     },
     {
       "en": "share",
-      "ko": "나누다"
+      "ko": "나누다",
+      "zh": "分享",
+      "py": "fēn xiǎng"
     },
     {
       "en": "snack",
-      "ko": "간식"
+      "ko": "간식",
+      "zh": "零食",
+      "py": "líng shí"
     },
     {
       "en": "homework",
-      "ko": "숙제"
+      "ko": "숙제",
+      "zh": "作业",
+      "py": "zuò yè"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "brother",
         "sixteen",
         "tall"
-      ]
+      ],
+      "zh": "我的哥哥十六岁，他个子很高。",
+      "py": "wǒ dī gē gē shí liù suì， tā gè zi hěn gāo。"
     },
     {
       "en": "He is funny, and he tells a joke at dinner.",
@@ -77,14 +99,18 @@
       "highlights": [
         "funny",
         "joke"
-      ]
+      ],
+      "zh": "他很有趣，晚饭时会讲笑话。",
+      "py": "tā hěn yǒu qù， wǎn fàn shí huì jiǎng xiào huà。"
     },
     {
       "en": "He plays basketball after school.",
       "ko": "오빠는 방과 후에 농구를 해요.",
       "highlights": [
         "basketball"
-      ]
+      ],
+      "zh": "放学后他打篮球。",
+      "py": "fàng xué hòu tā dǎ lán qiú。"
     },
     {
       "en": "We share a snack when he comes home.",
@@ -92,7 +118,9 @@
       "highlights": [
         "share",
         "snack"
-      ]
+      ],
+      "zh": "他回家的时候，我们分享零食。",
+      "py": "tā huí jiā de shí hòu， wǒ men fēn xiǎng líng shí。"
     },
     {
       "en": "He helps me with my homework.",
@@ -100,26 +128,34 @@
       "highlights": [
         "homework",
         "help"
-      ]
+      ],
+      "zh": "他帮助我做作业。",
+      "py": "tā bāng zhù wǒ zuò zuò yè。"
     },
     {
       "en": "I like my brother because he is kind.",
       "ko": "오빠는 친절해서 나는 오빠를 좋아해요.",
       "highlights": [
         "brother"
-      ]
+      ],
+      "zh": "我喜欢哥哥，因为他很善良。",
+      "py": "wǒ xǐ huān gē gē， yīn wèi tā hěn shàn liáng。"
     },
     {
       "en": "He is much taller than me.",
       "ko": "오빠는 나보다 훨씬 키가 커요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "他比我高很多。",
+      "py": "tā bǐ wǒ gāo hěn duō。"
     },
     {
       "en": "Sometimes we play basketball in the park.",
       "ko": "가끔 우리는 공원에서 농구를 해요.",
       "highlights": [
         "basketball"
-      ]
+      ],
+      "zh": "有时我们在公园打篮球。",
+      "py": "yǒu shí wǒ men zài gōng yuán dǎ lán qiú。"
     },
     {
       "en": "He shares his snack with my little sister too.",
@@ -127,21 +163,27 @@
       "highlights": [
         "share",
         "snack"
-      ]
+      ],
+      "zh": "他也会把零食分给妹妹。",
+      "py": "tā yě huì bǎ líng shí fēn gěi mèi mèi。"
     },
     {
       "en": "His jokes make our family laugh.",
       "ko": "오빠의 농담은 우리 가족을 웃게 해요.",
       "highlights": [
         "joke"
-      ]
+      ],
+      "zh": "他的笑话让我们一家人笑。",
+      "py": "tā de xiào huà ràng wǒ men yī jiā rén xiào。"
     },
     {
       "en": "I am glad he can help me.",
       "ko": "오빠가 나를 도와줘서 기뻐요.",
       "highlights": [
         "help"
-      ]
+      ],
+      "zh": "他能帮助我，我很高兴。",
+      "py": "tā néng bāng zhù wǒ， wǒ hěn gāo xìng。"
     }
   ],
   "full_passage_lines": [
@@ -227,5 +269,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My brother is sixteen years old, and he is tall. He is funny, and he tells a joke at dinner. He plays basketball after school. We share a snack when he comes home. He helps me with my homework. I like my brother because he is kind. He is much taller than me. Sometimes we play basketball in the park. He shares his snack with my little sister too. His jokes make our family laugh. I am glad he can help me."
+  "full_passage_spoken": "My brother is sixteen years old, and he is tall. He is funny, and he tells a joke at dinner. He plays basketball after school. We share a snack when he comes home. He helps me with my homework. I like my brother because he is kind. He is much taller than me. Sometimes we play basketball in the park. He shares his snack with my little sister too. His jokes make our family laugh. I am glad he can help me.",
+  "topic_zh": "我的哥哥",
+  "topic_pinyin": "wǒ dī gē gē",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的哥哥十六岁，他个子很高。他很有趣，晚饭时会讲笑话。放学后他打篮球。他回家的时候，我们分享零食。他帮助我做作业。我喜欢哥哥，因为他很善良。他比我高很多。有时我们在公园打篮球。他也会把零食分给妹妹。他的笑话让我们一家人笑。他能帮助我，我很高兴。",
+  "full_passage_pinyin": "wǒ dī gē gē shí liù suì， tā gè zi hěn gāo。 tā hěn yǒu qù， wǎn fàn shí huì jiǎng xiào huà。 fàng xué hòu tā dǎ lán qiú。 tā huí jiā de shí hòu， wǒ men fēn xiǎng líng shí。 tā bāng zhù wǒ zuò zuò yè。 wǒ xǐ huān gē gē， yīn wèi tā hěn shàn liáng。 tā bǐ wǒ gāo hěn duō。 yǒu shí wǒ men zài gōng yuán dǎ lán qiú。 tā yě huì bǎ líng shí fēn gěi mèi mèi。 tā de xiào huà ràng wǒ men yī jiā rén xiào。 tā néng bāng zhù wǒ， wǒ hěn gāo xìng。"
 }

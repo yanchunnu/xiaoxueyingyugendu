@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "bicycle",
-      "ko": "자전거"
+      "ko": "자전거",
+      "zh": "自行车",
+      "py": "zì xíng chē"
     },
     {
       "en": "wheel",
-      "ko": "바퀴"
+      "ko": "바퀴",
+      "zh": "车轮",
+      "py": "chē lún"
     },
     {
       "en": "bell",
-      "ko": "종"
+      "ko": "종",
+      "zh": "铃声",
+      "py": "líng shēng"
     },
     {
       "en": "helmet",
-      "ko": "헬멧"
+      "ko": "헬멧",
+      "zh": "头盔",
+      "py": "tóu kuī"
     },
     {
       "en": "wear",
-      "ko": "쓰다"
+      "ko": "쓰다",
+      "zh": "戴",
+      "py": "dài"
     },
     {
       "en": "ride",
-      "ko": "타다"
+      "ko": "타다",
+      "zh": "骑",
+      "py": "qí"
     },
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "fast",
-      "ko": "빨리"
+      "ko": "빨리",
+      "zh": "快",
+      "py": "kuài"
     },
     {
       "en": "safe",
-      "ko": "안전한"
+      "ko": "안전한",
+      "zh": "安全",
+      "py": "ān quán"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "bicycle",
         "wheel"
-      ]
+      ],
+      "zh": "这是我的自行车，它有两个车轮。",
+      "py": "zhè shì wǒ de zì xíng chē， tā yǒu liǎng gè chē lún。"
     },
     {
       "en": "It has a bell.",
       "ko": "종이 있어요.",
       "highlights": [
         "bell"
-      ]
+      ],
+      "zh": "它有铃声。",
+      "py": "tā yǒu líng shēng。"
     },
     {
       "en": "I wear a helmet, and I ride to the park.",
@@ -85,7 +109,9 @@
         "wear",
         "ride",
         "park"
-      ]
+      ],
+      "zh": "我戴头盔，骑车去公园。",
+      "py": "wǒ dài tóu kuī， qí chē qù gōng yuán。"
     },
     {
       "en": "I do not ride too fast, and I stay safe.",
@@ -94,21 +120,27 @@
         "ride",
         "fast",
         "safe"
-      ]
+      ],
+      "zh": "我骑得不太快，我注意安全。",
+      "py": "wǒ qí de bù tài kuài， wǒ zhù yì ān quán。"
     },
     {
       "en": "It is fun.",
       "ko": "자전거 타기는 재미있어요.",
       "highlights": [
         "fun"
-      ]
+      ],
+      "zh": "这很有趣。",
+      "py": "zhè hěn yǒu qù。"
     },
     {
       "en": "The bell rings when people are near.",
       "ko": "사람들이 가까우면 종이 울려요.",
       "highlights": [
         "bell"
-      ]
+      ],
+      "zh": "人靠近的时候，铃声会响。",
+      "py": "rén kào jìn de shí hòu， líng shēng huì xiǎng。"
     },
     {
       "en": "A helmet keeps my head safe.",
@@ -116,21 +148,27 @@
       "highlights": [
         "helmet",
         "safe"
-      ]
+      ],
+      "zh": "头盔保护我的头，让我安全。",
+      "py": "tóu kuī bǎo hù wǒ de tóu， ràng wǒ ān quán。"
     },
     {
       "en": "I ride with my brother on Saturday.",
       "ko": "나는 토요일에 오빠와 함께 타요.",
       "highlights": [
         "ride"
-      ]
+      ],
+      "zh": "星期六我和哥哥一起骑车。",
+      "py": "xīng qī liù wǒ hé gē gē yì qǐ qí chē。"
     },
     {
       "en": "We stop at the park and rest.",
       "ko": "우리는 공원에서 멈추고 쉬어요.",
       "highlights": [
         "park"
-      ]
+      ],
+      "zh": "我们在公园停下休息。",
+      "py": "wǒ men zài gōng yuán tíng xià xiū xī。"
     },
     {
       "en": "Fast is not safe, so I ride slowly there.",
@@ -139,7 +177,9 @@
         "ride",
         "fast",
         "safe"
-      ]
+      ],
+      "zh": "太快不安全，所以我在那里慢慢骑。",
+      "py": "tài kuài bù ān quán， suǒ yǐ wǒ zài nà lǐ màn màn qí。"
     },
     {
       "en": "My bicycle is fun, and I take care of it.",
@@ -147,7 +187,9 @@
       "highlights": [
         "bicycle",
         "fun"
-      ]
+      ],
+      "zh": "我的自行车很有趣，我会好好爱护它。",
+      "py": "wǒ de zì xíng chē hěn yǒu qù， wǒ huì hǎo hǎo ài hù tā。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is my bicycle, and it has two wheels. It has a bell. I wear a helmet, and I ride to the park. I do not ride too fast, and I stay safe. It is fun. The bell rings when people are near. A helmet keeps my head safe. I ride with my brother on Saturday. We stop at the park and rest. Fast is not safe, so I ride slowly there. My bicycle is fun, and I take care of it."
+  "full_passage_spoken": "This is my bicycle, and it has two wheels. It has a bell. I wear a helmet, and I ride to the park. I do not ride too fast, and I stay safe. It is fun. The bell rings when people are near. A helmet keeps my head safe. I ride with my brother on Saturday. We stop at the park and rest. Fast is not safe, so I ride slowly there. My bicycle is fun, and I take care of it.",
+  "topic_zh": "我的自行车",
+  "topic_pinyin": "wǒ de zì xíng chē",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的自行车，它有两个车轮。它有铃声。我戴头盔，骑车去公园。我骑得不太快，我注意安全。这很有趣。人靠近的时候，铃声会响。头盔保护我的头，让我安全。星期六我和哥哥一起骑车。我们在公园停下休息。太快不安全，所以我在那里慢慢骑。我的自行车很有趣，我会好好爱护它。",
+  "full_passage_pinyin": "zhè shì wǒ de zì xíng chē， tā yǒu liǎng gè chē lún。 tā yǒu líng shēng。 wǒ dài tóu kuī， qí chē qù gōng yuán。 wǒ qí de bù tài kuài， wǒ zhù yì ān quán。 zhè hěn yǒu qù。 rén kào jìn de shí hòu， líng shēng huì xiǎng。 tóu kuī bǎo hù wǒ de tóu， ràng wǒ ān quán。 xīng qī liù wǒ hé gē gē yì qǐ qí chē。 wǒ men zài gōng yuán tíng xià xiū xī。 tài kuài bù ān quán， suǒ yǐ wǒ zài nà lǐ màn màn qí。 wǒ de zì xíng chē hěn yǒu qù， wǒ huì hǎo hǎo ài hù tā。"
 }

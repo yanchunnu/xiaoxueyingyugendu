@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "computer",
-      "ko": "컴퓨터"
+      "ko": "컴퓨터",
+      "zh": "电脑",
+      "py": "diàn nǎo"
     },
     {
       "en": "screen",
-      "ko": "화면"
+      "ko": "화면",
+      "zh": "屏幕",
+      "py": "píng mù"
     },
     {
       "en": "keyboard",
-      "ko": "키보드"
+      "ko": "키보드",
+      "zh": "键盘",
+      "py": "jiàn pán"
     },
     {
       "en": "mouse",
-      "ko": "마우스"
+      "ko": "마우스",
+      "zh": "鼠标",
+      "py": "shǔ biāo"
     },
     {
       "en": "click",
-      "ko": "클릭하다"
+      "ko": "클릭하다",
+      "zh": "点击",
+      "py": "diǎn jī"
     },
     {
       "en": "learn",
-      "ko": "배우다"
+      "ko": "배우다",
+      "zh": "学",
+      "py": "xué"
     },
     {
       "en": "game",
-      "ko": "게임"
+      "ko": "게임",
+      "zh": "游戏",
+      "py": "yóu xì"
     },
     {
       "en": "short",
-      "ko": "짧은"
+      "ko": "짧은",
+      "zh": "短",
+      "py": "duǎn"
     },
     {
       "en": "careful",
-      "ko": "조심하는"
+      "ko": "조심하는",
+      "zh": "小心",
+      "py": "xiǎo xīn"
     },
     {
       "en": "turn off",
-      "ko": "끄다"
+      "ko": "끄다",
+      "zh": "关掉",
+      "py": "guān diào"
     }
   ],
   "phrases": [
@@ -69,14 +89,18 @@
         "computer",
         "screen",
         "keyboard"
-      ]
+      ],
+      "zh": "这是我们的电脑，它有屏幕和键盘。",
+      "py": "zhè shì wǒ men de diàn nǎo， tā yǒu píng mù hé jiàn pán。"
     },
     {
       "en": "I use the mouse.",
       "ko": "나는 마우스를 사용해요.",
       "highlights": [
         "mouse"
-      ]
+      ],
+      "zh": "我使用鼠标。",
+      "py": "wǒ shǐ yòng shǔ biāo。"
     },
     {
       "en": "I click and learn.",
@@ -84,7 +108,9 @@
       "highlights": [
         "click",
         "learn"
-      ]
+      ],
+      "zh": "我点击，也学习。",
+      "py": "wǒ diǎn jī， yě xué xí。"
     },
     {
       "en": "I play a game for a short time.",
@@ -92,7 +118,9 @@
       "highlights": [
         "game",
         "short"
-      ]
+      ],
+      "zh": "我玩一会儿短短的游戏。",
+      "py": "wǒ wán yī huì er duǎn duǎn de yóu xì。"
     },
     {
       "en": "I am careful, and then I turn off the computer.",
@@ -101,14 +129,18 @@
         "computer",
         "careful",
         "turn off"
-      ]
+      ],
+      "zh": "我很小心，然后关掉电脑。",
+      "py": "wǒ hěn xiǎo xīn， rán hòu guān diào diàn nǎo。"
     },
     {
       "en": "The screen is bright, so I sit back a little.",
       "ko": "화면이 밝아서 나는 조금 떨어져 앉아요.",
       "highlights": [
         "screen"
-      ]
+      ],
+      "zh": "屏幕很亮，所以我坐得稍远一点。",
+      "py": "píng mù hěn liàng， suǒ yǐ wǒ zuò de shāo yuǎn yì diǎn。"
     },
     {
       "en": "I learn English words on the computer.",
@@ -116,7 +148,9 @@
       "highlights": [
         "computer",
         "learn"
-      ]
+      ],
+      "zh": "我在电脑上学英语单词。",
+      "py": "wǒ zài diàn nǎo shàng xué yīng yǔ dān cí。"
     },
     {
       "en": "A short game is enough.",
@@ -124,14 +158,18 @@
       "highlights": [
         "game",
         "short"
-      ]
+      ],
+      "zh": "玩一会儿游戏就够了。",
+      "py": "wán yī huì er yóu xì jiù gòu le。"
     },
     {
       "en": "I am careful because not everything online is good.",
       "ko": "온라인의 모든 것이 좋은 것은 아니라서 나는 조심해요.",
       "highlights": [
         "careful"
-      ]
+      ],
+      "zh": "网上不是每样东西都好，所以我很小心。",
+      "py": "wǎng shàng bú shì měi yàng dōng xī dōu hǎo， suǒ yǐ wǒ hěn xiǎo xīn。"
     },
     {
       "en": "Mom asks me to turn off the computer at night.",
@@ -139,14 +177,18 @@
       "highlights": [
         "computer",
         "turn off"
-      ]
+      ],
+      "zh": "晚上妈妈让我关掉电脑。",
+      "py": "wǎn shàng mā mā ràng wǒ guān diào diàn nǎo。"
     },
     {
       "en": "Then the screen is dark, and I read a book.",
       "ko": "그러면 화면이 어두워지고, 나는 책을 읽어요.",
       "highlights": [
         "screen"
-      ]
+      ],
+      "zh": "然后屏幕暗了，我去看书。",
+      "py": "rán hòu píng mù àn le， wǒ qù kàn shū。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is our computer, and it has a screen and a keyboard. I use the mouse. I click and learn. I play a game for a short time. I am careful, and then I turn off the computer. The screen is bright, so I sit back a little. I learn English words on the computer. A short game is enough. I am careful because not everything online is good. Mom asks me to turn off the computer at night. Then the screen is dark, and I read a book."
+  "full_passage_spoken": "This is our computer, and it has a screen and a keyboard. I use the mouse. I click and learn. I play a game for a short time. I am careful, and then I turn off the computer. The screen is bright, so I sit back a little. I learn English words on the computer. A short game is enough. I am careful because not everything online is good. Mom asks me to turn off the computer at night. Then the screen is dark, and I read a book.",
+  "topic_zh": "电脑",
+  "topic_pinyin": "diàn nǎo",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我们的电脑，它有屏幕和键盘。我使用鼠标。我点击，也学习。我玩一会儿短短的游戏。我很小心，然后关掉电脑。屏幕很亮，所以我坐得稍远一点。我在电脑上学英语单词。玩一会儿游戏就够了。网上不是每样东西都好，所以我很小心。晚上妈妈让我关掉电脑。然后屏幕暗了，我去看书。",
+  "full_passage_pinyin": "zhè shì wǒ men de diàn nǎo， tā yǒu píng mù hé jiàn pán。 wǒ shǐ yòng shǔ biāo。 wǒ diǎn jī， yě xué xí。 wǒ wán yī huì er duǎn duǎn de yóu xì。 wǒ hěn xiǎo xīn， rán hòu guān diào diàn nǎo。 píng mù hěn liàng， suǒ yǐ wǒ zuò de shāo yuǎn yì diǎn。 wǒ zài diàn nǎo shàng xué yīng yǔ dān cí。 wán yī huì er yóu xì jiù gòu le。 wǎng shàng bú shì měi yàng dōng xī dōu hǎo， suǒ yǐ wǒ hěn xiǎo xīn。 wǎn shàng mā mā ràng wǒ guān diào diàn nǎo。 rán hòu píng mù àn le， wǒ qù kàn shū。"
 }

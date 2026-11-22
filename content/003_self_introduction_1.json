@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "hello",
-      "ko": "안녕"
+      "ko": "안녕",
+      "zh": "你好",
+      "py": "nǐ hǎo"
     },
     {
       "en": "Korea",
-      "ko": "한국"
+      "ko": "한국",
+      "zh": "韩国",
+      "py": "hán guó"
     },
     {
       "en": "live",
-      "ko": "살다"
+      "ko": "살다",
+      "zh": "住",
+      "py": "zhù"
     },
     {
       "en": "Seoul",
-      "ko": "서울"
+      "ko": "서울",
+      "zh": "首尔",
+      "py": "shǒu ěr"
     },
     {
       "en": "student",
-      "ko": "학생"
+      "ko": "학생",
+      "zh": "学生",
+      "py": "xué shēng"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     },
     {
       "en": "sixth",
-      "ko": "여섯째"
+      "ko": "여섯째",
+      "zh": "第六",
+      "py": "dì liù"
     },
     {
       "en": "grade",
-      "ko": "학년"
+      "ko": "학년",
+      "zh": "几年级",
+      "py": "jǐ nián jí"
     },
     {
       "en": "class",
-      "ko": "반"
+      "ko": "반",
+      "zh": "班",
+      "py": "bān"
     },
     {
       "en": "meet",
-      "ko": "만나다"
+      "ko": "만나다",
+      "zh": "见面",
+      "py": "jiàn miàn"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "hello",
         "Korea"
-      ]
+      ],
+      "zh": "你好，我叫米娜，我来自韩国。",
+      "py": "nǐ hǎo， wǒ jiào mǐ nà， wǒ lái zì hán guó。"
     },
     {
       "en": "I live in Seoul with my family.",
@@ -76,7 +98,9 @@
       "highlights": [
         "live",
         "Seoul"
-      ]
+      ],
+      "zh": "我和家人住在首尔。",
+      "py": "wǒ hé jiā rén zhù zài shǒu ěr。"
     },
     {
       "en": "I am a student, and I go to school every day.",
@@ -84,7 +108,9 @@
       "highlights": [
         "student",
         "school"
-      ]
+      ],
+      "zh": "我是学生，每天去上学。",
+      "py": "wǒ shì xué shēng， měi tiān qù shàng xué。"
     },
     {
       "en": "I am in the sixth grade.",
@@ -92,7 +118,9 @@
       "highlights": [
         "sixth",
         "grade"
-      ]
+      ],
+      "zh": "我上六年级。",
+      "py": "wǒ shàng liù nián jí。"
     },
     {
       "en": "I am in Class Three at my school.",
@@ -100,38 +128,50 @@
       "highlights": [
         "school",
         "class"
-      ]
+      ],
+      "zh": "我在学校上三班。",
+      "py": "wǒ zài xué xiào shàng sān bān。"
     },
     {
       "en": "My school is near my home, so I walk there.",
       "ko": "학교는 집 가까이에 있어서 걸어서 가요.",
       "highlights": [
         "school"
-      ]
+      ],
+      "zh": "学校离我家很近，所以我走着去。",
+      "py": "xué xiào lí wǒ jiā hěn jìn， suǒ yǐ wǒ zǒu zhe qù。"
     },
     {
       "en": "I am thirteen years old.",
       "ko": "나는 열세 살이에요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我十三岁。",
+      "py": "wǒ shí sān suì。"
     },
     {
       "en": "I have a little sister, and she is eleven.",
       "ko": "나에게는 여동생이 있고, 동생은 열한 살이에요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我有一个妹妹，她十一岁。",
+      "py": "wǒ yǒu yí gè mèi mèi， tā shí yī suì。"
     },
     {
       "en": "I like English, and I like to meet new friends.",
       "ko": "나는 영어를 좋아하고, 새 친구를 만나는 것도 좋아해요.",
       "highlights": [
         "meet"
-      ]
+      ],
+      "zh": "我喜欢英语，也喜欢认识新朋友。",
+      "py": "wǒ xǐ huān yīng yǔ， yě xǐ huān rèn shí xīn péng yǒu。"
     },
     {
       "en": "I am happy to meet you.",
       "ko": "만나서 반가워요.",
       "highlights": [
         "meet"
-      ]
+      ],
+      "zh": "见到你我很高兴。",
+      "py": "jiàn dào nǐ wǒ hěn gāo xìng。"
     },
     {
       "en": "This is my short hello from Seoul.",
@@ -139,7 +179,9 @@
       "highlights": [
         "hello",
         "Seoul"
-      ]
+      ],
+      "zh": "这是我从首尔送来的一句短短的问候。",
+      "py": "zhè shì wǒ cóng shǒu ěr sòng lái de yī jù duǎn duǎn de wèn hòu。"
     }
   ],
   "full_passage_lines": [
@@ -223,5 +265,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Hello, my name is Mina, and I am from Korea. I live in Seoul with my family. I am a student, and I go to school every day. I am in the sixth grade. I am in Class Three at my school. My school is near my home, so I walk there. I am thirteen years old. I have a little sister, and she is eleven. I like English, and I like to meet new friends. I am happy to meet you. This is my short hello from Seoul."
+  "full_passage_spoken": "Hello, my name is Mina, and I am from Korea. I live in Seoul with my family. I am a student, and I go to school every day. I am in the sixth grade. I am in Class Three at my school. My school is near my home, so I walk there. I am thirteen years old. I have a little sister, and she is eleven. I like English, and I like to meet new friends. I am happy to meet you. This is my short hello from Seoul.",
+  "topic_zh": "自我介绍（一）",
+  "topic_pinyin": "zì wǒ jiè shào（ yī）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "你好，我叫米娜，我来自韩国。我和家人住在首尔。我是学生，每天去上学。我上六年级。我在学校上三班。学校离我家很近，所以我走着去。我十三岁。我有一个妹妹，她十一岁。我喜欢英语，也喜欢认识新朋友。见到你我很高兴。这是我从首尔送来的一句短短的问候。",
+  "full_passage_pinyin": "nǐ hǎo， wǒ jiào mǐ nà， wǒ lái zì hán guó。 wǒ hé jiā rén zhù zài shǒu ěr。 wǒ shì xué shēng， měi tiān qù shàng xué。 wǒ shàng liù nián jí。 wǒ zài xué xiào shàng sān bān。 xué xiào lí wǒ jiā hěn jìn， suǒ yǐ wǒ zǒu zhe qù。 wǒ shí sān suì。 wǒ yǒu yí gè mèi mèi， tā shí yī suì。 wǒ xǐ huān yīng yǔ， yě xǐ huān rèn shí xīn péng yǒu。 jiàn dào nǐ wǒ hěn gāo xìng。 zhè shì wǒ cóng shǒu ěr sòng lái de yī jù duǎn duǎn de wèn hòu。"
 }

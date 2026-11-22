@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "zoo",
-      "ko": "동물원"
+      "ko": "동물원",
+      "zh": "动物园",
+      "py": "dòng wù yuán"
     },
     {
       "en": "visit",
-      "ko": "방문하다"
+      "ko": "방문하다",
+      "zh": "参观",
+      "py": "cān guān"
     },
     {
       "en": "animal",
-      "ko": "동물"
+      "ko": "동물",
+      "zh": "动物",
+      "py": "dòng wù"
     },
     {
       "en": "lion",
-      "ko": "사자"
+      "ko": "사자",
+      "zh": "狮子",
+      "py": "shī zi"
     },
     {
       "en": "big",
-      "ko": "큰"
+      "ko": "큰",
+      "zh": "大",
+      "py": "dà"
     },
     {
       "en": "monkey",
-      "ko": "원숭이"
+      "ko": "원숭이",
+      "zh": "猴子",
+      "py": "hóu zi"
     },
     {
       "en": "funny",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "elephant",
-      "ko": "코끼리"
+      "ko": "코끼리",
+      "zh": "大象",
+      "py": "dà xiàng"
     },
     {
       "en": "panda",
-      "ko": "판다"
+      "ko": "판다",
+      "zh": "熊猫",
+      "py": "xióng māo"
     },
     {
       "en": "cute",
-      "ko": "귀여운"
+      "ko": "귀여운",
+      "zh": "可爱",
+      "py": "kě ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "zoo",
         "visit",
         "animal"
-      ]
+      ],
+      "zh": "我们去参观动物园，我看见一只动物。",
+      "py": "wǒ men qù cān guān dòng wù yuán， wǒ kàn jiàn yī zhī dòng wù。"
     },
     {
       "en": "The lion is big, and the monkey is funny.",
@@ -79,7 +101,9 @@
         "big",
         "monkey",
         "funny"
-      ]
+      ],
+      "zh": "狮子很大，猴子很有趣。",
+      "py": "shī zi hěn dà， hóu zi hěn yǒu qù。"
     },
     {
       "en": "The elephant is very big.",
@@ -87,7 +111,9 @@
       "highlights": [
         "big",
         "elephant"
-      ]
+      ],
+      "zh": "大象非常大。",
+      "py": "dà xiàng fēi cháng dà。"
     },
     {
       "en": "The panda is cute, and I like the zoo.",
@@ -96,14 +122,18 @@
         "zoo",
         "panda",
         "cute"
-      ]
+      ],
+      "zh": "熊猫很可爱，我喜欢动物园。",
+      "py": "xióng māo hěn kě ài， wǒ xǐ huān dòng wù yuán。"
     },
     {
       "en": "My little sister wants to see the panda again.",
       "ko": "여동생은 판다를 다시 보고 싶어해요.",
       "highlights": [
         "panda"
-      ]
+      ],
+      "zh": "妹妹想再看一次熊猫。",
+      "py": "mèi mèi xiǎng zài kàn yī cì xióng māo。"
     },
     {
       "en": "A funny monkey jumps near the glass.",
@@ -111,14 +141,18 @@
       "highlights": [
         "monkey",
         "funny"
-      ]
+      ],
+      "zh": "一只有趣的猴子在玻璃旁边跳。",
+      "py": "yī zhī yǒu qù de hóu zi zài bō lí páng biān tiào。"
     },
     {
       "en": "We visit on a sunny Saturday.",
       "ko": "우리는 화창한 토요일에 방문해요.",
       "highlights": [
         "visit"
-      ]
+      ],
+      "zh": "我们在晴朗的星期六去参观。",
+      "py": "wǒ men zài qíng lǎng de xīng qī liù qù cān guān。"
     },
     {
       "en": "Each animal has a home at the zoo.",
@@ -126,7 +160,9 @@
       "highlights": [
         "zoo",
         "animal"
-      ]
+      ],
+      "zh": "每只动物在动物园都有家。",
+      "py": "měi zhī dòng wù zài dòng wù yuán dōu yǒu jiā。"
     },
     {
       "en": "The big elephant eats slowly.",
@@ -134,7 +170,9 @@
       "highlights": [
         "big",
         "elephant"
-      ]
+      ],
+      "zh": "大大的大象慢慢地吃东西。",
+      "py": "dà dà de dà xiàng màn màn de chī dōng xī。"
     },
     {
       "en": "I draw the cute panda when I get home.",
@@ -142,14 +180,18 @@
       "highlights": [
         "panda",
         "cute"
-      ]
+      ],
+      "zh": "我回家以后画可爱的熊猫。",
+      "py": "wǒ huí jiā yǐ hòu huà kě ài de xióng māo。"
     },
     {
       "en": "The zoo is a good place for our family.",
       "ko": "동물원은 우리 가족에게 좋은 곳이에요.",
       "highlights": [
         "zoo"
-      ]
+      ],
+      "zh": "动物园是我们家人的好地方。",
+      "py": "dòng wù yuán shì wǒ men jiā rén de hǎo dì fāng。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "We visit the zoo, and I see an animal. The lion is big, and the monkey is funny. The elephant is very big. The panda is cute, and I like the zoo. My little sister wants to see the panda again. A funny monkey jumps near the glass. We visit on a sunny Saturday. Each animal has a home at the zoo. The big elephant eats slowly. I draw the cute panda when I get home. The zoo is a good place for our family."
+  "full_passage_spoken": "We visit the zoo, and I see an animal. The lion is big, and the monkey is funny. The elephant is very big. The panda is cute, and I like the zoo. My little sister wants to see the panda again. A funny monkey jumps near the glass. We visit on a sunny Saturday. Each animal has a home at the zoo. The big elephant eats slowly. I draw the cute panda when I get home. The zoo is a good place for our family.",
+  "topic_zh": "动物园",
+  "topic_pinyin": "dòng wù yuán",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们去参观动物园，我看见一只动物。狮子很大，猴子很有趣。大象非常大。熊猫很可爱，我喜欢动物园。妹妹想再看一次熊猫。一只有趣的猴子在玻璃旁边跳。我们在晴朗的星期六去参观。每只动物在动物园都有家。大大的大象慢慢地吃东西。我回家以后画可爱的熊猫。动物园是我们家人的好地方。",
+  "full_passage_pinyin": "wǒ men qù cān guān dòng wù yuán， wǒ kàn jiàn yī zhī dòng wù。 shī zi hěn dà， hóu zi hěn yǒu qù。 dà xiàng fēi cháng dà。 xióng māo hěn kě ài， wǒ xǐ huān dòng wù yuán。 mèi mèi xiǎng zài kàn yī cì xióng māo。 yī zhī yǒu qù de hóu zi zài bō lí páng biān tiào。 wǒ men zài qíng lǎng de xīng qī liù qù cān guān。 měi zhī dòng wù zài dòng wù yuán dōu yǒu jiā。 dà dà de dà xiàng màn màn de chī dōng xī。 wǒ huí jiā yǐ hòu huà kě ài de xióng māo。 dòng wù yuán shì wǒ men jiā rén de hǎo dì fāng。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "dinner",
-      "ko": "저녁 식사"
+      "ko": "저녁 식사",
+      "zh": "晚饭",
+      "py": "wǎn fàn"
     },
     {
       "en": "table",
-      "ko": "식탁"
+      "ko": "식탁",
+      "zh": "餐桌",
+      "py": "cān zhuō"
     },
     {
       "en": "rice",
-      "ko": "밥"
+      "ko": "밥",
+      "zh": "米饭",
+      "py": "mǐ fàn"
     },
     {
       "en": "soup",
-      "ko": "국"
+      "ko": "국",
+      "zh": "汤",
+      "py": "tāng"
     },
     {
       "en": "fish",
-      "ko": "생선"
+      "ko": "생선",
+      "zh": "鱼",
+      "py": "yú"
     },
     {
       "en": "vegetable",
-      "ko": "채소"
+      "ko": "채소",
+      "zh": "蔬菜",
+      "py": "shū cài"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "talk",
-      "ko": "이야기하다"
+      "ko": "이야기하다",
+      "zh": "说话",
+      "py": "shuō huà"
     },
     {
       "en": "slowly",
-      "ko": "천천히"
+      "ko": "천천히",
+      "zh": "慢慢地",
+      "py": "màn màn de"
     },
     {
       "en": "full",
-      "ko": "배부른"
+      "ko": "배부른",
+      "zh": "饱",
+      "py": "bǎo"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "dinner",
         "table"
-      ]
+      ],
+      "zh": "我们在餐桌边吃晚饭。",
+      "py": "wǒ men zài cān zhuō biān chī wǎn fàn。"
     },
     {
       "en": "We have rice and soup.",
@@ -76,7 +98,9 @@
       "highlights": [
         "rice",
         "soup"
-      ]
+      ],
+      "zh": "我们吃米饭和汤。",
+      "py": "wǒ men chī mǐ fàn hé tāng。"
     },
     {
       "en": "We have fish and a vegetable.",
@@ -84,7 +108,9 @@
       "highlights": [
         "fish",
         "vegetable"
-      ]
+      ],
+      "zh": "我们吃鱼和蔬菜。",
+      "py": "wǒ men chī yú hé shū cài。"
     },
     {
       "en": "We talk as a family.",
@@ -92,28 +118,36 @@
       "highlights": [
         "family",
         "talk"
-      ]
+      ],
+      "zh": "我们一家人说话。",
+      "py": "wǒ men yī jiā rén shuō huà。"
     },
     {
       "en": "I eat slowly.",
       "ko": "나는 천천히 먹어요.",
       "highlights": [
         "slowly"
-      ]
+      ],
+      "zh": "我慢慢地吃。",
+      "py": "wǒ màn màn de chī。"
     },
     {
       "en": "I feel full.",
       "ko": "나는 배가 불러요.",
       "highlights": [
         "full"
-      ]
+      ],
+      "zh": "我感觉吃饱了。",
+      "py": "wǒ gǎn jué chī bǎo le。"
     },
     {
       "en": "Dinner time is special.",
       "ko": "저녁 식사 시간은 특별해요.",
       "highlights": [
         "dinner"
-      ]
+      ],
+      "zh": "晚饭时间很特别。",
+      "py": "wǎn fàn shí jiān hěn tè bié。"
     },
     {
       "en": "The table is where our family meets.",
@@ -121,7 +155,9 @@
       "highlights": [
         "table",
         "family"
-      ]
+      ],
+      "zh": "餐桌是我们一家人见面的地方。",
+      "py": "cān zhuō shì wǒ men yī jiā rén jiàn miàn de dì fāng。"
     },
     {
       "en": "Rice, soup, fish, and a vegetable make a good dinner.",
@@ -132,7 +168,9 @@
         "soup",
         "fish",
         "vegetable"
-      ]
+      ],
+      "zh": "米饭、汤、鱼和蔬菜做成一顿好晚饭。",
+      "py": "mǐ fàn、 tāng、 yú hé shū cài zuò chéng yī dùn hǎo wǎn fàn。"
     },
     {
       "en": "I eat slowly so I do not feel too full.",
@@ -140,7 +178,9 @@
       "highlights": [
         "slowly",
         "full"
-      ]
+      ],
+      "zh": "我慢慢地吃，这样就不会吃得太饱。",
+      "py": "wǒ màn màn de chī， zhè yàng jiù bú huì chī de tài bǎo。"
     },
     {
       "en": "We talk, and dinner feels special.",
@@ -148,7 +188,9 @@
       "highlights": [
         "dinner",
         "talk"
-      ]
+      ],
+      "zh": "我们说话，晚饭就觉得特别。",
+      "py": "wǒ men shuō huà， wǎn fàn jiù jué de tè bié。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "We eat dinner at the table. We have rice and soup. We have fish and a vegetable. We talk as a family. I eat slowly. I feel full. Dinner time is special. The table is where our family meets. Rice, soup, fish, and a vegetable make a good dinner. I eat slowly so I do not feel too full. We talk, and dinner feels special."
+  "full_passage_spoken": "We eat dinner at the table. We have rice and soup. We have fish and a vegetable. We talk as a family. I eat slowly. I feel full. Dinner time is special. The table is where our family meets. Rice, soup, fish, and a vegetable make a good dinner. I eat slowly so I do not feel too full. We talk, and dinner feels special.",
+  "topic_zh": "我的晚饭",
+  "topic_pinyin": "wǒ de wǎn fàn",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们在餐桌边吃晚饭。我们吃米饭和汤。我们吃鱼和蔬菜。我们一家人说话。我慢慢地吃。我感觉吃饱了。晚饭时间很特别。餐桌是我们一家人见面的地方。米饭、汤、鱼和蔬菜做成一顿好晚饭。我慢慢地吃，这样就不会吃得太饱。我们说话，晚饭就觉得特别。",
+  "full_passage_pinyin": "wǒ men zài cān zhuō biān chī wǎn fàn。 wǒ men chī mǐ fàn hé tāng。 wǒ men chī yú hé shū cài。 wǒ men yī jiā rén shuō huà。 wǒ màn màn de chī。 wǒ gǎn jué chī bǎo le。 wǎn fàn shí jiān hěn tè bié。 cān zhuō shì wǒ men yī jiā rén jiàn miàn de dì fāng。 mǐ fàn、 tāng、 yú hé shū cài zuò chéng yī dùn hǎo wǎn fàn。 wǒ màn màn de chī， zhè yàng jiù bú huì chī de tài bǎo。 wǒ men shuō huà， wǎn fàn jiù jué de tè bié。"
 }

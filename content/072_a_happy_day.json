@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "today",
-      "ko": "오늘"
+      "ko": "오늘",
+      "zh": "今天",
+      "py": "jīn tiān"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     },
     {
       "en": "sunny",
-      "ko": "화창한"
+      "ko": "화창한",
+      "zh": "晴朗",
+      "py": "qíng lǎng"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "picnic",
-      "ko": "소풍"
+      "ko": "소풍",
+      "zh": "野餐",
+      "py": "yě cān"
     },
     {
       "en": "laugh",
-      "ko": "웃다"
+      "ko": "웃다",
+      "zh": "笑",
+      "py": "xiào"
     },
     {
       "en": "game",
-      "ko": "놀이"
+      "ko": "놀이",
+      "zh": "游戏",
+      "py": "yóu xì"
     },
     {
       "en": "photo",
-      "ko": "사진"
+      "ko": "사진",
+      "zh": "照片",
+      "py": "zhào piān"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "remember",
-      "ko": "기억하다"
+      "ko": "기억하다",
+      "zh": "记住",
+      "py": "jì zhù"
     }
   ],
   "phrases": [
@@ -69,21 +89,27 @@
         "today",
         "happy",
         "sunny"
-      ]
+      ],
+      "zh": "今天是快乐的一天，天空很晴朗。",
+      "py": "jīn tiān shì kuài lè de yī tiān， tiān kōng hěn qíng lǎng。"
     },
     {
       "en": "I meet my friend.",
       "ko": "나는 친구를 만나요.",
       "highlights": [
         "friend"
-      ]
+      ],
+      "zh": "我去见我的朋友。",
+      "py": "wǒ qù jiàn wǒ de péng yǒu。"
     },
     {
       "en": "We have a picnic.",
       "ko": "우리는 소풍을 해요.",
       "highlights": [
         "picnic"
-      ]
+      ],
+      "zh": "我们去野餐。",
+      "py": "wǒ men qù yě cān。"
     },
     {
       "en": "We laugh and play a game.",
@@ -91,14 +117,18 @@
       "highlights": [
         "laugh",
         "game"
-      ]
+      ],
+      "zh": "我们笑，也玩游戏。",
+      "py": "wǒ men xiào， yě wán yóu xì。"
     },
     {
       "en": "We take a photo.",
       "ko": "우리는 사진을 찍어요.",
       "highlights": [
         "photo"
-      ]
+      ],
+      "zh": "我们拍一张照片。",
+      "py": "wǒ men pāi yī zhāng zhào piān。"
     },
     {
       "en": "I remember this smile.",
@@ -106,14 +136,18 @@
       "highlights": [
         "smile",
         "remember"
-      ]
+      ],
+      "zh": "我记住这个微笑。",
+      "py": "wǒ jì zhù zhè ge wēi xiào。"
     },
     {
       "en": "I want more days like today.",
       "ko": "나는 오늘 같은 날이 더 있으면 좋겠어요.",
       "highlights": [
         "today"
-      ]
+      ],
+      "zh": "我还想要更多像今天这样的日子。",
+      "py": "wǒ hái xiǎng yào gèng duō xiàng jīn tiān zhè yàng de rì zi。"
     },
     {
       "en": "A sunny picnic makes a happy day.",
@@ -122,7 +156,9 @@
         "happy",
         "sunny",
         "picnic"
-      ]
+      ],
+      "zh": "晴朗的野餐让一天变得快乐。",
+      "py": "qíng lǎng de yě cān ràng yī tiān biàn de kuài lè。"
     },
     {
       "en": "My friend and I laugh at a silly game.",
@@ -131,7 +167,9 @@
         "friend",
         "laugh",
         "game"
-      ]
+      ],
+      "zh": "我和朋友因为一个好笑的游戏而笑。",
+      "py": "wǒ hé péng yǒu yīn wèi yí gè hǎo xiào de yóu xì ér xiào。"
     },
     {
       "en": "The photo keeps our smile.",
@@ -139,7 +177,9 @@
       "highlights": [
         "photo",
         "smile"
-      ]
+      ],
+      "zh": "照片留住我们的微笑。",
+      "py": "zhào piān liú zhù wǒ men de wēi xiào。"
     },
     {
       "en": "I will remember today for a long time.",
@@ -147,7 +187,9 @@
       "highlights": [
         "today",
         "remember"
-      ]
+      ],
+      "zh": "我会记住今天很久。",
+      "py": "wǒ huì jì zhù jīn tiān hěn jiǔ。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Today is a happy day, and the sky is sunny. I meet my friend. We have a picnic. We laugh and play a game. We take a photo. I remember this smile. I want more days like today. A sunny picnic makes a happy day. My friend and I laugh at a silly game. The photo keeps our smile. I will remember today for a long time."
+  "full_passage_spoken": "Today is a happy day, and the sky is sunny. I meet my friend. We have a picnic. We laugh and play a game. We take a photo. I remember this smile. I want more days like today. A sunny picnic makes a happy day. My friend and I laugh at a silly game. The photo keeps our smile. I will remember today for a long time.",
+  "topic_zh": "快乐的一天",
+  "topic_pinyin": "kuài lè de yī tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "今天是快乐的一天，天空很晴朗。我去见我的朋友。我们去野餐。我们笑，也玩游戏。我们拍一张照片。我记住这个微笑。我还想要更多像今天这样的日子。晴朗的野餐让一天变得快乐。我和朋友因为一个好笑的游戏而笑。照片留住我们的微笑。我会记住今天很久。",
+  "full_passage_pinyin": "jīn tiān shì kuài lè de yī tiān， tiān kōng hěn qíng lǎng。 wǒ qù jiàn wǒ de péng yǒu。 wǒ men qù yě cān。 wǒ men xiào， yě wán yóu xì。 wǒ men pāi yī zhāng zhào piān。 wǒ jì zhù zhè ge wēi xiào。 wǒ hái xiǎng yào gèng duō xiàng jīn tiān zhè yàng de rì zi。 qíng lǎng de yě cān ràng yī tiān biàn de kuài lè。 wǒ hé péng yǒu yīn wèi yí gè hǎo xiào de yóu xì ér xiào。 zhào piān liú zhù wǒ men de wēi xiào。 wǒ huì jì zhù jīn tiān hěn jiǔ。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "body",
-      "ko": "몸"
+      "ko": "몸",
+      "zh": "身体",
+      "py": "shēn tǐ"
     },
     {
       "en": "head",
-      "ko": "머리"
+      "ko": "머리",
+      "zh": "头",
+      "py": "tóu"
     },
     {
       "en": "eye",
-      "ko": "눈"
+      "ko": "눈",
+      "zh": "眼睛",
+      "py": "yǎn jīng"
     },
     {
       "en": "ear",
-      "ko": "귀"
+      "ko": "귀",
+      "zh": "耳朵",
+      "py": "ěr duǒ"
     },
     {
       "en": "mouth",
-      "ko": "입"
+      "ko": "입",
+      "zh": "嘴",
+      "py": "zuǐ"
     },
     {
       "en": "hand",
-      "ko": "손"
+      "ko": "손",
+      "zh": "手",
+      "py": "shǒu"
     },
     {
       "en": "foot",
-      "ko": "발"
+      "ko": "발",
+      "zh": "脚",
+      "py": "jiǎo"
     },
     {
       "en": "move",
-      "ko": "움직이다"
+      "ko": "움직이다",
+      "zh": "动",
+      "py": "dòng"
     },
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "strong",
-      "ko": "튼튼한"
+      "ko": "튼튼한",
+      "zh": "强壮",
+      "py": "qiáng zhuàng"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "body",
         "head"
-      ]
+      ],
+      "zh": "这是我的身体，我有一个头。",
+      "py": "zhè shì wǒ de shēn tǐ， wǒ yǒu yí gè tóu。"
     },
     {
       "en": "I shut one eye, and I hear with my ear.",
@@ -76,14 +98,18 @@
       "highlights": [
         "eye",
         "ear"
-      ]
+      ],
+      "zh": "我闭上一只眼睛，用耳朵听。",
+      "py": "wǒ bì shàng yī zhī yǎn jīng， yòng ěr duǒ tīng。"
     },
     {
       "en": "I open my mouth when I sing.",
       "ko": "나는 노래할 때 입을 벌려요.",
       "highlights": [
         "mouth"
-      ]
+      ],
+      "zh": "我唱歌的时候张开嘴。",
+      "py": "wǒ chàng gē de shí hòu zhāng kāi zuǐ。"
     },
     {
       "en": "I wave my hand, and I hop on one foot.",
@@ -91,7 +117,9 @@
       "highlights": [
         "hand",
         "foot"
-      ]
+      ],
+      "zh": "我挥手，也用一只脚跳。",
+      "py": "wǒ huī shǒu， yě yòng yī zhī jiǎo tiào。"
     },
     {
       "en": "I move my body every day.",
@@ -99,7 +127,9 @@
       "highlights": [
         "body",
         "move"
-      ]
+      ],
+      "zh": "我每天活动身体。",
+      "py": "wǒ měi tiān huó dòng shēn tǐ。"
     },
     {
       "en": "A healthy body is strong.",
@@ -108,21 +138,27 @@
         "body",
         "healthy",
         "strong"
-      ]
+      ],
+      "zh": "健康的身体很强壮。",
+      "py": "jiàn kāng de shēn tǐ hěn qiáng zhuàng。"
     },
     {
       "en": "I wash my hands before I eat.",
       "ko": "나는 먹기 전에 손을 씻어요.",
       "highlights": [
         "hand"
-      ]
+      ],
+      "zh": "吃饭前我洗手。",
+      "py": "chī fàn qián wǒ xǐ shǒu。"
     },
     {
       "en": "My two eyes help me read.",
       "ko": "나의 두 눈은 내가 책을 읽도록 도와줘요.",
       "highlights": [
         "eye"
-      ]
+      ],
+      "zh": "我的两只眼睛帮助我看书。",
+      "py": "wǒ de liǎng zhī yǎn jīng bāng zhù wǒ kàn shū。"
     },
     {
       "en": "I take care of my body because I want to be strong.",
@@ -130,21 +166,27 @@
       "highlights": [
         "body",
         "strong"
-      ]
+      ],
+      "zh": "我想变得强壮，所以我照顾自己的身体。",
+      "py": "wǒ xiǎng biàn de qiáng zhuàng， suǒ yǐ wǒ zhào gù zì jǐ de shēn tǐ。"
     },
     {
       "en": "A healthy girl can run and play.",
       "ko": "건강한 여자아이는 달리고 놀 수 있어요.",
       "highlights": [
         "healthy"
-      ]
+      ],
+      "zh": "健康的女孩可以跑，也可以玩。",
+      "py": "jiàn kāng de nǚ hái kě yǐ pǎo， yě kě yǐ wán。"
     },
     {
       "en": "I move, I rest, and I grow.",
       "ko": "나는 움직이고, 쉬고, 자라요.",
       "highlights": [
         "move"
-      ]
+      ],
+      "zh": "我活动，我休息，我也长大。",
+      "py": "wǒ huó dòng， wǒ xiū xī， wǒ yě zhǎng dà。"
     }
   ],
   "full_passage_lines": [
@@ -233,5 +275,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is my body, and I have a head. I shut one eye, and I hear with my ear. I open my mouth when I sing. I wave my hand, and I hop on one foot. I move my body every day. A healthy body is strong. I wash my hands before I eat. My two eyes help me read. I take care of my body because I want to be strong. A healthy girl can run and play. I move, I rest, and I grow."
+  "full_passage_spoken": "This is my body, and I have a head. I shut one eye, and I hear with my ear. I open my mouth when I sing. I wave my hand, and I hop on one foot. I move my body every day. A healthy body is strong. I wash my hands before I eat. My two eyes help me read. I take care of my body because I want to be strong. A healthy girl can run and play. I move, I rest, and I grow.",
+  "topic_zh": "我的身体",
+  "topic_pinyin": "wǒ de shēn tǐ",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的身体，我有一个头。我闭上一只眼睛，用耳朵听。我唱歌的时候张开嘴。我挥手，也用一只脚跳。我每天活动身体。健康的身体很强壮。吃饭前我洗手。我的两只眼睛帮助我看书。我想变得强壮，所以我照顾自己的身体。健康的女孩可以跑，也可以玩。我活动，我休息，我也长大。",
+  "full_passage_pinyin": "zhè shì wǒ de shēn tǐ， wǒ yǒu yí gè tóu。 wǒ bì shàng yī zhī yǎn jīng， yòng ěr duǒ tīng。 wǒ chàng gē de shí hòu zhāng kāi zuǐ。 wǒ huī shǒu， yě yòng yī zhī jiǎo tiào。 wǒ měi tiān huó dòng shēn tǐ。 jiàn kāng de shēn tǐ hěn qiáng zhuàng。 chī fàn qián wǒ xǐ shǒu。 wǒ de liǎng zhī yǎn jīng bāng zhù wǒ kàn shū。 wǒ xiǎng biàn de qiáng zhuàng， suǒ yǐ wǒ zhào gù zì jǐ de shēn tǐ。 jiàn kāng de nǚ hái kě yǐ pǎo， yě kě yǐ wán。 wǒ huó dòng， wǒ xiū xī， wǒ yě zhǎng dà。"
 }

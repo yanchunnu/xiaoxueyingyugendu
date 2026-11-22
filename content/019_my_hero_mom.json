@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "mom",
-      "ko": "엄마"
+      "ko": "엄마",
+      "zh": "妈妈",
+      "py": "mā mā"
     },
     {
       "en": "hero",
-      "ko": "영웅"
+      "ko": "영웅",
+      "zh": "英雄",
+      "py": "yīng xióng"
     },
     {
       "en": "early",
-      "ko": "일찍"
+      "ko": "일찍",
+      "zh": "早",
+      "py": "zǎo"
     },
     {
       "en": "care",
-      "ko": "돌보다"
+      "ko": "돌보다",
+      "zh": "照顾",
+      "py": "zhào gù"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "tired",
-      "ko": "피곤한"
+      "ko": "피곤한",
+      "zh": "累",
+      "py": "lèi"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "warm",
-      "ko": "따뜻한"
+      "ko": "따뜻한",
+      "zh": "温暖",
+      "py": "wēn nuǎn"
     },
     {
       "en": "heart",
-      "ko": "마음"
+      "ko": "마음",
+      "zh": "心",
+      "py": "xīn"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "mom",
         "hero",
         "early"
-      ]
+      ],
+      "zh": "我的妈妈是我的英雄，她起得很早。",
+      "py": "wǒ de mā mā shì wǒ de yīng xióng， tā qǐ de hěn zǎo。"
     },
     {
       "en": "She cares for our family every day.",
@@ -77,7 +99,9 @@
       "highlights": [
         "care",
         "family"
-      ]
+      ],
+      "zh": "她每天照顾我们一家人。",
+      "py": "tā měi tiān zhào gù wǒ men yī jiā rén。"
     },
     {
       "en": "Sometimes she is tired, but she still has a smile.",
@@ -85,7 +109,9 @@
       "highlights": [
         "tired",
         "smile"
-      ]
+      ],
+      "zh": "她有时很累，可是仍然有微笑。",
+      "py": "tā yǒu shí hěn lèi， kě shì réng rán yǒu wēi xiào。"
     },
     {
       "en": "She has a warm heart.",
@@ -93,7 +119,9 @@
       "highlights": [
         "warm",
         "heart"
-      ]
+      ],
+      "zh": "她有一颗温暖的心。",
+      "py": "tā yǒu yī kē wēn nuǎn de xīn。"
     },
     {
       "en": "I love my mom, and I thank my hero.",
@@ -102,14 +130,18 @@
         "mom",
         "hero",
         "love"
-      ]
+      ],
+      "zh": "我爱妈妈，也谢谢我的英雄。",
+      "py": "wǒ ài mā mā， yě xiè xiè wǒ de yīng xióng。"
     },
     {
       "en": "She cares for my little sister and for me.",
       "ko": "엄마는 여동생과 나를 돌봐요.",
       "highlights": [
         "care"
-      ]
+      ],
+      "zh": "她照顾妹妹，也照顾我。",
+      "py": "tā zhào gù mèi mèi， yě zhào gù wǒ。"
     },
     {
       "en": "Her warm heart makes our home soft.",
@@ -117,21 +149,27 @@
       "highlights": [
         "warm",
         "heart"
-      ]
+      ],
+      "zh": "她温暖的心让家变得柔软。",
+      "py": "tā wēn nuǎn de xīn ràng jiā biàn de róu ruǎn。"
     },
     {
       "en": "She is early to the kitchen every morning.",
       "ko": "엄마는 매일 아침 일찍 부엌에 있어요.",
       "highlights": [
         "early"
-      ]
+      ],
+      "zh": "每天早上她很早就到厨房。",
+      "py": "měi tiān zǎo shàng tā hěn zǎo jiù dào chú fáng。"
     },
     {
       "en": "Even when she is tired, she listens.",
       "ko": "피곤할 때도 엄마는 내 말을 들어요.",
       "highlights": [
         "tired"
-      ]
+      ],
+      "zh": "就算很累，她也会听我说。",
+      "py": "jiù suàn hěn lèi， tā yě huì tīng wǒ shuō。"
     },
     {
       "en": "A hero can be a mom with a kind smile.",
@@ -140,7 +178,9 @@
         "mom",
         "hero",
         "smile"
-      ]
+      ],
+      "zh": "英雄也可以是一个带着善良微笑的妈妈。",
+      "py": "yīng xióng yě kě yǐ shì yí gè dài zhe shàn liáng wēi xiào de mā mā。"
     },
     {
       "en": "I love her with all my heart.",
@@ -148,7 +188,9 @@
       "highlights": [
         "heart",
         "love"
-      ]
+      ],
+      "zh": "我用全部的心爱她。",
+      "py": "wǒ yòng quán bù de xīn ài tā。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My mom is my hero, and she gets up early. She cares for our family every day. Sometimes she is tired, but she still has a smile. She has a warm heart. I love my mom, and I thank my hero. She cares for my little sister and for me. Her warm heart makes our home soft. She is early to the kitchen every morning. Even when she is tired, she listens. A hero can be a mom with a kind smile. I love her with all my heart."
+  "full_passage_spoken": "My mom is my hero, and she gets up early. She cares for our family every day. Sometimes she is tired, but she still has a smile. She has a warm heart. I love my mom, and I thank my hero. She cares for my little sister and for me. Her warm heart makes our home soft. She is early to the kitchen every morning. Even when she is tired, she listens. A hero can be a mom with a kind smile. I love her with all my heart.",
+  "topic_zh": "我的英雄（妈妈）",
+  "topic_pinyin": "wǒ de yīng xióng（ mā mā）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的妈妈是我的英雄，她起得很早。她每天照顾我们一家人。她有时很累，可是仍然有微笑。她有一颗温暖的心。我爱妈妈，也谢谢我的英雄。她照顾妹妹，也照顾我。她温暖的心让家变得柔软。每天早上她很早就到厨房。就算很累，她也会听我说。英雄也可以是一个带着善良微笑的妈妈。我用全部的心爱她。",
+  "full_passage_pinyin": "wǒ de mā mā shì wǒ de yīng xióng， tā qǐ de hěn zǎo。 tā měi tiān zhào gù wǒ men yī jiā rén。 tā yǒu shí hěn lèi， kě shì réng rán yǒu wēi xiào。 tā yǒu yī kē wēn nuǎn de xīn。 wǒ ài mā mā， yě xiè xiè wǒ de yīng xióng。 tā zhào gù mèi mèi， yě zhào gù wǒ。 tā wēn nuǎn de xīn ràng jiā biàn de róu ruǎn。 měi tiān zǎo shàng tā hěn zǎo jiù dào chú fáng。 jiù suàn hěn lèi， tā yě huì tīng wǒ shuō。 yīng xióng yě kě yǐ shì yí gè dài zhe shàn liáng wēi xiào de mā mā。 wǒ yòng quán bù de xīn ài tā。"
 }

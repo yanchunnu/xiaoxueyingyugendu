@@ -61,7 +61,9 @@
       "section_en": "People",
       "title_spoken": "About Me",
       "file": "content/001_about_me.json",
-      "audio": "audio/001_about_me.mp3"
+      "audio": "audio/001_about_me.mp3",
+      "topic_zh": "关于我",
+      "topic_pinyin": "guān yú wǒ"
     },
     {
       "number": 2,
@@ -72,7 +74,9 @@
       "section_en": "People",
       "title_spoken": "Myself",
       "file": "content/002_myself.json",
-      "audio": "audio/002_myself.mp3"
+      "audio": "audio/002_myself.mp3",
+      "topic_zh": "我自己",
+      "topic_pinyin": "wǒ zì jǐ"
     },
     {
       "number": 3,
@@ -83,7 +87,9 @@
       "section_en": "People",
       "title_spoken": "Self-Introduction, Part One",
       "file": "content/003_self_introduction_1.json",
-      "audio": "audio/003_self_introduction_1.mp3"
+      "audio": "audio/003_self_introduction_1.mp3",
+      "topic_zh": "自我介绍（一）",
+      "topic_pinyin": "zì wǒ jiè shào（ yī）"
     },
     {
       "number": 4,
@@ -94,7 +100,9 @@
       "section_en": "People",
       "title_spoken": "Self-Introduction, Part Two",
       "file": "content/004_self_introduction_2.json",
-      "audio": "audio/004_self_introduction_2.mp3"
+      "audio": "audio/004_self_introduction_2.mp3",
+      "topic_zh": "自我介绍（二）",
+      "topic_pinyin": "zì wǒ jiè shào（ èr）"
     },
     {
       "number": 5,
@@ -105,7 +113,9 @@
       "section_en": "People",
       "title_spoken": "This is Me",
       "file": "content/005_this_is_me.json",
-      "audio": "audio/005_this_is_me.mp3"
+      "audio": "audio/005_this_is_me.mp3",
+      "topic_zh": "这就是我",
+      "topic_pinyin": "zhè jiù shì wǒ"
     },
     {
       "number": 6,
@@ -116,7 +126,9 @@
       "section_en": "People",
       "title_spoken": "My Father",
       "file": "content/006_my_father.json",
-      "audio": "audio/006_my_father.mp3"
+      "audio": "audio/006_my_father.mp3",
+      "topic_zh": "我的爸爸",
+      "topic_pinyin": "wǒ de bà bà"
     },
     {
       "number": 7,
@@ -127,7 +139,9 @@
       "section_en": "People",
       "title_spoken": "My Mother",
       "file": "content/007_my_mother.json",
-      "audio": "audio/007_my_mother.mp3"
+      "audio": "audio/007_my_mother.mp3",
+      "topic_zh": "我的妈妈",
+      "topic_pinyin": "wǒ de mā mā"
     },
     {
       "number": 8,
@@ -138,7 +152,9 @@
       "section_en": "People",
       "title_spoken": "My Brother",
       "file": "content/008_my_brother.json",
-      "audio": "audio/008_my_brother.mp3"
+      "audio": "audio/008_my_brother.mp3",
+      "topic_zh": "我的哥哥",
+      "topic_pinyin": "wǒ dī gē gē"
     },
     {
       "number": 9,
@@ -149,7 +165,9 @@
       "section_en": "People",
       "title_spoken": "My Sister",
       "file": "content/009_my_sister.json",
-      "audio": "audio/009_my_sister.mp3"
+      "audio": "audio/009_my_sister.mp3",
+      "topic_zh": "我的姐姐",
+      "topic_pinyin": "wǒ de jiě jiě"
     },
     {
       "number": 10,
@@ -160,7 +178,9 @@
       "section_en": "People",
       "title_spoken": "My Grandfather",
       "file": "content/010_my_grandfather.json",
-      "audio": "audio/010_my_grandfather.mp3"
+      "audio": "audio/010_my_grandfather.mp3",
+      "topic_zh": "我的爷爷",
+      "topic_pinyin": "wǒ de yé yé"
     },
     {
       "number": 11,
@@ -171,7 +191,9 @@
       "section_en": "People",
       "title_spoken": "My Grandmother",
       "file": "content/011_my_grandmother.json",
-      "audio": "audio/011_my_grandmother.mp3"
+      "audio": "audio/011_my_grandmother.mp3",
+      "topic_zh": "我的奶奶",
+      "topic_pinyin": "wǒ de nǎi nǎi"
     },
     {
       "number": 12,
@@ -182,7 +204,9 @@
       "section_en": "People",
       "title_spoken": "My Family, Part One",
       "file": "content/012_my_family_1.json",
-      "audio": "audio/012_my_family_1.mp3"
+      "audio": "audio/012_my_family_1.mp3",
+      "topic_zh": "我的家人（一）",
+      "topic_pinyin": "wǒ de jiā rén（ yī）"
     },
     {
       "number": 13,
@@ -193,7 +217,9 @@
       "section_en": "People",
       "title_spoken": "My Family, Part Two",
       "file": "content/013_my_family_2.json",
-      "audio": "audio/013_my_family_2.mp3"
+      "audio": "audio/013_my_family_2.mp3",
+      "topic_zh": "我的家人（二）",
+      "topic_pinyin": "wǒ de jiā rén（ èr）"
     },
     {
       "number": 14,
@@ -204,7 +230,9 @@
       "section_en": "People",
       "title_spoken": "My Friend",
       "file": "content/014_my_friend.json",
-      "audio": "audio/014_my_friend.mp3"
+      "audio": "audio/014_my_friend.mp3",
+      "topic_zh": "我的朋友",
+      "topic_pinyin": "wǒ de péng yǒu"
     },
     {
       "number": 15,
@@ -215,7 +243,9 @@
       "section_en": "People",
       "title_spoken": "My Classmate",
       "file": "content/015_my_classmate.json",
-      "audio": "audio/015_my_classmate.mp3"
+      "audio": "audio/015_my_classmate.mp3",
+      "topic_zh": "我的同学",
+      "topic_pinyin": "wǒ de tóng xué"
     },
     {
       "number": 16,
@@ -226,7 +256,9 @@
       "section_en": "People",
       "title_spoken": "My Best Friend",
       "file": "content/016_my_best_friend.json",
-      "audio": "audio/016_my_best_friend.mp3"
+      "audio": "audio/016_my_best_friend.mp3",
+      "topic_zh": "我最好的朋友",
+      "topic_pinyin": "wǒ zuì hǎo de péng yǒu"
     },
     {
       "number": 17,
@@ -237,7 +269,9 @@
       "section_en": "People",
       "title_spoken": "My Teacher",
       "file": "content/017_my_teacher.json",
-      "audio": "audio/017_my_teacher.mp3"
+      "audio": "audio/017_my_teacher.mp3",
+      "topic_zh": "我的老师",
+      "topic_pinyin": "wǒ de lǎo shī"
     },
     {
       "number": 18,
@@ -248,7 +282,9 @@
       "section_en": "People",
       "title_spoken": "My Hero, Dad",
       "file": "content/018_my_hero_dad.json",
-      "audio": "audio/018_my_hero_dad.mp3"
+      "audio": "audio/018_my_hero_dad.mp3",
+      "topic_zh": "我的英雄（爸爸）",
+      "topic_pinyin": "wǒ de yīng xióng（ bà bà）"
     },
     {
       "number": 19,
@@ -259,7 +295,9 @@
       "section_en": "People",
       "title_spoken": "My Hero, Mom",
       "file": "content/019_my_hero_mom.json",
-      "audio": "audio/019_my_hero_mom.mp3"
+      "audio": "audio/019_my_hero_mom.mp3",
+      "topic_zh": "我的英雄（妈妈）",
+      "topic_pinyin": "wǒ de yīng xióng（ mā mā）"
     },
     {
       "number": 20,
@@ -270,7 +308,9 @@
       "section_en": "People",
       "title_spoken": "My Younger Sister",
       "file": "content/020_my_younger_sister.json",
-      "audio": "audio/020_my_younger_sister.mp3"
+      "audio": "audio/020_my_younger_sister.mp3",
+      "topic_zh": "我的妹妹",
+      "topic_pinyin": "wǒ de mèi mèi"
     },
     {
       "number": 21,
@@ -281,7 +321,9 @@
       "section_en": "People",
       "title_spoken": "My Good Friend",
       "file": "content/021_my_good_friend.json",
-      "audio": "audio/021_my_good_friend.mp3"
+      "audio": "audio/021_my_good_friend.mp3",
+      "topic_zh": "我的好朋友",
+      "topic_pinyin": "wǒ de hǎo péng yǒu"
     },
     {
       "number": 22,
@@ -292,7 +334,9 @@
       "section_en": "People",
       "title_spoken": "My Favorite Person",
       "file": "content/022_my_favorite_person.json",
-      "audio": "audio/022_my_favorite_person.mp3"
+      "audio": "audio/022_my_favorite_person.mp3",
+      "topic_zh": "我最喜欢的人",
+      "topic_pinyin": "wǒ zuì xǐ huān de rén"
     },
     {
       "number": 23,
@@ -303,7 +347,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "My Hometown",
       "file": "content/023_my_hometown.json",
-      "audio": "audio/023_my_hometown.mp3"
+      "audio": "audio/023_my_hometown.mp3",
+      "topic_zh": "我的家乡",
+      "topic_pinyin": "wǒ de jiā xiāng"
     },
     {
       "number": 24,
@@ -314,7 +360,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "The Park",
       "file": "content/024_the_park.json",
-      "audio": "audio/024_the_park.mp3"
+      "audio": "audio/024_the_park.mp3",
+      "topic_zh": "公园",
+      "topic_pinyin": "gōng yuán"
     },
     {
       "number": 25,
@@ -325,7 +373,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "The Sea",
       "file": "content/025_the_sea.json",
-      "audio": "audio/025_the_sea.mp3"
+      "audio": "audio/025_the_sea.mp3",
+      "topic_zh": "大海",
+      "topic_pinyin": "dà hǎi"
     },
     {
       "number": 26,
@@ -336,7 +386,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "The Zoo",
       "file": "content/026_the_zoo.json",
-      "audio": "audio/026_the_zoo.mp3"
+      "audio": "audio/026_the_zoo.mp3",
+      "topic_zh": "动物园",
+      "topic_pinyin": "dòng wù yuán"
     },
     {
       "number": 27,
@@ -347,7 +399,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "My Grandpa's Farm",
       "file": "content/027_my_grandpas_farm.json",
-      "audio": "audio/027_my_grandpas_farm.mp3"
+      "audio": "audio/027_my_grandpas_farm.mp3",
+      "topic_zh": "爷爷的农场",
+      "topic_pinyin": "yé yé de nóng chǎng"
     },
     {
       "number": 28,
@@ -358,7 +412,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "Flowers",
       "file": "content/028_flowers.json",
-      "audio": "audio/028_flowers.mp3"
+      "audio": "audio/028_flowers.mp3",
+      "topic_zh": "花",
+      "topic_pinyin": "huā"
     },
     {
       "number": 29,
@@ -369,7 +425,9 @@
       "section_en": "Places and Scenery",
       "title_spoken": "Colors",
       "file": "content/029_colors.json",
-      "audio": "audio/029_colors.mp3"
+      "audio": "audio/029_colors.mp3",
+      "topic_zh": "颜色",
+      "topic_pinyin": "yán sè"
     },
     {
       "number": 30,
@@ -380,7 +438,9 @@
       "section_en": "My Things",
       "title_spoken": "My Home",
       "file": "content/030_my_home.json",
-      "audio": "audio/030_my_home.mp3"
+      "audio": "audio/030_my_home.mp3",
+      "topic_zh": "我的家",
+      "topic_pinyin": "wǒ de jiā"
     },
     {
       "number": 31,
@@ -391,7 +451,9 @@
       "section_en": "My Things",
       "title_spoken": "My Room",
       "file": "content/031_my_room.json",
-      "audio": "audio/031_my_room.mp3"
+      "audio": "audio/031_my_room.mp3",
+      "topic_zh": "我的房间",
+      "topic_pinyin": "wǒ de fáng jiān"
     },
     {
       "number": 32,
@@ -402,7 +464,9 @@
       "section_en": "My Things",
       "title_spoken": "My Schoolbag",
       "file": "content/032_my_schoolbag.json",
-      "audio": "audio/032_my_schoolbag.mp3"
+      "audio": "audio/032_my_schoolbag.mp3",
+      "topic_zh": "我的书包",
+      "topic_pinyin": "wǒ de shū bāo"
     },
     {
       "number": 33,
@@ -413,7 +477,9 @@
       "section_en": "My Things",
       "title_spoken": "My Pet",
       "file": "content/033_my_pet.json",
-      "audio": "audio/033_my_pet.mp3"
+      "audio": "audio/033_my_pet.mp3",
+      "topic_zh": "我的宠物",
+      "topic_pinyin": "wǒ de chǒng wù"
     },
     {
       "number": 34,
@@ -424,7 +490,9 @@
       "section_en": "My Things",
       "title_spoken": "My Bicycle",
       "file": "content/034_my_bicycle.json",
-      "audio": "audio/034_my_bicycle.mp3"
+      "audio": "audio/034_my_bicycle.mp3",
+      "topic_zh": "我的自行车",
+      "topic_pinyin": "wǒ de zì xíng chē"
     },
     {
       "number": 35,
@@ -435,7 +503,9 @@
       "section_en": "My Things",
       "title_spoken": "My Favorite Toy",
       "file": "content/035_my_favorite_toy.json",
-      "audio": "audio/035_my_favorite_toy.mp3"
+      "audio": "audio/035_my_favorite_toy.mp3",
+      "topic_zh": "我最喜欢的玩具",
+      "topic_pinyin": "wǒ zuì xǐ huān de wán jù"
     },
     {
       "number": 36,
@@ -446,7 +516,9 @@
       "section_en": "My Things",
       "title_spoken": "My Notebook",
       "file": "content/036_my_notebook.json",
-      "audio": "audio/036_my_notebook.mp3"
+      "audio": "audio/036_my_notebook.mp3",
+      "topic_zh": "我的笔记本",
+      "topic_pinyin": "wǒ de bǐ jì běn"
     },
     {
       "number": 37,
@@ -457,7 +529,9 @@
       "section_en": "My Things",
       "title_spoken": "The Computer",
       "file": "content/037_the_computer.json",
-      "audio": "audio/037_the_computer.mp3"
+      "audio": "audio/037_the_computer.mp3",
+      "topic_zh": "电脑",
+      "topic_pinyin": "diàn nǎo"
     },
     {
       "number": 38,
@@ -468,7 +542,9 @@
       "section_en": "My Things",
       "title_spoken": "My Garden",
       "file": "content/038_my_garden.json",
-      "audio": "audio/038_my_garden.mp3"
+      "audio": "audio/038_my_garden.mp3",
+      "topic_zh": "我的花园",
+      "topic_pinyin": "wǒ de huā yuán"
     },
     {
       "number": 39,
@@ -479,7 +555,9 @@
       "section_en": "My Things",
       "title_spoken": "My Body",
       "file": "content/039_my_body.json",
-      "audio": "audio/039_my_body.mp3"
+      "audio": "audio/039_my_body.mp3",
+      "topic_zh": "我的身体",
+      "topic_pinyin": "wǒ de shēn tǐ"
     },
     {
       "number": 40,
@@ -490,7 +568,9 @@
       "section_en": "My Things",
       "title_spoken": "My Favorite Book, Part One",
       "file": "content/040_my_favorite_book_1.json",
-      "audio": "audio/040_my_favorite_book_1.mp3"
+      "audio": "audio/040_my_favorite_book_1.mp3",
+      "topic_zh": "我最喜欢的书（一）",
+      "topic_pinyin": "wǒ zuì xǐ huān de shū（ yī）"
     },
     {
       "number": 41,
@@ -501,7 +581,9 @@
       "section_en": "My Things",
       "title_spoken": "My Favorite Book, Part Two",
       "file": "content/041_my_favorite_book_2.json",
-      "audio": "audio/041_my_favorite_book_2.mp3"
+      "audio": "audio/041_my_favorite_book_2.mp3",
+      "topic_zh": "我最喜欢的书（二）",
+      "topic_pinyin": "wǒ zuì xǐ huān de shū（ èr）"
     },
     {
       "number": 42,
@@ -512,7 +594,9 @@
       "section_en": "My Things",
       "title_spoken": "My Pencil Box",
       "file": "content/042_my_pencil_box.json",
-      "audio": "audio/042_my_pencil_box.mp3"
+      "audio": "audio/042_my_pencil_box.mp3",
+      "topic_zh": "我的铅笔盒",
+      "topic_pinyin": "wǒ de qiān bǐ hé"
     },
     {
       "number": 43,
@@ -523,7 +607,9 @@
       "section_en": "My Things",
       "title_spoken": "My Desk",
       "file": "content/043_my_desk.json",
-      "audio": "audio/043_my_desk.mp3"
+      "audio": "audio/043_my_desk.mp3",
+      "topic_zh": "我的书桌",
+      "topic_pinyin": "wǒ de shū zhuō"
     },
     {
       "number": 44,
@@ -534,7 +620,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Hobby",
       "file": "content/044_my_hobby.json",
-      "audio": "audio/044_my_hobby.mp3"
+      "audio": "audio/044_my_hobby.mp3",
+      "topic_zh": "我的爱好",
+      "topic_pinyin": "wǒ de ài hào"
     },
     {
       "number": 45,
@@ -545,7 +633,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "I Like Traveling",
       "file": "content/045_i_like_traveling.json",
-      "audio": "audio/045_i_like_traveling.mp3"
+      "audio": "audio/045_i_like_traveling.mp3",
+      "topic_zh": "我喜欢旅行",
+      "topic_pinyin": "wǒ xǐ huān lǚ xíng"
     },
     {
       "number": 46,
@@ -556,7 +646,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "I Like Swimming",
       "file": "content/046_i_like_swimming.json",
-      "audio": "audio/046_i_like_swimming.mp3"
+      "audio": "audio/046_i_like_swimming.mp3",
+      "topic_zh": "我喜欢游泳",
+      "topic_pinyin": "wǒ xǐ huān yóu yǒng"
     },
     {
       "number": 47,
@@ -567,7 +659,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "I Love Reading Books",
       "file": "content/047_i_love_reading_books.json",
-      "audio": "audio/047_i_love_reading_books.mp3"
+      "audio": "audio/047_i_love_reading_books.mp3",
+      "topic_zh": "我爱看书",
+      "topic_pinyin": "wǒ ài kàn shū"
     },
     {
       "number": 48,
@@ -578,7 +672,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favorite Food",
       "file": "content/048_my_favorite_food.json",
-      "audio": "audio/048_my_favorite_food.mp3"
+      "audio": "audio/048_my_favorite_food.mp3",
+      "topic_zh": "我最喜欢的食物",
+      "topic_pinyin": "wǒ zuì xǐ huān de shí wù"
     },
     {
       "number": 49,
@@ -589,7 +685,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favorite Fruit",
       "file": "content/049_my_favorite_fruit.json",
-      "audio": "audio/049_my_favorite_fruit.mp3"
+      "audio": "audio/049_my_favorite_fruit.mp3",
+      "topic_zh": "我最喜欢的水果",
+      "topic_pinyin": "wǒ zuì xǐ huān de shuǐ guǒ"
     },
     {
       "number": 50,
@@ -600,7 +698,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favourite Colour",
       "file": "content/050_my_favourite_colour.json",
-      "audio": "audio/050_my_favourite_colour.mp3"
+      "audio": "audio/050_my_favourite_colour.mp3",
+      "topic_zh": "我最喜欢的颜色",
+      "topic_pinyin": "wǒ zuì xǐ huān de yán sè"
     },
     {
       "number": 51,
@@ -611,7 +711,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favorite Animal",
       "file": "content/051_my_favorite_animal.json",
-      "audio": "audio/051_my_favorite_animal.mp3"
+      "audio": "audio/051_my_favorite_animal.mp3",
+      "topic_zh": "我最喜欢的动物",
+      "topic_pinyin": "wǒ zuì xǐ huān de dòng wù"
     },
     {
       "number": 52,
@@ -622,7 +724,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favorite Festival",
       "file": "content/052_my_favorite_festival.json",
-      "audio": "audio/052_my_favorite_festival.mp3"
+      "audio": "audio/052_my_favorite_festival.mp3",
+      "topic_zh": "我最喜欢的节日",
+      "topic_pinyin": "wǒ zuì xǐ huān de jié rì"
     },
     {
       "number": 53,
@@ -633,7 +737,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favorite Sport, Part One",
       "file": "content/053_my_favorite_sport_1.json",
-      "audio": "audio/053_my_favorite_sport_1.mp3"
+      "audio": "audio/053_my_favorite_sport_1.mp3",
+      "topic_zh": "我最喜欢的运动（一）",
+      "topic_pinyin": "wǒ zuì xǐ huān de yùn dòng（ yī）"
     },
     {
       "number": 54,
@@ -644,7 +750,9 @@
       "section_en": "Hobbies and Interests",
       "title_spoken": "My Favorite Sport, Part Two",
       "file": "content/054_my_favorite_sport_2.json",
-      "audio": "audio/054_my_favorite_sport_2.mp3"
+      "audio": "audio/054_my_favorite_sport_2.mp3",
+      "topic_zh": "我最喜欢的运动（二）",
+      "topic_pinyin": "wǒ zuì xǐ huān de yùn dòng（ èr）"
     },
     {
       "number": 55,
@@ -655,7 +763,9 @@
       "section_en": "School Life",
       "title_spoken": "The First Day of School",
       "file": "content/055_the_first_day_of_school.json",
-      "audio": "audio/055_the_first_day_of_school.mp3"
+      "audio": "audio/055_the_first_day_of_school.mp3",
+      "topic_zh": "开学第一天",
+      "topic_pinyin": "kāi xué dì yī tiān"
     },
     {
       "number": 56,
@@ -666,7 +776,9 @@
       "section_en": "School Life",
       "title_spoken": "Student",
       "file": "content/056_student.json",
-      "audio": "audio/056_student.mp3"
+      "audio": "audio/056_student.mp3",
+      "topic_zh": "学生",
+      "topic_pinyin": "xué shēng"
     },
     {
       "number": 57,
@@ -677,7 +789,9 @@
       "section_en": "School Life",
       "title_spoken": "My School",
       "file": "content/057_my_school.json",
-      "audio": "audio/057_my_school.mp3"
+      "audio": "audio/057_my_school.mp3",
+      "topic_zh": "我的学校",
+      "topic_pinyin": "wǒ de xué xiào"
     },
     {
       "number": 58,
@@ -688,7 +802,9 @@
       "section_en": "School Life",
       "title_spoken": "My Classroom",
       "file": "content/058_my_classroom.json",
-      "audio": "audio/058_my_classroom.mp3"
+      "audio": "audio/058_my_classroom.mp3",
+      "topic_zh": "我的教室",
+      "topic_pinyin": "wǒ de jiào shì"
     },
     {
       "number": 59,
@@ -699,7 +815,9 @@
       "section_en": "School Life",
       "title_spoken": "My School Life",
       "file": "content/059_my_school_life.json",
-      "audio": "audio/059_my_school_life.mp3"
+      "audio": "audio/059_my_school_life.mp3",
+      "topic_zh": "我的学校生活",
+      "topic_pinyin": "wǒ de xué xiào shēng huó"
     },
     {
       "number": 60,
@@ -710,7 +828,9 @@
       "section_en": "School Life",
       "title_spoken": "My Favorite Subject",
       "file": "content/060_my_favorite_subject.json",
-      "audio": "audio/060_my_favorite_subject.mp3"
+      "audio": "audio/060_my_favorite_subject.mp3",
+      "topic_zh": "我最喜欢的科目",
+      "topic_pinyin": "wǒ zuì xǐ huān de kē mù"
     },
     {
       "number": 61,
@@ -721,7 +841,9 @@
       "section_en": "School Life",
       "title_spoken": "How to Learn English Well",
       "file": "content/061_how_to_learn_english_well.json",
-      "audio": "audio/061_how_to_learn_english_well.mp3"
+      "audio": "audio/061_how_to_learn_english_well.mp3",
+      "topic_zh": "怎样学好英语",
+      "topic_pinyin": "zěn yàng xué hǎo yīng yǔ"
     },
     {
       "number": 62,
@@ -732,7 +854,9 @@
       "section_en": "School Life",
       "title_spoken": "New Term, New Journey",
       "file": "content/062_new_term_new_journey.json",
-      "audio": "audio/062_new_term_new_journey.mp3"
+      "audio": "audio/062_new_term_new_journey.mp3",
+      "topic_zh": "新学期，新旅程",
+      "topic_pinyin": "xīn xué qī， xīn lǚ chéng"
     },
     {
       "number": 63,
@@ -743,7 +867,9 @@
       "section_en": "School Life",
       "title_spoken": "My Dream, Teacher",
       "file": "content/063_my_dream_teacher.json",
-      "audio": "audio/063_my_dream_teacher.mp3"
+      "audio": "audio/063_my_dream_teacher.mp3",
+      "topic_zh": "我的梦想（老师）",
+      "topic_pinyin": "wǒ de mèng xiǎng（ lǎo shī）"
     },
     {
       "number": 64,
@@ -754,7 +880,9 @@
       "section_en": "School Life",
       "title_spoken": "My Dream, Doctor",
       "file": "content/064_my_dream_doctor.json",
-      "audio": "audio/064_my_dream_doctor.mp3"
+      "audio": "audio/064_my_dream_doctor.mp3",
+      "topic_zh": "我的梦想（医生）",
+      "topic_pinyin": "wǒ de mèng xiǎng（ yī shēng）"
     },
     {
       "number": 65,
@@ -765,7 +893,9 @@
       "section_en": "School Life",
       "title_spoken": "The Sports Meet",
       "file": "content/065_the_sports_meet.json",
-      "audio": "audio/065_the_sports_meet.mp3"
+      "audio": "audio/065_the_sports_meet.mp3",
+      "topic_zh": "运动会",
+      "topic_pinyin": "yùn dòng huì"
     },
     {
       "number": 66,
@@ -776,7 +906,9 @@
       "section_en": "School Life",
       "title_spoken": "Making Friends",
       "file": "content/066_making_friends.json",
-      "audio": "audio/066_making_friends.mp3"
+      "audio": "audio/066_making_friends.mp3",
+      "topic_zh": "交朋友",
+      "topic_pinyin": "jiāo péng yǒu"
     },
     {
       "number": 67,
@@ -787,7 +919,9 @@
       "section_en": "School Life",
       "title_spoken": "The Meaning of Learning",
       "file": "content/067_the_meaning_of_learning.json",
-      "audio": "audio/067_the_meaning_of_learning.mp3"
+      "audio": "audio/067_the_meaning_of_learning.mp3",
+      "topic_zh": "学习的意义",
+      "topic_pinyin": "xué xí de yì yì"
     },
     {
       "number": 68,
@@ -798,7 +932,9 @@
       "section_en": "School Life",
       "title_spoken": "The Importance of Learning English",
       "file": "content/068_the_importance_of_learning_english.json",
-      "audio": "audio/068_the_importance_of_learning_english.mp3"
+      "audio": "audio/068_the_importance_of_learning_english.mp3",
+      "topic_zh": "学英语为什么重要",
+      "topic_pinyin": "xué yīng yǔ wèi shén me zhòng yào"
     },
     {
       "number": 69,
@@ -809,7 +945,9 @@
       "section_en": "School Life",
       "title_spoken": "The Importance of Reading",
       "file": "content/069_the_importance_of_reading.json",
-      "audio": "audio/069_the_importance_of_reading.mp3"
+      "audio": "audio/069_the_importance_of_reading.mp3",
+      "topic_zh": "阅读为什么重要",
+      "topic_pinyin": "yuè dú wèi shén me zhòng yào"
     },
     {
       "number": 70,
@@ -820,7 +958,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My Day",
       "file": "content/070_my_day.json",
-      "audio": "audio/070_my_day.mp3"
+      "audio": "audio/070_my_day.mp3",
+      "topic_zh": "我的一天",
+      "topic_pinyin": "wǒ de yī tiān"
     },
     {
       "number": 71,
@@ -831,7 +971,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My Weekend",
       "file": "content/071_my_weekend.json",
-      "audio": "audio/071_my_weekend.mp3"
+      "audio": "audio/071_my_weekend.mp3",
+      "topic_zh": "我的周末",
+      "topic_pinyin": "wǒ de zhōu mò"
     },
     {
       "number": 72,
@@ -842,7 +984,9 @@
       "section_en": "Daily Life",
       "title_spoken": "A Happy Day",
       "file": "content/072_a_happy_day.json",
-      "audio": "audio/072_a_happy_day.mp3"
+      "audio": "audio/072_a_happy_day.mp3",
+      "topic_zh": "快乐的一天",
+      "topic_pinyin": "kuài lè de yī tiān"
     },
     {
       "number": 73,
@@ -853,7 +997,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My Birthday",
       "file": "content/073_my_birthday.json",
-      "audio": "audio/073_my_birthday.mp3"
+      "audio": "audio/073_my_birthday.mp3",
+      "topic_zh": "我的生日",
+      "topic_pinyin": "wǒ de shēng rì"
     },
     {
       "number": 74,
@@ -864,7 +1010,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My Busy Mother",
       "file": "content/074_my_busy_mother.json",
-      "audio": "audio/074_my_busy_mother.mp3"
+      "audio": "audio/074_my_busy_mother.mp3",
+      "topic_zh": "我忙碌的妈妈",
+      "topic_pinyin": "wǒ máng lù de mā mā"
     },
     {
       "number": 75,
@@ -875,7 +1023,9 @@
       "section_en": "Daily Life",
       "title_spoken": "A Wonderful Weekend",
       "file": "content/075_a_wonderful_weekend.json",
-      "audio": "audio/075_a_wonderful_weekend.mp3"
+      "audio": "audio/075_a_wonderful_weekend.mp3",
+      "topic_zh": "美好的周末",
+      "topic_pinyin": "měi hǎo de zhōu mò"
     },
     {
       "number": 76,
@@ -886,7 +1036,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My New Year Plan",
       "file": "content/076_my_new_year_plan.json",
-      "audio": "audio/076_my_new_year_plan.mp3"
+      "audio": "audio/076_my_new_year_plan.mp3",
+      "topic_zh": "我的新年计划",
+      "topic_pinyin": "wǒ de xīn nián jì huà"
     },
     {
       "number": 77,
@@ -897,7 +1049,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My May Day Plan",
       "file": "content/077_my_may_day_plan.json",
-      "audio": "audio/077_my_may_day_plan.mp3"
+      "audio": "audio/077_my_may_day_plan.mp3",
+      "topic_zh": "我的五一计划",
+      "topic_pinyin": "wǒ de wǔ yī jì huà"
     },
     {
       "number": 78,
@@ -908,7 +1062,9 @@
       "section_en": "Daily Life",
       "title_spoken": "Summer Vacation",
       "file": "content/078_summer_vacation.json",
-      "audio": "audio/078_summer_vacation.mp3"
+      "audio": "audio/078_summer_vacation.mp3",
+      "topic_zh": "暑假",
+      "topic_pinyin": "shǔ jià"
     },
     {
       "number": 79,
@@ -919,7 +1075,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My Summer Vacation Plan",
       "file": "content/079_my_summer_vacation_plan.json",
-      "audio": "audio/079_my_summer_vacation_plan.mp3"
+      "audio": "audio/079_my_summer_vacation_plan.mp3",
+      "topic_zh": "我的暑假计划",
+      "topic_pinyin": "wǒ de shǔ jià jì huà"
     },
     {
       "number": 80,
@@ -930,7 +1088,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My National Day Holiday",
       "file": "content/080_my_national_day_holiday.json",
-      "audio": "audio/080_my_national_day_holiday.mp3"
+      "audio": "audio/080_my_national_day_holiday.mp3",
+      "topic_zh": "我的国家假日",
+      "topic_pinyin": "wǒ de guó jiā jià rì"
     },
     {
       "number": 81,
@@ -941,7 +1101,9 @@
       "section_en": "Daily Life",
       "title_spoken": "My Winter Vacation",
       "file": "content/081_my_winter_vacation.json",
-      "audio": "audio/081_my_winter_vacation.mp3"
+      "audio": "audio/081_my_winter_vacation.mp3",
+      "topic_zh": "我的寒假",
+      "topic_pinyin": "wǒ de hán jià"
     },
     {
       "number": 82,
@@ -952,7 +1114,9 @@
       "section_en": "Daily Life",
       "title_spoken": "An Unforgettable Experience",
       "file": "content/082_an_unforgettable_experience.json",
-      "audio": "audio/082_an_unforgettable_experience.mp3"
+      "audio": "audio/082_an_unforgettable_experience.mp3",
+      "topic_zh": "一次难忘的经历",
+      "topic_pinyin": "yī cì nán wàng de jīng lì"
     },
     {
       "number": 83,
@@ -963,7 +1127,9 @@
       "section_en": "Daily Life",
       "title_spoken": "A Trip to the Farm",
       "file": "content/083_a_trip_to_the_farm.json",
-      "audio": "audio/083_a_trip_to_the_farm.mp3"
+      "audio": "audio/083_a_trip_to_the_farm.mp3",
+      "topic_zh": "去农场",
+      "topic_pinyin": "qù nóng chǎng"
     },
     {
       "number": 84,
@@ -974,7 +1140,9 @@
       "section_en": "Daily Life",
       "title_spoken": "Climbing a Mountain",
       "file": "content/084_climbing_a_mountain.json",
-      "audio": "audio/084_climbing_a_mountain.mp3"
+      "audio": "audio/084_climbing_a_mountain.mp3",
+      "topic_zh": "爬山",
+      "topic_pinyin": "pá shān"
     },
     {
       "number": 85,
@@ -985,7 +1153,9 @@
       "section_en": "Daily Life",
       "title_spoken": "Going Fishing",
       "file": "content/085_going_fishing.json",
-      "audio": "audio/085_going_fishing.mp3"
+      "audio": "audio/085_going_fishing.mp3",
+      "topic_zh": "去钓鱼",
+      "topic_pinyin": "qù diào yú"
     },
     {
       "number": 86,
@@ -996,7 +1166,9 @@
       "section_en": "Daily Life",
       "title_spoken": "Going Camping",
       "file": "content/086_going_camping.json",
-      "audio": "audio/086_going_camping.mp3"
+      "audio": "audio/086_going_camping.mp3",
+      "topic_zh": "去露营",
+      "topic_pinyin": "qù lù yíng"
     },
     {
       "number": 87,
@@ -1007,7 +1179,9 @@
       "section_en": "Daily Life",
       "title_spoken": "Going Shopping",
       "file": "content/087_going_shopping.json",
-      "audio": "audio/087_going_shopping.mp3"
+      "audio": "audio/087_going_shopping.mp3",
+      "topic_zh": "去购物",
+      "topic_pinyin": "qù gòu wù"
     },
     {
       "number": 88,
@@ -1018,7 +1192,9 @@
       "section_en": "Health and Food",
       "title_spoken": "My Breakfast",
       "file": "content/088_my_breakfast.json",
-      "audio": "audio/088_my_breakfast.mp3"
+      "audio": "audio/088_my_breakfast.mp3",
+      "topic_zh": "我的早饭",
+      "topic_pinyin": "wǒ de zǎo fàn"
     },
     {
       "number": 89,
@@ -1029,7 +1205,9 @@
       "section_en": "Health and Food",
       "title_spoken": "My Dinner",
       "file": "content/089_my_dinner.json",
-      "audio": "audio/089_my_dinner.mp3"
+      "audio": "audio/089_my_dinner.mp3",
+      "topic_zh": "我的晚饭",
+      "topic_pinyin": "wǒ de wǎn fàn"
     },
     {
       "number": 90,
@@ -1040,7 +1218,9 @@
       "section_en": "Health and Food",
       "title_spoken": "Healthy Food",
       "file": "content/090_healthy_food.json",
-      "audio": "audio/090_healthy_food.mp3"
+      "audio": "audio/090_healthy_food.mp3",
+      "topic_zh": "健康的食物",
+      "topic_pinyin": "jiàn kāng de shí wù"
     },
     {
       "number": 91,
@@ -1051,7 +1231,9 @@
       "section_en": "Health and Food",
       "title_spoken": "Keeping Healthy",
       "file": "content/091_keeping_healthy.json",
-      "audio": "audio/091_keeping_healthy.mp3"
+      "audio": "audio/091_keeping_healthy.mp3",
+      "topic_zh": "保持健康",
+      "topic_pinyin": "bǎo chí jiàn kāng"
     },
     {
       "number": 92,
@@ -1062,7 +1244,9 @@
       "section_en": "Health and Food",
       "title_spoken": "How to Stay Healthy",
       "file": "content/092_how_to_stay_healthy.json",
-      "audio": "audio/092_how_to_stay_healthy.mp3"
+      "audio": "audio/092_how_to_stay_healthy.mp3",
+      "topic_zh": "怎样保持健康",
+      "topic_pinyin": "zěn yàng bǎo chí jiàn kāng"
     },
     {
       "number": 93,
@@ -1073,7 +1257,9 @@
       "section_en": "Health and Food",
       "title_spoken": "I Love Sports",
       "file": "content/093_i_love_sports.json",
-      "audio": "audio/093_i_love_sports.mp3"
+      "audio": "audio/093_i_love_sports.mp3",
+      "topic_zh": "我爱运动",
+      "topic_pinyin": "wǒ ài yùn dòng"
     },
     {
       "number": 94,
@@ -1084,7 +1270,9 @@
       "section_en": "Health and Food",
       "title_spoken": "Three Meals a Day",
       "file": "content/094_three_meals_a_day.json",
-      "audio": "audio/094_three_meals_a_day.mp3"
+      "audio": "audio/094_three_meals_a_day.mp3",
+      "topic_zh": "一日三餐",
+      "topic_pinyin": "yī rì sān cān"
     },
     {
       "number": 95,
@@ -1095,7 +1283,9 @@
       "section_en": "The Seasons",
       "title_spoken": "Four Seasons",
       "file": "content/095_four_seasons.json",
-      "audio": "audio/095_four_seasons.mp3"
+      "audio": "audio/095_four_seasons.mp3",
+      "topic_zh": "四季",
+      "topic_pinyin": "sì jì"
     },
     {
       "number": 96,
@@ -1106,7 +1296,9 @@
       "section_en": "The Seasons",
       "title_spoken": "Spring",
       "file": "content/096_spring.json",
-      "audio": "audio/096_spring.mp3"
+      "audio": "audio/096_spring.mp3",
+      "topic_zh": "春天",
+      "topic_pinyin": "chūn tiān"
     },
     {
       "number": 97,
@@ -1117,7 +1309,9 @@
       "section_en": "The Seasons",
       "title_spoken": "Summer",
       "file": "content/097_summer.json",
-      "audio": "audio/097_summer.mp3"
+      "audio": "audio/097_summer.mp3",
+      "topic_zh": "夏天",
+      "topic_pinyin": "xià tiān"
     },
     {
       "number": 98,
@@ -1128,7 +1322,9 @@
       "section_en": "The Seasons",
       "title_spoken": "Autumn",
       "file": "content/098_autumn.json",
-      "audio": "audio/098_autumn.mp3"
+      "audio": "audio/098_autumn.mp3",
+      "topic_zh": "秋天",
+      "topic_pinyin": "qiū tiān"
     },
     {
       "number": 99,
@@ -1139,7 +1335,9 @@
       "section_en": "The Seasons",
       "title_spoken": "Winter",
       "file": "content/099_winter.json",
-      "audio": "audio/099_winter.mp3"
+      "audio": "audio/099_winter.mp3",
+      "topic_zh": "冬天",
+      "topic_pinyin": "dōng tiān"
     },
     {
       "number": 100,
@@ -1150,7 +1348,9 @@
       "section_en": "The Seasons",
       "title_spoken": "My Favorite Season",
       "file": "content/100_my_favorite_season.json",
-      "audio": "audio/100_my_favorite_season.mp3"
+      "audio": "audio/100_my_favorite_season.mp3",
+      "topic_zh": "我最喜欢的季节",
+      "topic_pinyin": "wǒ zuì xǐ huān de jì jié"
     }
   ]
 }

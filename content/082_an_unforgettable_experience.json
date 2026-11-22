@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "unforgettable",
-      "ko": "잊을 수 없는"
+      "ko": "잊을 수 없는",
+      "zh": "难忘",
+      "py": "nán wàng"
     },
     {
       "en": "experience",
-      "ko": "경험"
+      "ko": "경험",
+      "zh": "经历",
+      "py": "jīng lì"
     },
     {
       "en": "rain",
-      "ko": "비"
+      "ko": "비",
+      "zh": "雨",
+      "py": "yǔ"
     },
     {
       "en": "lost",
-      "ko": "길을 잃은"
+      "ko": "길을 잃은",
+      "zh": "迷路",
+      "py": "mí lù"
     },
     {
       "en": "scared",
-      "ko": "무서운"
+      "ko": "무서운",
+      "zh": "害怕",
+      "py": "hài pà"
     },
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "find",
-      "ko": "찾다"
+      "ko": "찾다",
+      "zh": "找到",
+      "py": "zhǎo dào"
     },
     {
       "en": "safe",
-      "ko": "안전한"
+      "ko": "안전한",
+      "zh": "安全",
+      "py": "ān quán"
     },
     {
       "en": "thank",
-      "ko": "감사하다"
+      "ko": "감사하다",
+      "zh": "谢谢",
+      "py": "xiè xiè"
     },
     {
       "en": "remember",
-      "ko": "기억하다"
+      "ko": "기억하다",
+      "zh": "记得",
+      "py": "jì de"
     }
   ],
   "phrases": [
@@ -68,28 +88,36 @@
       "highlights": [
         "unforgettable",
         "experience"
-      ]
+      ],
+      "zh": "这是一次难忘的经历。",
+      "py": "zhè shì yī cì nán wàng de jīng lì。"
     },
     {
       "en": "One day the rain was hard.",
       "ko": "어느 날 비가 많이 왔어요.",
       "highlights": [
         "rain"
-      ]
+      ],
+      "zh": "有一天下了大雨。",
+      "py": "yǒu yī tiān xià le dà yǔ。"
     },
     {
       "en": "I was lost near school.",
       "ko": "나는 학교 근처에서 길을 잃었어요.",
       "highlights": [
         "lost"
-      ]
+      ],
+      "zh": "我在学校附近迷路了。",
+      "py": "wǒ zài xué xiào fù jìn mí lù le。"
     },
     {
       "en": "I felt scared.",
       "ko": "나는 무서웠어요.",
       "highlights": [
         "scared"
-      ]
+      ],
+      "zh": "我感到害怕。",
+      "py": "wǒ gǎn dào hài pà。"
     },
     {
       "en": "My teacher came to find me.",
@@ -97,35 +125,45 @@
       "highlights": [
         "teacher",
         "find"
-      ]
+      ],
+      "zh": "我的老师来找我。",
+      "py": "wǒ de lǎo shī lái zhǎo wǒ。"
     },
     {
       "en": "I was safe again.",
       "ko": "나는 다시 안전해졌어요.",
       "highlights": [
         "safe"
-      ]
+      ],
+      "zh": "我又安全了。",
+      "py": "wǒ yòu ān quán le。"
     },
     {
       "en": "I said thank you.",
       "ko": "나는 고맙다고 말했어요.",
       "highlights": [
         "thank"
-      ]
+      ],
+      "zh": "我说了谢谢。",
+      "py": "wǒ shuō le xiè xiè。"
     },
     {
       "en": "I remember that day.",
       "ko": "나는 그날을 기억해요.",
       "highlights": [
         "remember"
-      ]
+      ],
+      "zh": "我记得那一天。",
+      "py": "wǒ jì de nà yī tiān。"
     },
     {
       "en": "The hard rain made the street look strange.",
       "ko": "세찬 비 때문에 거리가 낯설어 보였어요.",
       "highlights": [
         "rain"
-      ]
+      ],
+      "zh": "大雨让街道看起来很奇怪。",
+      "py": "dà yǔ ràng jiē dào kàn qǐ lái hěn qí guài。"
     },
     {
       "en": "I was scared, but my teacher helped me find the way.",
@@ -134,7 +172,9 @@
         "scared",
         "teacher",
         "find"
-      ]
+      ],
+      "zh": "我很害怕，可是老师帮助我找到了路。",
+      "py": "wǒ hěn hài pà， kě shì lǎo shī bāng zhù wǒ zhǎo dào le lù。"
     },
     {
       "en": "I remember to say thank you when someone keeps me safe.",
@@ -143,7 +183,9 @@
         "safe",
         "thank",
         "remember"
-      ]
+      ],
+      "zh": "有人让我安全的时候，我记得要说谢谢。",
+      "py": "yǒu rén ràng wǒ ān quán de shí hòu， wǒ jì de yào shuō xiè xiè。"
     }
   ],
   "full_passage_lines": [
@@ -231,5 +273,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is an unforgettable experience. One day the rain was hard. I was lost near school. I felt scared. My teacher came to find me. I was safe again. I said thank you. I remember that day. The hard rain made the street look strange. I was scared, but my teacher helped me find the way. I remember to say thank you when someone keeps me safe."
+  "full_passage_spoken": "This is an unforgettable experience. One day the rain was hard. I was lost near school. I felt scared. My teacher came to find me. I was safe again. I said thank you. I remember that day. The hard rain made the street look strange. I was scared, but my teacher helped me find the way. I remember to say thank you when someone keeps me safe.",
+  "topic_zh": "一次难忘的经历",
+  "topic_pinyin": "yī cì nán wàng de jīng lì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是一次难忘的经历。有一天下了大雨。我在学校附近迷路了。我感到害怕。我的老师来找我。我又安全了。我说了谢谢。我记得那一天。大雨让街道看起来很奇怪。我很害怕，可是老师帮助我找到了路。有人让我安全的时候，我记得要说谢谢。",
+  "full_passage_pinyin": "zhè shì yī cì nán wàng de jīng lì。 yǒu yī tiān xià le dà yǔ。 wǒ zài xué xiào fù jìn mí lù le。 wǒ gǎn dào hài pà。 wǒ de lǎo shī lái zhǎo wǒ。 wǒ yòu ān quán le。 wǒ shuō le xiè xiè。 wǒ jì de nà yī tiān。 dà yǔ ràng jiē dào kàn qǐ lái hěn qí guài。 wǒ hěn hài pà， kě shì lǎo shī bāng zhù wǒ zhǎo dào le lù。 yǒu rén ràng wǒ ān quán de shí hòu， wǒ jì de yào shuō xiè xiè。"
 }

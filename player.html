@@ -10,9 +10,14 @@
   <header class="top">
     <a href="index.html">← 주제 목록</a>
     <h1 id="title">따라 읽기</h1>
+    <p id="titlePy" class="py"></p>
     <p id="titleKo" class="ko"></p>
   </header>
   <section class="controls">
+    <div class="lang-switch" role="group" aria-label="language">
+      <button id="langEn" type="button" aria-pressed="true">English</button>
+      <button id="langZh" type="button" aria-pressed="false">中文</button>
+    </div>
     <div class="row">
       <label class="field">단어 따라읽기 횟수
         <select id="wordN">
@@ -52,6 +57,7 @@
     </div>
     <div class="actions">
       <button id="koToggle" type="button" class="secondary">한국어 뜻 숨기기</button>
+      <button id="pyToggle" type="button" class="secondary" hidden>拼音 숨기기</button>
       <a id="prev" class="nav" href="#" hidden>이전</a>
       <a id="next" class="nav" href="#" hidden>다음</a>
     </div>
@@ -60,7 +66,7 @@
   <div class="layout">
     <ol id="passage" class="passage"></ol>
     <aside>
-      <h2>Words 단어</h2>
+      <h2 id="wordsHeading">Words 단어</h2>
       <div id="words"></div>
     </aside>
   </div>

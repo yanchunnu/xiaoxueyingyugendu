@@ -9,7 +9,8 @@
 | 경로 | 내용 |
 | --- | --- |
 | `content/` | 주제 JSON 100개와 `manifest.json` |
-| `audio/` | `001_about_me.mp3` 형식의 음원. 모노 24 kHz, 48 kbps |
+| `audio/` | `001_about_me.mp3` 형식의 영어 음원. 모노 24 kHz, 48 kbps |
+| `audio/zh/clips/` | 중국어 단어·문장·본문 조각. `zh-CN-XiaoxiaoNeural`, `-20%` |
 | `qr/` | 각 주제 MP3 주소가 들어 있는 QR 이미지 |
 | `pdf/listen_and_repeat.pdf` | 표지, 차례, 주제 100쪽이 모인 책 |
 | `pdf/topics/` | 주제별 PDF 한 장 |
@@ -40,7 +41,9 @@
 - 본문 전체 듣기 횟수 (기본 1)
 - 한국어 뜻 보기/숨기기
 
-한 번 재생한 뒤에는 그 소리 길이만큼 더하고 1.5초를 더 쉬었다가 다음을 재생합니다. 설정은 브라우저에 기억됩니다. 조각 음원은 `audio/clips/NNN/w01.mp3`, `s01.mp3`, `full.mp3` 입니다. 전체 음원 `audio/NNN_slug.mp3` 도 그대로 있습니다.
+단어는 조각 길이에 0.6초를 더하고, 전체 쉼은 최소 1.2초입니다. 문장과 본문 전체는 조각 길이에 1.5초를 더합니다. 횟수는 0부터 5까지이고, 설정은 브라우저에 기억됩니다. 영어 조각은 `audio/clips/NNN/w01.mp3`, `s01.mp3`, `full.mp3` 입니다. 전체 음원 `audio/NNN_slug.mp3` 도 그대로 있습니다.
+
+플레이어 위쪽에서 English / 中文 을 고릅니다. 선택은 `localStorage` 에 남고, 주소의 `lang=zh` 또는 `lang=en` 이 그 선택을 덮어씁니다. 기본은 영어입니다. 중국어일 때는 한자 위에 성조가 있는 병음이 나오고, 병음은 숨길 수 있습니다. 한글 뜻은 어느 언어에서나 같은 버튼으로 숨깁니다. 중국어 조각은 `audio/zh/clips/NNN/` 입니다. 민아는 米娜, 여동생은 妹妹 입니다. PDF와 QR은 영어 페이지 그대로이고, QR은 이 플레이어로 연결됩니다.
 
 ## QR 코드
 
@@ -48,7 +51,7 @@ QR은 웹 플레이어로 갑니다.
 
 `https://yanchunnu.github.io/xiaoxueyingyugendu/player.html?t=001`
 
-**저장소를 공개로 바꾸고 GitHub Pages를 켜야 휴대폰에서 열립니다.** Settings → Pages → Branch를 `main`, 폴더는 `/ (root)` 로 저장하세요. 이 저장소는 지금 비공개라서, 공개하고 Pages를 켜기 전에는 QR이 동작하지 않습니다. `main`에 이 파일들이 있어야 합니다.
+휴대폰에서 들으려면 저장소가 공개이고 GitHub Pages가 `main` 의 `/ (root)` 여야 합니다. 예: `https://yanchunnu.github.io/xiaoxueyingyugendu/player.html?t=001&lang=zh`
 
 ## 다시 만들기
 

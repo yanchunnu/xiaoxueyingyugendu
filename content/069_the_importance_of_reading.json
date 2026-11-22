@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "reading",
-      "ko": "독서"
+      "ko": "독서",
+      "zh": "阅读",
+      "py": "yuè dú"
     },
     {
       "en": "important",
-      "ko": "중요한"
+      "ko": "중요한",
+      "zh": "重要",
+      "py": "zhòng yào"
     },
     {
       "en": "mind",
-      "ko": "마음"
+      "ko": "마음",
+      "zh": "头脑",
+      "py": "tóu nǎo"
     },
     {
       "en": "idea",
-      "ko": "생각"
+      "ko": "생각",
+      "zh": "想法",
+      "py": "xiǎng fǎ"
     },
     {
       "en": "word",
-      "ko": "단어"
+      "ko": "단어",
+      "zh": "单词",
+      "py": "dān cí"
     },
     {
       "en": "imagine",
-      "ko": "상상하다"
+      "ko": "상상하다",
+      "zh": "想象",
+      "py": "xiǎng xiàng"
     },
     {
       "en": "place",
-      "ko": "장소"
+      "ko": "장소",
+      "zh": "地方",
+      "py": "dì fāng"
     },
     {
       "en": "grow",
-      "ko": "자라다"
+      "ko": "자라다",
+      "zh": "成长",
+      "py": "chéng zhǎng"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "reading",
         "important"
-      ]
+      ],
+      "zh": "阅读很重要。",
+      "py": "yuè dú hěn zhòng yào。"
     },
     {
       "en": "It gives my mind a new idea.",
@@ -76,14 +98,18 @@
       "highlights": [
         "mind",
         "idea"
-      ]
+      ],
+      "zh": "它给我的头脑一个新想法。",
+      "py": "tā gěi wǒ de tóu nǎo yí gè xīn xiǎng fǎ。"
     },
     {
       "en": "I learn a new word.",
       "ko": "나는 새 단어를 배워요.",
       "highlights": [
         "word"
-      ]
+      ],
+      "zh": "我学一个新单词。",
+      "py": "wǒ xué yí gè xīn dān cí。"
     },
     {
       "en": "I imagine a new place.",
@@ -91,7 +117,9 @@
       "highlights": [
         "imagine",
         "place"
-      ]
+      ],
+      "zh": "我想象一个新地方。",
+      "py": "wǒ xiǎng xiàng yí gè xīn dì fāng。"
     },
     {
       "en": "Reading helps me grow.",
@@ -99,7 +127,9 @@
       "highlights": [
         "reading",
         "grow"
-      ]
+      ],
+      "zh": "阅读帮助我成长。",
+      "py": "yuè dú bāng zhù wǒ chéng zhǎng。"
     },
     {
       "en": "I sit in a quiet place.",
@@ -107,7 +137,9 @@
       "highlights": [
         "place",
         "quiet"
-      ]
+      ],
+      "zh": "我坐在一个安静的地方。",
+      "py": "wǒ zuò zài yí gè ān jìng de dì fāng。"
     },
     {
       "en": "Books are good friends, and I like reading.",
@@ -115,21 +147,27 @@
       "highlights": [
         "reading",
         "friend"
-      ]
+      ],
+      "zh": "书是好朋友，我喜欢阅读。",
+      "py": "shū shì hǎo péng yǒu， wǒ xǐ huān yuè dú。"
     },
     {
       "en": "An idea from a book can stay all day.",
       "ko": "책에서 온 생각은 하루 종일 남을 수 있어요.",
       "highlights": [
         "idea"
-      ]
+      ],
+      "zh": "书里的一个想法可以留一整天。",
+      "py": "shū lǐ de yí gè xiǎng fǎ kě yǐ liú yī zhěng tiān。"
     },
     {
       "en": "A new word makes the next book easier.",
       "ko": "새 단어는 다음 책을 더 쉽게 해요.",
       "highlights": [
         "word"
-      ]
+      ],
+      "zh": "一个新单词让下一本书更容易。",
+      "py": "yí gè xīn dān cí ràng xià yī běn shū gèng róng yì。"
     },
     {
       "en": "I imagine the place, and then I want to go.",
@@ -137,7 +175,9 @@
       "highlights": [
         "imagine",
         "place"
-      ]
+      ],
+      "zh": "我想象那个地方，然后就想去。",
+      "py": "wǒ xiǎng xiàng nà ge dì fāng， rán hòu jiù xiǎng qù。"
     },
     {
       "en": "Quiet reading helps me grow into a kinder friend.",
@@ -147,7 +187,9 @@
         "grow",
         "quiet",
         "friend"
-      ]
+      ],
+      "zh": "安静的阅读帮助我长成一个更善良的朋友。",
+      "py": "ān jìng de yuè dú bāng zhù wǒ zhǎng chéng yí gè gèng shàn liáng de péng yǒu。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Reading is important. It gives my mind a new idea. I learn a new word. I imagine a new place. Reading helps me grow. I sit in a quiet place. Books are good friends, and I like reading. An idea from a book can stay all day. A new word makes the next book easier. I imagine the place, and then I want to go. Quiet reading helps me grow into a kinder friend."
+  "full_passage_spoken": "Reading is important. It gives my mind a new idea. I learn a new word. I imagine a new place. Reading helps me grow. I sit in a quiet place. Books are good friends, and I like reading. An idea from a book can stay all day. A new word makes the next book easier. I imagine the place, and then I want to go. Quiet reading helps me grow into a kinder friend.",
+  "topic_zh": "阅读为什么重要",
+  "topic_pinyin": "yuè dú wèi shén me zhòng yào",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "阅读很重要。它给我的头脑一个新想法。我学一个新单词。我想象一个新地方。阅读帮助我成长。我坐在一个安静的地方。书是好朋友，我喜欢阅读。书里的一个想法可以留一整天。一个新单词让下一本书更容易。我想象那个地方，然后就想去。安静的阅读帮助我长成一个更善良的朋友。",
+  "full_passage_pinyin": "yuè dú hěn zhòng yào。 tā gěi wǒ de tóu nǎo yí gè xīn xiǎng fǎ。 wǒ xué yí gè xīn dān cí。 wǒ xiǎng xiàng yí gè xīn dì fāng。 yuè dú bāng zhù wǒ chéng zhǎng。 wǒ zuò zài yí gè ān jìng de dì fāng。 shū shì hǎo péng yǒu， wǒ xǐ huān yuè dú。 shū lǐ de yí gè xiǎng fǎ kě yǐ liú yī zhěng tiān。 yí gè xīn dān cí ràng xià yī běn shū gèng róng yì。 wǒ xiǎng xiàng nà ge dì fāng， rán hòu jiù xiǎng qù。 ān jìng de yuè dú bāng zhù wǒ zhǎng chéng yí gè gèng shàn liáng de péng yǒu。"
 }

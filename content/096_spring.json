@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "spring",
-      "ko": "봄"
+      "ko": "봄",
+      "zh": "春天",
+      "py": "chūn tiān"
     },
     {
       "en": "warm",
-      "ko": "따뜻한"
+      "ko": "따뜻한",
+      "zh": "温暖",
+      "py": "wēn nuǎn"
     },
     {
       "en": "flower",
-      "ko": "꽃"
+      "ko": "꽃",
+      "zh": "花",
+      "py": "huā"
     },
     {
       "en": "open",
-      "ko": "피다"
+      "ko": "피다",
+      "zh": "开放",
+      "py": "kāi fàng"
     },
     {
       "en": "bird",
-      "ko": "새"
+      "ko": "새",
+      "zh": "鸟",
+      "py": "niǎo"
     },
     {
       "en": "sing",
-      "ko": "노래하다"
+      "ko": "노래하다",
+      "zh": "唱歌",
+      "py": "chàng gē"
     },
     {
       "en": "leaf",
-      "ko": "잎"
+      "ko": "잎",
+      "zh": "叶子",
+      "py": "yè zi"
     },
     {
       "en": "green",
-      "ko": "초록색"
+      "ko": "초록색",
+      "zh": "绿色",
+      "py": "lǜ sè"
     },
     {
       "en": "rain",
-      "ko": "비"
+      "ko": "비",
+      "zh": "雨",
+      "py": "yǔ"
     },
     {
       "en": "butterfly",
-      "ko": "나비"
+      "ko": "나비",
+      "zh": "蝴蝶",
+      "py": "hú dié"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "spring",
         "warm"
-      ]
+      ],
+      "zh": "春天很温暖。",
+      "py": "chūn tiān hěn wēn nuǎn。"
     },
     {
       "en": "Flowers open up.",
@@ -76,7 +98,9 @@
       "highlights": [
         "flower",
         "open"
-      ]
+      ],
+      "zh": "花开放了。",
+      "py": "huā kāi fàng le。"
     },
     {
       "en": "A bird sings in the tree.",
@@ -84,7 +108,9 @@
       "highlights": [
         "bird",
         "sing"
-      ]
+      ],
+      "zh": "一只鸟在树上唱歌。",
+      "py": "yī zhī niǎo zài shù shàng chàng gē。"
     },
     {
       "en": "A leaf turns green.",
@@ -92,28 +118,36 @@
       "highlights": [
         "leaf",
         "green"
-      ]
+      ],
+      "zh": "叶子变绿了。",
+      "py": "yè zi biàn lǜ le。"
     },
     {
       "en": "A little rain falls.",
       "ko": "비가 조금 내려요.",
       "highlights": [
         "rain"
-      ]
+      ],
+      "zh": "下了一点小雨。",
+      "py": "xià le yì diǎn xiǎo yǔ。"
     },
     {
       "en": "I see a butterfly.",
       "ko": "나는 나비를 봐요.",
       "highlights": [
         "butterfly"
-      ]
+      ],
+      "zh": "我看见一只蝴蝶。",
+      "py": "wǒ kàn jiàn yī zhī hú dié。"
     },
     {
       "en": "I like spring.",
       "ko": "나는 봄을 좋아해요.",
       "highlights": [
         "spring"
-      ]
+      ],
+      "zh": "我喜欢春天。",
+      "py": "wǒ xǐ huān chūn tiān。"
     },
     {
       "en": "Warm spring days open the flowers.",
@@ -123,7 +157,9 @@
         "warm",
         "flower",
         "open"
-      ]
+      ],
+      "zh": "温暖的春天让花开放。",
+      "py": "wēn nuǎn de chūn tiān ràng huā kāi fàng。"
     },
     {
       "en": "A bird sings, and a butterfly follows the flower.",
@@ -133,7 +169,9 @@
         "bird",
         "sing",
         "butterfly"
-      ]
+      ],
+      "zh": "鸟儿唱歌，蝴蝶跟着花飞。",
+      "py": "niǎo ér chàng gē， hú dié gēn zhe huā fēi。"
     },
     {
       "en": "Green leaves come after the rain.",
@@ -141,14 +179,18 @@
       "highlights": [
         "green",
         "rain"
-      ]
+      ],
+      "zh": "雨后长出绿色的叶子。",
+      "py": "yǔ hòu zhǎng chū lǜ sè de yè zi。"
     },
     {
       "en": "I like spring because the world feels new.",
       "ko": "세상이 새롭게 느껴져서 나는 봄을 좋아해요.",
       "highlights": [
         "spring"
-      ]
+      ],
+      "zh": "我喜欢春天，因为世界感觉是新的。",
+      "py": "wǒ xǐ huān chūn tiān， yīn wèi shì jiè gǎn jué shì xīn de。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Spring is warm. Flowers open up. A bird sings in the tree. A leaf turns green. A little rain falls. I see a butterfly. I like spring. Warm spring days open the flowers. A bird sings, and a butterfly follows the flower. Green leaves come after the rain. I like spring because the world feels new."
+  "full_passage_spoken": "Spring is warm. Flowers open up. A bird sings in the tree. A leaf turns green. A little rain falls. I see a butterfly. I like spring. Warm spring days open the flowers. A bird sings, and a butterfly follows the flower. Green leaves come after the rain. I like spring because the world feels new.",
+  "topic_zh": "春天",
+  "topic_pinyin": "chūn tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "春天很温暖。花开放了。一只鸟在树上唱歌。叶子变绿了。下了一点小雨。我看见一只蝴蝶。我喜欢春天。温暖的春天让花开放。鸟儿唱歌，蝴蝶跟着花飞。雨后长出绿色的叶子。我喜欢春天，因为世界感觉是新的。",
+  "full_passage_pinyin": "chūn tiān hěn wēn nuǎn。 huā kāi fàng le。 yī zhī niǎo zài shù shàng chàng gē。 yè zi biàn lǜ le。 xià le yì diǎn xiǎo yǔ。 wǒ kàn jiàn yī zhī hú dié。 wǒ xǐ huān chūn tiān。 wēn nuǎn de chūn tiān ràng huā kāi fàng。 niǎo ér chàng gē， hú dié gēn zhe huā fēi。 yǔ hòu zhǎng chū lǜ sè de yè zi。 wǒ xǐ huān chūn tiān， yīn wèi shì jiè gǎn jué shì xīn de。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "day",
-      "ko": "하루"
+      "ko": "하루",
+      "zh": "一天",
+      "py": "yī tiān"
     },
     {
       "en": "get up",
-      "ko": "일어나다"
+      "ko": "일어나다",
+      "zh": "起床",
+      "py": "qǐ chuáng"
     },
     {
       "en": "seven",
-      "ko": "일곱"
+      "ko": "일곱",
+      "zh": "七点",
+      "py": "qī diǎn"
     },
     {
       "en": "wash",
-      "ko": "씻다"
+      "ko": "씻다",
+      "zh": "洗",
+      "py": "xǐ"
     },
     {
       "en": "face",
-      "ko": "얼굴"
+      "ko": "얼굴",
+      "zh": "脸",
+      "py": "liǎn"
     },
     {
       "en": "breakfast",
-      "ko": "아침"
+      "ko": "아침",
+      "zh": "早饭",
+      "py": "zǎo fàn"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     },
     {
       "en": "homework",
-      "ko": "숙제"
+      "ko": "숙제",
+      "zh": "作业",
+      "py": "zuò yè"
     },
     {
       "en": "dinner",
-      "ko": "저녁"
+      "ko": "저녁",
+      "zh": "晚饭",
+      "py": "wǎn fàn"
     },
     {
       "en": "sleep",
-      "ko": "자다"
+      "ko": "자다",
+      "zh": "睡觉",
+      "py": "shuì jiào"
     }
   ],
   "phrases": [
@@ -70,21 +90,27 @@
         "seven",
         "wash",
         "face"
-      ]
+      ],
+      "zh": "我七点起床，然后洗脸。",
+      "py": "wǒ qī diǎn qǐ chuáng， rán hòu xǐ liǎn。"
     },
     {
       "en": "I eat breakfast.",
       "ko": "나는 아침을 먹어요.",
       "highlights": [
         "breakfast"
-      ]
+      ],
+      "zh": "我吃早饭。",
+      "py": "wǒ chī zǎo fàn。"
     },
     {
       "en": "I go to school.",
       "ko": "나는 학교에 가요.",
       "highlights": [
         "school"
-      ]
+      ],
+      "zh": "我去上学。",
+      "py": "wǒ qù shàng xué。"
     },
     {
       "en": "I do homework after school.",
@@ -92,28 +118,36 @@
       "highlights": [
         "school",
         "homework"
-      ]
+      ],
+      "zh": "放学后我做作业。",
+      "py": "fàng xué hòu wǒ zuò zuò yè。"
     },
     {
       "en": "I eat dinner with my family.",
       "ko": "나는 가족과 저녁을 먹어요.",
       "highlights": [
         "dinner"
-      ]
+      ],
+      "zh": "我和家人一起吃晚饭。",
+      "py": "wǒ hé jiā rén yì qǐ chī wǎn fàn。"
     },
     {
       "en": "Then I sleep.",
       "ko": "그리고 나는 자요.",
       "highlights": [
         "sleep"
-      ]
+      ],
+      "zh": "然后我去睡觉。",
+      "py": "rán hòu wǒ qù shuì jiào。"
     },
     {
       "en": "This is my day.",
       "ko": "이것이 나의 하루예요.",
       "highlights": [
         "day"
-      ]
+      ],
+      "zh": "这就是我的一天。",
+      "py": "zhè jiù shì wǒ de yī tiān。"
     },
     {
       "en": "I get up at seven because school starts early.",
@@ -122,7 +156,9 @@
         "get up",
         "seven",
         "school"
-      ]
+      ],
+      "zh": "我七点起床，因为学校开始得很早。",
+      "py": "wǒ qī diǎn qǐ chuáng， yīn wèi xué xiào kāi shǐ dé hěn zǎo。"
     },
     {
       "en": "I wash my face, and then I feel awake.",
@@ -130,7 +166,9 @@
       "highlights": [
         "wash",
         "face"
-      ]
+      ],
+      "zh": "我洗了脸，然后觉得清醒。",
+      "py": "wǒ xǐ le liǎn， rán hòu jué de qīng xǐng。"
     },
     {
       "en": "Breakfast gives me energy for school.",
@@ -138,7 +176,9 @@
       "highlights": [
         "breakfast",
         "school"
-      ]
+      ],
+      "zh": "早饭给我上学的力气。",
+      "py": "zǎo fàn gěi wǒ shàng xué de lì qì。"
     },
     {
       "en": "After homework and dinner, I sleep well.",
@@ -147,7 +187,9 @@
         "homework",
         "dinner",
         "sleep"
-      ]
+      ],
+      "zh": "做完作业、吃完晚饭，我就睡得很好。",
+      "py": "zuò wán zuò yè、 chī wán wǎn fàn， wǒ jiù shuì de hěn hǎo。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I get up at seven, and I wash my face. I eat breakfast. I go to school. I do homework after school. I eat dinner with my family. Then I sleep. This is my day. I get up at seven because school starts early. I wash my face, and then I feel awake. Breakfast gives me energy for school. After homework and dinner, I sleep well."
+  "full_passage_spoken": "I get up at seven, and I wash my face. I eat breakfast. I go to school. I do homework after school. I eat dinner with my family. Then I sleep. This is my day. I get up at seven because school starts early. I wash my face, and then I feel awake. Breakfast gives me energy for school. After homework and dinner, I sleep well.",
+  "topic_zh": "我的一天",
+  "topic_pinyin": "wǒ de yī tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我七点起床，然后洗脸。我吃早饭。我去上学。放学后我做作业。我和家人一起吃晚饭。然后我去睡觉。这就是我的一天。我七点起床，因为学校开始得很早。我洗了脸，然后觉得清醒。早饭给我上学的力气。做完作业、吃完晚饭，我就睡得很好。",
+  "full_passage_pinyin": "wǒ qī diǎn qǐ chuáng， rán hòu xǐ liǎn。 wǒ chī zǎo fàn。 wǒ qù shàng xué。 fàng xué hòu wǒ zuò zuò yè。 wǒ hé jiā rén yì qǐ chī wǎn fàn。 rán hòu wǒ qù shuì jiào。 zhè jiù shì wǒ de yī tiān。 wǒ qī diǎn qǐ chuáng， yīn wèi xué xiào kāi shǐ dé hěn zǎo。 wǒ xǐ le liǎn， rán hòu jué de qīng xǐng。 zǎo fàn gěi wǒ shàng xué de lì qì。 zuò wán zuò yè、 chī wán wǎn fàn， wǒ jiù shuì de hěn hǎo。"
 }

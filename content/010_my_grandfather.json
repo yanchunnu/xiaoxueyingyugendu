@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "grandfather",
-      "ko": "할아버지"
+      "ko": "할아버지",
+      "zh": "爷爷",
+      "py": "yé yé"
     },
     {
       "en": "farm",
-      "ko": "농장"
+      "ko": "농장",
+      "zh": "农场",
+      "py": "nóng chǎng"
     },
     {
       "en": "glasses",
-      "ko": "안경"
+      "ko": "안경",
+      "zh": "眼镜",
+      "py": "yǎn jìng"
     },
     {
       "en": "garden",
-      "ko": "정원"
+      "ko": "정원",
+      "zh": "花园",
+      "py": "huā yuán"
     },
     {
       "en": "slowly",
-      "ko": "천천히"
+      "ko": "천천히",
+      "zh": "慢慢地",
+      "py": "màn màn de"
     },
     {
       "en": "story",
-      "ko": "이야기"
+      "ko": "이야기",
+      "zh": "故事",
+      "py": "gù shì"
     },
     {
       "en": "wise",
-      "ko": "지혜로운"
+      "ko": "지혜로운",
+      "zh": "智慧",
+      "py": "zhì huì"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "Sunday",
-      "ko": "일요일"
+      "ko": "일요일",
+      "zh": "星期天",
+      "py": "xīng qī tiān"
     },
     {
       "en": "visit",
-      "ko": "방문하다"
+      "ko": "방문하다",
+      "zh": "看望",
+      "py": "kàn wàng"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "grandfather",
         "farm"
-      ]
+      ],
+      "zh": "我的爷爷住在农场。",
+      "py": "wǒ de yé yé zhù zài nóng chǎng。"
     },
     {
       "en": "He wears glasses, and he walks slowly in the garden.",
@@ -77,7 +99,9 @@
         "glasses",
         "garden",
         "slowly"
-      ]
+      ],
+      "zh": "他戴眼镜，在花园里慢慢地走。",
+      "py": "tā dài yǎn jìng， zài huā yuán lǐ màn màn de zǒu。"
     },
     {
       "en": "He tells me a story when I visit.",
@@ -85,7 +109,9 @@
       "highlights": [
         "story",
         "visit"
-      ]
+      ],
+      "zh": "我去看望他的时候，他给我讲故事。",
+      "py": "wǒ qù kàn wàng tā de shí hòu， tā gěi wǒ jiǎng gù shì。"
     },
     {
       "en": "He is wise and kind.",
@@ -93,7 +119,9 @@
       "highlights": [
         "wise",
         "kind"
-      ]
+      ],
+      "zh": "他有智慧，也很善良。",
+      "py": "tā yǒu zhì huì， yě hěn shàn liáng。"
     },
     {
       "en": "I visit him on Sunday with my family.",
@@ -101,31 +129,41 @@
       "highlights": [
         "Sunday",
         "visit"
-      ]
+      ],
+      "zh": "星期天我和家人一起去看望他。",
+      "py": "xīng qī tiān wǒ hé jiā rén yì qǐ qù kàn wàng tā。"
     },
     {
       "en": "The farm is quiet, and the air is fresh.",
       "ko": "농장은 조용하고 공기가 신선해요.",
       "highlights": [
         "farm"
-      ]
+      ],
+      "zh": "农场很安静，空气很新鲜。",
+      "py": "nóng chǎng hěn ān jìng， kōng qì hěn xīn xiān。"
     },
     {
       "en": "He lets me help in the garden.",
       "ko": "할아버지는 내가 정원에서 돕게 해 주세요.",
       "highlights": [
         "garden"
-      ]
+      ],
+      "zh": "他让我在花园里帮忙。",
+      "py": "tā ràng wǒ zài huā yuán lǐ bāng máng。"
     },
     {
       "en": "My little sister likes his stories too.",
       "ko": "여동생도 할아버지 이야기를 좋아해요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "妹妹也喜欢他的故事。",
+      "py": "mèi mèi yě xǐ huān tā de gù shì。"
     },
     {
       "en": "He smiles when we say hello.",
       "ko": "우리가 인사하면 할아버지가 미소를 지어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我们问好的时候，他会笑。",
+      "py": "wǒ men wèn hǎo de shí hòu， tā huì xiào。"
     },
     {
       "en": "I love my grandfather because he is wise.",
@@ -133,7 +171,9 @@
       "highlights": [
         "grandfather",
         "wise"
-      ]
+      ],
+      "zh": "我爱爷爷，因为他有智慧。",
+      "py": "wǒ ài yé yé， yīn wèi tā yǒu zhì huì。"
     },
     {
       "en": "Sunday on the farm is a happy day.",
@@ -141,7 +181,9 @@
       "highlights": [
         "farm",
         "Sunday"
-      ]
+      ],
+      "zh": "在农场过星期天是快乐的一天。",
+      "py": "zài nóng chǎng guò xīng qī tiān shì kuài lè de yī tiān。"
     }
   ],
   "full_passage_lines": [
@@ -227,5 +269,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My grandfather lives on a farm. He wears glasses, and he walks slowly in the garden. He tells me a story when I visit. He is wise and kind. I visit him on Sunday with my family. The farm is quiet, and the air is fresh. He lets me help in the garden. My little sister likes his stories too. He smiles when we say hello. I love my grandfather because he is wise. Sunday on the farm is a happy day."
+  "full_passage_spoken": "My grandfather lives on a farm. He wears glasses, and he walks slowly in the garden. He tells me a story when I visit. He is wise and kind. I visit him on Sunday with my family. The farm is quiet, and the air is fresh. He lets me help in the garden. My little sister likes his stories too. He smiles when we say hello. I love my grandfather because he is wise. Sunday on the farm is a happy day.",
+  "topic_zh": "我的爷爷",
+  "topic_pinyin": "wǒ de yé yé",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的爷爷住在农场。他戴眼镜，在花园里慢慢地走。我去看望他的时候，他给我讲故事。他有智慧，也很善良。星期天我和家人一起去看望他。农场很安静，空气很新鲜。他让我在花园里帮忙。妹妹也喜欢他的故事。我们问好的时候，他会笑。我爱爷爷，因为他有智慧。在农场过星期天是快乐的一天。",
+  "full_passage_pinyin": "wǒ de yé yé zhù zài nóng chǎng。 tā dài yǎn jìng， zài huā yuán lǐ màn màn de zǒu。 wǒ qù kàn wàng tā de shí hòu， tā gěi wǒ jiǎng gù shì。 tā yǒu zhì huì， yě hěn shàn liáng。 xīng qī tiān wǒ hé jiā rén yì qǐ qù kàn wàng tā。 nóng chǎng hěn ān jìng， kōng qì hěn xīn xiān。 tā ràng wǒ zài huā yuán lǐ bāng máng。 mèi mèi yě xǐ huān tā de gù shì。 wǒ men wèn hǎo de shí hòu， tā huì xiào。 wǒ ài yé yé， yīn wèi tā yǒu zhì huì。 zài nóng chǎng guò xīng qī tiān shì kuài lè de yī tiān。"
 }

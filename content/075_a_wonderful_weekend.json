@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "wonderful",
-      "ko": "멋진"
+      "ko": "멋진",
+      "zh": "美好",
+      "py": "měi hǎo"
     },
     {
       "en": "weekend",
-      "ko": "주말"
+      "ko": "주말",
+      "zh": "周末",
+      "py": "zhōu mò"
     },
     {
       "en": "visit",
-      "ko": "방문하다"
+      "ko": "방문하다",
+      "zh": "看望",
+      "py": "kàn wàng"
     },
     {
       "en": "grandmother",
-      "ko": "할머니"
+      "ko": "할머니",
+      "zh": "奶奶",
+      "py": "nǎi nǎi"
     },
     {
       "en": "train",
-      "ko": "기차"
+      "ko": "기차",
+      "zh": "火车",
+      "py": "huǒ chē"
     },
     {
       "en": "story",
-      "ko": "이야기"
+      "ko": "이야기",
+      "zh": "故事",
+      "py": "gù shì"
     },
     {
       "en": "cookie",
-      "ko": "쿠키"
+      "ko": "쿠키",
+      "zh": "饼干",
+      "py": "bǐng gān"
     },
     {
       "en": "garden",
-      "ko": "정원"
+      "ko": "정원",
+      "zh": "花园",
+      "py": "huā yuán"
     },
     {
       "en": "back",
-      "ko": "돌아오다"
+      "ko": "돌아오다",
+      "zh": "回来",
+      "py": "huí lái"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "wonderful",
         "weekend"
-      ]
+      ],
+      "zh": "我度过了一个美好的周末。",
+      "py": "wǒ dù guò le yí gè měi hǎo de zhōu mò。"
     },
     {
       "en": "I visit my grandmother.",
@@ -76,21 +98,27 @@
       "highlights": [
         "visit",
         "grandmother"
-      ]
+      ],
+      "zh": "我去看望奶奶。",
+      "py": "wǒ qù kàn wàng nǎi nǎi。"
     },
     {
       "en": "We go by train.",
       "ko": "우리는 기차를 타고 가요.",
       "highlights": [
         "train"
-      ]
+      ],
+      "zh": "我们坐火车去。",
+      "py": "wǒ men zuò huǒ chē qù。"
     },
     {
       "en": "She tells a story.",
       "ko": "할머니는 이야기를 해 줘요.",
       "highlights": [
         "story"
-      ]
+      ],
+      "zh": "她讲一个故事。",
+      "py": "tā jiǎng yí gè gù shì。"
     },
     {
       "en": "We eat a cookie, and we walk in the garden.",
@@ -98,21 +126,27 @@
       "highlights": [
         "cookie",
         "garden"
-      ]
+      ],
+      "zh": "我们吃饼干，也在花园里走走。",
+      "py": "wǒ men chī bǐng gān， yě zài huā yuán lǐ zǒu zǒu。"
     },
     {
       "en": "Then I come back home.",
       "ko": "그리고 나는 집으로 돌아와요.",
       "highlights": [
         "back"
-      ]
+      ],
+      "zh": "然后我回到家。",
+      "py": "rán hòu wǒ huí dào jiā。"
     },
     {
       "en": "I feel happy.",
       "ko": "나는 행복해요.",
       "highlights": [
         "happy"
-      ]
+      ],
+      "zh": "我感到快乐。",
+      "py": "wǒ gǎn dào kuài lè。"
     },
     {
       "en": "The train ride is part of the wonderful weekend.",
@@ -121,7 +155,9 @@
         "wonderful",
         "weekend",
         "train"
-      ]
+      ],
+      "zh": "坐火车是这个美好周末的一部分。",
+      "py": "zuò huǒ chē shì zhè ge měi hǎo zhōu mò de yī bù fèn。"
     },
     {
       "en": "Grandmother's story is long and kind.",
@@ -129,7 +165,9 @@
       "highlights": [
         "grandmother",
         "story"
-      ]
+      ],
+      "zh": "奶奶的故事又长又善良。",
+      "py": "nǎi nǎi de gù shì yòu cháng yòu shàn liáng。"
     },
     {
       "en": "A cookie in the garden tastes better.",
@@ -137,7 +175,9 @@
       "highlights": [
         "cookie",
         "garden"
-      ]
+      ],
+      "zh": "在花园里吃饼干更好吃。",
+      "py": "zài huā yuán lǐ chī bǐng gān gèng hǎo chī。"
     },
     {
       "en": "I come back happy, and I want to visit again.",
@@ -146,7 +186,9 @@
         "visit",
         "back",
         "happy"
-      ]
+      ],
+      "zh": "我快乐地回来，还想再去看望。",
+      "py": "wǒ kuài lè de huí lái， hái xiǎng zài qù kàn wàng。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I have a wonderful weekend. I visit my grandmother. We go by train. She tells a story. We eat a cookie, and we walk in the garden. Then I come back home. I feel happy. The train ride is part of the wonderful weekend. Grandmother's story is long and kind. A cookie in the garden tastes better. I come back happy, and I want to visit again."
+  "full_passage_spoken": "I have a wonderful weekend. I visit my grandmother. We go by train. She tells a story. We eat a cookie, and we walk in the garden. Then I come back home. I feel happy. The train ride is part of the wonderful weekend. Grandmother's story is long and kind. A cookie in the garden tastes better. I come back happy, and I want to visit again.",
+  "topic_zh": "美好的周末",
+  "topic_pinyin": "měi hǎo de zhōu mò",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我度过了一个美好的周末。我去看望奶奶。我们坐火车去。她讲一个故事。我们吃饼干，也在花园里走走。然后我回到家。我感到快乐。坐火车是这个美好周末的一部分。奶奶的故事又长又善良。在花园里吃饼干更好吃。我快乐地回来，还想再去看望。",
+  "full_passage_pinyin": "wǒ dù guò le yí gè měi hǎo de zhōu mò。 wǒ qù kàn wàng nǎi nǎi。 wǒ men zuò huǒ chē qù。 tā jiǎng yí gè gù shì。 wǒ men chī bǐng gān， yě zài huā yuán lǐ zǒu zǒu。 rán hòu wǒ huí dào jiā。 wǒ gǎn dào kuài lè。 zuò huǒ chē shì zhè ge měi hǎo zhōu mò de yī bù fèn。 nǎi nǎi de gù shì yòu cháng yòu shàn liáng。 zài huā yuán lǐ chī bǐng gān gèng hǎo chī。 wǒ kuài lè de huí lái， hái xiǎng zài qù kàn wàng。"
 }

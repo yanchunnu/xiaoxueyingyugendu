@@ -21,43 +21,63 @@
   "words": [
     {
       "en": "name",
-      "ko": "이름"
+      "ko": "이름",
+      "zh": "名字",
+      "py": "míng zì"
     },
     {
       "en": "years old",
-      "ko": "살 (나이)"
+      "ko": "살 (나이)",
+      "zh": "岁",
+      "py": "suì"
     },
     {
       "en": "grade",
-      "ko": "학년"
+      "ko": "학년",
+      "zh": "几年级",
+      "py": "jǐ nián jí"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "sister",
-      "ko": "여동생"
+      "ko": "여동생",
+      "zh": "妹妹",
+      "py": "mèi mèi"
     },
     {
       "en": "like",
-      "ko": "좋아하다"
+      "ko": "좋아하다",
+      "zh": "喜欢",
+      "py": "xǐ huān"
     },
     {
       "en": "English",
-      "ko": "영어"
+      "ko": "영어",
+      "zh": "英语",
+      "py": "yīng yǔ"
     },
     {
       "en": "soccer",
-      "ko": "축구"
+      "ko": "축구",
+      "zh": "足球",
+      "py": "zú qiú"
     },
     {
       "en": "hobby",
-      "ko": "취미"
+      "ko": "취미",
+      "zh": "爱好",
+      "py": "ài hào"
     },
     {
       "en": "drawing",
-      "ko": "그림 그리기"
+      "ko": "그림 그리기",
+      "zh": "画画",
+      "py": "huà huà"
     }
   ],
   "phrases": [
@@ -67,21 +87,27 @@
       "highlights": [
         "name",
         "years old"
-      ]
+      ],
+      "zh": "我叫米娜，我十三岁。",
+      "py": "wǒ jiào mǐ nà， wǒ shí sān suì。"
     },
     {
       "en": "I am a student in the sixth grade.",
       "ko": "나는 6학년 학생이에요.",
       "highlights": [
         "grade"
-      ]
+      ],
+      "zh": "我是六年级的学生。",
+      "py": "wǒ shì liù nián jí de xué shēng。"
     },
     {
       "en": "I live in a small house with my family.",
       "ko": "나는 가족과 함께 작은 집에 살아요.",
       "highlights": [
         "family"
-      ]
+      ],
+      "zh": "我和家人住在一所小房子里。",
+      "py": "wǒ hé jiā rén zhù zài yī suǒ xiǎo fáng zi lǐ。"
     },
     {
       "en": "I have a little sister, and she is eleven years old.",
@@ -89,7 +115,9 @@
       "highlights": [
         "sister",
         "years old"
-      ]
+      ],
+      "zh": "我有一个妹妹，她十一岁。",
+      "py": "wǒ yǒu yí gè mèi mèi， tā shí yī suì。"
     },
     {
       "en": "My little sister is in the fourth grade, and we play every day.",
@@ -97,7 +125,9 @@
       "highlights": [
         "sister",
         "grade"
-      ]
+      ],
+      "zh": "我的妹妹上四年级，我们每天一起玩。",
+      "py": "wǒ de mèi mèi shàng sì nián jí， wǒ men měi tiān yì qǐ wán。"
     },
     {
       "en": "I like English, and I also like soccer.",
@@ -106,7 +136,9 @@
         "like",
         "English",
         "soccer"
-      ]
+      ],
+      "zh": "我喜欢英语，也喜欢足球。",
+      "py": "wǒ xǐ huān yīng yǔ， yě xǐ huān zú qiú。"
     },
     {
       "en": "My hobby is drawing pictures of animals and people.",
@@ -114,40 +146,52 @@
       "highlights": [
         "hobby",
         "drawing"
-      ]
+      ],
+      "zh": "我的爱好是画动物和人。",
+      "py": "wǒ de ài hào shì huà dòng wù hé rén。"
     },
     {
       "en": "I often draw a picture of my family.",
       "ko": "나는 자주 가족 그림을 그려요.",
       "highlights": [
         "family"
-      ]
+      ],
+      "zh": "我常常画我们一家人。",
+      "py": "wǒ cháng cháng huà wǒ men yī jiā rén。"
     },
     {
       "en": "After school, I play soccer with my friends.",
       "ko": "방과 후에 나는 친구들과 축구를 해요.",
       "highlights": [
         "soccer"
-      ]
+      ],
+      "zh": "放学以后，我和朋友们踢足球。",
+      "py": "fàng xué yǐ hòu， wǒ hé péng yǒu men tī zú qiú。"
     },
     {
       "en": "In the evening, I do my homework at home.",
       "ko": "나는 저녁에 집에서 숙제를 해요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "傍晚我在家做作业。",
+      "py": "bàng wǎn wǒ zài jiā zuò zuò yè。"
     },
     {
       "en": "At night, I read a book with my sister.",
       "ko": "나는 밤에 여동생과 함께 책을 읽어요.",
       "highlights": [
         "sister"
-      ]
+      ],
+      "zh": "晚上我和妹妹一起看书。",
+      "py": "wǎn shàng wǒ hé mèi mèi yì qǐ kàn shū。"
     },
     {
       "en": "I love my family very much, and they love me too.",
       "ko": "나는 가족을 매우 사랑하고, 가족도 나를 사랑해요.",
       "highlights": [
         "family"
-      ]
+      ],
+      "zh": "我很爱我的家人，他们也很爱我。",
+      "py": "wǒ hěn ài wǒ de jiā rén， tā men yě hěn ài wǒ。"
     }
   ],
   "full_passage_lines": [
@@ -240,5 +284,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My name is Mina, and I am thirteen years old. I am a student in the sixth grade. I live in a small house with my family. I have a little sister, and she is eleven years old. My little sister is in the fourth grade, and we play every day. I like English, and I also like soccer. My hobby is drawing pictures of animals and people. I often draw a picture of my family. After school, I play soccer with my friends. In the evening, I do my homework at home. At night, I read a book with my sister. I love my family very much, and they love me too."
+  "full_passage_spoken": "My name is Mina, and I am thirteen years old. I am a student in the sixth grade. I live in a small house with my family. I have a little sister, and she is eleven years old. My little sister is in the fourth grade, and we play every day. I like English, and I also like soccer. My hobby is drawing pictures of animals and people. I often draw a picture of my family. After school, I play soccer with my friends. In the evening, I do my homework at home. At night, I read a book with my sister. I love my family very much, and they love me too.",
+  "topic_zh": "关于我",
+  "topic_pinyin": "guān yú wǒ",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我叫米娜，我十三岁。我是六年级的学生。我和家人住在一所小房子里。我有一个妹妹，她十一岁。我的妹妹上四年级，我们每天一起玩。我喜欢英语，也喜欢足球。我的爱好是画动物和人。我常常画我们一家人。放学以后，我和朋友们踢足球。傍晚我在家做作业。晚上我和妹妹一起看书。我很爱我的家人，他们也很爱我。",
+  "full_passage_pinyin": "wǒ jiào mǐ nà， wǒ shí sān suì。 wǒ shì liù nián jí de xué shēng。 wǒ hé jiā rén zhù zài yī suǒ xiǎo fáng zi lǐ。 wǒ yǒu yí gè mèi mèi， tā shí yī suì。 wǒ de mèi mèi shàng sì nián jí， wǒ men měi tiān yì qǐ wán。 wǒ xǐ huān yīng yǔ， yě xǐ huān zú qiú。 wǒ de ài hào shì huà dòng wù hé rén。 wǒ cháng cháng huà wǒ men yī jiā rén。 fàng xué yǐ hòu， wǒ hé péng yǒu men tī zú qiú。 bàng wǎn wǒ zài jiā zuò zuò yè。 wǎn shàng wǒ hé mèi mèi yì qǐ kàn shū。 wǒ hěn ài wǒ de jiā rén， tā men yě hěn ài wǒ。"
 }

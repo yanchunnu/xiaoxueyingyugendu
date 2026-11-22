@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "weekend",
-      "ko": "주말"
+      "ko": "주말",
+      "zh": "周末",
+      "py": "zhōu mò"
     },
     {
       "en": "Saturday",
-      "ko": "토요일"
+      "ko": "토요일",
+      "zh": "星期六",
+      "py": "xīng qī liù"
     },
     {
       "en": "Sunday",
-      "ko": "일요일"
+      "ko": "일요일",
+      "zh": "星期天",
+      "py": "xīng qī tiān"
     },
     {
       "en": "sleep",
-      "ko": "잠을 자다"
+      "ko": "잠을 자다",
+      "zh": "睡觉",
+      "py": "shuì jiào"
     },
     {
       "en": "late",
-      "ko": "늦게"
+      "ko": "늦게",
+      "zh": "晚起",
+      "py": "wǎn qǐ"
     },
     {
       "en": "homework",
-      "ko": "숙제"
+      "ko": "숙제",
+      "zh": "作业",
+      "py": "zuò yè"
     },
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "rest",
-      "ko": "쉬다"
+      "ko": "쉬다",
+      "zh": "休息",
+      "py": "xiū xī"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮忙",
+      "py": "bāng máng"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "weekend",
         "Saturday",
         "Sunday"
-      ]
+      ],
+      "zh": "周末就是星期六和星期天。",
+      "py": "zhōu mò jiù shì xīng qī liù hé xīng qī tiān。"
     },
     {
       "en": "I sleep late on Saturday.",
@@ -78,21 +100,27 @@
         "Saturday",
         "sleep",
         "late"
-      ]
+      ],
+      "zh": "星期六我起得晚。",
+      "py": "xīng qī liù wǒ qǐ de wǎn。"
     },
     {
       "en": "I do my homework first.",
       "ko": "나는 먼저 숙제를 해요.",
       "highlights": [
         "homework"
-      ]
+      ],
+      "zh": "我先做作业。",
+      "py": "wǒ xiān zuò zuò yè。"
     },
     {
       "en": "Then I go to the park.",
       "ko": "그리고 나는 공원에 가요.",
       "highlights": [
         "park"
-      ]
+      ],
+      "zh": "然后我去公园。",
+      "py": "rán hòu wǒ qù gōng yuán。"
     },
     {
       "en": "I rest at home, and I help my family.",
@@ -101,21 +129,27 @@
         "rest",
         "family",
         "help"
-      ]
+      ],
+      "zh": "我在家休息，也帮家人做事。",
+      "py": "wǒ zài jiā xiū xī， yě bāng jiā rén zuò shì。"
     },
     {
       "en": "The weekend is nice.",
       "ko": "주말은 좋아요.",
       "highlights": [
         "weekend"
-      ]
+      ],
+      "zh": "周末很好。",
+      "py": "zhōu mò hěn hǎo。"
     },
     {
       "en": "On Sunday I visit my grandparents sometimes.",
       "ko": "일요일에는 가끔 조부모님을 보러 가요.",
       "highlights": [
         "Sunday"
-      ]
+      ],
+      "zh": "星期天我有时去看爷爷奶奶。",
+      "py": "xīng qī tiān wǒ yǒu shí qù kàn yé yé nǎi nǎi。"
     },
     {
       "en": "I do not sleep late on Sunday.",
@@ -124,7 +158,9 @@
         "Sunday",
         "sleep",
         "late"
-      ]
+      ],
+      "zh": "星期天我不会起得很晚。",
+      "py": "xīng qī tiān wǒ bú huì qǐ de hěn wǎn。"
     },
     {
       "en": "Homework first makes the rest of the day free.",
@@ -132,7 +168,9 @@
       "highlights": [
         "homework",
         "rest"
-      ]
+      ],
+      "zh": "先做作业，剩下的时间就自由了。",
+      "py": "xiān zuò zuò yè， shèng xià de shí jiān jiù zì yóu le。"
     },
     {
       "en": "I help my family, and then we rest together.",
@@ -141,14 +179,18 @@
         "rest",
         "family",
         "help"
-      ]
+      ],
+      "zh": "我帮家人做事，然后我们一起休息。",
+      "py": "wǒ bāng jiā rén zuò shì， rán hòu wǒ men yì qǐ xiū xī。"
     },
     {
       "en": "I like the weekend because it is not as busy.",
       "ko": "주말은 그렇게 바쁘지 않아서 나는 주말을 좋아해요.",
       "highlights": [
         "weekend"
-      ]
+      ],
+      "zh": "我喜欢周末，因为它没那么忙。",
+      "py": "wǒ xǐ huān zhōu mò， yīn wèi tā méi nà me máng。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "The weekend is Saturday and Sunday. I sleep late on Saturday. I do my homework first. Then I go to the park. I rest at home, and I help my family. The weekend is nice. On Sunday I visit my grandparents sometimes. I do not sleep late on Sunday. Homework first makes the rest of the day free. I help my family, and then we rest together. I like the weekend because it is not as busy."
+  "full_passage_spoken": "The weekend is Saturday and Sunday. I sleep late on Saturday. I do my homework first. Then I go to the park. I rest at home, and I help my family. The weekend is nice. On Sunday I visit my grandparents sometimes. I do not sleep late on Sunday. Homework first makes the rest of the day free. I help my family, and then we rest together. I like the weekend because it is not as busy.",
+  "topic_zh": "我的周末",
+  "topic_pinyin": "wǒ de zhōu mò",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "周末就是星期六和星期天。星期六我起得晚。我先做作业。然后我去公园。我在家休息，也帮家人做事。周末很好。星期天我有时去看爷爷奶奶。星期天我不会起得很晚。先做作业，剩下的时间就自由了。我帮家人做事，然后我们一起休息。我喜欢周末，因为它没那么忙。",
+  "full_passage_pinyin": "zhōu mò jiù shì xīng qī liù hé xīng qī tiān。 xīng qī liù wǒ qǐ de wǎn。 wǒ xiān zuò zuò yè。 rán hòu wǒ qù gōng yuán。 wǒ zài jiā xiū xī， yě bāng jiā rén zuò shì。 zhōu mò hěn hǎo。 xīng qī tiān wǒ yǒu shí qù kàn yé yé nǎi nǎi。 xīng qī tiān wǒ bú huì qǐ de hěn wǎn。 xiān zuò zuò yè， shèng xià de shí jiān jiù zì yóu le。 wǒ bāng jiā rén zuò shì， rán hòu wǒ men yì qǐ xiū xī。 wǒ xǐ huān zhōu mò， yīn wèi tā méi nà me máng。"
 }

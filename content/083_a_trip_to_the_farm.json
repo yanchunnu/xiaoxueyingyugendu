@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "trip",
-      "ko": "여행"
+      "ko": "여행",
+      "zh": "郊游",
+      "py": "jiāo yóu"
     },
     {
       "en": "farm",
-      "ko": "농장"
+      "ko": "농장",
+      "zh": "农场",
+      "py": "nóng chǎng"
     },
     {
       "en": "bus",
-      "ko": "버스"
+      "ko": "버스",
+      "zh": "公交车",
+      "py": "gōng jiāo chē"
     },
     {
       "en": "cow",
-      "ko": "소"
+      "ko": "소",
+      "zh": "牛",
+      "py": "niú"
     },
     {
       "en": "horse",
-      "ko": "말"
+      "ko": "말",
+      "zh": "马",
+      "py": "mǎ"
     },
     {
       "en": "chicken",
-      "ko": "닭"
+      "ko": "닭",
+      "zh": "鸡",
+      "py": "jī"
     },
     {
       "en": "feed",
-      "ko": "먹이를 주다"
+      "ko": "먹이를 주다",
+      "zh": "喂",
+      "py": "wèi"
     },
     {
       "en": "milk",
-      "ko": "우유"
+      "ko": "우유",
+      "zh": "牛奶",
+      "py": "niú nǎi"
     },
     {
       "en": "photo",
-      "ko": "사진"
+      "ko": "사진",
+      "zh": "照片",
+      "py": "zhào piān"
     },
     {
       "en": "great",
-      "ko": "멋진"
+      "ko": "멋진",
+      "zh": "很棒",
+      "py": "hěn bàng"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "trip",
         "farm"
-      ]
+      ],
+      "zh": "我们去农场郊游。",
+      "py": "wǒ men qù nóng chǎng jiāo yóu。"
     },
     {
       "en": "We go by bus.",
       "ko": "우리는 버스를 타고 가요.",
       "highlights": [
         "bus"
-      ]
+      ],
+      "zh": "我们坐公交车去。",
+      "py": "wǒ men zuò gōng jiāo chē qù。"
     },
     {
       "en": "I see a cow and a horse.",
@@ -83,7 +107,9 @@
       "highlights": [
         "cow",
         "horse"
-      ]
+      ],
+      "zh": "我看见一头牛和一匹马。",
+      "py": "wǒ kàn jiàn yī tóu niú hé yì pǐ mǎ。"
     },
     {
       "en": "I feed a chicken.",
@@ -91,26 +117,34 @@
       "highlights": [
         "chicken",
         "feed"
-      ]
+      ],
+      "zh": "我喂一只鸡。",
+      "py": "wǒ wèi yī zhī jī。"
     },
     {
       "en": "I try fresh milk.",
       "ko": "나는 신선한 우유를 마셔 봐요.",
       "highlights": [
         "milk"
-      ]
+      ],
+      "zh": "我尝了新鲜的牛奶。",
+      "py": "wǒ cháng le xīn xiān de niú nǎi。"
     },
     {
       "en": "I take a photo.",
       "ko": "나는 사진을 찍어요.",
       "highlights": [
         "photo"
-      ]
+      ],
+      "zh": "我拍一张照片。",
+      "py": "wǒ pāi yī zhāng zhào piān。"
     },
     {
       "en": "Then we go home.",
       "ko": "그리고 우리는 집에 가요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "然后我们回家。",
+      "py": "rán hòu wǒ men huí jiā。"
     },
     {
       "en": "It is a great trip.",
@@ -118,14 +152,18 @@
       "highlights": [
         "trip",
         "great"
-      ]
+      ],
+      "zh": "这是一次很棒的郊游。",
+      "py": "zhè shì yī cì hěn bàng de jiāo yóu。"
     },
     {
       "en": "The bus is full of happy students.",
       "ko": "버스에는 행복한 학생들이 가득해요.",
       "highlights": [
         "bus"
-      ]
+      ],
+      "zh": "公交车上满是快乐的学生。",
+      "py": "gōng jiāo chē shàng mǎn shì kuài lè de xué shēng。"
     },
     {
       "en": "The horse is tall, and the cow is calm.",
@@ -133,7 +171,9 @@
       "highlights": [
         "cow",
         "horse"
-      ]
+      ],
+      "zh": "马很高，牛很安静。",
+      "py": "mǎ hěn gāo， niú hěn ān jìng。"
     },
     {
       "en": "A great trip gives us photos and fresh milk.",
@@ -143,7 +183,9 @@
         "milk",
         "photo",
         "great"
-      ]
+      ],
+      "zh": "一次很棒的郊游给我们照片和新鲜牛奶。",
+      "py": "yī cì hěn bàng de jiāo yóu gěi wǒ men zhào piān hé xīn xiān niú nǎi。"
     }
   ],
   "full_passage_lines": [
@@ -231,5 +273,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "We take a trip to a farm. We go by bus. I see a cow and a horse. I feed a chicken. I try fresh milk. I take a photo. Then we go home. It is a great trip. The bus is full of happy students. The horse is tall, and the cow is calm. A great trip gives us photos and fresh milk."
+  "full_passage_spoken": "We take a trip to a farm. We go by bus. I see a cow and a horse. I feed a chicken. I try fresh milk. I take a photo. Then we go home. It is a great trip. The bus is full of happy students. The horse is tall, and the cow is calm. A great trip gives us photos and fresh milk.",
+  "topic_zh": "去农场",
+  "topic_pinyin": "qù nóng chǎng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们去农场郊游。我们坐公交车去。我看见一头牛和一匹马。我喂一只鸡。我尝了新鲜的牛奶。我拍一张照片。然后我们回家。这是一次很棒的郊游。公交车上满是快乐的学生。马很高，牛很安静。一次很棒的郊游给我们照片和新鲜牛奶。",
+  "full_passage_pinyin": "wǒ men qù nóng chǎng jiāo yóu。 wǒ men zuò gōng jiāo chē qù。 wǒ kàn jiàn yī tóu niú hé yì pǐ mǎ。 wǒ wèi yī zhī jī。 wǒ cháng le xīn xiān de niú nǎi。 wǒ pāi yī zhāng zhào piān。 rán hòu wǒ men huí jiā。 zhè shì yī cì hěn bàng de jiāo yóu。 gōng jiāo chē shàng mǎn shì kuài lè de xué shēng。 mǎ hěn gāo， niú hěn ān jìng。 yī cì hěn bàng de jiāo yóu gěi wǒ men zhào piān hé xīn xiān niú nǎi。"
 }

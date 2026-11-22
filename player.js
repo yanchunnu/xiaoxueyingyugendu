@@ -1,15 +1,24 @@
 const STORAGE_KEY = "readalong-player-settings";
+const LANG_KEY = "readalong-player-lang";
 
 const audio = new Audio();
 let runId = 0;
 let paused = false;
 let pauseWaiters = [];
 let manifestTopics = [];
+let currentLang = "en";
+let currentTopic = null;
 
 const $ = (id) => document.getElementById(id);
 
 function loadSettings() {
-  const defaults = { wordRepeats: 3, sentenceRepeats: 1, fullRepeats: 1, showKorean: true };
+  const defaults = {
+    wordRepeats: 3,
+    sentenceRepeats: 1,
+    fullRepeats: 1,
+    showKorean: true,
+    showPinyin: true,
+  };
   try {
     return { ...defaults, ...JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}") };
   } catch {
@@ -23,6 +32,7 @@ function saveSettings() {
     sentenceRepeats: Number($("sentN").value),
     fullRepeats: Number($("fullN").value),
     showKorean: !document.body.classList.contains("hide-ko"),
+    showPinyin: !document.body.classList.contains("hide-py"),
   };
   localStorage.setItem(STORAGE_KEY, JSON.stringify(settings));
 }
@@ -32,13 +42,45 @@ function applySettings(settings) {
   $("sentN").value = String(settings.sentenceRepeats);
   $("fullN").value = String(settings.fullRepeats);
   document.body.classList.toggle("hide-ko", !settings.showKorean);
+  document.body.classList.toggle("hide-py", !settings.showPinyin);
   $("koToggle").textContent = settings.showKorean ? "한국어 뜻 숨기기" : "한국어 뜻 보기";
+  $("pyToggle").textContent = settings.showPinyin ? "拼音 숨기기" : "拼音 보기";
+}
+
+function initialLang() {
+  const query = new URLSearchParams(location.search).get("lang");
+  if (query === "zh" || query === "en") return query;
+  const saved = localStorage.getItem(LANG_KEY);
+  if (saved === "zh" || saved === "en") return saved;
+  return "en";
+}
+
+function setLang(lang, updateUrl) {
+  const next = lang === "zh" ? "zh" : "en";
+  const changed = next !== currentLang;
+  currentLang = next;
+  localStorage.setItem(LANG_KEY, currentLang);
+  document.body.classList.toggle("lang-zh", currentLang === "zh");
+  $("langEn").setAttribute("aria-pressed", currentLang === "en" ? "true" : "false");
+  $("langZh").setAttribute("aria-pressed", currentLang === "zh" ? "true" : "false");
+  $("pyToggle").hidden = currentLang !== "zh";
+  if (updateUrl) {
+    const url = new URL(location.href);
+    url.searchParams.set("lang", currentLang);
+    history.replaceState(null, "", url);
+  }
+  if (changed && currentTopic) stop();
+  if (currentTopic) render(currentTopic);
 }
 
 function topicId() {
   const raw = new URLSearchParams(location.search).get("t") || "001";
   const n = String(parseInt(raw, 10)).padStart(3, "0");
   return n === "NaN" ? "001" : n;
+}
+
+function topicHref(number) {
+  return `player.html?t=${String(number).padStart(3, "0")}&lang=${currentLang}`;
 }
 
 async function loadTopic() {
@@ -51,10 +93,20 @@ async function loadTopic() {
   return { id, meta, data };
 }
 
+function mainText(item) {
+  if (currentLang === "zh") return item.zh || item.en;
+  return item.en;
+}
+
 function render(topic) {
-  $("title").textContent = `${topic.meta.number}. ${topic.data.topic}`;
+  const zh = currentLang === "zh";
+  const title = zh ? (topic.data.topic_zh || topic.data.topic) : topic.data.topic;
+  $("title").textContent = `${topic.meta.number}. ${title}`;
+  $("titlePy").textContent = zh ? (topic.data.topic_pinyin || "") : "";
+  $("titlePy").hidden = !zh;
   $("titleKo").textContent = topic.data.topic_ko;
-  document.title = `${topic.data.topic} · 따라 읽기`;
+  document.title = zh ? `${title} · 中文` : `${topic.data.topic} · 따라 읽기`;
+  $("wordsHeading").textContent = zh ? "单词 Words" : "Words 단어";
 
   const words = $("words");
   words.innerHTML = "";
@@ -62,8 +114,9 @@ function render(topic) {
     const div = document.createElement("div");
     div.className = "word";
     div.dataset.index = String(index);
-    div.innerHTML = `<div class="en"></div><div class="ko"></div>`;
-    div.querySelector(".en").textContent = word.en;
+    div.innerHTML = `<div class="py"></div><div class="en"></div><div class="ko"></div>`;
+    div.querySelector(".py").textContent = zh ? (word.py || "") : "";
+    div.querySelector(".en").textContent = mainText(word);
     div.querySelector(".ko").textContent = word.ko;
     words.appendChild(div);
   });
@@ -73,8 +126,9 @@ function render(topic) {
   topic.data.phrases.forEach((phrase, index) => {
     const li = document.createElement("li");
     li.dataset.index = String(index);
-    li.innerHTML = `<div class="en"></div><div class="ko"></div>`;
-    li.querySelector(".en").textContent = phrase.en;
+    li.innerHTML = `<div class="py"></div><div class="en"></div><div class="ko"></div>`;
+    li.querySelector(".py").textContent = zh ? (phrase.py || "") : "";
+    li.querySelector(".en").textContent = mainText(phrase);
     li.querySelector(".ko").textContent = phrase.ko;
     list.appendChild(li);
   });
@@ -83,8 +137,8 @@ function render(topic) {
   const next = manifestTopics.find((item) => item.number === topic.meta.number + 1);
   $("prev").hidden = !prev;
   $("next").hidden = !next;
-  if (prev) $("prev").href = `player.html?t=${String(prev.number).padStart(3, "0")}`;
-  if (next) $("next").href = `player.html?t=${String(next.number).padStart(3, "0")}`;
+  if (prev) $("prev").href = topicHref(prev.number);
+  if (next) $("next").href = topicHref(next.number);
 }
 
 function clearCurrent() {
@@ -150,6 +204,12 @@ async function playRepeats(url, times, id, label, extra, minimum, fallback) {
   }
 }
 
+function clipBase(topic) {
+  if (window.PREVIEW_CLIP_BASE) return window.PREVIEW_CLIP_BASE;
+  if (currentLang === "zh") return `audio/zh/clips/${topic.id}`;
+  return `audio/clips/${topic.id}`;
+}
+
 async function run(topic) {
   const id = ++runId;
   paused = false;
@@ -158,26 +218,29 @@ async function run(topic) {
   const wordN = Number($("wordN").value);
   const sentN = Number($("sentN").value);
   const fullN = Number($("fullN").value);
-  const base = window.PREVIEW_CLIP_BASE || `audio/clips/${topic.id}`;
+  const base = clipBase(topic);
+  const wordLabel = currentLang === "zh" ? "单词" : "단어";
+  const sentLabel = currentLang === "zh" ? "句子" : "문장";
+  const fullLabel = currentLang === "zh" ? "全文" : "본문 전체";
   try {
     if (wordN > 0) {
       for (let i = 0; i < topic.data.words.length; i += 1) {
         if (id !== runId) return;
         mark("#words .word", i);
-        await playRepeats(`${base}/w${String(i + 1).padStart(2, "0")}.mp3`, wordN, id, `단어 ${i + 1}`, 0.6, 1.2, 0.6);
+        await playRepeats(`${base}/w${String(i + 1).padStart(2, "0")}.mp3`, wordN, id, `${wordLabel} ${i + 1}`, 0.6, 1.2, 0.6);
       }
     }
     if (sentN > 0) {
       for (let i = 0; i < topic.data.phrases.length; i += 1) {
         if (id !== runId) return;
         mark("#passage li", i);
-        await playRepeats(`${base}/s${String(i + 1).padStart(2, "0")}.mp3`, sentN, id, `문장 ${i + 1}`, 1.5, 0, 1);
+        await playRepeats(`${base}/s${String(i + 1).padStart(2, "0")}.mp3`, sentN, id, `${sentLabel} ${i + 1}`, 1.5, 0, 1);
       }
     }
     if (fullN > 0) {
       clearCurrent();
       $("passage").classList.add("current-all");
-      await playRepeats(`${base}/full.mp3`, fullN, id, "본문 전체", 1.5, 0, 1);
+      await playRepeats(`${base}/full.mp3`, fullN, id, fullLabel, 1.5, 0, 1);
     }
     if (id === runId) $("status").textContent = "끝났어요. 참 잘했어요!";
   } catch (error) {
@@ -201,13 +264,22 @@ function stop() {
   $("pause").disabled = true;
   $("status").textContent = "멈췄어요.";
   clearCurrent();
+  const passage = $("passage");
+  if (passage) passage.classList.remove("current-all");
 }
 
 async function main() {
   const settings = loadSettings();
   applySettings(settings);
+  currentLang = initialLang();
   const topic = window.PREVIEW_TOPIC || await loadTopic();
-  render(topic);
+  currentTopic = topic;
+  setLang(currentLang, false);
+  if (!new URLSearchParams(location.search).get("lang")) {
+    const url = new URL(location.href);
+    url.searchParams.set("lang", currentLang);
+    history.replaceState(null, "", url);
+  }
 
   ["wordN", "sentN", "fullN"].forEach((id) => $(id).addEventListener("change", saveSettings));
   $("koToggle").addEventListener("click", () => {
@@ -217,6 +289,15 @@ async function main() {
       : "한국어 뜻 숨기기";
     saveSettings();
   });
+  $("pyToggle").addEventListener("click", () => {
+    document.body.classList.toggle("hide-py");
+    $("pyToggle").textContent = document.body.classList.contains("hide-py")
+      ? "拼音 보기"
+      : "拼音 숨기기";
+    saveSettings();
+  });
+  $("langEn").addEventListener("click", () => setLang("en", true));
+  $("langZh").addEventListener("click", () => setLang("zh", true));
   $("play").addEventListener("click", () => {
     saveSettings();
     if (paused) {
@@ -227,7 +308,7 @@ async function main() {
       $("pause").disabled = false;
       return;
     }
-    run(topic);
+    run(currentTopic);
   });
   $("pause").addEventListener("click", () => {
     paused = true;

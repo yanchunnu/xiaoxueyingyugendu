@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "May Day",
-      "ko": "오월의 휴일"
+      "ko": "오월의 휴일",
+      "zh": "五一",
+      "py": "wǔ yī"
     },
     {
       "en": "holiday",
-      "ko": "휴일"
+      "ko": "휴일",
+      "zh": "假日",
+      "py": "jià rì"
     },
     {
       "en": "plan",
-      "ko": "계획"
+      "ko": "계획",
+      "zh": "计划",
+      "py": "jì huà"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "picnic",
-      "ko": "소풍"
+      "ko": "소풍",
+      "zh": "野餐",
+      "py": "yě cān"
     },
     {
       "en": "kite",
-      "ko": "연"
+      "ko": "연",
+      "zh": "风筝",
+      "py": "fēng zhēng"
     },
     {
       "en": "photo",
-      "ko": "사진"
+      "ko": "사진",
+      "zh": "照片",
+      "py": "zhào piān"
     },
     {
       "en": "rest",
-      "ko": "쉬다"
+      "ko": "쉬다",
+      "zh": "休息",
+      "py": "xiū xī"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "May Day",
         "holiday",
         "plan"
-      ]
+      ],
+      "zh": "劳动节是假日，我制定一个计划。",
+      "py": "láo dòng jié shì jià rì， wǒ zhì dìng yí gè jì huà。"
     },
     {
       "en": "My family goes to the park.",
@@ -77,42 +99,54 @@
       "highlights": [
         "family",
         "park"
-      ]
+      ],
+      "zh": "我的家人去公园。",
+      "py": "wǒ de jiā rén qù gōng yuán。"
     },
     {
       "en": "We have a picnic.",
       "ko": "우리는 소풍을 해요.",
       "highlights": [
         "picnic"
-      ]
+      ],
+      "zh": "我们去野餐。",
+      "py": "wǒ men qù yě cān。"
     },
     {
       "en": "I fly a kite.",
       "ko": "나는 연을 날려요.",
       "highlights": [
         "kite"
-      ]
+      ],
+      "zh": "我放风筝。",
+      "py": "wǒ fàng fēng zhēng。"
     },
     {
       "en": "We take a photo.",
       "ko": "우리는 사진을 찍어요.",
       "highlights": [
         "photo"
-      ]
+      ],
+      "zh": "我们拍照片。",
+      "py": "wǒ men pāi zhào piān。"
     },
     {
       "en": "We rest and play.",
       "ko": "우리는 쉬고 놀아요.",
       "highlights": [
         "rest"
-      ]
+      ],
+      "zh": "我们休息，也玩一玩。",
+      "py": "wǒ men xiū xī， yě wán yī wán。"
     },
     {
       "en": "It will be a happy day.",
       "ko": "행복한 날이 될 거예요.",
       "highlights": [
         "happy"
-      ]
+      ],
+      "zh": "这一天会很快乐。",
+      "py": "zhè yī tiān huì hěn kuài lè。"
     },
     {
       "en": "This holiday plan is simple and kind.",
@@ -120,7 +154,9 @@
       "highlights": [
         "holiday",
         "plan"
-      ]
+      ],
+      "zh": "这个假日计划又简单又温暖。",
+      "py": "zhè ge jià rì jì huà yòu jiǎn dān yòu wēn nuǎn。"
     },
     {
       "en": "The kite is red, and the park is green.",
@@ -128,7 +164,9 @@
       "highlights": [
         "park",
         "kite"
-      ]
+      ],
+      "zh": "风筝是红色的，公园是绿色的。",
+      "py": "fēng zhēng shì hóng sè de， gōng yuán shì lǜ sè de。"
     },
     {
       "en": "After the picnic we rest under a tree.",
@@ -136,7 +174,9 @@
       "highlights": [
         "picnic",
         "rest"
-      ]
+      ],
+      "zh": "野餐以后，我们在树下休息。",
+      "py": "yě cān yǐ hòu， wǒ men zài shù xià xiū xī。"
     },
     {
       "en": "A happy May Day is time with my family.",
@@ -145,7 +185,9 @@
         "May Day",
         "family",
         "happy"
-      ]
+      ],
+      "zh": "快乐的劳动节就是和家人在一起的时间。",
+      "py": "kuài lè de láo dòng jié jiù shì hé jiā rén zài yì qǐ de shí jiān。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "May Day is a holiday, and I make a plan. My family goes to the park. We have a picnic. I fly a kite. We take a photo. We rest and play. It will be a happy day. This holiday plan is simple and kind. The kite is red, and the park is green. After the picnic we rest under a tree. A happy May Day is time with my family."
+  "full_passage_spoken": "May Day is a holiday, and I make a plan. My family goes to the park. We have a picnic. I fly a kite. We take a photo. We rest and play. It will be a happy day. This holiday plan is simple and kind. The kite is red, and the park is green. After the picnic we rest under a tree. A happy May Day is time with my family.",
+  "topic_zh": "我的五一计划",
+  "topic_pinyin": "wǒ de wǔ yī jì huà",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "劳动节是假日，我制定一个计划。我的家人去公园。我们去野餐。我放风筝。我们拍照片。我们休息，也玩一玩。这一天会很快乐。这个假日计划又简单又温暖。风筝是红色的，公园是绿色的。野餐以后，我们在树下休息。快乐的劳动节就是和家人在一起的时间。",
+  "full_passage_pinyin": "láo dòng jié shì jià rì， wǒ zhì dìng yí gè jì huà。 wǒ de jiā rén qù gōng yuán。 wǒ men qù yě cān。 wǒ fàng fēng zhēng。 wǒ men pāi zhào piān。 wǒ men xiū xī， yě wán yī wán。 zhè yī tiān huì hěn kuài lè。 zhè ge jià rì jì huà yòu jiǎn dān yòu wēn nuǎn。 fēng zhēng shì hóng sè de， gōng yuán shì lǜ sè de。 yě cān yǐ hòu， wǒ men zài shù xià xiū xī。 kuài lè de láo dòng jié jiù shì hé jiā rén zài yì qǐ de shí jiān。"
 }

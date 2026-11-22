@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "name",
-      "ko": "이름"
+      "ko": "이름",
+      "zh": "名字",
+      "py": "míng zì"
     },
     {
       "en": "same",
-      "ko": "같은"
+      "ko": "같은",
+      "zh": "相同",
+      "py": "xiāng tóng"
     },
     {
       "en": "class",
-      "ko": "반"
+      "ko": "반",
+      "zh": "班",
+      "py": "bān"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "soccer",
-      "ko": "축구"
+      "ko": "축구",
+      "zh": "足球",
+      "py": "zú qiú"
     },
     {
       "en": "after school",
-      "ko": "방과 후"
+      "ko": "방과 후",
+      "zh": "放学后",
+      "py": "fàng xué hòu"
     },
     {
       "en": "share",
-      "ko": "나누다"
+      "ko": "나누다",
+      "zh": "分享",
+      "py": "fēn xiǎng"
     },
     {
       "en": "snack",
-      "ko": "간식"
+      "ko": "간식",
+      "zh": "零食",
+      "py": "líng shí"
     },
     {
       "en": "good",
-      "ko": "좋은"
+      "ko": "좋은",
+      "zh": "好",
+      "py": "hǎo"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "friend",
         "name"
-      ]
+      ],
+      "zh": "我有一个朋友，他叫汤姆。",
+      "py": "wǒ yǒu yí gè péng yǒu， tā jiào tāng mǔ。"
     },
     {
       "en": "We are in the same class.",
@@ -76,7 +98,9 @@
       "highlights": [
         "same",
         "class"
-      ]
+      ],
+      "zh": "我们在同一个班。",
+      "py": "wǒ men zài tóng yī gè bān。"
     },
     {
       "en": "Tom can be kind, and he is a good friend.",
@@ -85,7 +109,9 @@
         "friend",
         "kind",
         "good"
-      ]
+      ],
+      "zh": "汤姆会很善良，他是个好朋友。",
+      "py": "tāng mǔ huì hěn shàn liáng， tā shì gè hǎo péng yǒu。"
     },
     {
       "en": "We play soccer after school.",
@@ -93,7 +119,9 @@
       "highlights": [
         "soccer",
         "after school"
-      ]
+      ],
+      "zh": "放学后我们踢足球。",
+      "py": "fàng xué hòu wǒ men tī zú qiú。"
     },
     {
       "en": "We share a snack when we are hungry.",
@@ -101,21 +129,27 @@
       "highlights": [
         "share",
         "snack"
-      ]
+      ],
+      "zh": "我们饿了就分享零食。",
+      "py": "wǒ men è le jiù fēn xiǎng líng shí。"
     },
     {
       "en": "His name is easy, and I like to say it.",
       "ko": "그의 이름은 쉽고, 나는 그 이름을 부르는 것이 좋아요.",
       "highlights": [
         "name"
-      ]
+      ],
+      "zh": "他的名字很简单，我喜欢叫他。",
+      "py": "tā de míng zì hěn jiǎn dān， wǒ xǐ huān jiào tā。"
     },
     {
       "en": "We sit in the same row at school.",
       "ko": "우리는 학교에서 같은 줄에 앉아요.",
       "highlights": [
         "same"
-      ]
+      ],
+      "zh": "我们在学校坐同一排。",
+      "py": "wǒ men zài xué xiào zuò tóng yī pái。"
     },
     {
       "en": "A good friend listens and waits.",
@@ -123,14 +157,18 @@
       "highlights": [
         "friend",
         "good"
-      ]
+      ],
+      "zh": "好朋友会听，也会等。",
+      "py": "hǎo péng yǒu huì tīng， yě huì děng。"
     },
     {
       "en": "Tom and I walk home after soccer.",
       "ko": "톰과 나는 축구 후에 집에 걸어서 가요.",
       "highlights": [
         "soccer"
-      ]
+      ],
+      "zh": "踢完足球，汤姆和我一起走回家。",
+      "py": "tī wán zú qiú， tāng mǔ hé wǒ yì qǐ zǒu huí jiā。"
     },
     {
       "en": "I share my snack because he shares his.",
@@ -138,7 +176,9 @@
       "highlights": [
         "share",
         "snack"
-      ]
+      ],
+      "zh": "他把零食分给我，所以我也分给他。",
+      "py": "tā bǎ líng shí fēn gěi wǒ， suǒ yǐ wǒ yě fēn gěi tā。"
     },
     {
       "en": "I am glad we are in the same class.",
@@ -146,7 +186,9 @@
       "highlights": [
         "same",
         "class"
-      ]
+      ],
+      "zh": "我们在同一个班，我很高兴。",
+      "py": "wǒ men zài tóng yī gè bān， wǒ hěn gāo xìng。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I have a friend, and his name is Tom. We are in the same class. Tom can be kind, and he is a good friend. We play soccer after school. We share a snack when we are hungry. His name is easy, and I like to say it. We sit in the same row at school. A good friend listens and waits. Tom and I walk home after soccer. I share my snack because he shares his. I am glad we are in the same class."
+  "full_passage_spoken": "I have a friend, and his name is Tom. We are in the same class. Tom can be kind, and he is a good friend. We play soccer after school. We share a snack when we are hungry. His name is easy, and I like to say it. We sit in the same row at school. A good friend listens and waits. Tom and I walk home after soccer. I share my snack because he shares his. I am glad we are in the same class.",
+  "topic_zh": "我的朋友",
+  "topic_pinyin": "wǒ de péng yǒu",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我有一个朋友，他叫汤姆。我们在同一个班。汤姆会很善良，他是个好朋友。放学后我们踢足球。我们饿了就分享零食。他的名字很简单，我喜欢叫他。我们在学校坐同一排。好朋友会听，也会等。踢完足球，汤姆和我一起走回家。他把零食分给我，所以我也分给他。我们在同一个班，我很高兴。",
+  "full_passage_pinyin": "wǒ yǒu yí gè péng yǒu， tā jiào tāng mǔ。 wǒ men zài tóng yī gè bān。 tāng mǔ huì hěn shàn liáng， tā shì gè hǎo péng yǒu。 fàng xué hòu wǒ men tī zú qiú。 wǒ men è le jiù fēn xiǎng líng shí。 tā de míng zì hěn jiǎn dān， wǒ xǐ huān jiào tā。 wǒ men zài xué xiào zuò tóng yī pái。 hǎo péng yǒu huì tīng， yě huì děng。 tī wán zú qiú， tāng mǔ hé wǒ yì qǐ zǒu huí jiā。 tā bǎ líng shí fēn gěi wǒ， suǒ yǐ wǒ yě fēn gěi tā。 wǒ men zài tóng yī gè bān， wǒ hěn gāo xìng。"
 }

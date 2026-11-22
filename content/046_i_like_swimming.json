@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "swim",
-      "ko": "수영하다"
+      "ko": "수영하다",
+      "zh": "游泳",
+      "py": "yóu yǒng"
     },
     {
       "en": "pool",
-      "ko": "수영장"
+      "ko": "수영장",
+      "zh": "游泳池",
+      "py": "yóu yǒng chí"
     },
     {
       "en": "cap",
-      "ko": "수모"
+      "ko": "수모",
+      "zh": "泳帽",
+      "py": "yǒng mào"
     },
     {
       "en": "water",
-      "ko": "물"
+      "ko": "물",
+      "zh": "水",
+      "py": "shuǐ"
     },
     {
       "en": "cool",
-      "ko": "시원한"
+      "ko": "시원한",
+      "zh": "凉快",
+      "py": "liáng kuài"
     },
     {
       "en": "kick",
-      "ko": "발차기하다"
+      "ko": "발차기하다",
+      "zh": "踢水",
+      "py": "tī shuǐ"
     },
     {
       "en": "float",
-      "ko": "뜨다"
+      "ko": "뜨다",
+      "zh": "浮",
+      "py": "fú"
     },
     {
       "en": "coach",
-      "ko": "코치"
+      "ko": "코치",
+      "zh": "教练",
+      "py": "jiào liàn"
     },
     {
       "en": "summer",
-      "ko": "여름"
+      "ko": "여름",
+      "zh": "夏天",
+      "py": "xià tiān"
     },
     {
       "en": "strong",
-      "ko": "튼튼한"
+      "ko": "튼튼한",
+      "zh": "强壮",
+      "py": "qiáng zhuàng"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "swim",
         "pool"
-      ]
+      ],
+      "zh": "我喜欢游泳，我去游泳池。",
+      "py": "wǒ xǐ huān yóu yǒng， wǒ qù yóu yǒng chí。"
     },
     {
       "en": "I wear a cap.",
       "ko": "나는 수모를 써요.",
       "highlights": [
         "cap"
-      ]
+      ],
+      "zh": "我戴泳帽。",
+      "py": "wǒ dài yǒng mào。"
     },
     {
       "en": "The water is cool.",
@@ -83,7 +107,9 @@
       "highlights": [
         "water",
         "cool"
-      ]
+      ],
+      "zh": "池水很凉快。",
+      "py": "chí shuǐ hěn liáng kuài。"
     },
     {
       "en": "I kick, and I float.",
@@ -91,14 +117,18 @@
       "highlights": [
         "kick",
         "float"
-      ]
+      ],
+      "zh": "我踢水，也浮起来。",
+      "py": "wǒ tī shuǐ， yě fú qǐ lái。"
     },
     {
       "en": "My coach helps me.",
       "ko": "코치가 나를 도와요.",
       "highlights": [
         "coach"
-      ]
+      ],
+      "zh": "教练帮助我。",
+      "py": "jiào liàn bāng zhù wǒ。"
     },
     {
       "en": "I swim in summer, and swimming makes me strong.",
@@ -107,21 +137,27 @@
         "swim",
         "summer",
         "strong"
-      ]
+      ],
+      "zh": "我在夏天游泳，游泳让我变得强壮。",
+      "py": "wǒ zài xià tiān yóu yǒng， yóu yǒng ràng wǒ biàn de qiáng zhuàng。"
     },
     {
       "en": "The pool is busy on Saturday.",
       "ko": "토요일에는 수영장이 붐벼요.",
       "highlights": [
         "pool"
-      ]
+      ],
+      "zh": "星期六游泳池很热闹。",
+      "py": "xīng qī liù yóu yǒng chí hěn rè nào。"
     },
     {
       "en": "A cap keeps my hair dry.",
       "ko": "수모는 내 머리를 젖지 않게 해요.",
       "highlights": [
         "cap"
-      ]
+      ],
+      "zh": "泳帽让我的头发不湿。",
+      "py": "yǒng mào ràng wǒ de tóu fa bù shī。"
     },
     {
       "en": "Cool water feels good on a hot day.",
@@ -129,7 +165,9 @@
       "highlights": [
         "water",
         "cool"
-      ]
+      ],
+      "zh": "热天里，凉快的水感觉很好。",
+      "py": "rè tiān lǐ， liáng kuài de shuǐ gǎn jué hěn hǎo。"
     },
     {
       "en": "I kick hard, and then I float and rest.",
@@ -137,7 +175,9 @@
       "highlights": [
         "kick",
         "float"
-      ]
+      ],
+      "zh": "我用力踢水，然后浮在水上休息。",
+      "py": "wǒ yòng lì tī shuǐ， rán hòu fú zài shuǐ shàng xiū xī。"
     },
     {
       "en": "My coach says a strong swimmer practices often.",
@@ -145,7 +185,9 @@
       "highlights": [
         "coach",
         "strong"
-      ]
+      ],
+      "zh": "教练说，强壮的游泳者要常常练习。",
+      "py": "jiào liàn shuō， qiáng zhuàng de yóu yǒng zhě yào cháng cháng liàn xí。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I like to swim, and I go to the pool. I wear a cap. The water is cool. I kick, and I float. My coach helps me. I swim in summer, and swimming makes me strong. The pool is busy on Saturday. A cap keeps my hair dry. Cool water feels good on a hot day. I kick hard, and then I float and rest. My coach says a strong swimmer practices often."
+  "full_passage_spoken": "I like to swim, and I go to the pool. I wear a cap. The water is cool. I kick, and I float. My coach helps me. I swim in summer, and swimming makes me strong. The pool is busy on Saturday. A cap keeps my hair dry. Cool water feels good on a hot day. I kick hard, and then I float and rest. My coach says a strong swimmer practices often.",
+  "topic_zh": "我喜欢游泳",
+  "topic_pinyin": "wǒ xǐ huān yóu yǒng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我喜欢游泳，我去游泳池。我戴泳帽。池水很凉快。我踢水，也浮起来。教练帮助我。我在夏天游泳，游泳让我变得强壮。星期六游泳池很热闹。泳帽让我的头发不湿。热天里，凉快的水感觉很好。我用力踢水，然后浮在水上休息。教练说，强壮的游泳者要常常练习。",
+  "full_passage_pinyin": "wǒ xǐ huān yóu yǒng， wǒ qù yóu yǒng chí。 wǒ dài yǒng mào。 chí shuǐ hěn liáng kuài。 wǒ tī shuǐ， yě fú qǐ lái。 jiào liàn bāng zhù wǒ。 wǒ zài xià tiān yóu yǒng， yóu yǒng ràng wǒ biàn de qiáng zhuàng。 xīng qī liù yóu yǒng chí hěn rè nào。 yǒng mào ràng wǒ de tóu fa bù shī。 rè tiān lǐ， liáng kuài de shuǐ gǎn jué hěn hǎo。 wǒ yòng lì tī shuǐ， rán hòu fú zài shuǐ shàng xiū xī。 jiào liàn shuō， qiáng zhuàng de yóu yǒng zhě yào cháng cháng liàn xí。"
 }

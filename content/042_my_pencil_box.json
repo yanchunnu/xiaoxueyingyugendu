@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "pencil box",
-      "ko": "필통"
+      "ko": "필통",
+      "zh": "铅笔盒",
+      "py": "qiān bǐ hé"
     },
     {
       "en": "open",
-      "ko": "열다"
+      "ko": "열다",
+      "zh": "打开",
+      "py": "dǎ kāi"
     },
     {
       "en": "pencil",
-      "ko": "연필"
+      "ko": "연필",
+      "zh": "铅笔",
+      "py": "qiān bǐ"
     },
     {
       "en": "eraser",
-      "ko": "지우개"
+      "ko": "지우개",
+      "zh": "橡皮",
+      "py": "xiàng pí"
     },
     {
       "en": "ruler",
-      "ko": "자"
+      "ko": "자",
+      "zh": "尺子",
+      "py": "chǐ zi"
     },
     {
       "en": "crayon",
-      "ko": "크레용"
+      "ko": "크레용",
+      "zh": "蜡笔",
+      "py": "là bǐ"
     },
     {
       "en": "tidy",
-      "ko": "정돈된"
+      "ko": "정돈된",
+      "zh": "整齐",
+      "py": "zhěng qí"
     },
     {
       "en": "sharp",
-      "ko": "뾰족한"
+      "ko": "뾰족한",
+      "zh": "尖",
+      "py": "jiān"
     },
     {
       "en": "ready",
-      "ko": "준비된"
+      "ko": "준비된",
+      "zh": "准备好",
+      "py": "zhǔn bèi hǎo"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     }
   ],
   "phrases": [
@@ -70,14 +90,18 @@
         "open",
         "pencil",
         "school"
-      ]
+      ],
+      "zh": "这是我的铅笔盒，我在学校打开它。",
+      "py": "zhè shì wǒ de qiān bǐ hé， wǒ zài xué xiào dǎ kāi tā。"
     },
     {
       "en": "I have two pencils.",
       "ko": "연필이 두 자루 있어요.",
       "highlights": [
         "pencil"
-      ]
+      ],
+      "zh": "我有两支铅笔。",
+      "py": "wǒ yǒu liǎng zhī qiān bǐ。"
     },
     {
       "en": "I have an eraser and a ruler.",
@@ -85,14 +109,18 @@
       "highlights": [
         "eraser",
         "ruler"
-      ]
+      ],
+      "zh": "我有一块橡皮和一把尺子。",
+      "py": "wǒ yǒu yī kuài xiàng pí hé yī bǎ chǐ zi。"
     },
     {
       "en": "I have a crayon.",
       "ko": "크레용이 있어요.",
       "highlights": [
         "crayon"
-      ]
+      ],
+      "zh": "我有一支蜡笔。",
+      "py": "wǒ yǒu yī zhī là bǐ。"
     },
     {
       "en": "I keep them tidy, and my pencil is sharp.",
@@ -101,7 +129,9 @@
         "pencil",
         "tidy",
         "sharp"
-      ]
+      ],
+      "zh": "我把它们放整齐，铅笔也很尖。",
+      "py": "wǒ bǎ tā men fàng zhěng qí， qiān bǐ yě hěn jiān。"
     },
     {
       "en": "My pencil box is ready.",
@@ -110,28 +140,36 @@
         "pencil box",
         "pencil",
         "ready"
-      ]
+      ],
+      "zh": "我的铅笔盒准备好了。",
+      "py": "wǒ de qiān bǐ hé zhǔn bèi hǎo le。"
     },
     {
       "en": "I open it when class begins.",
       "ko": "수업이 시작되면 나는 필통을 열어요.",
       "highlights": [
         "open"
-      ]
+      ],
+      "zh": "上课的时候我打开它。",
+      "py": "shàng kè de shí hòu wǒ dǎ kāi tā。"
     },
     {
       "en": "The ruler helps me draw a straight line.",
       "ko": "자는 내가 곧은 선을 그리도록 도와줘요.",
       "highlights": [
         "ruler"
-      ]
+      ],
+      "zh": "尺子帮助我画一条直线。",
+      "py": "chǐ zi bāng zhù wǒ huà yī tiáo zhí xiàn。"
     },
     {
       "en": "A tidy box is easy to use.",
       "ko": "정돈된 필통은 사용하기 쉬워요.",
       "highlights": [
         "tidy"
-      ]
+      ],
+      "zh": "整齐的盒子用起来很方便。",
+      "py": "zhěng qí de hé zi yòng qǐ lái hěn fāng biàn。"
     },
     {
       "en": "I sharpen the pencil so it is ready.",
@@ -139,7 +177,9 @@
       "highlights": [
         "pencil",
         "ready"
-      ]
+      ],
+      "zh": "我把铅笔削尖，这样它就准备好了。",
+      "py": "wǒ bǎ qiān bǐ xuē jiān， zhè yàng tā jiù zhǔn bèi hǎo le。"
     },
     {
       "en": "Every school morning I check my pencil box.",
@@ -148,7 +188,9 @@
         "pencil box",
         "pencil",
         "school"
-      ]
+      ],
+      "zh": "每个上学的早晨，我都检查铅笔盒。",
+      "py": "měi gè shàng xué de zǎo chén， wǒ dōu jiǎn chá qiān bǐ hé。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is my pencil box, and I open it at school. I have two pencils. I have an eraser and a ruler. I have a crayon. I keep them tidy, and my pencil is sharp. My pencil box is ready. I open it when class begins. The ruler helps me draw a straight line. A tidy box is easy to use. I sharpen the pencil so it is ready. Every school morning I check my pencil box."
+  "full_passage_spoken": "This is my pencil box, and I open it at school. I have two pencils. I have an eraser and a ruler. I have a crayon. I keep them tidy, and my pencil is sharp. My pencil box is ready. I open it when class begins. The ruler helps me draw a straight line. A tidy box is easy to use. I sharpen the pencil so it is ready. Every school morning I check my pencil box.",
+  "topic_zh": "我的铅笔盒",
+  "topic_pinyin": "wǒ de qiān bǐ hé",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的铅笔盒，我在学校打开它。我有两支铅笔。我有一块橡皮和一把尺子。我有一支蜡笔。我把它们放整齐，铅笔也很尖。我的铅笔盒准备好了。上课的时候我打开它。尺子帮助我画一条直线。整齐的盒子用起来很方便。我把铅笔削尖，这样它就准备好了。每个上学的早晨，我都检查铅笔盒。",
+  "full_passage_pinyin": "zhè shì wǒ de qiān bǐ hé， wǒ zài xué xiào dǎ kāi tā。 wǒ yǒu liǎng zhī qiān bǐ。 wǒ yǒu yī kuài xiàng pí hé yī bǎ chǐ zi。 wǒ yǒu yī zhī là bǐ。 wǒ bǎ tā men fàng zhěng qí， qiān bǐ yě hěn jiān。 wǒ de qiān bǐ hé zhǔn bèi hǎo le。 shàng kè de shí hòu wǒ dǎ kāi tā。 chǐ zi bāng zhù wǒ huà yī tiáo zhí xiàn。 zhěng qí de hé zi yòng qǐ lái hěn fāng biàn。 wǒ bǎ qiān bǐ xuē jiān， zhè yàng tā jiù zhǔn bèi hǎo le。 měi gè shàng xué de zǎo chén， wǒ dōu jiǎn chá qiān bǐ hé。"
 }

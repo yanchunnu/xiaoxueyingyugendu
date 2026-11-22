@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "love",
-      "ko": "좋아하다"
+      "ko": "좋아하다",
+      "zh": "爱",
+      "py": "ài"
     },
     {
       "en": "sport",
-      "ko": "운동"
+      "ko": "운동",
+      "zh": "运动",
+      "py": "yùn dòng"
     },
     {
       "en": "run",
-      "ko": "달리다"
+      "ko": "달리다",
+      "zh": "跑",
+      "py": "pǎo"
     },
     {
       "en": "jump",
-      "ko": "뛰다"
+      "ko": "뛰다",
+      "zh": "跳",
+      "py": "tiào"
     },
     {
       "en": "ball",
-      "ko": "공"
+      "ko": "공",
+      "zh": "球",
+      "py": "qiú"
     },
     {
       "en": "team",
-      "ko": "팀"
+      "ko": "팀",
+      "zh": "队",
+      "py": "duì"
     },
     {
       "en": "sweat",
-      "ko": "땀"
+      "ko": "땀",
+      "zh": "出汗",
+      "py": "chū hàn"
     },
     {
       "en": "heart",
-      "ko": "심장"
+      "ko": "심장",
+      "zh": "心脏",
+      "py": "xīn zàng"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     },
     {
       "en": "week",
-      "ko": "주"
+      "ko": "주",
+      "zh": "星期",
+      "py": "xīng qī"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "love",
         "sport"
-      ]
+      ],
+      "zh": "我爱这项运动。",
+      "py": "wǒ ài zhè xiàng yùn dòng。"
     },
     {
       "en": "I run and jump.",
@@ -76,7 +98,9 @@
       "highlights": [
         "run",
         "jump"
-      ]
+      ],
+      "zh": "我跑，也跳。",
+      "py": "wǒ pǎo， yě tiào。"
     },
     {
       "en": "I play ball with a team.",
@@ -84,42 +108,54 @@
       "highlights": [
         "ball",
         "team"
-      ]
+      ],
+      "zh": "我和一个队一起玩球。",
+      "py": "wǒ hé yí gè duì yì qǐ wán qiú。"
     },
     {
       "en": "I sweat a little.",
       "ko": "나는 땀을 조금 흘려요.",
       "highlights": [
         "sweat"
-      ]
+      ],
+      "zh": "我出一点汗。",
+      "py": "wǒ chū yì diǎn hàn。"
     },
     {
       "en": "My heart beats fast.",
       "ko": "나의 심장이 빨리 뛰어요.",
       "highlights": [
         "heart"
-      ]
+      ],
+      "zh": "我的心脏跳得很快。",
+      "py": "wǒ de xīn zàng tiào de hěn kuài。"
     },
     {
       "en": "Then I feel happy.",
       "ko": "그러면 나는 행복해져요.",
       "highlights": [
         "happy"
-      ]
+      ],
+      "zh": "然后我感到快乐。",
+      "py": "rán hòu wǒ gǎn dào kuài lè。"
     },
     {
       "en": "Sports help me grow.",
       "ko": "운동은 내가 자라도록 도와요.",
       "highlights": [
         "sport"
-      ]
+      ],
+      "zh": "运动帮助我成长。",
+      "py": "yùn dòng bāng zhù wǒ chéng zhǎng。"
     },
     {
       "en": "I play every week.",
       "ko": "나는 매주 운동해요.",
       "highlights": [
         "week"
-      ]
+      ],
+      "zh": "我每个星期都玩。",
+      "py": "wǒ měi gè xīng qī dōu wán。"
     },
     {
       "en": "I love to run, jump, and play ball.",
@@ -129,7 +165,9 @@
         "run",
         "jump",
         "ball"
-      ]
+      ],
+      "zh": "我爱跑，爱跳，也爱玩球。",
+      "py": "wǒ ài pǎo， ài tiào， yě ài wán qiú。"
     },
     {
       "en": "A little sweat means my heart is working.",
@@ -137,7 +175,9 @@
       "highlights": [
         "sweat",
         "heart"
-      ]
+      ],
+      "zh": "出一点汗，说明我的心脏在工作。",
+      "py": "chū yì diǎn hàn， shuō míng wǒ de xīn zàng zài gōng zuò。"
     },
     {
       "en": "Every week this sport makes me happy.",
@@ -146,7 +186,9 @@
         "sport",
         "happy",
         "week"
-      ]
+      ],
+      "zh": "每个星期，这项运动都让我快乐。",
+      "py": "měi gè xīng qī， zhè xiàng yùn dòng dōu ràng wǒ kuài lè。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I love this sport. I run and jump. I play ball with a team. I sweat a little. My heart beats fast. Then I feel happy. Sports help me grow. I play every week. I love to run, jump, and play ball. A little sweat means my heart is working. Every week this sport makes me happy."
+  "full_passage_spoken": "I love this sport. I run and jump. I play ball with a team. I sweat a little. My heart beats fast. Then I feel happy. Sports help me grow. I play every week. I love to run, jump, and play ball. A little sweat means my heart is working. Every week this sport makes me happy.",
+  "topic_zh": "我爱运动",
+  "topic_pinyin": "wǒ ài yùn dòng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我爱这项运动。我跑，也跳。我和一个队一起玩球。我出一点汗。我的心脏跳得很快。然后我感到快乐。运动帮助我成长。我每个星期都玩。我爱跑，爱跳，也爱玩球。出一点汗，说明我的心脏在工作。每个星期，这项运动都让我快乐。",
+  "full_passage_pinyin": "wǒ ài zhè xiàng yùn dòng。 wǒ pǎo， yě tiào。 wǒ hé yí gè duì yì qǐ wán qiú。 wǒ chū yì diǎn hàn。 wǒ de xīn zàng tiào de hěn kuài。 rán hòu wǒ gǎn dào kuài lè。 yùn dòng bāng zhù wǒ chéng zhǎng。 wǒ měi gè xīng qī dōu wán。 wǒ ài pǎo， ài tiào， yě ài wán qiú。 chū yì diǎn hàn， shuō míng wǒ de xīn zàng zài gōng zuò。 měi gè xīng qī， zhè xiàng yùn dòng dōu ràng wǒ kuài lè。"
 }

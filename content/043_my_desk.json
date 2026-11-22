@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "desk",
-      "ko": "책상"
+      "ko": "책상",
+      "zh": "书桌",
+      "py": "shū zhuō"
     },
     {
       "en": "window",
-      "ko": "창문"
+      "ko": "창문",
+      "zh": "窗户",
+      "py": "chuāng hù"
     },
     {
       "en": "lamp",
-      "ko": "전등"
+      "ko": "전등",
+      "zh": "灯",
+      "py": "dēng"
     },
     {
       "en": "clock",
-      "ko": "시계"
+      "ko": "시계",
+      "zh": "钟",
+      "py": "zhōng"
     },
     {
       "en": "homework",
-      "ko": "숙제"
+      "ko": "숙제",
+      "zh": "作业",
+      "py": "zuò yè"
     },
     {
       "en": "clean",
-      "ko": "깨끗한"
+      "ko": "깨끗한",
+      "zh": "干净",
+      "py": "gān jìng"
     },
     {
       "en": "drawer",
-      "ko": "서랍"
+      "ko": "서랍",
+      "zh": "抽屉",
+      "py": "chōu tì"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "study",
-      "ko": "공부하다"
+      "ko": "공부하다",
+      "zh": "学习",
+      "py": "xué xí"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "desk",
         "window"
-      ]
+      ],
+      "zh": "我的书桌在窗户旁边。",
+      "py": "wǒ de shū zhuō zài chuāng hù páng biān。"
     },
     {
       "en": "A lamp and a clock are on it.",
@@ -76,14 +98,18 @@
       "highlights": [
         "lamp",
         "clock"
-      ]
+      ],
+      "zh": "上面有一盏灯和一个钟。",
+      "py": "shàng miàn yǒu yī zhǎn dēng hé yí gè zhōng。"
     },
     {
       "en": "I do my homework there.",
       "ko": "나는 거기서 숙제를 해요.",
       "highlights": [
         "homework"
-      ]
+      ],
+      "zh": "我在那里做作业。",
+      "py": "wǒ zài nà lǐ zuò zuò yè。"
     },
     {
       "en": "I keep my desk clean.",
@@ -91,7 +117,9 @@
       "highlights": [
         "desk",
         "clean"
-      ]
+      ],
+      "zh": "我让书桌保持干净。",
+      "py": "wǒ ràng shū zhuō bǎo chí gān jìng。"
     },
     {
       "en": "My book is in the drawer.",
@@ -99,7 +127,9 @@
       "highlights": [
         "drawer",
         "book"
-      ]
+      ],
+      "zh": "我的书在抽屉里。",
+      "py": "wǒ de shū zài chōu tì lǐ。"
     },
     {
       "en": "The room is quiet, and I study at my desk.",
@@ -108,21 +138,27 @@
         "desk",
         "quiet",
         "study"
-      ]
+      ],
+      "zh": "房间很安静，我在书桌前学习。",
+      "py": "fáng jiān hěn ān jìng， wǒ zài shū zhuō qián xué xí。"
     },
     {
       "en": "The lamp is on when the evening is dark.",
       "ko": "저녁이 어두우면 전등이 켜져 있어요.",
       "highlights": [
         "lamp"
-      ]
+      ],
+      "zh": "晚上天黑的时候，灯是开着的。",
+      "py": "wǎn shàng tiān hēi de shí hòu， dēng shì kāi zhe de。"
     },
     {
       "en": "The clock helps me finish on time.",
       "ko": "시계는 내가 제시간에 끝내도록 도와요.",
       "highlights": [
         "clock"
-      ]
+      ],
+      "zh": "钟帮助我按时做完。",
+      "py": "zhōng bāng zhù wǒ àn shí zuò wán。"
     },
     {
       "en": "A clean desk makes homework easier.",
@@ -131,7 +167,9 @@
         "desk",
         "homework",
         "clean"
-      ]
+      ],
+      "zh": "干净的书桌让作业更容易。",
+      "py": "gān jìng de shū zhuō ràng zuò yè gèng róng yì。"
     },
     {
       "en": "I put the book back in the drawer.",
@@ -139,7 +177,9 @@
       "highlights": [
         "drawer",
         "book"
-      ]
+      ],
+      "zh": "我把书放回抽屉。",
+      "py": "wǒ bǎ shū fàng huí chōu tì。"
     },
     {
       "en": "I like to study there because the room is quiet.",
@@ -147,7 +187,9 @@
       "highlights": [
         "quiet",
         "study"
-      ]
+      ],
+      "zh": "房间很安静，所以我喜欢在那里学习。",
+      "py": "fáng jiān hěn ān jìng， suǒ yǐ wǒ xǐ huān zài nà lǐ xué xí。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My desk is by the window. A lamp and a clock are on it. I do my homework there. I keep my desk clean. My book is in the drawer. The room is quiet, and I study at my desk. The lamp is on when the evening is dark. The clock helps me finish on time. A clean desk makes homework easier. I put the book back in the drawer. I like to study there because the room is quiet."
+  "full_passage_spoken": "My desk is by the window. A lamp and a clock are on it. I do my homework there. I keep my desk clean. My book is in the drawer. The room is quiet, and I study at my desk. The lamp is on when the evening is dark. The clock helps me finish on time. A clean desk makes homework easier. I put the book back in the drawer. I like to study there because the room is quiet.",
+  "topic_zh": "我的书桌",
+  "topic_pinyin": "wǒ de shū zhuō",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的书桌在窗户旁边。上面有一盏灯和一个钟。我在那里做作业。我让书桌保持干净。我的书在抽屉里。房间很安静，我在书桌前学习。晚上天黑的时候，灯是开着的。钟帮助我按时做完。干净的书桌让作业更容易。我把书放回抽屉。房间很安静，所以我喜欢在那里学习。",
+  "full_passage_pinyin": "wǒ de shū zhuō zài chuāng hù páng biān。 shàng miàn yǒu yī zhǎn dēng hé yí gè zhōng。 wǒ zài nà lǐ zuò zuò yè。 wǒ ràng shū zhuō bǎo chí gān jìng。 wǒ de shū zài chōu tì lǐ。 fáng jiān hěn ān jìng， wǒ zài shū zhuō qián xué xí。 wǎn shàng tiān hēi de shí hòu， dēng shì kāi zhe de。 zhōng bāng zhù wǒ àn shí zuò wán。 gān jìng de shū zhuō ràng zuò yè gèng róng yì。 wǒ bǎ shū fàng huí chōu tì。 fáng jiān hěn ān jìng， suǒ yǐ wǒ xǐ huān zài nà lǐ xué xí。"
 }

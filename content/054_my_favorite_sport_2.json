@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "jump rope",
-      "ko": "줄넘기"
+      "ko": "줄넘기",
+      "zh": "跳绳",
+      "py": "tiào shéng"
     },
     {
       "en": "jump",
-      "ko": "뛰다"
+      "ko": "뛰다",
+      "zh": "跳",
+      "py": "tiào"
     },
     {
       "en": "rope",
-      "ko": "줄"
+      "ko": "줄",
+      "zh": "绳子",
+      "py": "shéng zi"
     },
     {
       "en": "count",
-      "ko": "세다"
+      "ko": "세다",
+      "zh": "数一数",
+      "py": "shǔ yī shǔ"
     },
     {
       "en": "fast",
-      "ko": "빨리"
+      "ko": "빨리",
+      "zh": "快",
+      "py": "kuài"
     },
     {
       "en": "gym",
-      "ko": "체육"
+      "ko": "체육",
+      "zh": "体育",
+      "py": "tǐ yù"
     },
     {
       "en": "class",
-      "ko": "수업"
+      "ko": "수업",
+      "zh": "课",
+      "py": "kè"
     },
     {
       "en": "turn",
-      "ko": "차례"
+      "ko": "차례",
+      "zh": "轮到",
+      "py": "lún dào"
     },
     {
       "en": "strong",
-      "ko": "튼튼한"
+      "ko": "튼튼한",
+      "zh": "强壮",
+      "py": "qiáng zhuàng"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "jump rope",
         "jump",
         "rope"
-      ]
+      ],
+      "zh": "我也喜欢跳绳。",
+      "py": "wǒ yě xǐ huān tiào shéng。"
     },
     {
       "en": "I jump with a rope, and I count my jumps.",
@@ -78,7 +100,9 @@
         "jump",
         "rope",
         "count"
-      ]
+      ],
+      "zh": "我拿着绳子跳，还数自己跳了多少下。",
+      "py": "wǒ ná zhe shéng zi tiào， hái shǔ zì jǐ tiào le duō shǎo xià。"
     },
     {
       "en": "I try to jump fast.",
@@ -86,7 +110,9 @@
       "highlights": [
         "jump",
         "fast"
-      ]
+      ],
+      "zh": "我试着跳得快。",
+      "py": "wǒ shì zhe tiào de kuài。"
     },
     {
       "en": "We do it in gym class.",
@@ -94,14 +120,18 @@
       "highlights": [
         "gym",
         "class"
-      ]
+      ],
+      "zh": "我们在体育课上跳绳。",
+      "py": "wǒ men zài tǐ yù kè shàng tiào shéng。"
     },
     {
       "en": "I wait for my turn.",
       "ko": "나는 내 차례를 기다려요.",
       "highlights": [
         "turn"
-      ]
+      ],
+      "zh": "我等着轮到我。",
+      "py": "wǒ děng zhe lún dào wǒ。"
     },
     {
       "en": "Jump rope makes me strong, and it is fun.",
@@ -112,14 +142,18 @@
         "rope",
         "strong",
         "fun"
-      ]
+      ],
+      "zh": "跳绳让我强壮，也很有趣。",
+      "py": "tiào shéng ràng wǒ qiáng zhuàng， yě hěn yǒu qù。"
     },
     {
       "en": "I count to twenty and then I rest.",
       "ko": "나는 스무 개까지 세고 나서 쉬어요.",
       "highlights": [
         "count"
-      ]
+      ],
+      "zh": "我数到二十，然后休息。",
+      "py": "wǒ shǔ dào èr shí， rán hòu xiū xī。"
     },
     {
       "en": "A fast jump is hard, so I start slowly.",
@@ -127,7 +161,9 @@
       "highlights": [
         "jump",
         "fast"
-      ]
+      ],
+      "zh": "跳得快很难，所以我先慢慢开始。",
+      "py": "tiào de kuài hěn nán， suǒ yǐ wǒ xiān màn màn kāi shǐ。"
     },
     {
       "en": "In gym class we each take a turn.",
@@ -136,7 +172,9 @@
         "gym",
         "class",
         "turn"
-      ]
+      ],
+      "zh": "体育课上我们每个人都轮一次。",
+      "py": "tǐ yù kè shàng wǒ men měi gè rén dōu lún yī cì。"
     },
     {
       "en": "I feel strong after this fun class.",
@@ -145,7 +183,9 @@
         "class",
         "strong",
         "fun"
-      ]
+      ],
+      "zh": "上完这节有趣的课，我觉得自己很强壮。",
+      "py": "shàng wán zhè jié yǒu qù de kè， wǒ jué de zì jǐ hěn qiáng zhuàng。"
     },
     {
       "en": "I like jump rope because I can do it anywhere.",
@@ -154,7 +194,9 @@
         "jump rope",
         "jump",
         "rope"
-      ]
+      ],
+      "zh": "跳绳在哪里都能做，所以我喜欢它。",
+      "py": "tiào shéng zài nǎ li dōu néng zuò， suǒ yǐ wǒ xǐ huān tā。"
     }
   ],
   "full_passage_lines": [
@@ -253,5 +295,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I also like jump rope. I jump with a rope, and I count my jumps. I try to jump fast. We do it in gym class. I wait for my turn. Jump rope makes me strong, and it is fun. I count to twenty and then I rest. A fast jump is hard, so I start slowly. In gym class we each take a turn. I feel strong after this fun class. I like jump rope because I can do it anywhere."
+  "full_passage_spoken": "I also like jump rope. I jump with a rope, and I count my jumps. I try to jump fast. We do it in gym class. I wait for my turn. Jump rope makes me strong, and it is fun. I count to twenty and then I rest. A fast jump is hard, so I start slowly. In gym class we each take a turn. I feel strong after this fun class. I like jump rope because I can do it anywhere.",
+  "topic_zh": "我最喜欢的运动（二）",
+  "topic_pinyin": "wǒ zuì xǐ huān de yùn dòng（ èr）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我也喜欢跳绳。我拿着绳子跳，还数自己跳了多少下。我试着跳得快。我们在体育课上跳绳。我等着轮到我。跳绳让我强壮，也很有趣。我数到二十，然后休息。跳得快很难，所以我先慢慢开始。体育课上我们每个人都轮一次。上完这节有趣的课，我觉得自己很强壮。跳绳在哪里都能做，所以我喜欢它。",
+  "full_passage_pinyin": "wǒ yě xǐ huān tiào shéng。 wǒ ná zhe shéng zi tiào， hái shǔ zì jǐ tiào le duō shǎo xià。 wǒ shì zhe tiào de kuài。 wǒ men zài tǐ yù kè shàng tiào shéng。 wǒ děng zhe lún dào wǒ。 tiào shéng ràng wǒ qiáng zhuàng， yě hěn yǒu qù。 wǒ shǔ dào èr shí， rán hòu xiū xī。 tiào de kuài hěn nán， suǒ yǐ wǒ xiān màn màn kāi shǐ。 tǐ yù kè shàng wǒ men měi gè rén dōu lún yī cì。 shàng wán zhè jié yǒu qù de kè， wǒ jué de zì jǐ hěn qiáng zhuàng。 tiào shéng zài nǎ li dōu néng zuò， suǒ yǐ wǒ xǐ huān tā。"
 }

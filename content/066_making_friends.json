@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "make friends",
-      "ko": "친구를 사귀다"
+      "ko": "친구를 사귀다",
+      "zh": "交朋友",
+      "py": "jiāo péng yǒu"
     },
     {
       "en": "hello",
-      "ko": "안녕"
+      "ko": "안녕",
+      "zh": "你好",
+      "py": "nǐ hǎo"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "new",
-      "ko": "새로운"
+      "ko": "새로운",
+      "zh": "新",
+      "py": "xīn"
     },
     {
       "en": "student",
-      "ko": "학생"
+      "ko": "학생",
+      "zh": "学生",
+      "py": "xué shēng"
     },
     {
       "en": "shy",
-      "ko": "수줍은"
+      "ko": "수줍은",
+      "zh": "害羞",
+      "py": "hài xiū"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "share",
-      "ko": "나누다"
+      "ko": "나누다",
+      "zh": "分享",
+      "py": "fēn xiǎng"
     },
     {
       "en": "snack",
-      "ko": "간식"
+      "ko": "간식",
+      "zh": "零食",
+      "py": "líng shí"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "make friends",
         "friend"
-      ]
+      ],
+      "zh": "我可以交朋友。",
+      "py": "wǒ kě yǐ jiāo péng yǒu。"
     },
     {
       "en": "I say hello, and I give a smile.",
@@ -76,7 +98,9 @@
       "highlights": [
         "hello",
         "smile"
-      ]
+      ],
+      "zh": "我说你好，也送上一个微笑。",
+      "py": "wǒ shuō nǐ hǎo， yě sòng shàng yí gè wēi xiào。"
     },
     {
       "en": "I talk to a new student.",
@@ -84,7 +108,9 @@
       "highlights": [
         "new",
         "student"
-      ]
+      ],
+      "zh": "我和新同学说话。",
+      "py": "wǒ hé xīn tóng xué shuō huà。"
     },
     {
       "en": "I am a little shy, but I am still kind.",
@@ -92,7 +118,9 @@
       "highlights": [
         "shy",
         "kind"
-      ]
+      ],
+      "zh": "我有一点害羞，可是我仍然善良。",
+      "py": "wǒ yǒu yì diǎn hài xiū， kě shì wǒ réng rán shàn liáng。"
     },
     {
       "en": "I share a snack.",
@@ -100,7 +128,9 @@
       "highlights": [
         "share",
         "snack"
-      ]
+      ],
+      "zh": "我分享零食。",
+      "py": "wǒ fēn xiǎng líng shí。"
     },
     {
       "en": "Now I have a new friend.",
@@ -108,7 +138,9 @@
       "highlights": [
         "new",
         "friend"
-      ]
+      ],
+      "zh": "现在我有一个新朋友。",
+      "py": "xiàn zài wǒ yǒu yí gè xīn péng yǒu。"
     },
     {
       "en": "A shy student can still say hello.",
@@ -117,7 +149,9 @@
         "hello",
         "student",
         "shy"
-      ]
+      ],
+      "zh": "害羞的学生也可以说你好。",
+      "py": "hài xiū de xué shēng yě kě yǐ shuō nǐ hǎo。"
     },
     {
       "en": "A kind smile helps me make friends.",
@@ -127,7 +161,9 @@
         "smile",
         "kind",
         "friend"
-      ]
+      ],
+      "zh": "善良的微笑帮助我交朋友。",
+      "py": "shàn liáng de wēi xiào bāng zhù wǒ jiāo péng yǒu。"
     },
     {
       "en": "I share a snack, and we start to talk.",
@@ -135,7 +171,9 @@
       "highlights": [
         "share",
         "snack"
-      ]
+      ],
+      "zh": "我分享零食，然后我们开始说话。",
+      "py": "wǒ fēn xiǎng líng shí， rán hòu wǒ men kāi shǐ shuō huà。"
     },
     {
       "en": "The new student becomes a friend.",
@@ -144,14 +182,18 @@
         "new",
         "student",
         "friend"
-      ]
+      ],
+      "zh": "新同学变成了朋友。",
+      "py": "xīn tóng xué biàn chéng le péng yǒu。"
     },
     {
       "en": "Making friends is a skill I can practice.",
       "ko": "친구 사귀기는 내가 연습할 수 있는 힘이에요.",
       "highlights": [
         "friend"
-      ]
+      ],
+      "zh": "交朋友是我可以练习的本领。",
+      "py": "jiāo péng yǒu shì wǒ kě yǐ liàn xí de běn lǐng。"
     }
   ],
   "full_passage_lines": [
@@ -247,5 +289,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I can make friends. I say hello, and I give a smile. I talk to a new student. I am a little shy, but I am still kind. I share a snack. Now I have a new friend. A shy student can still say hello. A kind smile helps me make friends. I share a snack, and we start to talk. The new student becomes a friend. Making friends is a skill I can practice."
+  "full_passage_spoken": "I can make friends. I say hello, and I give a smile. I talk to a new student. I am a little shy, but I am still kind. I share a snack. Now I have a new friend. A shy student can still say hello. A kind smile helps me make friends. I share a snack, and we start to talk. The new student becomes a friend. Making friends is a skill I can practice.",
+  "topic_zh": "交朋友",
+  "topic_pinyin": "jiāo péng yǒu",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我可以交朋友。我说你好，也送上一个微笑。我和新同学说话。我有一点害羞，可是我仍然善良。我分享零食。现在我有一个新朋友。害羞的学生也可以说你好。善良的微笑帮助我交朋友。我分享零食，然后我们开始说话。新同学变成了朋友。交朋友是我可以练习的本领。",
+  "full_passage_pinyin": "wǒ kě yǐ jiāo péng yǒu。 wǒ shuō nǐ hǎo， yě sòng shàng yí gè wēi xiào。 wǒ hé xīn tóng xué shuō huà。 wǒ yǒu yì diǎn hài xiū， kě shì wǒ réng rán shàn liáng。 wǒ fēn xiǎng líng shí。 xiàn zài wǒ yǒu yí gè xīn péng yǒu。 hài xiū de xué shēng yě kě yǐ shuō nǐ hǎo。 shàn liáng de wēi xiào bāng zhù wǒ jiāo péng yǒu。 wǒ fēn xiǎng líng shí， rán hòu wǒ men kāi shǐ shuō huà。 xīn tóng xué biàn chéng le péng yǒu。 jiāo péng yǒu shì wǒ kě yǐ liàn xí de běn lǐng。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "color",
-      "ko": "색깔"
+      "ko": "색깔",
+      "zh": "颜色",
+      "py": "yán sè"
     },
     {
       "en": "blue",
-      "ko": "파란색"
+      "ko": "파란색",
+      "zh": "蓝色",
+      "py": "lán sè"
     },
     {
       "en": "sky",
-      "ko": "하늘"
+      "ko": "하늘",
+      "zh": "天空",
+      "py": "tiān kōng"
     },
     {
       "en": "sea",
-      "ko": "바다"
+      "ko": "바다",
+      "zh": "海",
+      "py": "hǎi"
     },
     {
       "en": "shirt",
-      "ko": "셔츠"
+      "ko": "셔츠",
+      "zh": "衬衫",
+      "py": "chèn shān"
     },
     {
       "en": "paint",
-      "ko": "물감"
+      "ko": "물감",
+      "zh": "颜料",
+      "py": "yán liào"
     },
     {
       "en": "bright",
-      "ko": "밝은"
+      "ko": "밝은",
+      "zh": "明亮",
+      "py": "míng liàng"
     },
     {
       "en": "pretty",
-      "ko": "예쁜"
+      "ko": "예쁜",
+      "zh": "漂亮",
+      "py": "piào liàng"
     },
     {
       "en": "day",
-      "ko": "하루"
+      "ko": "하루",
+      "zh": "一天",
+      "py": "yī tiān"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "favorite",
         "color",
         "blue"
-      ]
+      ],
+      "zh": "我最喜欢的颜色是蓝色。",
+      "py": "wǒ zuì xǐ huān de yán sè shì lán sè。"
     },
     {
       "en": "The sky is blue, and the sea is blue too.",
@@ -78,7 +100,9 @@
         "blue",
         "sky",
         "sea"
-      ]
+      ],
+      "zh": "天空是蓝色的，海也是蓝色的。",
+      "py": "tiān kōng shì lán sè de， hǎi yě shì lán sè de。"
     },
     {
       "en": "I have a blue shirt.",
@@ -86,7 +110,9 @@
       "highlights": [
         "blue",
         "shirt"
-      ]
+      ],
+      "zh": "我有一件蓝色衬衫。",
+      "py": "wǒ yǒu yī jiàn lán sè chèn shān。"
     },
     {
       "en": "I use blue paint.",
@@ -94,7 +120,9 @@
       "highlights": [
         "blue",
         "paint"
-      ]
+      ],
+      "zh": "我用蓝色颜料。",
+      "py": "wǒ yòng lán sè yán liào。"
     },
     {
       "en": "Blue is bright and pretty.",
@@ -103,7 +131,9 @@
         "blue",
         "bright",
         "pretty"
-      ]
+      ],
+      "zh": "蓝色又明亮又漂亮。",
+      "py": "lán sè yòu míng liàng yòu piào liàng。"
     },
     {
       "en": "I see blue all day.",
@@ -111,7 +141,9 @@
       "highlights": [
         "blue",
         "day"
-      ]
+      ],
+      "zh": "我一整天都能看见蓝色。",
+      "py": "wǒ yī zhěng tiān dōu néng kàn jiàn lán sè。"
     },
     {
       "en": "This color is my favorite because it feels calm.",
@@ -119,7 +151,9 @@
       "highlights": [
         "favorite",
         "color"
-      ]
+      ],
+      "zh": "这个颜色让我平静，所以它是我最喜欢的。",
+      "py": "zhè ge yán sè ràng wǒ píng jìng， suǒ yǐ tā shì wǒ zuì xǐ huān de。"
     },
     {
       "en": "My shirt is blue on Monday.",
@@ -127,7 +161,9 @@
       "highlights": [
         "blue",
         "shirt"
-      ]
+      ],
+      "zh": "星期一我的衬衫是蓝色的。",
+      "py": "xīng qī yī wǒ de chèn shān shì lán sè de。"
     },
     {
       "en": "I paint the sky with blue paint.",
@@ -136,7 +172,9 @@
         "blue",
         "sky",
         "paint"
-      ]
+      ],
+      "zh": "我用蓝色颜料画天空。",
+      "py": "wǒ yòng lán sè yán liào huà tiān kōng。"
     },
     {
       "en": "A bright blue day is pretty.",
@@ -146,7 +184,9 @@
         "bright",
         "pretty",
         "day"
-      ]
+      ],
+      "zh": "明亮的蓝色一天很漂亮。",
+      "py": "míng liàng de lán sè yī tiān hěn piào liàng。"
     },
     {
       "en": "I look for this color every day.",
@@ -154,7 +194,9 @@
       "highlights": [
         "color",
         "day"
-      ]
+      ],
+      "zh": "我每天都寻找这个颜色。",
+      "py": "wǒ měi tiān dōu xún zhǎo zhè ge yán sè。"
     }
   ],
   "full_passage_lines": [
@@ -253,5 +295,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite color is blue. The sky is blue, and the sea is blue too. I have a blue shirt. I use blue paint. Blue is bright and pretty. I see blue all day. This color is my favorite because it feels calm. My shirt is blue on Monday. I paint the sky with blue paint. A bright blue day is pretty. I look for this color every day."
+  "full_passage_spoken": "My favorite color is blue. The sky is blue, and the sea is blue too. I have a blue shirt. I use blue paint. Blue is bright and pretty. I see blue all day. This color is my favorite because it feels calm. My shirt is blue on Monday. I paint the sky with blue paint. A bright blue day is pretty. I look for this color every day.",
+  "topic_zh": "我最喜欢的颜色",
+  "topic_pinyin": "wǒ zuì xǐ huān de yán sè",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的颜色是蓝色。天空是蓝色的，海也是蓝色的。我有一件蓝色衬衫。我用蓝色颜料。蓝色又明亮又漂亮。我一整天都能看见蓝色。这个颜色让我平静，所以它是我最喜欢的。星期一我的衬衫是蓝色的。我用蓝色颜料画天空。明亮的蓝色一天很漂亮。我每天都寻找这个颜色。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de yán sè shì lán sè。 tiān kōng shì lán sè de， hǎi yě shì lán sè de。 wǒ yǒu yī jiàn lán sè chèn shān。 wǒ yòng lán sè yán liào。 lán sè yòu míng liàng yòu piào liàng。 wǒ yī zhěng tiān dōu néng kàn jiàn lán sè。 zhè ge yán sè ràng wǒ píng jìng， suǒ yǐ tā shì wǒ zuì xǐ huān de。 xīng qī yī wǒ de chèn shān shì lán sè de。 wǒ yòng lán sè yán liào huà tiān kōng。 míng liàng de lán sè yī tiān hěn piào liàng。 wǒ měi tiān dōu xún zhǎo zhè ge yán sè。"
 }

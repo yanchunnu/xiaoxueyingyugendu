@@ -4,3 +4,4 @@ build/
 .tts-cache/
 qa/tmp/
 qa/audio_report.json
+qa/zh_audio_report.json

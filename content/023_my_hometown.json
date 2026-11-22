@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "hometown",
-      "ko": "고향"
+      "ko": "고향",
+      "zh": "家乡",
+      "py": "jiā xiāng"
     },
     {
       "en": "Seoul",
-      "ko": "서울"
+      "ko": "서울",
+      "zh": "首尔",
+      "py": "shǒu ěr"
     },
     {
       "en": "city",
-      "ko": "도시"
+      "ko": "도시",
+      "zh": "城市",
+      "py": "chéng shì"
     },
     {
       "en": "river",
-      "ko": "강"
+      "ko": "강",
+      "zh": "河",
+      "py": "hé"
     },
     {
       "en": "bridge",
-      "ko": "다리"
+      "ko": "다리",
+      "zh": "桥",
+      "py": "qiáo"
     },
     {
       "en": "park",
-      "ko": "공원"
+      "ko": "공원",
+      "zh": "公园",
+      "py": "gōng yuán"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "neighbor",
-      "ko": "이웃"
+      "ko": "이웃",
+      "zh": "邻居",
+      "py": "lín jū"
     },
     {
       "en": "busy",
-      "ko": "붐비는"
+      "ko": "붐비는",
+      "zh": "热闹",
+      "py": "rè nào"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "hometown",
         "Seoul",
         "city"
-      ]
+      ],
+      "zh": "我的家乡是首尔，它是一座大城市。",
+      "py": "wǒ de jiā xiāng shì shǒu ěr， tā shì yī zuò dà chéng shì。"
     },
     {
       "en": "There is a long river, and there are many bridges.",
@@ -77,7 +99,9 @@
       "highlights": [
         "river",
         "bridge"
-      ]
+      ],
+      "zh": "那里有一条长长的河，还有许多桥。",
+      "py": "nà lǐ yǒu yī tiáo cháng cháng de hé， hái yǒu xǔ duō qiáo。"
     },
     {
       "en": "The parks are quiet in the morning.",
@@ -85,21 +109,27 @@
       "highlights": [
         "park",
         "quiet"
-      ]
+      ],
+      "zh": "早上公园很安静。",
+      "py": "zǎo shàng gōng yuán hěn ān jìng。"
     },
     {
       "en": "The streets are busy in the afternoon.",
       "ko": "오후에는 거리가 붐벼요.",
       "highlights": [
         "busy"
-      ]
+      ],
+      "zh": "下午马路上很热闹。",
+      "py": "xià wǔ mǎ lù shàng hěn rè nào。"
     },
     {
       "en": "My neighbor says hello when I walk by.",
       "ko": "내가 지나가면 이웃이 인사를 해요.",
       "highlights": [
         "neighbor"
-      ]
+      ],
+      "zh": "我走过的时候，邻居会问好。",
+      "py": "wǒ zǒu guò de shí hòu， lín jū huì wèn hǎo。"
     },
     {
       "en": "I love my hometown because my family is here.",
@@ -107,7 +137,9 @@
       "highlights": [
         "hometown",
         "love"
-      ]
+      ],
+      "zh": "我爱我的家乡，因为家人在这里。",
+      "py": "wǒ ài wǒ de jiā xiāng， yīn wèi jiā rén zài zhè lǐ。"
     },
     {
       "en": "I live in this city, and I know its parks.",
@@ -115,7 +147,9 @@
       "highlights": [
         "city",
         "park"
-      ]
+      ],
+      "zh": "我住在这座城市，也认识这里的公园。",
+      "py": "wǒ zhù zài zhè zuò chéng shì， yě rèn shí zhè lǐ de gōng yuán。"
     },
     {
       "en": "A bridge crosses the river near our home.",
@@ -123,14 +157,18 @@
       "highlights": [
         "river",
         "bridge"
-      ]
+      ],
+      "zh": "一座桥在我们家附近越过河。",
+      "py": "yī zuò qiáo zài wǒ men jiā fù jìn yuè guò hé。"
     },
     {
       "en": "On Sunday the park is full of families.",
       "ko": "일요일에는 공원에 가족들이 많아요.",
       "highlights": [
         "park"
-      ]
+      ],
+      "zh": "星期天公园里满是一家人。",
+      "py": "xīng qī tiān gōng yuán lǐ mǎn shì yī jiā rén。"
     },
     {
       "en": "A kind neighbor makes a big city feel small.",
@@ -138,7 +176,9 @@
       "highlights": [
         "city",
         "neighbor"
-      ]
+      ],
+      "zh": "善良的邻居让大城市也觉得小。",
+      "py": "shàn liáng de lín jū ràng dà chéng shì yě jué de xiǎo。"
     },
     {
       "en": "I love Seoul, and I am proud of my hometown.",
@@ -147,7 +187,9 @@
         "hometown",
         "Seoul",
         "love"
-      ]
+      ],
+      "zh": "我爱首尔，也为我的家乡骄傲。",
+      "py": "wǒ ài shǒu ěr， yě wèi wǒ de jiā xiāng jiāo ào。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My hometown is Seoul, and it is a big city. There is a long river, and there are many bridges. The parks are quiet in the morning. The streets are busy in the afternoon. My neighbor says hello when I walk by. I love my hometown because my family is here. I live in this city, and I know its parks. A bridge crosses the river near our home. On Sunday the park is full of families. A kind neighbor makes a big city feel small. I love Seoul, and I am proud of my hometown."
+  "full_passage_spoken": "My hometown is Seoul, and it is a big city. There is a long river, and there are many bridges. The parks are quiet in the morning. The streets are busy in the afternoon. My neighbor says hello when I walk by. I love my hometown because my family is here. I live in this city, and I know its parks. A bridge crosses the river near our home. On Sunday the park is full of families. A kind neighbor makes a big city feel small. I love Seoul, and I am proud of my hometown.",
+  "topic_zh": "我的家乡",
+  "topic_pinyin": "wǒ de jiā xiāng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的家乡是首尔，它是一座大城市。那里有一条长长的河，还有许多桥。早上公园很安静。下午马路上很热闹。我走过的时候，邻居会问好。我爱我的家乡，因为家人在这里。我住在这座城市，也认识这里的公园。一座桥在我们家附近越过河。星期天公园里满是一家人。善良的邻居让大城市也觉得小。我爱首尔，也为我的家乡骄傲。",
+  "full_passage_pinyin": "wǒ de jiā xiāng shì shǒu ěr， tā shì yī zuò dà chéng shì。 nà lǐ yǒu yī tiáo cháng cháng de hé， hái yǒu xǔ duō qiáo。 zǎo shàng gōng yuán hěn ān jìng。 xià wǔ mǎ lù shàng hěn rè nào。 wǒ zǒu guò de shí hòu， lín jū huì wèn hǎo。 wǒ ài wǒ de jiā xiāng， yīn wèi jiā rén zài zhè lǐ。 wǒ zhù zài zhè zuò chéng shì， yě rèn shí zhè lǐ de gōng yuán。 yī zuò qiáo zài wǒ men jiā fù jìn yuè guò hé。 xīng qī tiān gōng yuán lǐ mǎn shì yī jiā rén。 shàn liáng de lín jū ràng dà chéng shì yě jué de xiǎo。 wǒ ài shǒu ěr， yě wèi wǒ de jiā xiāng jiāo ào。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "best friend",
-      "ko": "가장 친한 친구"
+      "ko": "가장 친한 친구",
+      "zh": "最好的朋友",
+      "py": "zuì hǎo de péng yǒu"
     },
     {
       "en": "trust",
-      "ko": "믿다"
+      "ko": "믿다",
+      "zh": "信任",
+      "py": "xìn rèn"
     },
     {
       "en": "always",
-      "ko": "항상"
+      "ko": "항상",
+      "zh": "总是",
+      "py": "zǒng shì"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     },
     {
       "en": "laugh",
-      "ko": "웃다"
+      "ko": "웃다",
+      "zh": "笑",
+      "py": "xiào"
     },
     {
       "en": "every day",
-      "ko": "매일"
+      "ko": "매일",
+      "zh": "每天",
+      "py": "měi tiān"
     },
     {
       "en": "play",
-      "ko": "놀다"
+      "ko": "놀다",
+      "zh": "玩",
+      "py": "wán"
     },
     {
       "en": "true",
-      "ko": "진실한"
+      "ko": "진실한",
+      "zh": "真诚",
+      "py": "zhēn chéng"
     },
     {
       "en": "best",
-      "ko": "가장 좋은"
+      "ko": "가장 좋은",
+      "zh": "最好",
+      "py": "zuì hǎo"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "best friend",
         "trust",
         "best"
-      ]
+      ],
+      "zh": "我最好的朋友是汤姆，我信任他。",
+      "py": "wǒ zuì hǎo de péng yǒu shì tāng mǔ， wǒ xìn rèn tā。"
     },
     {
       "en": "He always helps me, and I help him too.",
@@ -77,7 +99,9 @@
       "highlights": [
         "always",
         "help"
-      ]
+      ],
+      "zh": "他总是帮助我，我也帮助他。",
+      "py": "tā zǒng shì bāng zhù wǒ， wǒ yě bāng zhù tā。"
     },
     {
       "en": "We laugh every day, and we play every day.",
@@ -86,7 +110,9 @@
         "laugh",
         "every day",
         "play"
-      ]
+      ],
+      "zh": "我们每天笑，也每天玩。",
+      "py": "wǒ men měi tiān xiào， yě měi tiān wán。"
     },
     {
       "en": "A true friend is the best kind of friend.",
@@ -94,28 +120,36 @@
       "highlights": [
         "true",
         "best"
-      ]
+      ],
+      "zh": "真诚的朋友是最好的朋友。",
+      "py": "zhēn chéng de péng yǒu shì zuì hǎo de péng yǒu。"
     },
     {
       "en": "I am happy when I am with Tom.",
       "ko": "나는 톰과 함께 있을 때 행복해요.",
       "highlights": [
         "happy"
-      ]
+      ],
+      "zh": "我和汤姆在一起的时候很快乐。",
+      "py": "wǒ hé tāng mǔ zài yì qǐ de shí hòu hěn kuài lè。"
     },
     {
       "en": "We trust each other because we are honest.",
       "ko": "우리는 정직해서 서로를 믿어요.",
       "highlights": [
         "trust"
-      ]
+      ],
+      "zh": "我们很诚实，所以互相信任。",
+      "py": "wǒ men hěn chéng shí， suǒ yǐ hù xiāng xìn rèn。"
     },
     {
       "en": "He always waits for me after school.",
       "ko": "톰은 방과 후에 항상 나를 기다려요.",
       "highlights": [
         "always"
-      ]
+      ],
+      "zh": "放学后他总是等我。",
+      "py": "fàng xué hòu tā zǒng shì děng wǒ。"
     },
     {
       "en": "We play soccer, and then we laugh.",
@@ -123,7 +157,9 @@
       "highlights": [
         "laugh",
         "play"
-      ]
+      ],
+      "zh": "我们踢足球，然后一起笑。",
+      "py": "wǒ men tī zú qiú， rán hòu yì qǐ xiào。"
     },
     {
       "en": "A best friend knows when you are sad.",
@@ -131,14 +167,18 @@
       "highlights": [
         "best friend",
         "best"
-      ]
+      ],
+      "zh": "最好的朋友知道你什么时候难过。",
+      "py": "zuì hǎo de péng yǒu zhī dào nǐ shén me shí hòu nán guò。"
     },
     {
       "en": "I help him, and he helps me.",
       "ko": "나는 톰을 돕고, 톰은 나를 도와요.",
       "highlights": [
         "help"
-      ]
+      ],
+      "zh": "我帮助他，他也帮助我。",
+      "py": "wǒ bāng zhù tā， tā yě bāng zhù wǒ。"
     },
     {
       "en": "Every day with my best friend is a good day.",
@@ -147,7 +187,9 @@
         "best friend",
         "every day",
         "best"
-      ]
+      ],
+      "zh": "和最好的朋友在一起，每天都是好日子。",
+      "py": "hé zuì hǎo de péng yǒu zài yì qǐ， měi tiān dōu shì hǎo rì zi。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My best friend is Tom, and I trust him. He always helps me, and I help him too. We laugh every day, and we play every day. A true friend is the best kind of friend. I am happy when I am with Tom. We trust each other because we are honest. He always waits for me after school. We play soccer, and then we laugh. A best friend knows when you are sad. I help him, and he helps me. Every day with my best friend is a good day."
+  "full_passage_spoken": "My best friend is Tom, and I trust him. He always helps me, and I help him too. We laugh every day, and we play every day. A true friend is the best kind of friend. I am happy when I am with Tom. We trust each other because we are honest. He always waits for me after school. We play soccer, and then we laugh. A best friend knows when you are sad. I help him, and he helps me. Every day with my best friend is a good day.",
+  "topic_zh": "我最好的朋友",
+  "topic_pinyin": "wǒ zuì hǎo de péng yǒu",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最好的朋友是汤姆，我信任他。他总是帮助我，我也帮助他。我们每天笑，也每天玩。真诚的朋友是最好的朋友。我和汤姆在一起的时候很快乐。我们很诚实，所以互相信任。放学后他总是等我。我们踢足球，然后一起笑。最好的朋友知道你什么时候难过。我帮助他，他也帮助我。和最好的朋友在一起，每天都是好日子。",
+  "full_passage_pinyin": "wǒ zuì hǎo de péng yǒu shì tāng mǔ， wǒ xìn rèn tā。 tā zǒng shì bāng zhù wǒ， wǒ yě bāng zhù tā。 wǒ men měi tiān xiào， yě měi tiān wán。 zhēn chéng de péng yǒu shì zuì hǎo de péng yǒu。 wǒ hé tāng mǔ zài yì qǐ de shí hòu hěn kuài lè。 wǒ men hěn chéng shí， suǒ yǐ hù xiāng xìn rèn。 fàng xué hòu tā zǒng shì děng wǒ。 wǒ men tī zú qiú， rán hòu yì qǐ xiào。 zuì hǎo de péng yǒu zhī dào nǐ shén me shí hòu nán guò。 wǒ bāng zhù tā， tā yě bāng zhù wǒ。 hé zuì hǎo de péng yǒu zài yì qǐ， měi tiān dōu shì hǎo rì zi。"
 }

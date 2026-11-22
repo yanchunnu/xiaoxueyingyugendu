@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "summer",
-      "ko": "여름"
+      "ko": "여름",
+      "zh": "夏天",
+      "py": "xià tiān"
     },
     {
       "en": "hot",
-      "ko": "더운"
+      "ko": "더운",
+      "zh": "热",
+      "py": "rè"
     },
     {
       "en": "sun",
-      "ko": "해"
+      "ko": "해",
+      "zh": "太阳",
+      "py": "tài yáng"
     },
     {
       "en": "hat",
-      "ko": "모자"
+      "ko": "모자",
+      "zh": "帽子",
+      "py": "mào zi"
     },
     {
       "en": "swim",
-      "ko": "수영하다"
+      "ko": "수영하다",
+      "zh": "游泳",
+      "py": "yóu yǒng"
     },
     {
       "en": "pool",
-      "ko": "수영장"
+      "ko": "수영장",
+      "zh": "游泳池",
+      "py": "yóu yǒng chí"
     },
     {
       "en": "ice cream",
-      "ko": "아이스크림"
+      "ko": "아이스크림",
+      "zh": "冰淇淋",
+      "py": "bīng qí lín"
     },
     {
       "en": "fan",
-      "ko": "선풍기"
+      "ko": "선풍기",
+      "zh": "风扇",
+      "py": "fēng shàn"
     },
     {
       "en": "cool",
-      "ko": "시원한"
+      "ko": "시원한",
+      "zh": "凉快",
+      "py": "liáng kuài"
     },
     {
       "en": "long",
-      "ko": "긴"
+      "ko": "긴",
+      "zh": "很长",
+      "py": "hěn cháng"
     }
   ],
   "phrases": [
@@ -69,14 +89,18 @@
         "summer",
         "hot",
         "sun"
-      ]
+      ],
+      "zh": "夏天很热，太阳很晒。",
+      "py": "xià tiān hěn rè， tài yáng hěn shài。"
     },
     {
       "en": "I wear a hat.",
       "ko": "나는 모자를 써요.",
       "highlights": [
         "hat"
-      ]
+      ],
+      "zh": "我戴帽子。",
+      "py": "wǒ dài mào zi。"
     },
     {
       "en": "I swim in the pool.",
@@ -84,14 +108,18 @@
       "highlights": [
         "swim",
         "pool"
-      ]
+      ],
+      "zh": "我在游泳池里游泳。",
+      "py": "wǒ zài yóu yǒng chí lǐ yóu yǒng。"
     },
     {
       "en": "I eat ice cream.",
       "ko": "나는 아이스크림을 먹어요.",
       "highlights": [
         "ice cream"
-      ]
+      ],
+      "zh": "我吃冰淇淋。",
+      "py": "wǒ chī bīng qí lín。"
     },
     {
       "en": "A fan keeps me cool.",
@@ -99,21 +127,27 @@
       "highlights": [
         "fan",
         "cool"
-      ]
+      ],
+      "zh": "风扇让我凉快。",
+      "py": "fēng shàn ràng wǒ liáng kuài。"
     },
     {
       "en": "The days are long.",
       "ko": "낮은 길어요.",
       "highlights": [
         "long"
-      ]
+      ],
+      "zh": "白天很长。",
+      "py": "bái tiān hěn cháng。"
     },
     {
       "en": "I like summer.",
       "ko": "나는 여름을 좋아해요.",
       "highlights": [
         "summer"
-      ]
+      ],
+      "zh": "我喜欢夏天。",
+      "py": "wǒ xǐ huān xià tiān。"
     },
     {
       "en": "A hat helps on a hot, sunny day.",
@@ -121,7 +155,9 @@
       "highlights": [
         "hot",
         "hat"
-      ]
+      ],
+      "zh": "又热又晴的日子，帽子会帮忙。",
+      "py": "yòu rè yòu qíng de rì zi， mào zi huì bāng máng。"
     },
     {
       "en": "After I swim, ice cream tastes better.",
@@ -129,7 +165,9 @@
       "highlights": [
         "swim",
         "ice cream"
-      ]
+      ],
+      "zh": "游完泳，冰淇淋更好吃。",
+      "py": "yóu wán yǒng， bīng qí lín gèng hǎo chī。"
     },
     {
       "en": "The fan keeps my room cool in the long afternoon.",
@@ -138,7 +176,9 @@
         "fan",
         "cool",
         "long"
-      ]
+      ],
+      "zh": "很长的下午，风扇让房间保持凉快。",
+      "py": "hěn cháng de xià wǔ， fēng shàn ràng fáng jiān bǎo chí liáng kuài。"
     },
     {
       "en": "I like summer because the days are long and bright.",
@@ -146,7 +186,9 @@
       "highlights": [
         "summer",
         "long"
-      ]
+      ],
+      "zh": "我喜欢夏天，因为白天又长又亮。",
+      "py": "wǒ xǐ huān xià tiān， yīn wèi bái tiān yòu cháng yòu liàng。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Summer is hot, and the sun is strong. I wear a hat. I swim in the pool. I eat ice cream. A fan keeps me cool. The days are long. I like summer. A hat helps on a hot, sunny day. After I swim, ice cream tastes better. The fan keeps my room cool in the long afternoon. I like summer because the days are long and bright."
+  "full_passage_spoken": "Summer is hot, and the sun is strong. I wear a hat. I swim in the pool. I eat ice cream. A fan keeps me cool. The days are long. I like summer. A hat helps on a hot, sunny day. After I swim, ice cream tastes better. The fan keeps my room cool in the long afternoon. I like summer because the days are long and bright.",
+  "topic_zh": "夏天",
+  "topic_pinyin": "xià tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "夏天很热，太阳很晒。我戴帽子。我在游泳池里游泳。我吃冰淇淋。风扇让我凉快。白天很长。我喜欢夏天。又热又晴的日子，帽子会帮忙。游完泳，冰淇淋更好吃。很长的下午，风扇让房间保持凉快。我喜欢夏天，因为白天又长又亮。",
+  "full_passage_pinyin": "xià tiān hěn rè， tài yáng hěn shài。 wǒ dài mào zi。 wǒ zài yóu yǒng chí lǐ yóu yǒng。 wǒ chī bīng qí lín。 fēng shàn ràng wǒ liáng kuài。 bái tiān hěn cháng。 wǒ xǐ huān xià tiān。 yòu rè yòu qíng de rì zi， mào zi huì bāng máng。 yóu wán yǒng， bīng qí lín gèng hǎo chī。 hěn cháng de xià wǔ， fēng shàn ràng fáng jiān bǎo chí liáng kuài。 wǒ xǐ huān xià tiān， yīn wèi bái tiān yòu cháng yòu liàng。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "today",
-      "ko": "오늘"
+      "ko": "오늘",
+      "zh": "今天",
+      "py": "jīn tiān"
     },
     {
       "en": "sports meet",
-      "ko": "운동회"
+      "ko": "운동회",
+      "zh": "运动会",
+      "py": "yùn dòng huì"
     },
     {
       "en": "race",
-      "ko": "달리기"
+      "ko": "달리기",
+      "zh": "赛跑",
+      "py": "sài pǎo"
     },
     {
       "en": "team",
-      "ko": "팀"
+      "ko": "팀",
+      "zh": "队",
+      "py": "duì"
     },
     {
       "en": "cheer",
-      "ko": "응원하다"
+      "ko": "응원하다",
+      "zh": "加油",
+      "py": "jiā yóu"
     },
     {
       "en": "try",
-      "ko": "노력하다"
+      "ko": "노력하다",
+      "zh": "尽力",
+      "py": "jìn lì"
     },
     {
       "en": "best",
-      "ko": "최선"
+      "ko": "최선",
+      "zh": "最好",
+      "py": "zuì hǎo"
     },
     {
       "en": "ribbon",
-      "ko": "리본"
+      "ko": "리본",
+      "zh": "丝带",
+      "py": "sī dài"
     },
     {
       "en": "excited",
-      "ko": "신나는"
+      "ko": "신나는",
+      "zh": "兴奋",
+      "py": "xīng fèn"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "today",
         "sports meet"
-      ]
+      ],
+      "zh": "今天是运动会。",
+      "py": "jīn tiān shì yùn dòng huì。"
     },
     {
       "en": "I am in a race.",
       "ko": "나는 달리기에 나가요.",
       "highlights": [
         "race"
-      ]
+      ],
+      "zh": "我参加赛跑。",
+      "py": "wǒ cān jiā sài pǎo。"
     },
     {
       "en": "We cheer for our team.",
@@ -83,7 +107,9 @@
       "highlights": [
         "team",
         "cheer"
-      ]
+      ],
+      "zh": "我们为我们的队加油。",
+      "py": "wǒ men wèi wǒ men de duì jiā yóu。"
     },
     {
       "en": "I try my best.",
@@ -91,14 +117,18 @@
       "highlights": [
         "try",
         "best"
-      ]
+      ],
+      "zh": "我尽自己最大的努力。",
+      "py": "wǒ jǐn zì jǐ zuì dà de nǔ lì。"
     },
     {
       "en": "We get a ribbon.",
       "ko": "우리는 리본을 받아요.",
       "highlights": [
         "ribbon"
-      ]
+      ],
+      "zh": "我们得到一条丝带。",
+      "py": "wǒ men dé dào yī tiáo sī dài。"
     },
     {
       "en": "Everyone is excited, and we play together.",
@@ -106,12 +136,16 @@
       "highlights": [
         "excited",
         "together"
-      ]
+      ],
+      "zh": "每个人都很兴奋，我们一起玩。",
+      "py": "měi gè rén dōu hěn xīng fèn， wǒ men yì qǐ wán。"
     },
     {
       "en": "It is a happy day.",
       "ko": "행복한 하루예요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "这是快乐的一天。",
+      "py": "zhè shì kuài lè de yī tiān。"
     },
     {
       "en": "The sports meet is the best day of the term.",
@@ -119,7 +153,9 @@
       "highlights": [
         "sports meet",
         "best"
-      ]
+      ],
+      "zh": "运动会是这个学期最好的一天。",
+      "py": "yùn dòng huì shì zhè ge xué qī zuì hǎo de yī tiān。"
     },
     {
       "en": "I try my best in the race, and my team cheers.",
@@ -130,7 +166,9 @@
         "cheer",
         "try",
         "best"
-      ]
+      ],
+      "zh": "我在赛跑里尽最大的努力，我的队为我加油。",
+      "py": "wǒ zài sài pǎo lǐ jǐn zuì dà de nǔ lì， wǒ de duì wèi wǒ jiā yóu。"
     },
     {
       "en": "A ribbon is small, but we are excited.",
@@ -138,7 +176,9 @@
       "highlights": [
         "ribbon",
         "excited"
-      ]
+      ],
+      "zh": "丝带很小，可是我们很兴奋。",
+      "py": "sī dài hěn xiǎo， kě shì wǒ men hěn xīng fèn。"
     },
     {
       "en": "Today we play together, and that is enough.",
@@ -146,7 +186,9 @@
       "highlights": [
         "today",
         "together"
-      ]
+      ],
+      "zh": "今天我们一起玩，这就够了。",
+      "py": "jīn tiān wǒ men yì qǐ wán， zhè jiù gòu le。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Today is the sports meet. I am in a race. We cheer for our team. I try my best. We get a ribbon. Everyone is excited, and we play together. It is a happy day. The sports meet is the best day of the term. I try my best in the race, and my team cheers. A ribbon is small, but we are excited. Today we play together, and that is enough."
+  "full_passage_spoken": "Today is the sports meet. I am in a race. We cheer for our team. I try my best. We get a ribbon. Everyone is excited, and we play together. It is a happy day. The sports meet is the best day of the term. I try my best in the race, and my team cheers. A ribbon is small, but we are excited. Today we play together, and that is enough.",
+  "topic_zh": "运动会",
+  "topic_pinyin": "yùn dòng huì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "今天是运动会。我参加赛跑。我们为我们的队加油。我尽自己最大的努力。我们得到一条丝带。每个人都很兴奋，我们一起玩。这是快乐的一天。运动会是这个学期最好的一天。我在赛跑里尽最大的努力，我的队为我加油。丝带很小，可是我们很兴奋。今天我们一起玩，这就够了。",
+  "full_passage_pinyin": "jīn tiān shì yùn dòng huì。 wǒ cān jiā sài pǎo。 wǒ men wèi wǒ men de duì jiā yóu。 wǒ jǐn zì jǐ zuì dà de nǔ lì。 wǒ men dé dào yī tiáo sī dài。 měi gè rén dōu hěn xīng fèn， wǒ men yì qǐ wán。 zhè shì kuài lè de yī tiān。 yùn dòng huì shì zhè ge xué qī zuì hǎo de yī tiān。 wǒ zài sài pǎo lǐ jǐn zuì dà de nǔ lì， wǒ de duì wèi wǒ jiā yóu。 sī dài hěn xiǎo， kě shì wǒ men hěn xīng fèn。 jīn tiān wǒ men yì qǐ wán， zhè jiù gòu le。"
 }

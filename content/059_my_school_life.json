@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "school life",
-      "ko": "학교생활"
+      "ko": "학교생활",
+      "zh": "学校生活",
+      "py": "xué xiào shēng huó"
     },
     {
       "en": "busy",
-      "ko": "바쁜"
+      "ko": "바쁜",
+      "zh": "忙",
+      "py": "máng"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "morning",
-      "ko": "아침"
+      "ko": "아침",
+      "zh": "早上",
+      "py": "zǎo shàng"
     },
     {
       "en": "class",
-      "ko": "수업"
+      "ko": "수업",
+      "zh": "课",
+      "py": "kè"
     },
     {
       "en": "lunch",
-      "ko": "점심"
+      "ko": "점심",
+      "zh": "午饭",
+      "py": "wǔ fàn"
     },
     {
       "en": "music",
-      "ko": "음악"
+      "ko": "음악",
+      "zh": "音乐",
+      "py": "yīn yuè"
     },
     {
       "en": "learn",
-      "ko": "배우다"
+      "ko": "배우다",
+      "zh": "学",
+      "py": "xué"
     },
     {
       "en": "play",
-      "ko": "놀다"
+      "ko": "놀다",
+      "zh": "玩",
+      "py": "wán"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "school life",
         "busy",
         "fun"
-      ]
+      ],
+      "zh": "我的学校生活很忙，也很有趣。",
+      "py": "wǒ de xué xiào shēng huó hěn máng， yě hěn yǒu qù。"
     },
     {
       "en": "In the morning I have class.",
@@ -77,7 +99,9 @@
       "highlights": [
         "morning",
         "class"
-      ]
+      ],
+      "zh": "早上我有课。",
+      "py": "zǎo shàng wǒ yǒu kè。"
     },
     {
       "en": "I eat lunch with a friend.",
@@ -85,7 +109,9 @@
       "highlights": [
         "lunch",
         "friend"
-      ]
+      ],
+      "zh": "我和一个朋友一起吃午饭。",
+      "py": "wǒ hé yí gè péng yǒu yì qǐ chī wǔ fàn。"
     },
     {
       "en": "I have music class.",
@@ -93,7 +119,9 @@
       "highlights": [
         "class",
         "music"
-      ]
+      ],
+      "zh": "我有音乐课。",
+      "py": "wǒ yǒu yīn yuè kè。"
     },
     {
       "en": "I learn many things, and I play after lunch.",
@@ -102,14 +130,18 @@
         "lunch",
         "learn",
         "play"
-      ]
+      ],
+      "zh": "我学很多东西，午饭后我去玩。",
+      "py": "wǒ xué hěn duō dōng xī， wǔ fàn hòu wǒ qù wán。"
     },
     {
       "en": "I like my school life.",
       "ko": "나는 나의 학교생활을 좋아해요.",
       "highlights": [
         "school life"
-      ]
+      ],
+      "zh": "我喜欢我的学校生活。",
+      "py": "wǒ xǐ huān wǒ de xué xiào shēng huó。"
     },
     {
       "en": "A busy morning still has a fun music class.",
@@ -120,7 +152,9 @@
         "morning",
         "class",
         "music"
-      ]
+      ],
+      "zh": "忙碌的早上仍然有有趣的音乐课。",
+      "py": "máng lù de zǎo shàng réng rán yǒu yǒu qù de yīn yuè kè。"
     },
     {
       "en": "I learn English, science, and music.",
@@ -128,7 +162,9 @@
       "highlights": [
         "music",
         "learn"
-      ]
+      ],
+      "zh": "我学英语、科学和音乐。",
+      "py": "wǒ xué yīng yǔ、 kē xué hé yīn yuè。"
     },
     {
       "en": "My friend and I play on the playground.",
@@ -136,14 +172,18 @@
       "highlights": [
         "play",
         "friend"
-      ]
+      ],
+      "zh": "我和朋友在操场上玩。",
+      "py": "wǒ hé péng yǒu zài cāo chǎng shàng wán。"
     },
     {
       "en": "School life is better when we help each other.",
       "ko": "서로 도우면 학교생활이 더 좋아져요.",
       "highlights": [
         "school life"
-      ]
+      ],
+      "zh": "我们互相帮助的时候，学校生活更好。",
+      "py": "wǒ men hù xiāng bāng zhù de shí hòu， xué xiào shēng huó gèng hǎo。"
     },
     {
       "en": "I like this busy, fun life.",
@@ -151,7 +191,9 @@
       "highlights": [
         "busy",
         "fun"
-      ]
+      ],
+      "zh": "我喜欢这种又忙又有趣的生活。",
+      "py": "wǒ xǐ huān zhè zhǒng yòu máng yòu yǒu qù de shēng huó。"
     }
   ],
   "full_passage_lines": [
@@ -247,5 +289,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My school life is busy, and it is also fun. In the morning I have class. I eat lunch with a friend. I have music class. I learn many things, and I play after lunch. I like my school life. A busy morning still has a fun music class. I learn English, science, and music. My friend and I play on the playground. School life is better when we help each other. I like this busy, fun life."
+  "full_passage_spoken": "My school life is busy, and it is also fun. In the morning I have class. I eat lunch with a friend. I have music class. I learn many things, and I play after lunch. I like my school life. A busy morning still has a fun music class. I learn English, science, and music. My friend and I play on the playground. School life is better when we help each other. I like this busy, fun life.",
+  "topic_zh": "我的学校生活",
+  "topic_pinyin": "wǒ de xué xiào shēng huó",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的学校生活很忙，也很有趣。早上我有课。我和一个朋友一起吃午饭。我有音乐课。我学很多东西，午饭后我去玩。我喜欢我的学校生活。忙碌的早上仍然有有趣的音乐课。我学英语、科学和音乐。我和朋友在操场上玩。我们互相帮助的时候，学校生活更好。我喜欢这种又忙又有趣的生活。",
+  "full_passage_pinyin": "wǒ de xué xiào shēng huó hěn máng， yě hěn yǒu qù。 zǎo shàng wǒ yǒu kè。 wǒ hé yí gè péng yǒu yì qǐ chī wǔ fàn。 wǒ yǒu yīn yuè kè。 wǒ xué hěn duō dōng xī， wǔ fàn hòu wǒ qù wán。 wǒ xǐ huān wǒ de xué xiào shēng huó。 máng lù de zǎo shàng réng rán yǒu yǒu qù de yīn yuè kè。 wǒ xué yīng yǔ、 kē xué hé yīn yuè。 wǒ hé péng yǒu zài cāo chǎng shàng wán。 wǒ men hù xiāng bāng zhù de shí hòu， xué xiào shēng huó gèng hǎo。 wǒ xǐ huān zhè zhǒng yòu máng yòu yǒu qù de shēng huó。"
 }

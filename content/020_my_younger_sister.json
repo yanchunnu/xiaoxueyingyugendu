@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "younger",
-      "ko": "더 어린"
+      "ko": "더 어린",
+      "zh": "更小",
+      "py": "gèng xiǎo"
     },
     {
       "en": "sister",
-      "ko": "여동생"
+      "ko": "여동생",
+      "zh": "妹妹",
+      "py": "mèi mèi"
     },
     {
       "en": "eleven",
-      "ko": "열한"
+      "ko": "열한",
+      "zh": "十一",
+      "py": "shí yī"
     },
     {
       "en": "fourth",
-      "ko": "넷째"
+      "ko": "넷째",
+      "zh": "第四",
+      "py": "dì sì"
     },
     {
       "en": "grade",
-      "ko": "학년"
+      "ko": "학년",
+      "zh": "几年级",
+      "py": "jǐ nián jí"
     },
     {
       "en": "small",
-      "ko": "작은"
+      "ko": "작은",
+      "zh": "小",
+      "py": "xiǎo"
     },
     {
       "en": "cute",
-      "ko": "귀여운"
+      "ko": "귀여운",
+      "zh": "可爱",
+      "py": "kě ài"
     },
     {
       "en": "follow",
-      "ko": "따라오다"
+      "ko": "따라오다",
+      "zh": "跟着",
+      "py": "gēn zhe"
     },
     {
       "en": "hug",
-      "ko": "안아 주다"
+      "ko": "안아 주다",
+      "zh": "拥抱",
+      "py": "yōng bào"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "younger",
         "sister",
         "eleven"
-      ]
+      ],
+      "zh": "我的妹妹十一岁。",
+      "py": "wǒ de mèi mèi shí yī suì。"
     },
     {
       "en": "She is in the fourth grade.",
@@ -77,7 +99,9 @@
       "highlights": [
         "fourth",
         "grade"
-      ]
+      ],
+      "zh": "她上四年级。",
+      "py": "tā shàng sì nián jí。"
     },
     {
       "en": "She is small and cute, and she is younger than me.",
@@ -86,21 +110,27 @@
         "younger",
         "small",
         "cute"
-      ]
+      ],
+      "zh": "她又小又可爱，也比我小。",
+      "py": "tā yòu xiǎo yòu kě ài， yě bǐ wǒ xiǎo。"
     },
     {
       "en": "She likes to follow me at home.",
       "ko": "여동생은 집에서 나를 따라오는 것을 좋아해요.",
       "highlights": [
         "follow"
-      ]
+      ],
+      "zh": "她喜欢在家里跟着我。",
+      "py": "tā xǐ huān zài jiā lǐ gēn zhe wǒ。"
     },
     {
       "en": "Sometimes she starts to cry, and then I hug her.",
       "ko": "가끔 여동생은 울기 시작하고, 그러면 나는 안아 줘요.",
       "highlights": [
         "hug"
-      ]
+      ],
+      "zh": "她有时会哭，那时我就拥抱她。",
+      "py": "tā yǒu shí huì kū， nà shí wǒ jiù yōng bào tā。"
     },
     {
       "en": "I love my younger sister, and she loves me too.",
@@ -109,12 +139,16 @@
         "younger",
         "sister",
         "love"
-      ]
+      ],
+      "zh": "我爱我的妹妹，她也爱我。",
+      "py": "wǒ ài wǒ de mèi mèi， tā yě ài wǒ。"
     },
     {
       "en": "I am thirteen, so I am two years older.",
       "ko": "나는 열세 살이니 두 살 더 많아요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我十三岁，所以我比她大两岁。",
+      "py": "wǒ shí sān suì， suǒ yǐ wǒ bǐ tā dà liǎng suì。"
     },
     {
       "en": "She is in the fourth grade, and I am in the sixth.",
@@ -122,12 +156,16 @@
       "highlights": [
         "fourth",
         "grade"
-      ]
+      ],
+      "zh": "她上四年级，我上六年级。",
+      "py": "tā shàng sì nián jí， wǒ shàng liù nián jí。"
     },
     {
       "en": "We read a book together at night.",
       "ko": "우리는 밤에 함께 책을 읽어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "晚上我们一起看书。",
+      "py": "wǎn shàng wǒ men yì qǐ kàn shū。"
     },
     {
       "en": "A younger sister can be a dear friend.",
@@ -135,7 +173,9 @@
       "highlights": [
         "younger",
         "sister"
-      ]
+      ],
+      "zh": "更小的妹妹也可以是亲爱的朋友。",
+      "py": "gèng xiǎo de mèi mèi yě kě yǐ shì qīn ài de péng yǒu。"
     },
     {
       "en": "I hug her because I love her.",
@@ -143,7 +183,9 @@
       "highlights": [
         "hug",
         "love"
-      ]
+      ],
+      "zh": "我拥抱她，因为我爱她。",
+      "py": "wǒ yōng bào tā， yīn wèi wǒ ài tā。"
     }
   ],
   "full_passage_lines": [
@@ -231,5 +273,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My younger sister is eleven years old. She is in the fourth grade. She is small and cute, and she is younger than me. She likes to follow me at home. Sometimes she starts to cry, and then I hug her. I love my younger sister, and she loves me too. I am thirteen, so I am two years older. She is in the fourth grade, and I am in the sixth. We read a book together at night. A younger sister can be a dear friend. I hug her because I love her."
+  "full_passage_spoken": "My younger sister is eleven years old. She is in the fourth grade. She is small and cute, and she is younger than me. She likes to follow me at home. Sometimes she starts to cry, and then I hug her. I love my younger sister, and she loves me too. I am thirteen, so I am two years older. She is in the fourth grade, and I am in the sixth. We read a book together at night. A younger sister can be a dear friend. I hug her because I love her.",
+  "topic_zh": "我的妹妹",
+  "topic_pinyin": "wǒ de mèi mèi",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的妹妹十一岁。她上四年级。她又小又可爱，也比我小。她喜欢在家里跟着我。她有时会哭，那时我就拥抱她。我爱我的妹妹，她也爱我。我十三岁，所以我比她大两岁。她上四年级，我上六年级。晚上我们一起看书。更小的妹妹也可以是亲爱的朋友。我拥抱她，因为我爱她。",
+  "full_passage_pinyin": "wǒ de mèi mèi shí yī suì。 tā shàng sì nián jí。 tā yòu xiǎo yòu kě ài， yě bǐ wǒ xiǎo。 tā xǐ huān zài jiā lǐ gēn zhe wǒ。 tā yǒu shí huì kū， nà shí wǒ jiù yōng bào tā。 wǒ ài wǒ de mèi mèi， tā yě ài wǒ。 wǒ shí sān suì， suǒ yǐ wǒ bǐ tā dà liǎng suì。 tā shàng sì nián jí， wǒ shàng liù nián jí。 wǎn shàng wǒ men yì qǐ kàn shū。 gèng xiǎo de mèi mèi yě kě yǐ shì qīn ài de péng yǒu。 wǒ yōng bào tā， yīn wèi wǒ ài tā。"
 }

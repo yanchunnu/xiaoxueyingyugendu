@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "winter",
-      "ko": "겨울"
+      "ko": "겨울",
+      "zh": "冬天",
+      "py": "dōng tiān"
     },
     {
       "en": "vacation",
-      "ko": "방학"
+      "ko": "방학",
+      "zh": "寒假",
+      "py": "hán jià"
     },
     {
       "en": "cold",
-      "ko": "추운"
+      "ko": "추운",
+      "zh": "冷",
+      "py": "lěng"
     },
     {
       "en": "snow",
-      "ko": "눈"
+      "ko": "눈",
+      "zh": "雪",
+      "py": "xuě"
     },
     {
       "en": "coat",
-      "ko": "코트"
+      "ko": "코트",
+      "zh": "外套",
+      "py": "wài tào"
     },
     {
       "en": "sled",
-      "ko": "썰매"
+      "ko": "썰매",
+      "zh": "雪橇",
+      "py": "xuě qiāo"
     },
     {
       "en": "cocoa",
-      "ko": "코코아"
+      "ko": "코코아",
+      "zh": "热可可",
+      "py": "rè kě kě"
     },
     {
       "en": "hot",
-      "ko": "뜨거운"
+      "ko": "뜨거운",
+      "zh": "热",
+      "py": "rè"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "home",
-      "ko": "집"
+      "ko": "집",
+      "zh": "家",
+      "py": "jiā"
     }
   ],
   "phrases": [
@@ -69,28 +89,36 @@
         "winter",
         "vacation",
         "cold"
-      ]
+      ],
+      "zh": "寒假很冷。",
+      "py": "hán jià hěn lěng。"
     },
     {
       "en": "Snow is on the ground.",
       "ko": "땅에 눈이 있어요.",
       "highlights": [
         "snow"
-      ]
+      ],
+      "zh": "地上有雪。",
+      "py": "dì shàng yǒu xuě。"
     },
     {
       "en": "I wear a warm coat.",
       "ko": "나는 따뜻한 코트를 입어요.",
       "highlights": [
         "coat"
-      ]
+      ],
+      "zh": "我穿一件暖和的外套。",
+      "py": "wǒ chuān yī jiàn nuǎn huo de wài tào。"
     },
     {
       "en": "I play on a sled.",
       "ko": "나는 썰매를 타며 놀아요.",
       "highlights": [
         "sled"
-      ]
+      ],
+      "zh": "我坐雪橇玩。",
+      "py": "wǒ zuò xuě qiāo wán。"
     },
     {
       "en": "I drink hot cocoa.",
@@ -98,7 +126,9 @@
       "highlights": [
         "cocoa",
         "hot"
-      ]
+      ],
+      "zh": "我喝热可可。",
+      "py": "wǒ hē rè kě kě。"
     },
     {
       "en": "I like to read a book at home.",
@@ -106,21 +136,27 @@
       "highlights": [
         "book",
         "home"
-      ]
+      ],
+      "zh": "我喜欢在家看书。",
+      "py": "wǒ xǐ huān zài jiā kàn shū。"
     },
     {
       "en": "I rest a lot at home.",
       "ko": "나는 집에서 많이 쉬어요.",
       "highlights": [
         "home"
-      ]
+      ],
+      "zh": "我在家休息很多。",
+      "py": "wǒ zài jiā xiū xī hěn duō。"
     },
     {
       "en": "I feel warm at home.",
       "ko": "나는 집에서 따뜻해요.",
       "highlights": [
         "home"
-      ]
+      ],
+      "zh": "我在家里觉得暖和。",
+      "py": "wǒ zài jiā lǐ jué de nuǎn huo。"
     },
     {
       "en": "The sled is fun when the snow is soft.",
@@ -128,7 +164,9 @@
       "highlights": [
         "snow",
         "sled"
-      ]
+      ],
+      "zh": "雪很软的时候，坐雪橇很有趣。",
+      "py": "xuě hěn ruǎn de shí hòu， zuò xuě qiāo hěn yǒu qù。"
     },
     {
       "en": "Hot cocoa warms my hands after I play.",
@@ -136,7 +174,9 @@
       "highlights": [
         "cocoa",
         "hot"
-      ]
+      ],
+      "zh": "玩完以后，热可可暖我的手。",
+      "py": "wán wán yǐ hòu， rè kě kě nuǎn wǒ de shǒu。"
     },
     {
       "en": "Winter vacation is cold outside and warm at home.",
@@ -146,7 +186,9 @@
         "vacation",
         "cold",
         "home"
-      ]
+      ],
+      "zh": "寒假外面冷，家里暖和。",
+      "py": "hán jià wài miàn lěng， jiā lǐ nuǎn huo。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Winter vacation is cold. Snow is on the ground. I wear a warm coat. I play on a sled. I drink hot cocoa. I like to read a book at home. I rest a lot at home. I feel warm at home. The sled is fun when the snow is soft. Hot cocoa warms my hands after I play. Winter vacation is cold outside and warm at home."
+  "full_passage_spoken": "Winter vacation is cold. Snow is on the ground. I wear a warm coat. I play on a sled. I drink hot cocoa. I like to read a book at home. I rest a lot at home. I feel warm at home. The sled is fun when the snow is soft. Hot cocoa warms my hands after I play. Winter vacation is cold outside and warm at home.",
+  "topic_zh": "我的寒假",
+  "topic_pinyin": "wǒ de hán jià",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "寒假很冷。地上有雪。我穿一件暖和的外套。我坐雪橇玩。我喝热可可。我喜欢在家看书。我在家休息很多。我在家里觉得暖和。雪很软的时候，坐雪橇很有趣。玩完以后，热可可暖我的手。寒假外面冷，家里暖和。",
+  "full_passage_pinyin": "hán jià hěn lěng。 dì shàng yǒu xuě。 wǒ chuān yī jiàn nuǎn huo de wài tào。 wǒ zuò xuě qiāo wán。 wǒ hē rè kě kě。 wǒ xǐ huān zài jiā kàn shū。 wǒ zài jiā xiū xī hěn duō。 wǒ zài jiā lǐ jué de nuǎn huo。 xuě hěn ruǎn de shí hòu， zuò xuě qiāo hěn yǒu qù。 wán wán yǐ hòu， rè kě kě nuǎn wǒ de shǒu。 hán jià wài miàn lěng， jiā lǐ nuǎn huo。"
 }

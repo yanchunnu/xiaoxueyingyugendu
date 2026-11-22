@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "climb",
-      "ko": "오르다"
+      "ko": "오르다",
+      "zh": "爬山",
+      "py": "pá shān"
     },
     {
       "en": "mountain",
-      "ko": "산"
+      "ko": "산",
+      "zh": "山",
+      "py": "shān"
     },
     {
       "en": "path",
-      "ko": "산길"
+      "ko": "산길",
+      "zh": "小路",
+      "py": "xiǎo lù"
     },
     {
       "en": "step",
-      "ko": "걸음"
+      "ko": "걸음",
+      "zh": "一步",
+      "py": "yī bù"
     },
     {
       "en": "tree",
-      "ko": "나무"
+      "ko": "나무",
+      "zh": "树",
+      "py": "shù"
     },
     {
       "en": "water",
-      "ko": "물"
+      "ko": "물",
+      "zh": "水",
+      "py": "shuǐ"
     },
     {
       "en": "tired",
-      "ko": "피곤한"
+      "ko": "피곤한",
+      "zh": "累",
+      "py": "lèi"
     },
     {
       "en": "top",
-      "ko": "꼭대기"
+      "ko": "꼭대기",
+      "zh": "山顶",
+      "py": "shān dǐng"
     },
     {
       "en": "view",
-      "ko": "경치"
+      "ko": "경치",
+      "zh": "风景",
+      "py": "fēng jǐng"
     },
     {
       "en": "proud",
-      "ko": "자랑스러운"
+      "ko": "자랑스러운",
+      "zh": "骄傲",
+      "py": "jiāo ào"
     }
   ],
   "phrases": [
@@ -68,49 +88,63 @@
       "highlights": [
         "climb",
         "mountain"
-      ]
+      ],
+      "zh": "我们爬一座小山。",
+      "py": "wǒ men pá yī zuò xiǎo shān。"
     },
     {
       "en": "The path is not too long.",
       "ko": "산길은 너무 길지 않아요.",
       "highlights": [
         "path"
-      ]
+      ],
+      "zh": "小路不算太长。",
+      "py": "xiǎo lù bù suàn tài cháng。"
     },
     {
       "en": "We take one step at a time.",
       "ko": "우리는 한 걸음씩 올라요.",
       "highlights": [
         "step"
-      ]
+      ],
+      "zh": "我们一步一步地走。",
+      "py": "wǒ men yī bù yī bù de zǒu。"
     },
     {
       "en": "Trees are all around.",
       "ko": "나무가 사방에 있어요.",
       "highlights": [
         "tree"
-      ]
+      ],
+      "zh": "周围都是树。",
+      "py": "zhōu wéi dōu shì shù。"
     },
     {
       "en": "I drink some water.",
       "ko": "나는 물을 마셔요.",
       "highlights": [
         "water"
-      ]
+      ],
+      "zh": "我喝了一些水。",
+      "py": "wǒ hē le yī xiē shuǐ。"
     },
     {
       "en": "I feel a little tired.",
       "ko": "나는 조금 피곤해요.",
       "highlights": [
         "tired"
-      ]
+      ],
+      "zh": "我有一点累。",
+      "py": "wǒ yǒu yì diǎn lèi。"
     },
     {
       "en": "We reach the top.",
       "ko": "우리는 꼭대기에 도착해요.",
       "highlights": [
         "top"
-      ]
+      ],
+      "zh": "我们到达山顶。",
+      "py": "wǒ men dào dá shān dǐng。"
     },
     {
       "en": "The view is wide, and I am proud.",
@@ -118,7 +152,9 @@
       "highlights": [
         "view",
         "proud"
-      ]
+      ],
+      "zh": "风景很开阔，我感到骄傲。",
+      "py": "fēng jǐng hěn kāi kuò， wǒ gǎn dào jiāo ào。"
     },
     {
       "en": "Each step on the path brings us higher.",
@@ -126,7 +162,9 @@
       "highlights": [
         "path",
         "step"
-      ]
+      ],
+      "zh": "小路上的每一步都让我们更高。",
+      "py": "xiǎo lù shàng de měi yī bù dōu ràng wǒ men gèng gāo。"
     },
     {
       "en": "I drink water when I feel tired.",
@@ -134,7 +172,9 @@
       "highlights": [
         "water",
         "tired"
-      ]
+      ],
+      "zh": "我累了就喝水。",
+      "py": "wǒ lèi le jiù hē shuǐ。"
     },
     {
       "en": "From the top, the view makes me proud of the climb.",
@@ -144,7 +184,9 @@
         "top",
         "view",
         "proud"
-      ]
+      ],
+      "zh": "在山顶，风景让我为这次爬山感到骄傲。",
+      "py": "zài shān dǐng， fēng jǐng ràng wǒ wèi zhè cì pá shān gǎn dào jiāo ào。"
     }
   ],
   "full_passage_lines": [
@@ -233,5 +275,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "We climb a small mountain. The path is not too long. We take one step at a time. Trees are all around. I drink some water. I feel a little tired. We reach the top. The view is wide, and I am proud. Each step on the path brings us higher. I drink water when I feel tired. From the top, the view makes me proud of the climb."
+  "full_passage_spoken": "We climb a small mountain. The path is not too long. We take one step at a time. Trees are all around. I drink some water. I feel a little tired. We reach the top. The view is wide, and I am proud. Each step on the path brings us higher. I drink water when I feel tired. From the top, the view makes me proud of the climb.",
+  "topic_zh": "爬山",
+  "topic_pinyin": "pá shān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们爬一座小山。小路不算太长。我们一步一步地走。周围都是树。我喝了一些水。我有一点累。我们到达山顶。风景很开阔，我感到骄傲。小路上的每一步都让我们更高。我累了就喝水。在山顶，风景让我为这次爬山感到骄傲。",
+  "full_passage_pinyin": "wǒ men pá yī zuò xiǎo shān。 xiǎo lù bù suàn tài cháng。 wǒ men yī bù yī bù de zǒu。 zhōu wéi dōu shì shù。 wǒ hē le yī xiē shuǐ。 wǒ yǒu yì diǎn lèi。 wǒ men dào dá shān dǐng。 fēng jǐng hěn kāi kuò， wǒ gǎn dào jiāo ào。 xiǎo lù shàng de měi yī bù dōu ràng wǒ men gèng gāo。 wǒ lèi le jiù hē shuǐ。 zài shān dǐng， fēng jǐng ràng wǒ wèi zhè cì pá shān gǎn dào jiāo ào。"
 }

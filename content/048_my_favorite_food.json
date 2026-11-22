@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "food",
-      "ko": "음식"
+      "ko": "음식",
+      "zh": "食物",
+      "py": "shí wù"
     },
     {
       "en": "rice",
-      "ko": "밥"
+      "ko": "밥",
+      "zh": "米饭",
+      "py": "mǐ fàn"
     },
     {
       "en": "soup",
-      "ko": "국"
+      "ko": "국",
+      "zh": "汤",
+      "py": "tāng"
     },
     {
       "en": "egg",
-      "ko": "달걀"
+      "ko": "달걀",
+      "zh": "鸡蛋",
+      "py": "jī dàn"
     },
     {
       "en": "chicken",
-      "ko": "닭고기"
+      "ko": "닭고기",
+      "zh": "鸡肉",
+      "py": "jī ròu"
     },
     {
       "en": "yummy",
-      "ko": "맛있는"
+      "ko": "맛있는",
+      "zh": "好吃",
+      "py": "hǎo chī"
     },
     {
       "en": "lunch",
-      "ko": "점심"
+      "ko": "점심",
+      "zh": "午饭",
+      "py": "wǔ fàn"
     },
     {
       "en": "thank",
-      "ko": "감사하다"
+      "ko": "감사하다",
+      "zh": "感谢",
+      "py": "gǎn xiè"
     },
     {
       "en": "grow",
-      "ko": "자라다"
+      "ko": "자라다",
+      "zh": "长大",
+      "py": "zhǎng dà"
     }
   ],
   "phrases": [
@@ -70,14 +90,18 @@
         "food",
         "rice",
         "soup"
-      ]
+      ],
+      "zh": "我最喜欢的食物是米饭，我也喜欢汤。",
+      "py": "wǒ zuì xǐ huān de shí wù shì mǐ fàn， wǒ yě xǐ huān tāng。"
     },
     {
       "en": "I like an egg.",
       "ko": "나는 달걀도 좋아해요.",
       "highlights": [
         "egg"
-      ]
+      ],
+      "zh": "我喜欢鸡蛋。",
+      "py": "wǒ xǐ huān jī dàn。"
     },
     {
       "en": "Chicken is yummy too.",
@@ -85,7 +109,9 @@
       "highlights": [
         "chicken",
         "yummy"
-      ]
+      ],
+      "zh": "鸡肉也很好吃。",
+      "py": "jī ròu yě hěn hǎo chī。"
     },
     {
       "en": "I eat rice at lunch.",
@@ -93,7 +119,9 @@
       "highlights": [
         "rice",
         "lunch"
-      ]
+      ],
+      "zh": "午饭我吃米饭。",
+      "py": "wǔ fàn wǒ chī mǐ fàn。"
     },
     {
       "en": "I say thank you for my food.",
@@ -101,7 +129,9 @@
       "highlights": [
         "food",
         "thank"
-      ]
+      ],
+      "zh": "我为食物说谢谢。",
+      "py": "wǒ wèi shí wù shuō xiè xiè。"
     },
     {
       "en": "Good food helps me grow.",
@@ -109,7 +139,9 @@
       "highlights": [
         "food",
         "grow"
-      ]
+      ],
+      "zh": "好的食物帮助我长大。",
+      "py": "hǎo de shí wù bāng zhù wǒ zhǎng dà。"
     },
     {
       "en": "My mother cooks rice and soup for dinner.",
@@ -117,14 +149,18 @@
       "highlights": [
         "rice",
         "soup"
-      ]
+      ],
+      "zh": "妈妈晚饭做米饭和汤。",
+      "py": "mā mā wǎn fàn zuò mǐ fàn hé tāng。"
     },
     {
       "en": "An egg at breakfast gives me energy.",
       "ko": "아침의 달걀은 나에게 힘을 줘요.",
       "highlights": [
         "egg"
-      ]
+      ],
+      "zh": "早饭的鸡蛋给我力量。",
+      "py": "zǎo fàn de jī dàn gěi wǒ lì liàng。"
     },
     {
       "en": "Yummy chicken is for a special day.",
@@ -132,7 +168,9 @@
       "highlights": [
         "chicken",
         "yummy"
-      ]
+      ],
+      "zh": "好吃的鸡肉是特别的日子吃的。",
+      "py": "hǎo chī de jī ròu shì tè bié de rì zi chī de。"
     },
     {
       "en": "I thank my family because they share the food.",
@@ -140,14 +178,18 @@
       "highlights": [
         "food",
         "thank"
-      ]
+      ],
+      "zh": "家人把食物分给我，所以我感谢他们。",
+      "py": "jiā rén bǎ shí wù fēn gěi wǒ， suǒ yǐ wǒ gǎn xiè tā men。"
     },
     {
       "en": "I want to grow strong, so I eat well.",
       "ko": "나는 튼튼하게 자라고 싶어서 잘 먹어요.",
       "highlights": [
         "grow"
-      ]
+      ],
+      "zh": "我想长得强壮，所以我好好吃饭。",
+      "py": "wǒ xiǎng zhǎng de qiáng zhuàng， suǒ yǐ wǒ hǎo hǎo chī fàn。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite food is rice, and I also like soup. I like an egg. Chicken is yummy too. I eat rice at lunch. I say thank you for my food. Good food helps me grow. My mother cooks rice and soup for dinner. An egg at breakfast gives me energy. Yummy chicken is for a special day. I thank my family because they share the food. I want to grow strong, so I eat well."
+  "full_passage_spoken": "My favorite food is rice, and I also like soup. I like an egg. Chicken is yummy too. I eat rice at lunch. I say thank you for my food. Good food helps me grow. My mother cooks rice and soup for dinner. An egg at breakfast gives me energy. Yummy chicken is for a special day. I thank my family because they share the food. I want to grow strong, so I eat well.",
+  "topic_zh": "我最喜欢的食物",
+  "topic_pinyin": "wǒ zuì xǐ huān de shí wù",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的食物是米饭，我也喜欢汤。我喜欢鸡蛋。鸡肉也很好吃。午饭我吃米饭。我为食物说谢谢。好的食物帮助我长大。妈妈晚饭做米饭和汤。早饭的鸡蛋给我力量。好吃的鸡肉是特别的日子吃的。家人把食物分给我，所以我感谢他们。我想长得强壮，所以我好好吃饭。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de shí wù shì mǐ fàn， wǒ yě xǐ huān tāng。 wǒ xǐ huān jī dàn。 jī ròu yě hěn hǎo chī。 wǔ fàn wǒ chī mǐ fàn。 wǒ wèi shí wù shuō xiè xiè。 hǎo de shí wù bāng zhù wǒ zhǎng dà。 mā mā wǎn fàn zuò mǐ fàn hé tāng。 zǎo fàn de jī dàn gěi wǒ lì liàng。 hǎo chī de jī ròu shì tè bié de rì zi chī de。 jiā rén bǎ shí wù fēn gěi wǒ， suǒ yǐ wǒ gǎn xiè tā men。 wǒ xiǎng zhǎng de qiáng zhuàng， suǒ yǐ wǒ hǎo hǎo chī fàn。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "learn",
-      "ko": "배우다"
+      "ko": "배우다",
+      "zh": "学",
+      "py": "xué"
     },
     {
       "en": "English",
-      "ko": "영어"
+      "ko": "영어",
+      "zh": "英语",
+      "py": "yīng yǔ"
     },
     {
       "en": "listen",
-      "ko": "듣다"
+      "ko": "듣다",
+      "zh": "听",
+      "py": "tīng"
     },
     {
       "en": "repeat",
-      "ko": "따라 하다"
+      "ko": "따라 하다",
+      "zh": "跟读",
+      "py": "gēn dú"
     },
     {
       "en": "speak",
-      "ko": "말하다"
+      "ko": "말하다",
+      "zh": "说",
+      "py": "shuō"
     },
     {
       "en": "aloud",
-      "ko": "소리 내어"
+      "ko": "소리 내어",
+      "zh": "大声",
+      "py": "dà shēng"
     },
     {
       "en": "word",
-      "ko": "단어"
+      "ko": "단어",
+      "zh": "单词",
+      "py": "dān cí"
     },
     {
       "en": "practice",
-      "ko": "연습하다"
+      "ko": "연습하다",
+      "zh": "练习",
+      "py": "liàn xí"
     },
     {
       "en": "brave",
-      "ko": "용기 있는"
+      "ko": "용기 있는",
+      "zh": "勇敢",
+      "py": "yǒng gǎn"
     },
     {
       "en": "every day",
-      "ko": "매일"
+      "ko": "매일",
+      "zh": "每天",
+      "py": "měi tiān"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "learn",
         "English"
-      ]
+      ],
+      "zh": "我想把英语学好。",
+      "py": "wǒ xiǎng bǎ yīng yǔ xué hǎo。"
     },
     {
       "en": "I listen and repeat.",
@@ -76,7 +98,9 @@
       "highlights": [
         "listen",
         "repeat"
-      ]
+      ],
+      "zh": "我听，然后跟读。",
+      "py": "wǒ tīng， rán hòu gēn dú。"
     },
     {
       "en": "I speak aloud.",
@@ -84,7 +108,9 @@
       "highlights": [
         "speak",
         "aloud"
-      ]
+      ],
+      "zh": "我大声说。",
+      "py": "wǒ dà shēng shuō。"
     },
     {
       "en": "I learn a new word every day.",
@@ -93,14 +119,18 @@
         "learn",
         "word",
         "every day"
-      ]
+      ],
+      "zh": "我每天学一个新单词。",
+      "py": "wǒ měi tiān xué yí gè xīn dān cí。"
     },
     {
       "en": "I practice with a friend.",
       "ko": "나는 친구와 연습해요.",
       "highlights": [
         "practice"
-      ]
+      ],
+      "zh": "我和一个朋友一起练习。",
+      "py": "wǒ hé yí gè péng yǒu yì qǐ liàn xí。"
     },
     {
       "en": "I am brave when I speak.",
@@ -108,14 +138,18 @@
       "highlights": [
         "speak",
         "brave"
-      ]
+      ],
+      "zh": "我说的时候很勇敢。",
+      "py": "wǒ shuō de shí hòu hěn yǒng gǎn。"
     },
     {
       "en": "A little every day helps, and I can do it.",
       "ko": "매일 조금씩 하면 도움이 되고, 나는 할 수 있어요.",
       "highlights": [
         "every day"
-      ]
+      ],
+      "zh": "每天一点点就会有帮助，我能做到。",
+      "py": "měi tiān yì diǎn diǎn jiù huì yǒu bāng zhù， wǒ néng zuò dào。"
     },
     {
       "en": "I listen to the sentence, and then I repeat it.",
@@ -123,7 +157,9 @@
       "highlights": [
         "listen",
         "repeat"
-      ]
+      ],
+      "zh": "我先听句子，然后再跟读。",
+      "py": "wǒ xiān tīng jù zi， rán hòu zài gēn dú。"
     },
     {
       "en": "Speaking aloud makes the word stay in my mind.",
@@ -132,14 +168,18 @@
         "speak",
         "aloud",
         "word"
-      ]
+      ],
+      "zh": "大声说，单词就会留在我心里。",
+      "py": "dà shēng shuō， dān cí jiù huì liú zài wǒ xīn lǐ。"
     },
     {
       "en": "My friend and I practice after school.",
       "ko": "친구와 나는 방과 후에 연습해요.",
       "highlights": [
         "practice"
-      ]
+      ],
+      "zh": "放学后我和朋友一起练习。",
+      "py": "fàng xué hòu wǒ hé péng yǒu yì qǐ liàn xí。"
     },
     {
       "en": "A brave student speaks even when the word is new.",
@@ -148,7 +188,9 @@
         "speak",
         "word",
         "brave"
-      ]
+      ],
+      "zh": "就算单词是新的，勇敢的学生也会说。",
+      "py": "jiù suàn dān cí shì xīn de， yǒng gǎn de xué shēng yě huì shuō。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I want to learn English well. I listen and repeat. I speak aloud. I learn a new word every day. I practice with a friend. I am brave when I speak. A little every day helps, and I can do it. I listen to the sentence, and then I repeat it. Speaking aloud makes the word stay in my mind. My friend and I practice after school. A brave student speaks even when the word is new."
+  "full_passage_spoken": "I want to learn English well. I listen and repeat. I speak aloud. I learn a new word every day. I practice with a friend. I am brave when I speak. A little every day helps, and I can do it. I listen to the sentence, and then I repeat it. Speaking aloud makes the word stay in my mind. My friend and I practice after school. A brave student speaks even when the word is new.",
+  "topic_zh": "怎样学好英语",
+  "topic_pinyin": "zěn yàng xué hǎo yīng yǔ",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我想把英语学好。我听，然后跟读。我大声说。我每天学一个新单词。我和一个朋友一起练习。我说的时候很勇敢。每天一点点就会有帮助，我能做到。我先听句子，然后再跟读。大声说，单词就会留在我心里。放学后我和朋友一起练习。就算单词是新的，勇敢的学生也会说。",
+  "full_passage_pinyin": "wǒ xiǎng bǎ yīng yǔ xué hǎo。 wǒ tīng， rán hòu gēn dú。 wǒ dà shēng shuō。 wǒ měi tiān xué yí gè xīn dān cí。 wǒ hé yí gè péng yǒu yì qǐ liàn xí。 wǒ shuō de shí hòu hěn yǒng gǎn。 měi tiān yì diǎn diǎn jiù huì yǒu bāng zhù， wǒ néng zuò dào。 wǒ xiān tīng jù zi， rán hòu zài gēn dú。 dà shēng shuō， dān cí jiù huì liú zài wǒ xīn lǐ。 fàng xué hòu wǒ hé péng yǒu yì qǐ liàn xí。 jiù suàn dān cí shì xīn de， yǒng gǎn de xué shēng yě huì shuō。"
 }

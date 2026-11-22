@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "national",
-      "ko": "나라의"
+      "ko": "나라의",
+      "zh": "全国",
+      "py": "quán guó"
     },
     {
       "en": "holiday",
-      "ko": "휴일"
+      "ko": "휴일",
+      "zh": "假日",
+      "py": "jià rì"
     },
     {
       "en": "flag",
-      "ko": "국기"
+      "ko": "국기",
+      "zh": "国旗",
+      "py": "guó qí"
     },
     {
       "en": "country",
-      "ko": "나라"
+      "ko": "나라",
+      "zh": "祖国",
+      "py": "zǔ guó"
     },
     {
       "en": "proud",
-      "ko": "자랑스러운"
+      "ko": "자랑스러운",
+      "zh": "骄傲",
+      "py": "jiāo ào"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "trip",
-      "ko": "여행"
+      "ko": "여행",
+      "zh": "旅行",
+      "py": "lǚ xíng"
     },
     {
       "en": "rest",
-      "ko": "쉬다"
+      "ko": "쉬다",
+      "zh": "休息",
+      "py": "xiū xī"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     },
     {
       "en": "special",
-      "ko": "특별한"
+      "ko": "특별한",
+      "zh": "特别",
+      "py": "tè bié"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "national",
         "holiday"
-      ]
+      ],
+      "zh": "这是一个全国的假日。",
+      "py": "zhè shì yí gè quán guó de jià rì。"
     },
     {
       "en": "I see our flag.",
       "ko": "나는 우리나라 국기를 봐요.",
       "highlights": [
         "flag"
-      ]
+      ],
+      "zh": "我看见我们的国旗。",
+      "py": "wǒ kàn jiàn wǒ men de guó qí。"
     },
     {
       "en": "I feel proud of my country.",
@@ -83,7 +107,9 @@
       "highlights": [
         "country",
         "proud"
-      ]
+      ],
+      "zh": "我为我的祖国感到骄傲。",
+      "py": "wǒ wèi wǒ de zǔ guó gǎn dào jiāo ào。"
     },
     {
       "en": "My family takes a short trip.",
@@ -91,21 +117,27 @@
       "highlights": [
         "family",
         "trip"
-      ]
+      ],
+      "zh": "我的家人去一次短途旅行。",
+      "py": "wǒ de jiā rén qù yī cì duǎn tú lǚ xíng。"
     },
     {
       "en": "We also rest at home.",
       "ko": "우리는 집에서도 쉬어요.",
       "highlights": [
         "rest"
-      ]
+      ],
+      "zh": "我们也在家休息。",
+      "py": "wǒ men yě zài jiā xiū xī。"
     },
     {
       "en": "We eat together.",
       "ko": "우리는 함께 먹어요.",
       "highlights": [
         "together"
-      ]
+      ],
+      "zh": "我们一起吃饭。",
+      "py": "wǒ men yì qǐ chī fàn。"
     },
     {
       "en": "The holiday is special, and I love my country.",
@@ -114,7 +146,9 @@
         "holiday",
         "country",
         "special"
-      ]
+      ],
+      "zh": "这个假日很特别，我爱我的祖国。",
+      "py": "zhè ge jià rì hěn tè bié， wǒ ài wǒ de zǔ guó。"
     },
     {
       "en": "The flag moves in the wind, and I feel proud.",
@@ -122,7 +156,9 @@
       "highlights": [
         "flag",
         "proud"
-      ]
+      ],
+      "zh": "国旗在风里飘，我感到骄傲。",
+      "py": "guó qí zài fēng lǐ piāo， wǒ gǎn dào jiāo ào。"
     },
     {
       "en": "A national holiday is a special day for families.",
@@ -131,7 +167,9 @@
         "national",
         "holiday",
         "special"
-      ]
+      ],
+      "zh": "全国的假日是家人的特别日子。",
+      "py": "quán guó de jià rì shì jiā rén de tè bié rì zi。"
     },
     {
       "en": "We rest together after the short trip.",
@@ -140,7 +178,9 @@
         "trip",
         "rest",
         "together"
-      ]
+      ],
+      "zh": "短途旅行以后，我们一起休息。",
+      "py": "duǎn tú lǚ xíng yǐ hòu， wǒ men yì qǐ xiū xī。"
     },
     {
       "en": "I love my country, and I am glad for this holiday.",
@@ -148,7 +188,9 @@
       "highlights": [
         "holiday",
         "country"
-      ]
+      ],
+      "zh": "我爱我的祖国，我为这个假日高兴。",
+      "py": "wǒ ài wǒ de zǔ guó， wǒ wèi zhè ge jià rì gāo xìng。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "It is a national holiday. I see our flag. I feel proud of my country. My family takes a short trip. We also rest at home. We eat together. The holiday is special, and I love my country. The flag moves in the wind, and I feel proud. A national holiday is a special day for families. We rest together after the short trip. I love my country, and I am glad for this holiday."
+  "full_passage_spoken": "It is a national holiday. I see our flag. I feel proud of my country. My family takes a short trip. We also rest at home. We eat together. The holiday is special, and I love my country. The flag moves in the wind, and I feel proud. A national holiday is a special day for families. We rest together after the short trip. I love my country, and I am glad for this holiday.",
+  "topic_zh": "我的国家假日",
+  "topic_pinyin": "wǒ de guó jiā jià rì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是一个全国的假日。我看见我们的国旗。我为我的祖国感到骄傲。我的家人去一次短途旅行。我们也在家休息。我们一起吃饭。这个假日很特别，我爱我的祖国。国旗在风里飘，我感到骄傲。全国的假日是家人的特别日子。短途旅行以后，我们一起休息。我爱我的祖国，我为这个假日高兴。",
+  "full_passage_pinyin": "zhè shì yí gè quán guó de jià rì。 wǒ kàn jiàn wǒ men de guó qí。 wǒ wèi wǒ de zǔ guó gǎn dào jiāo ào。 wǒ de jiā rén qù yī cì duǎn tú lǚ xíng。 wǒ men yě zài jiā xiū xī。 wǒ men yì qǐ chī fàn。 zhè ge jià rì hěn tè bié， wǒ ài wǒ de zǔ guó。 guó qí zài fēng lǐ piāo， wǒ gǎn dào jiāo ào。 quán guó de jià rì shì jiā rén de tè bié rì zi。 duǎn tú lǚ xíng yǐ hòu， wǒ men yì qǐ xiū xī。 wǒ ài wǒ de zǔ guó， wǒ wèi zhè ge jià rì gāo xìng。"
 }

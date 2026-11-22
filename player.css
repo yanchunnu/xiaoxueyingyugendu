@@ -24,6 +24,7 @@ header.top {
 header.top a { color: white; text-decoration: none; font-weight: 700; }
 header.top h1 { margin: 8px 0 0; font-size: 28px; line-height: 1.2; }
 header.top p { margin: 4px 0 0; font-size: 16px; opacity: 0.95; }
+header.top .py { color: #fff4e8; font-size: 15px; font-weight: 700; }
 .controls {
   position: sticky;
   top: 0;
@@ -98,8 +99,18 @@ ol.passage li {
 }
 ol.passage li.current { border-color: var(--coral); background: #fff4ef; }
 .en { font-size: 20px; line-height: 1.45; font-weight: 700; }
+.py { color: #8a5a44; font-size: 15px; line-height: 1.35; font-weight: 700; letter-spacing: 0.01em; }
 .ko { margin-top: 4px; color: var(--ko); font-size: 17px; line-height: 1.45; }
 body.hide-ko .ko { display: none; }
+body.hide-py .py { display: none; }
+body.lang-zh .en { font-family: "PingFang SC", "Noto Sans SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; font-size: 22px; }
+.lang-switch { display: flex; gap: 8px; }
+.lang-switch button { flex: 1; }
+.lang-switch button[aria-pressed="false"] {
+  background: white;
+  color: var(--navy);
+  border: 2px solid var(--teal);
+}
 aside {
   background: white;
   border: 1px solid var(--line);
@@ -115,5 +126,7 @@ aside h2 { margin: 4px 8px 8px; font-size: 16px; color: var(--teal); }
 .word:nth-child(odd) { background: var(--mint); }
 .word.current { outline: 3px solid var(--coral); }
 .word .en { font-size: 18px; }
+.word .py { font-size: 13px; }
 .word .ko { font-size: 15px; }
+body.lang-zh .word .en { font-size: 20px; }
 .passage.current-all li { background: #f3fbf9; }

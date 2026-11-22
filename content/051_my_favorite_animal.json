@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "animal",
-      "ko": "동물"
+      "ko": "동물",
+      "zh": "动物",
+      "py": "dòng wù"
     },
     {
       "en": "rabbit",
-      "ko": "토끼"
+      "ko": "토끼",
+      "zh": "兔子",
+      "py": "tù zi"
     },
     {
       "en": "ear",
-      "ko": "귀"
+      "ko": "귀",
+      "zh": "耳朵",
+      "py": "ěr duǒ"
     },
     {
       "en": "long",
-      "ko": "긴"
+      "ko": "긴",
+      "zh": "很长",
+      "py": "hěn cháng"
     },
     {
       "en": "soft",
-      "ko": "부드러운"
+      "ko": "부드러운",
+      "zh": "柔软",
+      "py": "róu ruǎn"
     },
     {
       "en": "hop",
-      "ko": "깡충뛰다"
+      "ko": "깡충뛰다",
+      "zh": "跳",
+      "py": "tiào"
     },
     {
       "en": "carrot",
-      "ko": "당근"
+      "ko": "당근",
+      "zh": "胡萝卜",
+      "py": "hú luó bo"
     },
     {
       "en": "cute",
-      "ko": "귀여운"
+      "ko": "귀여운",
+      "zh": "可爱",
+      "py": "kě ài"
     },
     {
       "en": "gentle",
-      "ko": "순한"
+      "ko": "순한",
+      "zh": "温和",
+      "py": "wēn hé"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "favorite",
         "animal",
         "rabbit"
-      ]
+      ],
+      "zh": "我最喜欢的动物是兔子。",
+      "py": "wǒ zuì xǐ huān de dòng wù shì tù zi。"
     },
     {
       "en": "It has long ears, and it is soft.",
@@ -78,21 +100,27 @@
         "ear",
         "long",
         "soft"
-      ]
+      ],
+      "zh": "它有长耳朵，身体也很柔软。",
+      "py": "tā yǒu cháng ěr duo， shēn tǐ yě hěn róu ruǎn。"
     },
     {
       "en": "It can hop.",
       "ko": "토끼는 깡충뛸 수 있어요.",
       "highlights": [
         "hop"
-      ]
+      ],
+      "zh": "它会跳。",
+      "py": "tā huì tiào。"
     },
     {
       "en": "It likes a carrot.",
       "ko": "토끼는 당근을 좋아해요.",
       "highlights": [
         "carrot"
-      ]
+      ],
+      "zh": "它喜欢胡萝卜。",
+      "py": "tā xǐ huān hú luó bo。"
     },
     {
       "en": "A rabbit is cute, and a rabbit is gentle.",
@@ -101,14 +129,18 @@
         "rabbit",
         "cute",
         "gentle"
-      ]
+      ],
+      "zh": "兔子很可爱，也很温和。",
+      "py": "tù zi hěn kě ài， yě hěn wēn hé。"
     },
     {
       "en": "I like this animal.",
       "ko": "나는 이 동물을 좋아해요.",
       "highlights": [
         "animal"
-      ]
+      ],
+      "zh": "我喜欢这种动物。",
+      "py": "wǒ xǐ huān zhè zhǒng dòng wù。"
     },
     {
       "en": "Long ears make the rabbit easy to know.",
@@ -117,21 +149,27 @@
         "rabbit",
         "ear",
         "long"
-      ]
+      ],
+      "zh": "长耳朵让人很容易认出兔子。",
+      "py": "cháng ěr duo ràng rén hěn róng yì rèn chū tù zi。"
     },
     {
       "en": "Its soft fur is nice to touch.",
       "ko": "부드러운 털은 만지기 좋아요.",
       "highlights": [
         "soft"
-      ]
+      ],
+      "zh": "它柔软的毛摸起来很好。",
+      "py": "tā róu ruǎn de máo mō qǐ lái hěn hǎo。"
     },
     {
       "en": "It can hop across the grass.",
       "ko": "토끼는 풀밭을 깡충 건너뛸 수 있어요.",
       "highlights": [
         "hop"
-      ]
+      ],
+      "zh": "它能跳过草地。",
+      "py": "tā néng tiào guò cǎo dì。"
     },
     {
       "en": "A gentle animal does not scare me.",
@@ -139,7 +177,9 @@
       "highlights": [
         "animal",
         "gentle"
-      ]
+      ],
+      "zh": "温和的动物不会吓到我。",
+      "py": "wēn hé de dòng wù bú huì xià dào wǒ。"
     },
     {
       "en": "A cute rabbit with a carrot is my favorite picture.",
@@ -149,7 +189,9 @@
         "rabbit",
         "carrot",
         "cute"
-      ]
+      ],
+      "zh": "一只带着胡萝卜的可爱兔子，是我最喜欢的图画。",
+      "py": "yī zhī dài zhe hú luó bo de kě ài tù zi， shì wǒ zuì xǐ huān de tú huà。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite animal is a rabbit. It has long ears, and it is soft. It can hop. It likes a carrot. A rabbit is cute, and a rabbit is gentle. I like this animal. Long ears make the rabbit easy to know. Its soft fur is nice to touch. It can hop across the grass. A gentle animal does not scare me. A cute rabbit with a carrot is my favorite picture."
+  "full_passage_spoken": "My favorite animal is a rabbit. It has long ears, and it is soft. It can hop. It likes a carrot. A rabbit is cute, and a rabbit is gentle. I like this animal. Long ears make the rabbit easy to know. Its soft fur is nice to touch. It can hop across the grass. A gentle animal does not scare me. A cute rabbit with a carrot is my favorite picture.",
+  "topic_zh": "我最喜欢的动物",
+  "topic_pinyin": "wǒ zuì xǐ huān de dòng wù",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的动物是兔子。它有长耳朵，身体也很柔软。它会跳。它喜欢胡萝卜。兔子很可爱，也很温和。我喜欢这种动物。长耳朵让人很容易认出兔子。它柔软的毛摸起来很好。它能跳过草地。温和的动物不会吓到我。一只带着胡萝卜的可爱兔子，是我最喜欢的图画。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de dòng wù shì tù zi。 tā yǒu cháng ěr duo， shēn tǐ yě hěn róu ruǎn。 tā huì tiào。 tā xǐ huān hú luó bo。 tù zi hěn kě ài， yě hěn wēn hé。 wǒ xǐ huān zhè zhǒng dòng wù。 cháng ěr duo ràng rén hěn róng yì rèn chū tù zi。 tā róu ruǎn de máo mō qǐ lái hěn hǎo。 tā néng tiào guò cǎo dì。 wēn hé de dòng wù bú huì xià dào wǒ。 yī zhī dài zhe hú luó bo de kě ài tù zi， shì wǒ zuì xǐ huān de tú huà。"
 }

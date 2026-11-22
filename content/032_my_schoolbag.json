@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "schoolbag",
-      "ko": "책가방"
+      "ko": "책가방",
+      "zh": "书包",
+      "py": "shū bāo"
     },
     {
       "en": "blue",
-      "ko": "파란색"
+      "ko": "파란색",
+      "zh": "蓝色",
+      "py": "lán sè"
     },
     {
       "en": "heavy",
-      "ko": "무거운"
+      "ko": "무거운",
+      "zh": "很重",
+      "py": "hěn zhòng"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "pencil",
-      "ko": "연필"
+      "ko": "연필",
+      "zh": "铅笔",
+      "py": "qiān bǐ"
     },
     {
       "en": "notebook",
-      "ko": "공책"
+      "ko": "공책",
+      "zh": "笔记本",
+      "py": "bǐ jì běn"
     },
     {
       "en": "inside",
-      "ko": "안에"
+      "ko": "안에",
+      "zh": "里面",
+      "py": "lǐ miàn"
     },
     {
       "en": "carry",
-      "ko": "들고 다니다"
+      "ko": "들고 다니다",
+      "zh": "背着",
+      "py": "bēi zhe"
     },
     {
       "en": "every day",
-      "ko": "매일"
+      "ko": "매일",
+      "zh": "每天",
+      "py": "měi tiān"
     },
     {
       "en": "pack",
-      "ko": "챙기다"
+      "ko": "챙기다",
+      "zh": "收拾",
+      "py": "shōu shí"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "schoolbag",
         "blue",
         "heavy"
-      ]
+      ],
+      "zh": "我的书包是蓝色的，有一点重。",
+      "py": "wǒ de shū bāo shì lán sè de， yǒu yì diǎn zhòng。"
     },
     {
       "en": "My book is inside, and my pencil is inside too.",
@@ -78,7 +100,9 @@
         "book",
         "pencil",
         "inside"
-      ]
+      ],
+      "zh": "我的书在里面，铅笔也在里面。",
+      "py": "wǒ de shū zài lǐ miàn， qiān bǐ yě zài lǐ miàn。"
     },
     {
       "en": "My notebook is inside too.",
@@ -86,7 +110,9 @@
       "highlights": [
         "notebook",
         "inside"
-      ]
+      ],
+      "zh": "笔记本也在里面。",
+      "py": "bǐ jì běn yě zài lǐ miàn。"
     },
     {
       "en": "I carry it every day, and I pack it at night.",
@@ -95,7 +121,9 @@
         "carry",
         "every day",
         "pack"
-      ]
+      ],
+      "zh": "我每天背着它，晚上把它收拾好。",
+      "py": "wǒ měi tiān bēi zhe tā， wǎn shàng bǎ tā shōu shí hǎo。"
     },
     {
       "en": "I pack my schoolbag before I sleep.",
@@ -103,7 +131,9 @@
       "highlights": [
         "schoolbag",
         "pack"
-      ]
+      ],
+      "zh": "睡觉前我收拾书包。",
+      "py": "shuì jiào qián wǒ shōu shí shū bāo。"
     },
     {
       "en": "A heavy bag means I have many books.",
@@ -111,21 +141,27 @@
       "highlights": [
         "heavy",
         "book"
-      ]
+      ],
+      "zh": "书包重，说明我有许多书。",
+      "py": "shū bāo zhòng， shuō míng wǒ yǒu xǔ duō shū。"
     },
     {
       "en": "The blue color is easy to see.",
       "ko": "파란색은 보기 쉬워요.",
       "highlights": [
         "blue"
-      ]
+      ],
+      "zh": "蓝色很容易看见。",
+      "py": "lán sè hěn róng yì kàn jiàn。"
     },
     {
       "en": "I carry it on my back to school.",
       "ko": "나는 학교에 갈 때 책가방을 등에 메고 다녀요.",
       "highlights": [
         "carry"
-      ]
+      ],
+      "zh": "我把它背在背上上学。",
+      "py": "wǒ bǎ tā bēi zài bèi shang shàng xué。"
     },
     {
       "en": "Every day I check the pencil and the notebook.",
@@ -134,7 +170,9 @@
         "pencil",
         "notebook",
         "every day"
-      ]
+      ],
+      "zh": "我每天检查铅笔和笔记本。",
+      "py": "wǒ měi tiān jiǎn chá qiān bǐ hé bǐ jì běn。"
     },
     {
       "en": "If something is not inside, I pack it again.",
@@ -142,14 +180,18 @@
       "highlights": [
         "inside",
         "pack"
-      ]
+      ],
+      "zh": "如果有东西不在里面，我就再收拾一次。",
+      "py": "rú guǒ yǒu dōng xī bù zài lǐ miàn， wǒ jiù zài shōu shí yī cì。"
     },
     {
       "en": "My schoolbag is ready for the sixth grade.",
       "ko": "나의 책가방은 6학년에 맞게 준비되어 있어요.",
       "highlights": [
         "schoolbag"
-      ]
+      ],
+      "zh": "我的书包已经为六年级准备好了。",
+      "py": "wǒ de shū bāo yǐ jīng wèi liù nián jí zhǔn bèi hǎo le。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My schoolbag is blue, and it is a little heavy. My book is inside, and my pencil is inside too. My notebook is inside too. I carry it every day, and I pack it at night. I pack my schoolbag before I sleep. A heavy bag means I have many books. The blue color is easy to see. I carry it on my back to school. Every day I check the pencil and the notebook. If something is not inside, I pack it again. My schoolbag is ready for the sixth grade."
+  "full_passage_spoken": "My schoolbag is blue, and it is a little heavy. My book is inside, and my pencil is inside too. My notebook is inside too. I carry it every day, and I pack it at night. I pack my schoolbag before I sleep. A heavy bag means I have many books. The blue color is easy to see. I carry it on my back to school. Every day I check the pencil and the notebook. If something is not inside, I pack it again. My schoolbag is ready for the sixth grade.",
+  "topic_zh": "我的书包",
+  "topic_pinyin": "wǒ de shū bāo",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的书包是蓝色的，有一点重。我的书在里面，铅笔也在里面。笔记本也在里面。我每天背着它，晚上把它收拾好。睡觉前我收拾书包。书包重，说明我有许多书。蓝色很容易看见。我把它背在背上上学。我每天检查铅笔和笔记本。如果有东西不在里面，我就再收拾一次。我的书包已经为六年级准备好了。",
+  "full_passage_pinyin": "wǒ de shū bāo shì lán sè de， yǒu yì diǎn zhòng。 wǒ de shū zài lǐ miàn， qiān bǐ yě zài lǐ miàn。 bǐ jì běn yě zài lǐ miàn。 wǒ měi tiān bēi zhe tā， wǎn shàng bǎ tā shōu shí hǎo。 shuì jiào qián wǒ shōu shí shū bāo。 shū bāo zhòng， shuō míng wǒ yǒu xǔ duō shū。 lán sè hěn róng yì kàn jiàn。 wǒ bǎ tā bēi zài bèi shang shàng xué。 wǒ měi tiān jiǎn chá qiān bǐ hé bǐ jì běn。 rú guǒ yǒu dōng xī bù zài lǐ miàn， wǒ jiù zài shōu shí yī cì。 wǒ de shū bāo yǐ jīng wèi liù nián jí zhǔn bèi hǎo le。"
 }

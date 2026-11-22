@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "dream",
-      "ko": "꿈"
+      "ko": "꿈",
+      "zh": "梦想",
+      "py": "mèng xiǎng"
     },
     {
       "en": "doctor",
-      "ko": "의사"
+      "ko": "의사",
+      "zh": "医生",
+      "py": "yī shēng"
     },
     {
       "en": "sick",
-      "ko": "아픈"
+      "ko": "아픈",
+      "zh": "生病",
+      "py": "shēng bìng"
     },
     {
       "en": "people",
-      "ko": "사람들"
+      "ko": "사람들",
+      "zh": "人们",
+      "py": "rén men"
     },
     {
       "en": "hospital",
-      "ko": "병원"
+      "ko": "병원",
+      "zh": "医院",
+      "py": "yī yuàn"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     },
     {
       "en": "care",
-      "ko": "돌보다"
+      "ko": "돌보다",
+      "zh": "照顾",
+      "py": "zhào gù"
     },
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "hope",
-      "ko": "바라다"
+      "ko": "바라다",
+      "zh": "希望",
+      "py": "xī wàng"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "dream",
         "doctor"
-      ]
+      ],
+      "zh": "我的一个梦想是当医生。",
+      "py": "wǒ de yí gè mèng xiǎng shì dāng yī shēng。"
     },
     {
       "en": "A doctor helps sick people.",
@@ -78,7 +100,9 @@
         "sick",
         "people",
         "help"
-      ]
+      ],
+      "zh": "医生帮助生病的人。",
+      "py": "yī shēng bāng zhù shēng bìng de rén。"
     },
     {
       "en": "A doctor works at a hospital.",
@@ -86,7 +110,9 @@
       "highlights": [
         "doctor",
         "hospital"
-      ]
+      ],
+      "zh": "医生在医院工作。",
+      "py": "yī shēng zài yī yuàn gōng zuò。"
     },
     {
       "en": "A doctor can care for them.",
@@ -94,7 +120,9 @@
       "highlights": [
         "doctor",
         "care"
-      ]
+      ],
+      "zh": "医生可以照顾他们。",
+      "py": "yī shēng kě yǐ zhào gù tā men。"
     },
     {
       "en": "I want people to be healthy.",
@@ -102,7 +130,9 @@
       "highlights": [
         "people",
         "healthy"
-      ]
+      ],
+      "zh": "我希望人们健康。",
+      "py": "wǒ xī wàng rén men jiàn kāng。"
     },
     {
       "en": "I hope to help, and a doctor is kind.",
@@ -112,7 +142,9 @@
         "help",
         "hope",
         "kind"
-      ]
+      ],
+      "zh": "我希望能帮助别人，医生也很善良。",
+      "py": "wǒ xī wàng néng bāng zhù bié rén， yī shēng yě hěn shàn liáng。"
     },
     {
       "en": "Helping is a good dream.",
@@ -120,14 +152,18 @@
       "highlights": [
         "dream",
         "help"
-      ]
+      ],
+      "zh": "帮助别人是一个好梦想。",
+      "py": "bāng zhù bié rén shì yí gè hǎo mèng xiǎng。"
     },
     {
       "en": "My father is a doctor, so I see this work.",
       "ko": "아버지는 의사라서 나는 이 일을 봐요.",
       "highlights": [
         "doctor"
-      ]
+      ],
+      "zh": "我的爸爸是医生，所以我看见这份工作。",
+      "py": "wǒ de bà bà shì yī shēng， suǒ yǐ wǒ kàn jiàn zhè fèn gōng zuò。"
     },
     {
       "en": "Sick people need a calm and kind doctor.",
@@ -137,7 +173,9 @@
         "sick",
         "people",
         "kind"
-      ]
+      ],
+      "zh": "生病的人需要冷静又善良的医生。",
+      "py": "shēng bìng de rén xū yào lěng jìng yòu shàn liáng de yī shēng。"
     },
     {
       "en": "I hope I can care for them one day.",
@@ -145,14 +183,18 @@
       "highlights": [
         "care",
         "hope"
-      ]
+      ],
+      "zh": "我希望有一天我能照顾他们。",
+      "py": "wǒ xī wàng yǒu yī tiān wǒ néng zhào gù tā men。"
     },
     {
       "en": "A healthy town is a happy town.",
       "ko": "건강한 마을은 행복한 마을이에요.",
       "highlights": [
         "healthy"
-      ]
+      ],
+      "zh": "健康的小镇是快乐的小镇。",
+      "py": "jiàn kāng de xiǎo zhèn shì kuài lè de xiǎo zhèn。"
     }
   ],
   "full_passage_lines": [
@@ -249,5 +291,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "One dream is to be a doctor. A doctor helps sick people. A doctor works at a hospital. A doctor can care for them. I want people to be healthy. I hope to help, and a doctor is kind. Helping is a good dream. My father is a doctor, so I see this work. Sick people need a calm and kind doctor. I hope I can care for them one day. A healthy town is a happy town."
+  "full_passage_spoken": "One dream is to be a doctor. A doctor helps sick people. A doctor works at a hospital. A doctor can care for them. I want people to be healthy. I hope to help, and a doctor is kind. Helping is a good dream. My father is a doctor, so I see this work. Sick people need a calm and kind doctor. I hope I can care for them one day. A healthy town is a happy town.",
+  "topic_zh": "我的梦想（医生）",
+  "topic_pinyin": "wǒ de mèng xiǎng（ yī shēng）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的一个梦想是当医生。医生帮助生病的人。医生在医院工作。医生可以照顾他们。我希望人们健康。我希望能帮助别人，医生也很善良。帮助别人是一个好梦想。我的爸爸是医生，所以我看见这份工作。生病的人需要冷静又善良的医生。我希望有一天我能照顾他们。健康的小镇是快乐的小镇。",
+  "full_passage_pinyin": "wǒ de yí gè mèng xiǎng shì dāng yī shēng。 yī shēng bāng zhù shēng bìng de rén。 yī shēng zài yī yuàn gōng zuò。 yī shēng kě yǐ zhào gù tā men。 wǒ xī wàng rén men jiàn kāng。 wǒ xī wàng néng bāng zhù bié rén， yī shēng yě hěn shàn liáng。 bāng zhù bié rén shì yí gè hǎo mèng xiǎng。 wǒ de bà bà shì yī shēng， suǒ yǐ wǒ kàn jiàn zhè fèn gōng zuò。 shēng bìng de rén xū yào lěng jìng yòu shàn liáng de yī shēng。 wǒ xī wàng yǒu yī tiān wǒ néng zhào gù tā men。 jiàn kāng de xiǎo zhèn shì kuài lè de xiǎo zhèn。"
 }

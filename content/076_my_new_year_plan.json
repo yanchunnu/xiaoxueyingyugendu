@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "New Year",
-      "ko": "새해"
+      "ko": "새해",
+      "zh": "新年",
+      "py": "xīn nián"
     },
     {
       "en": "plan",
-      "ko": "계획"
+      "ko": "계획",
+      "zh": "计划",
+      "py": "jì huà"
     },
     {
       "en": "reading",
-      "ko": "독서"
+      "ko": "독서",
+      "zh": "阅读",
+      "py": "yuè dú"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "exercise",
-      "ko": "운동하다"
+      "ko": "운동하다",
+      "zh": "锻炼",
+      "py": "duàn liàn"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "early",
-      "ko": "일찍"
+      "ko": "일찍",
+      "zh": "早起",
+      "py": "zǎo qǐ"
     },
     {
       "en": "goal",
-      "ko": "목표"
+      "ko": "목표",
+      "zh": "目标",
+      "py": "mù biāo"
     },
     {
       "en": "try",
-      "ko": "노력하다"
+      "ko": "노력하다",
+      "zh": "试试",
+      "py": "shì shì"
     },
     {
       "en": "keep",
-      "ko": "지키다"
+      "ko": "지키다",
+      "zh": "坚持",
+      "py": "jiān chí"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "New Year",
         "plan"
-      ]
+      ],
+      "zh": "新年到了，我制定一个计划。",
+      "py": "xīn nián dào le， wǒ zhì dìng yí gè jì huà。"
     },
     {
       "en": "Reading a book is my plan.",
@@ -77,35 +99,45 @@
         "plan",
         "reading",
         "book"
-      ]
+      ],
+      "zh": "读书是我的计划。",
+      "py": "dú shū shì wǒ de jì huà。"
     },
     {
       "en": "I will exercise.",
       "ko": "나는 운동할 거예요.",
       "highlights": [
         "exercise"
-      ]
+      ],
+      "zh": "我要锻炼。",
+      "py": "wǒ yào duàn liàn。"
     },
     {
       "en": "I will be kind.",
       "ko": "나는 친절할 거예요.",
       "highlights": [
         "kind"
-      ]
+      ],
+      "zh": "我要做个善良的人。",
+      "py": "wǒ yào zuò gè shàn liáng de rén。"
     },
     {
       "en": "I will get up early.",
       "ko": "나는 일찍 일어날 거예요.",
       "highlights": [
         "early"
-      ]
+      ],
+      "zh": "我要早起。",
+      "py": "wǒ yào zǎo qǐ。"
     },
     {
       "en": "This is my goal.",
       "ko": "이것이 나의 목표예요.",
       "highlights": [
         "goal"
-      ]
+      ],
+      "zh": "这就是我的目标。",
+      "py": "zhè jiù shì wǒ de mù biāo。"
     },
     {
       "en": "I will try to keep it.",
@@ -113,7 +145,9 @@
       "highlights": [
         "try",
         "keep"
-      ]
+      ],
+      "zh": "我会努力坚持。",
+      "py": "wǒ huì nǔ lì jiān chí。"
     },
     {
       "en": "The New Year is a good time for a new plan.",
@@ -121,7 +155,9 @@
       "highlights": [
         "New Year",
         "plan"
-      ]
+      ],
+      "zh": "新年是制定新计划的好时候。",
+      "py": "xīn nián shì zhì dìng xīn jì huà de hǎo shí hòu。"
     },
     {
       "en": "Reading one book each month is my goal.",
@@ -130,7 +166,9 @@
         "reading",
         "book",
         "goal"
-      ]
+      ],
+      "zh": "每个月读一本书是我的目标。",
+      "py": "měi gè yuè dú yī běn shū shì wǒ de mù biāo。"
     },
     {
       "en": "I will exercise, and I will be kind at home.",
@@ -138,7 +176,9 @@
       "highlights": [
         "exercise",
         "kind"
-      ]
+      ],
+      "zh": "我要锻炼，也要在家里做个善良的人。",
+      "py": "wǒ yào duàn liàn， yě yào zài jiā lǐ zuò gè shàn liáng de rén。"
     },
     {
       "en": "I will try every week to keep this plan.",
@@ -147,7 +187,9 @@
         "plan",
         "try",
         "keep"
-      ]
+      ],
+      "zh": "我每个星期都会试试，把这个计划坚持下去。",
+      "py": "wǒ měi gè xīng qī dū huì shì shì， bǎ zhè ge jì huà jiān chí xià qù。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "It is the New Year, and I make a plan. Reading a book is my plan. I will exercise. I will be kind. I will get up early. This is my goal. I will try to keep it. The New Year is a good time for a new plan. Reading one book each month is my goal. I will exercise, and I will be kind at home. I will try every week to keep this plan."
+  "full_passage_spoken": "It is the New Year, and I make a plan. Reading a book is my plan. I will exercise. I will be kind. I will get up early. This is my goal. I will try to keep it. The New Year is a good time for a new plan. Reading one book each month is my goal. I will exercise, and I will be kind at home. I will try every week to keep this plan.",
+  "topic_zh": "我的新年计划",
+  "topic_pinyin": "wǒ de xīn nián jì huà",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "新年到了，我制定一个计划。读书是我的计划。我要锻炼。我要做个善良的人。我要早起。这就是我的目标。我会努力坚持。新年是制定新计划的好时候。每个月读一本书是我的目标。我要锻炼，也要在家里做个善良的人。我每个星期都会试试，把这个计划坚持下去。",
+  "full_passage_pinyin": "xīn nián dào le， wǒ zhì dìng yí gè jì huà。 dú shū shì wǒ de jì huà。 wǒ yào duàn liàn。 wǒ yào zuò gè shàn liáng de rén。 wǒ yào zǎo qǐ。 zhè jiù shì wǒ de mù biāo。 wǒ huì nǔ lì jiān chí。 xīn nián shì zhì dìng xīn jì huà de hǎo shí hòu。 měi gè yuè dú yī běn shū shì wǒ de mù biāo。 wǒ yào duàn liàn， yě yào zài jiā lǐ zuò gè shàn liáng de rén。 wǒ měi gè xīng qī dū huì shì shì， bǎ zhè ge jì huà jiān chí xià qù。"
 }

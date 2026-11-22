@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "color",
-      "ko": "색깔"
+      "ko": "색깔",
+      "zh": "颜色",
+      "py": "yán sè"
     },
     {
       "en": "red",
-      "ko": "빨간색"
+      "ko": "빨간색",
+      "zh": "红色",
+      "py": "hóng sè"
     },
     {
       "en": "bright",
-      "ko": "밝은"
+      "ko": "밝은",
+      "zh": "明亮",
+      "py": "míng liàng"
     },
     {
       "en": "sky",
-      "ko": "하늘"
+      "ko": "하늘",
+      "zh": "天空",
+      "py": "tiān kōng"
     },
     {
       "en": "blue",
-      "ko": "파란색"
+      "ko": "파란색",
+      "zh": "蓝色",
+      "py": "lán sè"
     },
     {
       "en": "grass",
-      "ko": "풀"
+      "ko": "풀",
+      "zh": "草",
+      "py": "cǎo"
     },
     {
       "en": "green",
-      "ko": "초록색"
+      "ko": "초록색",
+      "zh": "绿色",
+      "py": "lǜ sè"
     },
     {
       "en": "yellow",
-      "ko": "노란색"
+      "ko": "노란색",
+      "zh": "黄色",
+      "py": "huáng sè"
     },
     {
       "en": "rainbow",
-      "ko": "무지개"
+      "ko": "무지개",
+      "zh": "彩虹",
+      "py": "cǎi hóng"
     },
     {
       "en": "pretty",
-      "ko": "예쁜"
+      "ko": "예쁜",
+      "zh": "漂亮",
+      "py": "piào liàng"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "color",
         "red",
         "bright"
-      ]
+      ],
+      "zh": "红色是一种颜色，红色很明亮。",
+      "py": "hóng sè shì yī zhǒng yán sè， hóng sè hěn míng liàng。"
     },
     {
       "en": "The sky is blue, and the grass is green.",
@@ -79,14 +101,18 @@
         "blue",
         "grass",
         "green"
-      ]
+      ],
+      "zh": "天空是蓝色的，草是绿色的。",
+      "py": "tiān kōng shì lán sè de， cǎo shì lǜ sè de。"
     },
     {
       "en": "The sun is yellow.",
       "ko": "해는 노란색이에요.",
       "highlights": [
         "yellow"
-      ]
+      ],
+      "zh": "太阳是黄色的。",
+      "py": "tài yáng shì huáng sè de。"
     },
     {
       "en": "A rainbow has many colors, and colors look pretty.",
@@ -95,7 +121,9 @@
         "color",
         "rainbow",
         "pretty"
-      ]
+      ],
+      "zh": "彩虹有许多颜色，颜色看起来很漂亮。",
+      "py": "cǎi hóng yǒu xǔ duō yán sè， yán sè kàn qǐ lái hěn piào liàng。"
     },
     {
       "en": "I like blue because it is the color of the sky.",
@@ -104,14 +132,18 @@
         "color",
         "sky",
         "blue"
-      ]
+      ],
+      "zh": "我喜欢蓝色，因为它是天空的颜色。",
+      "py": "wǒ xǐ huān lán sè， yīn wèi tā shì tiān kōng de yán sè。"
     },
     {
       "en": "My little sister likes yellow.",
       "ko": "여동생은 노란색을 좋아해요.",
       "highlights": [
         "yellow"
-      ]
+      ],
+      "zh": "妹妹喜欢黄色。",
+      "py": "mèi mèi xǐ huān huáng sè。"
     },
     {
       "en": "Green grass looks pretty after the rain.",
@@ -120,7 +152,9 @@
         "grass",
         "green",
         "pretty"
-      ]
+      ],
+      "zh": "雨后的绿草看起来很漂亮。",
+      "py": "yǔ hòu de lǜ cǎo kàn qǐ lái hěn piào liàng。"
     },
     {
       "en": "A bright rainbow makes us stop and look.",
@@ -128,14 +162,18 @@
       "highlights": [
         "bright",
         "rainbow"
-      ]
+      ],
+      "zh": "明亮的彩虹让我们停下来看。",
+      "py": "míng liàng de cǎi hóng ràng wǒ men tíng xià lái kàn。"
     },
     {
       "en": "I use many colors when I draw.",
       "ko": "나는 그림을 그릴 때 여러 색깔을 써요.",
       "highlights": [
         "color"
-      ]
+      ],
+      "zh": "我画画的时候用许多颜色。",
+      "py": "wǒ huà huà de shí hòu yòng xǔ duō yán sè。"
     },
     {
       "en": "Red, blue, green, and yellow are easy to see.",
@@ -145,7 +183,9 @@
         "blue",
         "green",
         "yellow"
-      ]
+      ],
+      "zh": "红色、蓝色、绿色和黄色都很容易看见。",
+      "py": "hóng sè、 lán sè、 lǜ sè hé huáng sè dōu hěn róng yì kàn jiàn。"
     },
     {
       "en": "Pretty colors make a gray day better.",
@@ -153,7 +193,9 @@
       "highlights": [
         "color",
         "pretty"
-      ]
+      ],
+      "zh": "漂亮的颜色让灰色的一天变得更好。",
+      "py": "piào liàng de yán sè ràng huī sè de yī tiān biàn de gèng hǎo。"
     }
   ],
   "full_passage_lines": [
@@ -251,5 +293,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Red is a color, and red is bright. The sky is blue, and the grass is green. The sun is yellow. A rainbow has many colors, and colors look pretty. I like blue because it is the color of the sky. My little sister likes yellow. Green grass looks pretty after the rain. A bright rainbow makes us stop and look. I use many colors when I draw. Red, blue, green, and yellow are easy to see. Pretty colors make a gray day better."
+  "full_passage_spoken": "Red is a color, and red is bright. The sky is blue, and the grass is green. The sun is yellow. A rainbow has many colors, and colors look pretty. I like blue because it is the color of the sky. My little sister likes yellow. Green grass looks pretty after the rain. A bright rainbow makes us stop and look. I use many colors when I draw. Red, blue, green, and yellow are easy to see. Pretty colors make a gray day better.",
+  "topic_zh": "颜色",
+  "topic_pinyin": "yán sè",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "红色是一种颜色，红色很明亮。天空是蓝色的，草是绿色的。太阳是黄色的。彩虹有许多颜色，颜色看起来很漂亮。我喜欢蓝色，因为它是天空的颜色。妹妹喜欢黄色。雨后的绿草看起来很漂亮。明亮的彩虹让我们停下来看。我画画的时候用许多颜色。红色、蓝色、绿色和黄色都很容易看见。漂亮的颜色让灰色的一天变得更好。",
+  "full_passage_pinyin": "hóng sè shì yī zhǒng yán sè， hóng sè hěn míng liàng。 tiān kōng shì lán sè de， cǎo shì lǜ sè de。 tài yáng shì huáng sè de。 cǎi hóng yǒu xǔ duō yán sè， yán sè kàn qǐ lái hěn piào liàng。 wǒ xǐ huān lán sè， yīn wèi tā shì tiān kōng de yán sè。 mèi mèi xǐ huān huáng sè。 yǔ hòu de lǜ cǎo kàn qǐ lái hěn piào liàng。 míng liàng de cǎi hóng ràng wǒ men tíng xià lái kàn。 wǒ huà huà de shí hòu yòng xǔ duō yán sè。 hóng sè、 lán sè、 lǜ sè hé huáng sè dōu hěn róng yì kàn jiàn。 piào liàng de yán sè ràng huī sè de yī tiān biàn de gèng hǎo。"
 }

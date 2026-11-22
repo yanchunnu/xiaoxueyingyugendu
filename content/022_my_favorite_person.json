@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "person",
-      "ko": "사람"
+      "ko": "사람",
+      "zh": "人",
+      "py": "rén"
     },
     {
       "en": "mom",
-      "ko": "엄마"
+      "ko": "엄마",
+      "zh": "妈妈",
+      "py": "mā mā"
     },
     {
       "en": "spend",
-      "ko": "보내다"
+      "ko": "보내다",
+      "zh": "度过",
+      "py": "dù guò"
     },
     {
       "en": "time",
-      "ko": "시간"
+      "ko": "시간",
+      "zh": "时间",
+      "py": "shí jiān"
     },
     {
       "en": "laugh",
-      "ko": "웃다"
+      "ko": "웃다",
+      "zh": "笑",
+      "py": "xiào"
     },
     {
       "en": "safe",
-      "ko": "안전한"
+      "ko": "안전한",
+      "zh": "安全",
+      "py": "ān quán"
     },
     {
       "en": "special",
-      "ko": "특별한"
+      "ko": "특별한",
+      "zh": "特别",
+      "py": "tè bié"
     },
     {
       "en": "because",
-      "ko": "왜냐하면"
+      "ko": "왜냐하면",
+      "zh": "因为",
+      "py": "yīn wèi"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "favorite",
         "person",
         "mom"
-      ]
+      ],
+      "zh": "妈妈是我最喜欢的人。",
+      "py": "mā mā shì wǒ zuì xǐ huān de rén。"
     },
     {
       "en": "I spend time with her, and we laugh a lot.",
@@ -78,21 +100,27 @@
         "spend",
         "time",
         "laugh"
-      ]
+      ],
+      "zh": "我和她一起度过时间，我们常常笑。",
+      "py": "wǒ hé tā yì qǐ dù guò shí jiān， wǒ men cháng cháng xiào。"
     },
     {
       "en": "I feel safe with her.",
       "ko": "나는 엄마와 있으면 안전해요.",
       "highlights": [
         "safe"
-      ]
+      ],
+      "zh": "和她在一起，我觉得安全。",
+      "py": "hé tā zài yì qǐ， wǒ jué de ān quán。"
     },
     {
       "en": "She is special to me.",
       "ko": "엄마는 나에게 특별해요.",
       "highlights": [
         "special"
-      ]
+      ],
+      "zh": "她对我来说很特别。",
+      "py": "tā duì wǒ lái shuō hěn tè bié。"
     },
     {
       "en": "I love her because she cares for me.",
@@ -100,7 +128,9 @@
       "highlights": [
         "because",
         "love"
-      ]
+      ],
+      "zh": "我爱她，因为她照顾我。",
+      "py": "wǒ ài tā， yīn wèi tā zhào gù wǒ。"
     },
     {
       "en": "A favorite person knows your heart.",
@@ -108,7 +138,9 @@
       "highlights": [
         "favorite",
         "person"
-      ]
+      ],
+      "zh": "最喜欢的人懂得你的心。",
+      "py": "zuì xǐ huān de rén dǒng de nǐ de xīn。"
     },
     {
       "en": "We spend time in the kitchen after school.",
@@ -116,14 +148,18 @@
       "highlights": [
         "spend",
         "time"
-      ]
+      ],
+      "zh": "放学后我们在厨房里一起度过时间。",
+      "py": "fàng xué hòu wǒ men zài chú fáng lǐ yì qǐ dù guò shí jiān。"
     },
     {
       "en": "She laughs when I tell a small story.",
       "ko": "내가 짧은 이야기를 하면 엄마가 웃어요.",
       "highlights": [
         "laugh"
-      ]
+      ],
+      "zh": "我讲一个小故事，她就会笑。",
+      "py": "wǒ jiǎng yí gè xiǎo gù shì， tā jiù huì xiào。"
     },
     {
       "en": "I feel safe because her voice is warm.",
@@ -131,7 +167,9 @@
       "highlights": [
         "safe",
         "because"
-      ]
+      ],
+      "zh": "她的声音很温暖，所以我觉得安全。",
+      "py": "tā de shēng yīn hěn wēn nuǎn， suǒ yǐ wǒ jué de ān quán。"
     },
     {
       "en": "She is special because she never gives up on me.",
@@ -139,7 +177,9 @@
       "highlights": [
         "special",
         "because"
-      ]
+      ],
+      "zh": "她从不放弃我，所以很特别。",
+      "py": "tā cóng bù fàng qì wǒ， suǒ yǐ hěn tè bié。"
     },
     {
       "en": "I love this person every day.",
@@ -147,7 +187,9 @@
       "highlights": [
         "person",
         "love"
-      ]
+      ],
+      "zh": "我每天都爱这个人。",
+      "py": "wǒ měi tiān dōu ài zhè ge rén。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My mom is my favorite person. I spend time with her, and we laugh a lot. I feel safe with her. She is special to me. I love her because she cares for me. A favorite person knows your heart. We spend time in the kitchen after school. She laughs when I tell a small story. I feel safe because her voice is warm. She is special because she never gives up on me. I love this person every day."
+  "full_passage_spoken": "My mom is my favorite person. I spend time with her, and we laugh a lot. I feel safe with her. She is special to me. I love her because she cares for me. A favorite person knows your heart. We spend time in the kitchen after school. She laughs when I tell a small story. I feel safe because her voice is warm. She is special because she never gives up on me. I love this person every day.",
+  "topic_zh": "我最喜欢的人",
+  "topic_pinyin": "wǒ zuì xǐ huān de rén",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "妈妈是我最喜欢的人。我和她一起度过时间，我们常常笑。和她在一起，我觉得安全。她对我来说很特别。我爱她，因为她照顾我。最喜欢的人懂得你的心。放学后我们在厨房里一起度过时间。我讲一个小故事，她就会笑。她的声音很温暖，所以我觉得安全。她从不放弃我，所以很特别。我每天都爱这个人。",
+  "full_passage_pinyin": "mā mā shì wǒ zuì xǐ huān de rén。 wǒ hé tā yì qǐ dù guò shí jiān， wǒ men cháng cháng xiào。 hé tā zài yì qǐ， wǒ jué de ān quán。 tā duì wǒ lái shuō hěn tè bié。 wǒ ài tā， yīn wèi tā zhào gù wǒ。 zuì xǐ huān de rén dǒng de nǐ de xīn。 fàng xué hòu wǒ men zài chú fáng lǐ yì qǐ dù guò shí jiān。 wǒ jiǎng yí gè xiǎo gù shì， tā jiù huì xiào。 tā de shēng yīn hěn wēn nuǎn， suǒ yǐ wǒ jué de ān quán。 tā cóng bù fàng qì wǒ， suǒ yǐ hěn tè bié。 wǒ měi tiān dōu ài zhè ge rén。"
 }

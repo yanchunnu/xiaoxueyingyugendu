@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "keep",
-      "ko": "지키다"
+      "ko": "지키다",
+      "zh": "保持",
+      "py": "bǎo chí"
     },
     {
       "en": "healthy",
-      "ko": "건강한"
+      "ko": "건강한",
+      "zh": "健康",
+      "py": "jiàn kāng"
     },
     {
       "en": "sleep",
-      "ko": "잠"
+      "ko": "잠",
+      "zh": "睡觉",
+      "py": "shuì jiào"
     },
     {
       "en": "early",
-      "ko": "일찍"
+      "ko": "일찍",
+      "zh": "早",
+      "py": "zǎo"
     },
     {
       "en": "exercise",
-      "ko": "운동하다"
+      "ko": "운동하다",
+      "zh": "锻炼",
+      "py": "duàn liàn"
     },
     {
       "en": "wash",
-      "ko": "씻다"
+      "ko": "씻다",
+      "zh": "洗",
+      "py": "xǐ"
     },
     {
       "en": "hand",
-      "ko": "손"
+      "ko": "손",
+      "zh": "手",
+      "py": "shǒu"
     },
     {
       "en": "food",
-      "ko": "음식"
+      "ko": "음식",
+      "zh": "食物",
+      "py": "shí wù"
     },
     {
       "en": "habit",
-      "ko": "습관"
+      "ko": "습관",
+      "zh": "习惯",
+      "py": "xí guàn"
     },
     {
       "en": "strong",
-      "ko": "튼튼한"
+      "ko": "튼튼한",
+      "zh": "强壮",
+      "py": "qiáng zhuàng"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "keep",
         "healthy"
-      ]
+      ],
+      "zh": "我想保持健康。",
+      "py": "wǒ xiǎng bǎo chí jiàn kāng。"
     },
     {
       "en": "I go to sleep early.",
@@ -76,14 +98,18 @@
       "highlights": [
         "sleep",
         "early"
-      ]
+      ],
+      "zh": "我早点睡觉。",
+      "py": "wǒ zǎo diǎn shuì jiào。"
     },
     {
       "en": "I exercise every day.",
       "ko": "나는 매일 운동해요.",
       "highlights": [
         "exercise"
-      ]
+      ],
+      "zh": "我每天锻炼。",
+      "py": "wǒ měi tiān duàn liàn。"
     },
     {
       "en": "I wash my hands.",
@@ -91,21 +117,27 @@
       "highlights": [
         "wash",
         "hand"
-      ]
+      ],
+      "zh": "我洗手。",
+      "py": "wǒ xǐ shǒu。"
     },
     {
       "en": "I eat good food.",
       "ko": "나는 좋은 음식을 먹어요.",
       "highlights": [
         "food"
-      ]
+      ],
+      "zh": "我吃好的食物。",
+      "py": "wǒ chī hǎo de shí wù。"
     },
     {
       "en": "This is a good habit.",
       "ko": "이것은 좋은 습관이에요.",
       "highlights": [
         "habit"
-      ]
+      ],
+      "zh": "这是一个好习惯。",
+      "py": "zhè shì yí gè hǎo xí guàn。"
     },
     {
       "en": "Good habits keep me strong.",
@@ -114,12 +146,16 @@
         "keep",
         "habit",
         "strong"
-      ]
+      ],
+      "zh": "好习惯让我保持强壮。",
+      "py": "hǎo xí guàn ràng wǒ bǎo chí qiáng zhuàng。"
     },
     {
       "en": "I can do them.",
       "ko": "나는 그것들을 할 수 있어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我能做到这些。",
+      "py": "wǒ néng zuò dào zhè xiē。"
     },
     {
       "en": "Early sleep is a habit I can keep.",
@@ -129,7 +165,9 @@
         "sleep",
         "early",
         "habit"
-      ]
+      ],
+      "zh": "早睡是我能保持的习惯。",
+      "py": "zǎo shuì shì wǒ néng bǎo chí de xí guàn。"
     },
     {
       "en": "I wash each hand before a meal.",
@@ -137,7 +175,9 @@
       "highlights": [
         "wash",
         "hand"
-      ]
+      ],
+      "zh": "吃饭前我洗每一只手。",
+      "py": "chī fàn qián wǒ xǐ měi yī zhī shǒu。"
     },
     {
       "en": "Exercise and good food keep a healthy body strong.",
@@ -148,7 +188,9 @@
         "exercise",
         "food",
         "strong"
-      ]
+      ],
+      "zh": "锻炼和好食物让健康的身体更强壮。",
+      "py": "duàn liàn hé hǎo shí wù ràng jiàn kāng de shēn tǐ gèng qiáng zhuàng。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I want to keep healthy. I go to sleep early. I exercise every day. I wash my hands. I eat good food. This is a good habit. Good habits keep me strong. I can do them. Early sleep is a habit I can keep. I wash each hand before a meal. Exercise and good food keep a healthy body strong."
+  "full_passage_spoken": "I want to keep healthy. I go to sleep early. I exercise every day. I wash my hands. I eat good food. This is a good habit. Good habits keep me strong. I can do them. Early sleep is a habit I can keep. I wash each hand before a meal. Exercise and good food keep a healthy body strong.",
+  "topic_zh": "保持健康",
+  "topic_pinyin": "bǎo chí jiàn kāng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我想保持健康。我早点睡觉。我每天锻炼。我洗手。我吃好的食物。这是一个好习惯。好习惯让我保持强壮。我能做到这些。早睡是我能保持的习惯。吃饭前我洗每一只手。锻炼和好食物让健康的身体更强壮。",
+  "full_passage_pinyin": "wǒ xiǎng bǎo chí jiàn kāng。 wǒ zǎo diǎn shuì jiào。 wǒ měi tiān duàn liàn。 wǒ xǐ shǒu。 wǒ chī hǎo de shí wù。 zhè shì yí gè hǎo xí guàn。 hǎo xí guàn ràng wǒ bǎo chí qiáng zhuàng。 wǒ néng zuò dào zhè xiē。 zǎo shuì shì wǒ néng bǎo chí de xí guàn。 chī fàn qián wǒ xǐ měi yī zhī shǒu。 duàn liàn hé hǎo shí wù ràng jiàn kāng de shēn tǐ gèng qiáng zhuàng。"
 }

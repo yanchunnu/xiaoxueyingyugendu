@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "travel",
-      "ko": "여행하다"
+      "ko": "여행하다",
+      "zh": "旅行",
+      "py": "lǚ xíng"
     },
     {
       "en": "trip",
-      "ko": "여행"
+      "ko": "여행",
+      "zh": "短途旅行",
+      "py": "duǎn tú lǚ xíng"
     },
     {
       "en": "map",
-      "ko": "지도"
+      "ko": "지도",
+      "zh": "地图",
+      "py": "dì tú"
     },
     {
       "en": "train",
-      "ko": "기차"
+      "ko": "기차",
+      "zh": "火车",
+      "py": "huǒ chē"
     },
     {
       "en": "place",
-      "ko": "장소"
+      "ko": "장소",
+      "zh": "地方",
+      "py": "dì fāng"
     },
     {
       "en": "new",
-      "ko": "새로운"
+      "ko": "새로운",
+      "zh": "新",
+      "py": "xīn"
     },
     {
       "en": "photo",
-      "ko": "사진"
+      "ko": "사진",
+      "zh": "照片",
+      "py": "zhào piān"
     },
     {
       "en": "excited",
-      "ko": "신나는"
+      "ko": "신나는",
+      "zh": "兴奋",
+      "py": "xīng fèn"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "see",
-      "ko": "보다"
+      "ko": "보다",
+      "zh": "看见",
+      "py": "kàn jiàn"
     }
   ],
   "phrases": [
@@ -68,21 +88,27 @@
       "highlights": [
         "travel",
         "trip"
-      ]
+      ],
+      "zh": "我喜欢旅行，我会去一次短短的旅行。",
+      "py": "wǒ xǐ huān lǚ xíng， wǒ huì qù yī cì duǎn duǎn de lǚ xíng。"
     },
     {
       "en": "I look at a map before we go.",
       "ko": "우리는 가기 전에 지도를 봐요.",
       "highlights": [
         "map"
-      ]
+      ],
+      "zh": "出发前我看地图。",
+      "py": "chū fā qián wǒ kàn dì tú。"
     },
     {
       "en": "We ride a train.",
       "ko": "우리는 기차를 타요.",
       "highlights": [
         "train"
-      ]
+      ],
+      "zh": "我们坐火车。",
+      "py": "wǒ men zuò huǒ chē。"
     },
     {
       "en": "I see a new place, and I take a photo.",
@@ -92,7 +118,9 @@
         "new",
         "photo",
         "see"
-      ]
+      ],
+      "zh": "我看见一个新地方，还拍照片。",
+      "py": "wǒ kàn jiàn yí gè xīn dì fāng， hái pāi zhào piān。"
     },
     {
       "en": "I feel excited, and travel is fun.",
@@ -101,14 +129,18 @@
         "travel",
         "excited",
         "fun"
-      ]
+      ],
+      "zh": "我感到兴奋，旅行很有趣。",
+      "py": "wǒ gǎn dào xīng fèn， lǚ xíng hěn yǒu qù。"
     },
     {
       "en": "My family likes a short trip on the weekend.",
       "ko": "우리 가족은 주말의 짧은 여행을 좋아해요.",
       "highlights": [
         "trip"
-      ]
+      ],
+      "zh": "我们家人喜欢周末的短途旅行。",
+      "py": "wǒ men jiā rén xǐ huān zhōu mò de duǎn tú lǚ xíng。"
     },
     {
       "en": "The map shows the new place.",
@@ -117,14 +149,18 @@
         "map",
         "place",
         "new"
-      ]
+      ],
+      "zh": "地图上有那个新地方。",
+      "py": "dì tú shàng yǒu nà ge xīn dì fāng。"
     },
     {
       "en": "I see rivers, parks, and small towns.",
       "ko": "나는 강, 공원, 작은 마을을 봐요.",
       "highlights": [
         "see"
-      ]
+      ],
+      "zh": "我看见河、公园和小镇子。",
+      "py": "wǒ kàn jiàn hé、 gōng yuán hé xiǎo zhèn zi。"
     },
     {
       "en": "A photo helps me remember the trip.",
@@ -132,7 +168,9 @@
       "highlights": [
         "trip",
         "photo"
-      ]
+      ],
+      "zh": "照片帮助我记住这次旅行。",
+      "py": "zhào piān bāng zhù wǒ jì zhù zhè cì lǚ xíng。"
     },
     {
       "en": "I feel excited when the train starts.",
@@ -140,7 +178,9 @@
       "highlights": [
         "train",
         "excited"
-      ]
+      ],
+      "zh": "火车开动的时候，我感到兴奋。",
+      "py": "huǒ chē kāi dòng de shí hòu， wǒ gǎn dào xīng fèn。"
     },
     {
       "en": "Travel is fun because every place is a little new.",
@@ -150,7 +190,9 @@
         "place",
         "new",
         "fun"
-      ]
+      ],
+      "zh": "每个地方都有一点新，所以旅行很有趣。",
+      "py": "měi gè dì fāng dōu yǒu yì diǎn xīn， suǒ yǐ lǚ xíng hěn yǒu qù。"
     }
   ],
   "full_passage_lines": [
@@ -245,5 +287,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I like to travel, and I go on a short trip. I look at a map before we go. We ride a train. I see a new place, and I take a photo. I feel excited, and travel is fun. My family likes a short trip on the weekend. The map shows the new place. I see rivers, parks, and small towns. A photo helps me remember the trip. I feel excited when the train starts. Travel is fun because every place is a little new."
+  "full_passage_spoken": "I like to travel, and I go on a short trip. I look at a map before we go. We ride a train. I see a new place, and I take a photo. I feel excited, and travel is fun. My family likes a short trip on the weekend. The map shows the new place. I see rivers, parks, and small towns. A photo helps me remember the trip. I feel excited when the train starts. Travel is fun because every place is a little new.",
+  "topic_zh": "我喜欢旅行",
+  "topic_pinyin": "wǒ xǐ huān lǚ xíng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我喜欢旅行，我会去一次短短的旅行。出发前我看地图。我们坐火车。我看见一个新地方，还拍照片。我感到兴奋，旅行很有趣。我们家人喜欢周末的短途旅行。地图上有那个新地方。我看见河、公园和小镇子。照片帮助我记住这次旅行。火车开动的时候，我感到兴奋。每个地方都有一点新，所以旅行很有趣。",
+  "full_passage_pinyin": "wǒ xǐ huān lǚ xíng， wǒ huì qù yī cì duǎn duǎn de lǚ xíng。 chū fā qián wǒ kàn dì tú。 wǒ men zuò huǒ chē。 wǒ kàn jiàn yí gè xīn dì fāng， hái pāi zhào piān。 wǒ gǎn dào xīng fèn， lǚ xíng hěn yǒu qù。 wǒ men jiā rén xǐ huān zhōu mò de duǎn tú lǚ xíng。 dì tú shàng yǒu nà ge xīn dì fāng。 wǒ kàn jiàn hé、 gōng yuán hé xiǎo zhèn zi。 zhào piān bāng zhù wǒ jì zhù zhè cì lǚ xíng。 huǒ chē kāi dòng de shí hòu， wǒ gǎn dào xīng fèn。 měi gè dì fāng dōu yǒu yì diǎn xīn， suǒ yǐ lǚ xíng hěn yǒu qù。"
 }

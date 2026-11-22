@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "grandmother",
-      "ko": "할머니"
+      "ko": "할머니",
+      "zh": "奶奶",
+      "py": "nǎi nǎi"
     },
     {
       "en": "cookie",
-      "ko": "쿠키"
+      "ko": "쿠키",
+      "zh": "饼干",
+      "py": "bǐng gān"
     },
     {
       "en": "kitchen",
-      "ko": "부엌"
+      "ko": "부엌",
+      "zh": "厨房",
+      "py": "chú fáng"
     },
     {
       "en": "warm",
-      "ko": "따뜻한"
+      "ko": "따뜻한",
+      "zh": "温暖",
+      "py": "wēn nuǎn"
     },
     {
       "en": "knit",
-      "ko": "뜨개질하다"
+      "ko": "뜨개질하다",
+      "zh": "织毛衣",
+      "py": "zhī máo yī"
     },
     {
       "en": "soft",
-      "ko": "부드러운"
+      "ko": "부드러운",
+      "zh": "柔软",
+      "py": "róu ruǎn"
     },
     {
       "en": "sweater",
-      "ko": "스웨터"
+      "ko": "스웨터",
+      "zh": "毛衣",
+      "py": "máo yī"
     },
     {
       "en": "tea",
-      "ko": "차"
+      "ko": "차",
+      "zh": "茶",
+      "py": "chá"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "cookie",
         "kitchen",
         "warm"
-      ]
+      ],
+      "zh": "奶奶在温暖的厨房里做饼干。",
+      "py": "nǎi nǎi zài wēn nuǎn de chú fáng lǐ zuò bǐng gān。"
     },
     {
       "en": "She likes to knit, and she makes a soft sweater.",
@@ -79,7 +101,9 @@
         "knit",
         "soft",
         "sweater"
-      ]
+      ],
+      "zh": "她喜欢织毛衣，会织一件柔软的毛衣。",
+      "py": "tā xǐ huān zhī máo yī， huì zhī yī jiàn róu ruǎn de máo yī。"
     },
     {
       "en": "We drink tea together on Sunday.",
@@ -87,45 +111,59 @@
       "highlights": [
         "tea",
         "together"
-      ]
+      ],
+      "zh": "星期天我们一起喝茶。",
+      "py": "xīng qī tiān wǒ men yì qǐ hē chá。"
     },
     {
       "en": "She has a kind smile.",
       "ko": "할머니에게는 친절한 미소가 있어요.",
       "highlights": [
         "smile"
-      ]
+      ],
+      "zh": "她有善良的微笑。",
+      "py": "tā yǒu shàn liáng de wēi xiào。"
     },
     {
       "en": "The cookies are sweet, and I love them.",
       "ko": "쿠키는 달콤하고, 나는 쿠키를 좋아해요.",
       "highlights": [
         "cookie"
-      ]
+      ],
+      "zh": "饼干很甜，我很喜欢。",
+      "py": "bǐng gān hěn tián， wǒ hěn xǐ huān。"
     },
     {
       "en": "She lives on the farm with my grandfather.",
       "ko": "할머니는 할아버지와 농장에 살아요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "她和爷爷一起住在农场。",
+      "py": "tā hé yé yé yì qǐ zhù zài nóng chǎng。"
     },
     {
       "en": "I visit her because her kitchen feels like home.",
       "ko": "할머니 부엌은 집처럼 느껴져서 나는 할머니를 보러 가요.",
       "highlights": [
         "kitchen"
-      ]
+      ],
+      "zh": "我去看望她，因为她的厨房像家一样。",
+      "py": "wǒ qù kàn wàng tā， yīn wèi tā de chú fáng xiàng jiā yī yàng。"
     },
     {
       "en": "She knits slowly and talks with me.",
       "ko": "할머니는 천천히 뜨개질을 하면서 나와 이야기해요.",
       "highlights": [
         "knit"
-      ]
+      ],
+      "zh": "她慢慢地织毛衣，还和我说话。",
+      "py": "tā màn màn de zhī máo yī， hái hé wǒ shuō huà。"
     },
     {
       "en": "My little sister sits beside her.",
       "ko": "여동생은 할머니 옆에 앉아요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "妹妹坐在她旁边。",
+      "py": "mèi mèi zuò zài tā páng biān。"
     },
     {
       "en": "We smile together when the cookies are ready.",
@@ -134,14 +172,18 @@
         "cookie",
         "together",
         "smile"
-      ]
+      ],
+      "zh": "饼干做好的时候，我们一起微笑。",
+      "py": "bǐng gān zuò hǎo de shí hòu， wǒ men yì qǐ wēi xiào。"
     },
     {
       "en": "I love my grandmother very much.",
       "ko": "나는 할머니를 매우 사랑해요.",
       "highlights": [
         "grandmother"
-      ]
+      ],
+      "zh": "我非常爱奶奶。",
+      "py": "wǒ fēi cháng ài nǎi nǎi。"
     }
   ],
   "full_passage_lines": [
@@ -227,5 +269,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My grandmother makes cookies in her warm kitchen. She likes to knit, and she makes a soft sweater. We drink tea together on Sunday. She has a kind smile. The cookies are sweet, and I love them. She lives on the farm with my grandfather. I visit her because her kitchen feels like home. She knits slowly and talks with me. My little sister sits beside her. We smile together when the cookies are ready. I love my grandmother very much."
+  "full_passage_spoken": "My grandmother makes cookies in her warm kitchen. She likes to knit, and she makes a soft sweater. We drink tea together on Sunday. She has a kind smile. The cookies are sweet, and I love them. She lives on the farm with my grandfather. I visit her because her kitchen feels like home. She knits slowly and talks with me. My little sister sits beside her. We smile together when the cookies are ready. I love my grandmother very much.",
+  "topic_zh": "我的奶奶",
+  "topic_pinyin": "wǒ de nǎi nǎi",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "奶奶在温暖的厨房里做饼干。她喜欢织毛衣，会织一件柔软的毛衣。星期天我们一起喝茶。她有善良的微笑。饼干很甜，我很喜欢。她和爷爷一起住在农场。我去看望她，因为她的厨房像家一样。她慢慢地织毛衣，还和我说话。妹妹坐在她旁边。饼干做好的时候，我们一起微笑。我非常爱奶奶。",
+  "full_passage_pinyin": "nǎi nǎi zài wēn nuǎn de chú fáng lǐ zuò bǐng gān。 tā xǐ huān zhī máo yī， huì zhī yī jiàn róu ruǎn de máo yī。 xīng qī tiān wǒ men yì qǐ hē chá。 tā yǒu shàn liáng de wēi xiào。 bǐng gān hěn tián， wǒ hěn xǐ huān。 tā hé yé yé yì qǐ zhù zài nóng chǎng。 wǒ qù kàn wàng tā， yīn wèi tā de chú fáng xiàng jiā yī yàng。 tā màn màn de zhī máo yī， hái hé wǒ shuō huà。 mèi mèi zuò zài tā páng biān。 bǐng gān zuò hǎo de shí hòu， wǒ men yì qǐ wēi xiào。 wǒ fēi cháng ài nǎi nǎi。"
 }

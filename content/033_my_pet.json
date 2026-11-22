@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "pet",
-      "ko": "반려동물"
+      "ko": "반려동물",
+      "zh": "宠物",
+      "py": "chǒng wù"
     },
     {
       "en": "dog",
-      "ko": "개"
+      "ko": "개",
+      "zh": "狗",
+      "py": "gǒu"
     },
     {
       "en": "name",
-      "ko": "이름"
+      "ko": "이름",
+      "zh": "名字",
+      "py": "míng zì"
     },
     {
       "en": "small",
-      "ko": "작은"
+      "ko": "작은",
+      "zh": "小",
+      "py": "xiǎo"
     },
     {
       "en": "brown",
-      "ko": "갈색"
+      "ko": "갈색",
+      "zh": "棕色",
+      "py": "zōng sè"
     },
     {
       "en": "run",
-      "ko": "달리다"
+      "ko": "달리다",
+      "zh": "跑",
+      "py": "pǎo"
     },
     {
       "en": "ball",
-      "ko": "공"
+      "ko": "공",
+      "zh": "球",
+      "py": "qiú"
     },
     {
       "en": "feed",
-      "ko": "먹이를 주다"
+      "ko": "먹이를 주다",
+      "zh": "喂",
+      "py": "wèi"
     },
     {
       "en": "door",
-      "ko": "문"
+      "ko": "문",
+      "zh": "门",
+      "py": "mén"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "pet",
         "dog"
-      ]
+      ],
+      "zh": "我有一只宠物，它是狗。",
+      "py": "wǒ yǒu yī zhī chǒng wù， tā shì gǒu。"
     },
     {
       "en": "His name is Coco.",
       "ko": "그의 이름은 코코예요.",
       "highlights": [
         "name"
-      ]
+      ],
+      "zh": "它叫可可。",
+      "py": "tā jiào kě kě。"
     },
     {
       "en": "Coco is small and brown.",
@@ -83,7 +107,9 @@
       "highlights": [
         "small",
         "brown"
-      ]
+      ],
+      "zh": "可可很小，而且是棕色的。",
+      "py": "kě kě hěn xiǎo， ér qiě shì zōng sè de。"
     },
     {
       "en": "He runs with a ball.",
@@ -91,21 +117,27 @@
       "highlights": [
         "run",
         "ball"
-      ]
+      ],
+      "zh": "它带着球跑。",
+      "py": "tā dài zhe qiú pǎo。"
     },
     {
       "en": "I feed him every day.",
       "ko": "나는 매일 코코에게 먹이를 줘요.",
       "highlights": [
         "feed"
-      ]
+      ],
+      "zh": "我每天喂它。",
+      "py": "wǒ měi tiān wèi tā。"
     },
     {
       "en": "He waits at the door when I come home.",
       "ko": "내가 집에 오면 코코는 문 앞에서 기다려요.",
       "highlights": [
         "door"
-      ]
+      ],
+      "zh": "我回家的时候，它在门口等我。",
+      "py": "wǒ huí jiā de shí hòu， tā zài mén kǒu děng wǒ。"
     },
     {
       "en": "I love my pet because he is gentle.",
@@ -113,14 +145,18 @@
       "highlights": [
         "pet",
         "love"
-      ]
+      ],
+      "zh": "我爱我的宠物，因为它很温和。",
+      "py": "wǒ ài wǒ de chǒng wù， yīn wèi tā hěn wēn hé。"
     },
     {
       "en": "My little sister likes his name.",
       "ko": "여동생은 코코의 이름을 좋아해요.",
       "highlights": [
         "name"
-      ]
+      ],
+      "zh": "妹妹喜欢它的名字。",
+      "py": "mèi mèi xǐ huān tā de míng zì。"
     },
     {
       "en": "A small brown dog can be a big friend.",
@@ -129,7 +165,9 @@
         "dog",
         "small",
         "brown"
-      ]
+      ],
+      "zh": "一只小棕狗也可以是很好的朋友。",
+      "py": "yī zhī xiǎo zōng gǒu yě kě yǐ shì hěn hǎo de péng yǒu。"
     },
     {
       "en": "We run in the park with the ball.",
@@ -137,7 +175,9 @@
       "highlights": [
         "run",
         "ball"
-      ]
+      ],
+      "zh": "我们带着球在公园里跑。",
+      "py": "wǒ men dài zhe qiú zài gōng yuán lǐ pǎo。"
     },
     {
       "en": "I feed him, and then he sits by the door.",
@@ -145,7 +185,9 @@
       "highlights": [
         "feed",
         "door"
-      ]
+      ],
+      "zh": "我喂它，然后它坐在门边。",
+      "py": "wǒ wèi tā， rán hòu tā zuò zài mén biān。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I have a pet, and it is a dog. His name is Coco. Coco is small and brown. He runs with a ball. I feed him every day. He waits at the door when I come home. I love my pet because he is gentle. My little sister likes his name. A small brown dog can be a big friend. We run in the park with the ball. I feed him, and then he sits by the door."
+  "full_passage_spoken": "I have a pet, and it is a dog. His name is Coco. Coco is small and brown. He runs with a ball. I feed him every day. He waits at the door when I come home. I love my pet because he is gentle. My little sister likes his name. A small brown dog can be a big friend. We run in the park with the ball. I feed him, and then he sits by the door.",
+  "topic_zh": "我的宠物",
+  "topic_pinyin": "wǒ de chǒng wù",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我有一只宠物，它是狗。它叫可可。可可很小，而且是棕色的。它带着球跑。我每天喂它。我回家的时候，它在门口等我。我爱我的宠物，因为它很温和。妹妹喜欢它的名字。一只小棕狗也可以是很好的朋友。我们带着球在公园里跑。我喂它，然后它坐在门边。",
+  "full_passage_pinyin": "wǒ yǒu yī zhī chǒng wù， tā shì gǒu。 tā jiào kě kě。 kě kě hěn xiǎo， ér qiě shì zōng sè de。 tā dài zhe qiú pǎo。 wǒ měi tiān wèi tā。 wǒ huí jiā de shí hòu， tā zài mén kǒu děng wǒ。 wǒ ài wǒ de chǒng wù， yīn wèi tā hěn wēn hé。 mèi mèi xǐ huān tā de míng zì。 yī zhī xiǎo zōng gǒu yě kě yǐ shì hěn hǎo de péng yǒu。 wǒ men dài zhe qiú zài gōng yuán lǐ pǎo。 wǒ wèi tā， rán hòu tā zuò zài mén biān。"
 }

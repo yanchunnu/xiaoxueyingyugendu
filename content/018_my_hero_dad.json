@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "dad",
-      "ko": "아빠"
+      "ko": "아빠",
+      "zh": "爸爸",
+      "py": "bà bà"
     },
     {
       "en": "hero",
-      "ko": "영웅"
+      "ko": "영웅",
+      "zh": "英雄",
+      "py": "yīng xióng"
     },
     {
       "en": "strong",
-      "ko": "강한"
+      "ko": "강한",
+      "zh": "强壮",
+      "py": "qiáng zhuàng"
     },
     {
       "en": "brave",
-      "ko": "용감한"
+      "ko": "용감한",
+      "zh": "勇敢",
+      "py": "yǒng gǎn"
     },
     {
       "en": "work",
-      "ko": "일"
+      "ko": "일",
+      "zh": "工作",
+      "py": "gōng zuò"
     },
     {
       "en": "every day",
-      "ko": "매일"
+      "ko": "매일",
+      "zh": "每天",
+      "py": "měi tiān"
     },
     {
       "en": "hard",
-      "ko": "열심히"
+      "ko": "열심히",
+      "zh": "努力",
+      "py": "nǔ lì"
     },
     {
       "en": "safe",
-      "ko": "안전한"
+      "ko": "안전한",
+      "zh": "安全",
+      "py": "ān quán"
     },
     {
       "en": "proud",
-      "ko": "자랑스러운"
+      "ko": "자랑스러운",
+      "zh": "骄傲",
+      "py": "jiāo ào"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "hero",
         "strong",
         "brave"
-      ]
+      ],
+      "zh": "我的爸爸是我的英雄，他又强壮又勇敢。",
+      "py": "wǒ de bà bà shì wǒ de yīng xióng， tā yòu qiáng zhuàng yòu yǒng gǎn。"
     },
     {
       "en": "He goes to work every day, and he tries hard.",
@@ -79,14 +101,18 @@
         "work",
         "every day",
         "hard"
-      ]
+      ],
+      "zh": "他每天去工作，而且很努力。",
+      "py": "tā měi tiān qù gōng zuò， ér qiě hěn nǔ lì。"
     },
     {
       "en": "He keeps us safe at home.",
       "ko": "아빠는 집에서 우리를 안전하게 지켜 줘요.",
       "highlights": [
         "safe"
-      ]
+      ],
+      "zh": "他让我们在家里很安全。",
+      "py": "tā ràng wǒ men zài jiā lǐ hěn ān quán。"
     },
     {
       "en": "I am proud of him, and I love my dad.",
@@ -95,42 +121,54 @@
         "dad",
         "proud",
         "love"
-      ]
+      ],
+      "zh": "我为他骄傲，我爱爸爸。",
+      "py": "wǒ wèi tā jiāo ào， wǒ ài bà bà。"
     },
     {
       "en": "I want to be like my hero.",
       "ko": "나는 나의 영웅처럼 되고 싶어요.",
       "highlights": [
         "hero"
-      ]
+      ],
+      "zh": "我想成为像我的英雄一样的人。",
+      "py": "wǒ xiǎng chéng wéi xiàng wǒ de yīng xióng yī yàng de rén。"
     },
     {
       "en": "His work at the hospital helps sick people.",
       "ko": "병원에서 하는 아빠의 일은 아픈 사람들을 도와요.",
       "highlights": [
         "work"
-      ]
+      ],
+      "zh": "他在医院的工作帮助生病的人。",
+      "py": "tā zài yī yuàn de gōng zuò bāng zhù shēng bìng de rén。"
     },
     {
       "en": "He is brave, but he is also gentle.",
       "ko": "아빠는 용감하지만 다정하기도 해요.",
       "highlights": [
         "brave"
-      ]
+      ],
+      "zh": "他很勇敢，也很温柔。",
+      "py": "tā hěn yǒng gǎn， yě hěn wēn róu。"
     },
     {
       "en": "Every day he comes home and smiles.",
       "ko": "아빠는 매일 집에 와서 미소를 지어요.",
       "highlights": [
         "every day"
-      ]
+      ],
+      "zh": "他每天回家，还会笑。",
+      "py": "tā měi tiān huí jiā， hái huì xiào。"
     },
     {
       "en": "I feel safe when he is near.",
       "ko": "아빠가 가까이 있으면 나는 안전해요.",
       "highlights": [
         "safe"
-      ]
+      ],
+      "zh": "他在身边的时候，我觉得安全。",
+      "py": "tā zài shēn biān de shí hòu， wǒ jué de ān quán。"
     },
     {
       "en": "A strong dad can still be kind.",
@@ -138,7 +176,9 @@
       "highlights": [
         "dad",
         "strong"
-      ]
+      ],
+      "zh": "强壮的爸爸也可以很善良。",
+      "py": "qiáng zhuàng de bà bà yě kě yǐ hěn shàn liáng。"
     },
     {
       "en": "I love my hero very much.",
@@ -146,7 +186,9 @@
       "highlights": [
         "hero",
         "love"
-      ]
+      ],
+      "zh": "我非常爱我的英雄。",
+      "py": "wǒ fēi cháng ài wǒ de yīng xióng。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My dad is my hero, and he is strong and brave. He goes to work every day, and he tries hard. He keeps us safe at home. I am proud of him, and I love my dad. I want to be like my hero. His work at the hospital helps sick people. He is brave, but he is also gentle. Every day he comes home and smiles. I feel safe when he is near. A strong dad can still be kind. I love my hero very much."
+  "full_passage_spoken": "My dad is my hero, and he is strong and brave. He goes to work every day, and he tries hard. He keeps us safe at home. I am proud of him, and I love my dad. I want to be like my hero. His work at the hospital helps sick people. He is brave, but he is also gentle. Every day he comes home and smiles. I feel safe when he is near. A strong dad can still be kind. I love my hero very much.",
+  "topic_zh": "我的英雄（爸爸）",
+  "topic_pinyin": "wǒ de yīng xióng（ bà bà）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的爸爸是我的英雄，他又强壮又勇敢。他每天去工作，而且很努力。他让我们在家里很安全。我为他骄傲，我爱爸爸。我想成为像我的英雄一样的人。他在医院的工作帮助生病的人。他很勇敢，也很温柔。他每天回家，还会笑。他在身边的时候，我觉得安全。强壮的爸爸也可以很善良。我非常爱我的英雄。",
+  "full_passage_pinyin": "wǒ de bà bà shì wǒ de yīng xióng， tā yòu qiáng zhuàng yòu yǒng gǎn。 tā měi tiān qù gōng zuò， ér qiě hěn nǔ lì。 tā ràng wǒ men zài jiā lǐ hěn ān quán。 wǒ wèi tā jiāo ào， wǒ ài bà bà。 wǒ xiǎng chéng wéi xiàng wǒ de yīng xióng yī yàng de rén。 tā zài yī yuàn de gōng zuò bāng zhù shēng bìng de rén。 tā hěn yǒng gǎn， yě hěn wēn róu。 tā měi tiān huí jiā， hái huì xiào。 tā zài shēn biān de shí hòu， wǒ jué de ān quán。 qiáng zhuàng de bà bà yě kě yǐ hěn shàn liáng。 wǒ fēi cháng ài wǒ de yīng xióng。"
 }

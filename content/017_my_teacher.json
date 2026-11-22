@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "English",
-      "ko": "영어"
+      "ko": "영어",
+      "zh": "英语",
+      "py": "yīng yǔ"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "teach",
-      "ko": "가르치다"
+      "ko": "가르치다",
+      "zh": "教书",
+      "py": "jiāo shū"
     },
     {
       "en": "word",
-      "ko": "단어"
+      "ko": "단어",
+      "zh": "单词",
+      "py": "dān cí"
     },
     {
       "en": "patient",
-      "ko": "참을성 있는"
+      "ko": "참을성 있는",
+      "zh": "有耐心",
+      "py": "yǒu nài xīn"
     },
     {
       "en": "class",
-      "ko": "수업"
+      "ko": "수업",
+      "zh": "课",
+      "py": "kè"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "learn",
-      "ko": "배우다"
+      "ko": "배우다",
+      "zh": "学",
+      "py": "xué"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "English",
         "kind",
         "smile"
-      ]
+      ],
+      "zh": "我的英语老师很善良，她有好看的微笑。",
+      "py": "wǒ de yīng yǔ lǎo shī hěn shàn liáng， tā yǒu hǎo kàn de wēi xiào。"
     },
     {
       "en": "She likes to teach, and she teaches a new word.",
@@ -78,14 +100,18 @@
       "highlights": [
         "teach",
         "word"
-      ]
+      ],
+      "zh": "她喜欢教我们，会教我们一个新单词。",
+      "py": "tā xǐ huān jiāo wǒ men， huì jiāo wǒ men yí gè xīn dān cí。"
     },
     {
       "en": "She is patient when we try again.",
       "ko": "우리가 다시 해 보면 선생님은 참을성이 있어요.",
       "highlights": [
         "patient"
-      ]
+      ],
+      "zh": "我们再试一次的时候，她很有耐心。",
+      "py": "wǒ men zài shì yī cì de shí hòu， tā hěn yǒu nài xīn。"
     },
     {
       "en": "Our class is fun, and I learn a lot.",
@@ -94,14 +120,18 @@
         "class",
         "fun",
         "learn"
-      ]
+      ],
+      "zh": "我们的课很有趣，我学到很多。",
+      "py": "wǒ men de kè hěn yǒu qù， wǒ xué dào hěn duō。"
     },
     {
       "en": "I like my teacher because she listens.",
       "ko": "선생님은 잘 들어 주셔서 나는 선생님을 좋아해요.",
       "highlights": [
         "teacher"
-      ]
+      ],
+      "zh": "我喜欢老师，因为她会听我说。",
+      "py": "wǒ xǐ huān lǎo shī， yīn wèi tā huì tīng wǒ shuō。"
     },
     {
       "en": "She teaches English in a clear voice.",
@@ -109,14 +139,18 @@
       "highlights": [
         "English",
         "teach"
-      ]
+      ],
+      "zh": "她用清楚的声音教我们英语。",
+      "py": "tā yòng qīng chǔ de shēng yīn jiāo wǒ men yīng yǔ。"
     },
     {
       "en": "Every new word is useful.",
       "ko": "새 단어는 모두 유용해요.",
       "highlights": [
         "word"
-      ]
+      ],
+      "zh": "每一个新单词都有用。",
+      "py": "měi yí gè xīn dān cí dōu yǒu yòng。"
     },
     {
       "en": "She smiles when our class tries hard.",
@@ -124,7 +158,9 @@
       "highlights": [
         "smile",
         "class"
-      ]
+      ],
+      "zh": "我们努力的时候，她会微笑。",
+      "py": "wǒ men nǔ lì de shí hòu， tā huì wēi xiào。"
     },
     {
       "en": "I want to learn because the class is fun.",
@@ -133,7 +169,9 @@
         "class",
         "fun",
         "learn"
-      ]
+      ],
+      "zh": "课很有趣，所以我想学。",
+      "py": "kè hěn yǒu qù， suǒ yǐ wǒ xiǎng xué。"
     },
     {
       "en": "A patient teacher helps a student feel brave.",
@@ -141,7 +179,9 @@
       "highlights": [
         "teacher",
         "patient"
-      ]
+      ],
+      "zh": "有耐心的老师让学生变得勇敢。",
+      "py": "yǒu nài xīn de lǎo shī ràng xué shēng biàn de yǒng gǎn。"
     },
     {
       "en": "I thank my teacher at the end of class.",
@@ -149,7 +189,9 @@
       "highlights": [
         "teacher",
         "class"
-      ]
+      ],
+      "zh": "下课的时候，我谢谢老师。",
+      "py": "xià kè de shí hòu， wǒ xiè xiè lǎo shī。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My English teacher is kind, and she has a nice smile. She likes to teach, and she teaches a new word. She is patient when we try again. Our class is fun, and I learn a lot. I like my teacher because she listens. She teaches English in a clear voice. Every new word is useful. She smiles when our class tries hard. I want to learn because the class is fun. A patient teacher helps a student feel brave. I thank my teacher at the end of class."
+  "full_passage_spoken": "My English teacher is kind, and she has a nice smile. She likes to teach, and she teaches a new word. She is patient when we try again. Our class is fun, and I learn a lot. I like my teacher because she listens. She teaches English in a clear voice. Every new word is useful. She smiles when our class tries hard. I want to learn because the class is fun. A patient teacher helps a student feel brave. I thank my teacher at the end of class.",
+  "topic_zh": "我的老师",
+  "topic_pinyin": "wǒ de lǎo shī",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的英语老师很善良，她有好看的微笑。她喜欢教我们，会教我们一个新单词。我们再试一次的时候，她很有耐心。我们的课很有趣，我学到很多。我喜欢老师，因为她会听我说。她用清楚的声音教我们英语。每一个新单词都有用。我们努力的时候，她会微笑。课很有趣，所以我想学。有耐心的老师让学生变得勇敢。下课的时候，我谢谢老师。",
+  "full_passage_pinyin": "wǒ de yīng yǔ lǎo shī hěn shàn liáng， tā yǒu hǎo kàn de wēi xiào。 tā xǐ huān jiāo wǒ men， huì jiāo wǒ men yí gè xīn dān cí。 wǒ men zài shì yī cì de shí hòu， tā hěn yǒu nài xīn。 wǒ men de kè hěn yǒu qù， wǒ xué dào hěn duō。 wǒ xǐ huān lǎo shī， yīn wèi tā huì tīng wǒ shuō。 tā yòng qīng chǔ de shēng yīn jiāo wǒ men yīng yǔ。 měi yí gè xīn dān cí dōu yǒu yòng。 wǒ men nǔ lì de shí hòu， tā huì wēi xiào。 kè hěn yǒu qù， suǒ yǐ wǒ xiǎng xué。 yǒu nài xīn de lǎo shī ràng xué shēng biàn de yǒng gǎn。 xià kè de shí hòu， wǒ xiè xiè lǎo shī。"
 }

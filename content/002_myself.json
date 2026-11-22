@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "girl",
-      "ko": "여자아이"
+      "ko": "여자아이",
+      "zh": "女孩",
+      "py": "nǚ hái"
     },
     {
       "en": "thirteen",
-      "ko": "열세"
+      "ko": "열세",
+      "zh": "十三",
+      "py": "shí sān"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "smile",
-      "ko": "웃다"
+      "ko": "웃다",
+      "zh": "笑",
+      "py": "xiào"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮助",
+      "py": "bāng zhù"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     },
     {
       "en": "tall",
-      "ko": "키가 큰"
+      "ko": "키가 큰",
+      "zh": "高",
+      "py": "gāo"
     },
     {
       "en": "brave",
-      "ko": "용감한"
+      "ko": "용감한",
+      "zh": "勇敢",
+      "py": "yǒng gǎn"
     },
     {
       "en": "want",
-      "ko": "원하다"
+      "ko": "원하다",
+      "zh": "想",
+      "py": "xiǎng"
     }
   ],
   "phrases": [
@@ -67,14 +87,18 @@
       "ko": "나는 여자아이이고, 내 이름은 미나예요.",
       "highlights": [
         "girl"
-      ]
+      ],
+      "zh": "我是女孩，我叫米娜。",
+      "py": "wǒ shì nǚ hái， wǒ jiào mǐ nà。"
     },
     {
       "en": "I am thirteen years old, and I am in the sixth grade.",
       "ko": "나는 열세 살이고, 6학년이에요.",
       "highlights": [
         "thirteen"
-      ]
+      ],
+      "zh": "我十三岁，上六年级。",
+      "py": "wǒ shí sān suì， shàng liù nián jí。"
     },
     {
       "en": "I want to be a kind girl at school and at home.",
@@ -83,7 +107,9 @@
         "girl",
         "kind",
         "want"
-      ]
+      ],
+      "zh": "我想在学校和家里都做个善良的女孩。",
+      "py": "wǒ xiǎng zài xué xiào hé jiā lǐ dōu zuò gè shàn liáng de nǚ hái。"
     },
     {
       "en": "I smile when I meet my friends.",
@@ -91,7 +117,9 @@
       "highlights": [
         "smile",
         "friend"
-      ]
+      ],
+      "zh": "我见到朋友就会笑。",
+      "py": "wǒ jiàn dào péng yǒu jiù huì xiào。"
     },
     {
       "en": "I like to help my friends when they need me.",
@@ -99,21 +127,27 @@
       "highlights": [
         "friend",
         "help"
-      ]
+      ],
+      "zh": "朋友需要我的时候，我喜欢帮助他们。",
+      "py": "péng yǒu xū yào wǒ de shí hòu， wǒ xǐ huān bāng zhù tā men。"
     },
     {
       "en": "I am happy when we play together.",
       "ko": "우리는 함께 놀 때 행복해요.",
       "highlights": [
         "happy"
-      ]
+      ],
+      "zh": "我们一起玩的时候，我很快乐。",
+      "py": "wǒ men yì qǐ wán de shí hòu， wǒ hěn kuài lè。"
     },
     {
       "en": "I am not very tall, but I can run fast.",
       "ko": "나는 키가 아주 크지는 않지만, 빨리 달릴 수 있어요.",
       "highlights": [
         "tall"
-      ]
+      ],
+      "zh": "我个子不太高，可是跑得很快。",
+      "py": "wǒ gè zi bù tài gāo， kě shì pǎo de hěn kuài。"
     },
     {
       "en": "I want to be brave when something is hard.",
@@ -121,14 +155,18 @@
       "highlights": [
         "brave",
         "want"
-      ]
+      ],
+      "zh": "事情很难的时候，我想变得勇敢。",
+      "py": "shì qíng hěn nán de shí hòu， wǒ xiǎng biàn de yǒng gǎn。"
     },
     {
       "en": "I help my little sister because she is younger than me.",
       "ko": "여동생은 나보다 어려서 내가 도와요.",
       "highlights": [
         "help"
-      ]
+      ],
+      "zh": "妹妹比我小，所以我帮助她。",
+      "py": "mèi mèi bǐ wǒ xiǎo， suǒ yǐ wǒ bāng zhù tā。"
     },
     {
       "en": "My friends say that I am kind and happy.",
@@ -137,14 +175,18 @@
         "kind",
         "friend",
         "happy"
-      ]
+      ],
+      "zh": "朋友们说我又善良又快乐。",
+      "py": "péng yǒu men shuō wǒ yòu shàn liáng yòu kuài lè。"
     },
     {
       "en": "I like myself, and I want to grow a little every day.",
       "ko": "나는 나 자신을 좋아하고, 매일 조금씩 자라고 싶어요.",
       "highlights": [
         "want"
-      ]
+      ],
+      "zh": "我喜欢我自己，也想每天长大一点点。",
+      "py": "wǒ xǐ huān wǒ zì jǐ， yě xiǎng měi tiān zhǎng dà yì diǎn diǎn。"
     }
   ],
   "full_passage_lines": [
@@ -233,5 +275,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I am a girl, and my name is Mina. I am thirteen years old, and I am in the sixth grade. I want to be a kind girl at school and at home. I smile when I meet my friends. I like to help my friends when they need me. I am happy when we play together. I am not very tall, but I can run fast. I want to be brave when something is hard. I help my little sister because she is younger than me. My friends say that I am kind and happy. I like myself, and I want to grow a little every day."
+  "full_passage_spoken": "I am a girl, and my name is Mina. I am thirteen years old, and I am in the sixth grade. I want to be a kind girl at school and at home. I smile when I meet my friends. I like to help my friends when they need me. I am happy when we play together. I am not very tall, but I can run fast. I want to be brave when something is hard. I help my little sister because she is younger than me. My friends say that I am kind and happy. I like myself, and I want to grow a little every day.",
+  "topic_zh": "我自己",
+  "topic_pinyin": "wǒ zì jǐ",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我是女孩，我叫米娜。我十三岁，上六年级。我想在学校和家里都做个善良的女孩。我见到朋友就会笑。朋友需要我的时候，我喜欢帮助他们。我们一起玩的时候，我很快乐。我个子不太高，可是跑得很快。事情很难的时候，我想变得勇敢。妹妹比我小，所以我帮助她。朋友们说我又善良又快乐。我喜欢我自己，也想每天长大一点点。",
+  "full_passage_pinyin": "wǒ shì nǚ hái， wǒ jiào mǐ nà。 wǒ shí sān suì， shàng liù nián jí。 wǒ xiǎng zài xué xiào hé jiā lǐ dōu zuò gè shàn liáng de nǚ hái。 wǒ jiàn dào péng yǒu jiù huì xiào。 péng yǒu xū yào wǒ de shí hòu， wǒ xǐ huān bāng zhù tā men。 wǒ men yì qǐ wán de shí hòu， wǒ hěn kuài lè。 wǒ gè zi bù tài gāo， kě shì pǎo de hěn kuài。 shì qíng hěn nán de shí hòu， wǒ xiǎng biàn de yǒng gǎn。 mèi mèi bǐ wǒ xiǎo， suǒ yǐ wǒ bāng zhù tā。 péng yǒu men shuō wǒ yòu shàn liáng yòu kuài lè。 wǒ xǐ huān wǒ zì jǐ， yě xiǎng měi tiān zhǎng dà yì diǎn diǎn。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "photo",
-      "ko": "사진"
+      "ko": "사진",
+      "zh": "照片",
+      "py": "zhào piān"
     },
     {
       "en": "short",
-      "ko": "짧은"
+      "ko": "짧은",
+      "zh": "短",
+      "py": "duǎn"
     },
     {
       "en": "black",
-      "ko": "검은"
+      "ko": "검은",
+      "zh": "黑",
+      "py": "hēi"
     },
     {
       "en": "hair",
-      "ko": "머리"
+      "ko": "머리",
+      "zh": "头发",
+      "py": "tóu fa"
     },
     {
       "en": "eyes",
-      "ko": "눈"
+      "ko": "눈",
+      "zh": "眼睛",
+      "py": "yǎn jīng"
     },
     {
       "en": "glasses",
-      "ko": "안경"
+      "ko": "안경",
+      "zh": "眼镜",
+      "py": "yǎn jìng"
     },
     {
       "en": "wear",
-      "ko": "쓰다"
+      "ko": "쓰다",
+      "zh": "戴",
+      "py": "dài"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "ready",
-      "ko": "준비된"
+      "ko": "준비된",
+      "zh": "准备好",
+      "py": "zhǔn bèi hǎo"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     }
   ],
   "phrases": [
@@ -67,7 +87,9 @@
       "ko": "이것은 내 사진이고, 이것이 나예요.",
       "highlights": [
         "photo"
-      ]
+      ],
+      "zh": "这是我的照片，这就是我。",
+      "py": "zhè shì wǒ de zhào piān， zhè jiù shì wǒ。"
     },
     {
       "en": "I have short black hair.",
@@ -76,7 +98,9 @@
         "short",
         "black",
         "hair"
-      ]
+      ],
+      "zh": "我有一头短短的黑头发。",
+      "py": "wǒ yǒu yī tóu duǎn duǎn de hēi tóu fa。"
     },
     {
       "en": "I have dark eyes, and I wear glasses.",
@@ -85,19 +109,25 @@
         "eyes",
         "glasses",
         "wear"
-      ]
+      ],
+      "zh": "我的眼睛是深色的，我戴眼镜。",
+      "py": "wǒ de yǎn jīng shì shēn sè de， wǒ dài yǎn jìng。"
     },
     {
       "en": "My smile is big when I am happy.",
       "ko": "나는 행복할 때 미소가 커요.",
       "highlights": [
         "smile"
-      ]
+      ],
+      "zh": "我快乐的时候，微笑很大。",
+      "py": "wǒ kuài lè de shí hòu， wēi xiào hěn dà。"
     },
     {
       "en": "I am thirteen, and I am a girl.",
       "ko": "나는 열세 살이고, 여자아이예요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我十三岁，我是女孩。",
+      "py": "wǒ shí sān suì， wǒ shì nǚ hái。"
     },
     {
       "en": "I wear a clean shirt for school.",
@@ -105,7 +135,9 @@
       "highlights": [
         "wear",
         "school"
-      ]
+      ],
+      "zh": "我穿一件干净的衬衫去上学。",
+      "py": "wǒ chuān yī jiàn gān jìng de chèn shān qù shàng xué。"
     },
     {
       "en": "I am ready for school every morning.",
@@ -113,21 +145,27 @@
       "highlights": [
         "ready",
         "school"
-      ]
+      ],
+      "zh": "每天早上我都准备好去学校。",
+      "py": "měi tiān zǎo shàng wǒ dōu zhǔn bèi hǎo qù xué xiào。"
     },
     {
       "en": "My little sister likes this photo of me.",
       "ko": "여동생은 내 사진을 좋아해요.",
       "highlights": [
         "photo"
-      ]
+      ],
+      "zh": "妹妹喜欢我的这张照片。",
+      "py": "mèi mèi xǐ huān wǒ de zhè zhāng zhào piān。"
     },
     {
       "en": "She is eleven, and she has longer hair.",
       "ko": "동생은 열한 살이고, 머리가 더 길어요.",
       "highlights": [
         "hair"
-      ]
+      ],
+      "zh": "她十一岁，头发比我长。",
+      "py": "tā shí yī suì， tóu fa bǐ wǒ cháng。"
     },
     {
       "en": "I look at my photo and I smile.",
@@ -135,12 +173,16 @@
       "highlights": [
         "photo",
         "smile"
-      ]
+      ],
+      "zh": "我看着照片，就会微笑。",
+      "py": "wǒ kàn zhe zhào piān， jiù huì wēi xiào。"
     },
     {
       "en": "Yes, this is me.",
       "ko": "네, 이것이 나예요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "对，这就是我。",
+      "py": "duì， zhè jiù shì wǒ。"
     }
   ],
   "full_passage_lines": [
@@ -225,5 +267,10 @@
       "highlights": []
     }
   ],
-  "full_passage_spoken": "This is my photo, and this is me. I have short black hair. I have dark eyes, and I wear glasses. My smile is big when I am happy. I am thirteen, and I am a girl. I wear a clean shirt for school. I am ready for school every morning. My little sister likes this photo of me. She is eleven, and she has longer hair. I look at my photo and I smile. Yes, this is me."
+  "full_passage_spoken": "This is my photo, and this is me. I have short black hair. I have dark eyes, and I wear glasses. My smile is big when I am happy. I am thirteen, and I am a girl. I wear a clean shirt for school. I am ready for school every morning. My little sister likes this photo of me. She is eleven, and she has longer hair. I look at my photo and I smile. Yes, this is me.",
+  "topic_zh": "这就是我",
+  "topic_pinyin": "zhè jiù shì wǒ",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的照片，这就是我。我有一头短短的黑头发。我的眼睛是深色的，我戴眼镜。我快乐的时候，微笑很大。我十三岁，我是女孩。我穿一件干净的衬衫去上学。每天早上我都准备好去学校。妹妹喜欢我的这张照片。她十一岁，头发比我长。我看着照片，就会微笑。对，这就是我。",
+  "full_passage_pinyin": "zhè shì wǒ de zhào piān， zhè jiù shì wǒ。 wǒ yǒu yī tóu duǎn duǎn de hēi tóu fa。 wǒ de yǎn jīng shì shēn sè de， wǒ dài yǎn jìng。 wǒ kuài lè de shí hòu， wēi xiào hěn dà。 wǒ shí sān suì， wǒ shì nǚ hái。 wǒ chuān yī jiàn gān jìng de chèn shān qù shàng xué。 měi tiān zǎo shàng wǒ dōu zhǔn bèi hǎo qù xué xiào。 mèi mèi xǐ huān wǒ de zhè zhāng zhào piān。 tā shí yī suì， tóu fa bǐ wǒ cháng。 wǒ kàn zhe zhào piān， jiù huì wēi xiào。 duì， zhè jiù shì wǒ。"
 }

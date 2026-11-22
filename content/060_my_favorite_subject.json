@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "subject",
-      "ko": "과목"
+      "ko": "과목",
+      "zh": "科目",
+      "py": "kē mù"
     },
     {
       "en": "science",
-      "ko": "과학"
+      "ko": "과학",
+      "zh": "科学",
+      "py": "kē xué"
     },
     {
       "en": "question",
-      "ko": "질문"
+      "ko": "질문",
+      "zh": "问题",
+      "py": "wèn tí"
     },
     {
       "en": "experiment",
-      "ko": "실험"
+      "ko": "실험",
+      "zh": "实验",
+      "py": "shí yàn"
     },
     {
       "en": "interesting",
-      "ko": "흥미로운"
+      "ko": "흥미로운",
+      "zh": "有意思",
+      "py": "yǒu yì si"
     },
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "fun",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "star",
-      "ko": "별"
+      "ko": "별",
+      "zh": "星星",
+      "py": "xīng xīng"
     },
     {
       "en": "learn",
-      "ko": "배우다"
+      "ko": "배우다",
+      "zh": "学",
+      "py": "xué"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "favorite",
         "subject",
         "science"
-      ]
+      ],
+      "zh": "我最喜欢的科目是科学。",
+      "py": "wǒ zuì xǐ huān de kē mù shì kē xué。"
     },
     {
       "en": "We ask a question, and we do a small experiment.",
@@ -77,7 +99,9 @@
       "highlights": [
         "question",
         "experiment"
-      ]
+      ],
+      "zh": "我们提出一个问题，再做一个小实验。",
+      "py": "wǒ men tí chū yí gè wèn tí， zài zuò yí gè xiǎo shí yàn。"
     },
     {
       "en": "Science is interesting.",
@@ -85,7 +109,9 @@
       "highlights": [
         "science",
         "interesting"
-      ]
+      ],
+      "zh": "科学很有意思。",
+      "py": "kē xué hěn yǒu yì si。"
     },
     {
       "en": "My teacher makes it fun.",
@@ -93,7 +119,9 @@
       "highlights": [
         "teacher",
         "fun"
-      ]
+      ],
+      "zh": "老师让它变得有趣。",
+      "py": "lǎo shī ràng tā biàn de yǒu qù。"
     },
     {
       "en": "I learn about a star, and I want to learn more.",
@@ -101,14 +129,18 @@
       "highlights": [
         "star",
         "learn"
-      ]
+      ],
+      "zh": "我学习星星，还想学更多。",
+      "py": "wǒ xué xí xīng xīng， hái xiǎng xué gèng duō。"
     },
     {
       "en": "This subject asks why the sky is blue.",
       "ko": "이 과목은 하늘이 왜 파란색인지 물어요.",
       "highlights": [
         "subject"
-      ]
+      ],
+      "zh": "这个科目会问天空为什么是蓝色的。",
+      "py": "zhè ge kē mù huì wèn tiān kōng wèi shén me shì lán sè de。"
     },
     {
       "en": "A small experiment can answer a big question.",
@@ -116,7 +148,9 @@
       "highlights": [
         "question",
         "experiment"
-      ]
+      ],
+      "zh": "一个小实验可以回答一个大问题。",
+      "py": "yí gè xiǎo shí yàn kě yǐ huí dá yí gè dà wèn tí。"
     },
     {
       "en": "Interesting science is also fun.",
@@ -125,7 +159,9 @@
         "science",
         "interesting",
         "fun"
-      ]
+      ],
+      "zh": "有意思的科学也很有趣。",
+      "py": "yǒu yì si de kē xué yě hěn yǒu qù。"
     },
     {
       "en": "Our teacher lets us look at a picture of a star.",
@@ -133,14 +169,18 @@
       "highlights": [
         "teacher",
         "star"
-      ]
+      ],
+      "zh": "老师让我们看星星的图画。",
+      "py": "lǎo shī ràng wǒ men kàn xīng xīng de tú huà。"
     },
     {
       "en": "I learn a little more every week.",
       "ko": "나는 매주 조금 더 배워요.",
       "highlights": [
         "learn"
-      ]
+      ],
+      "zh": "我每个星期都多学一点点。",
+      "py": "wǒ měi gè xīng qī dōu duō xué yì diǎn diǎn。"
     },
     {
       "en": "Science is my favorite subject because I am curious.",
@@ -149,7 +189,9 @@
         "favorite",
         "subject",
         "science"
-      ]
+      ],
+      "zh": "我很好奇，所以科学是我最喜欢的科目。",
+      "py": "wǒ hěn hào qí， suǒ yǐ kē xué shì wǒ zuì xǐ huān de kē mù。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite subject is science. We ask a question, and we do a small experiment. Science is interesting. My teacher makes it fun. I learn about a star, and I want to learn more. This subject asks why the sky is blue. A small experiment can answer a big question. Interesting science is also fun. Our teacher lets us look at a picture of a star. I learn a little more every week. Science is my favorite subject because I am curious."
+  "full_passage_spoken": "My favorite subject is science. We ask a question, and we do a small experiment. Science is interesting. My teacher makes it fun. I learn about a star, and I want to learn more. This subject asks why the sky is blue. A small experiment can answer a big question. Interesting science is also fun. Our teacher lets us look at a picture of a star. I learn a little more every week. Science is my favorite subject because I am curious.",
+  "topic_zh": "我最喜欢的科目",
+  "topic_pinyin": "wǒ zuì xǐ huān de kē mù",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的科目是科学。我们提出一个问题，再做一个小实验。科学很有意思。老师让它变得有趣。我学习星星，还想学更多。这个科目会问天空为什么是蓝色的。一个小实验可以回答一个大问题。有意思的科学也很有趣。老师让我们看星星的图画。我每个星期都多学一点点。我很好奇，所以科学是我最喜欢的科目。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de kē mù shì kē xué。 wǒ men tí chū yí gè wèn tí， zài zuò yí gè xiǎo shí yàn。 kē xué hěn yǒu yì si。 lǎo shī ràng tā biàn de yǒu qù。 wǒ xué xí xīng xīng， hái xiǎng xué gèng duō。 zhè ge kē mù huì wèn tiān kōng wèi shén me shì lán sè de。 yí gè xiǎo shí yàn kě yǐ huí dá yí gè dà wèn tí。 yǒu yì si de kē xué yě hěn yǒu qù。 lǎo shī ràng wǒ men kàn xīng xīng de tú huà。 wǒ měi gè xīng qī dōu duō xué yì diǎn diǎn。 wǒ hěn hào qí， suǒ yǐ kē xué shì wǒ zuì xǐ huān de kē mù。"
 }

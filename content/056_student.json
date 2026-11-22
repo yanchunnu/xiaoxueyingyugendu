@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "student",
-      "ko": "학생"
+      "ko": "학생",
+      "zh": "学生",
+      "py": "xué shēng"
     },
     {
       "en": "uniform",
-      "ko": "교복"
+      "ko": "교복",
+      "zh": "校服",
+      "py": "xiào fú"
     },
     {
       "en": "homework",
-      "ko": "숙제"
+      "ko": "숙제",
+      "zh": "作业",
+      "py": "zuò yè"
     },
     {
       "en": "listen",
-      "ko": "듣다"
+      "ko": "듣다",
+      "zh": "听",
+      "py": "tīng"
     },
     {
       "en": "ask",
-      "ko": "질문하다"
+      "ko": "질문하다",
+      "zh": "问",
+      "py": "wèn"
     },
     {
       "en": "try",
-      "ko": "노력하다"
+      "ko": "노력하다",
+      "zh": "努力",
+      "py": "nǔ lì"
     },
     {
       "en": "best",
-      "ko": "최선"
+      "ko": "최선",
+      "zh": "最好",
+      "py": "zuì hǎo"
     },
     {
       "en": "on time",
-      "ko": "제시간에"
+      "ko": "제시간에",
+      "zh": "按时",
+      "py": "àn shí"
     },
     {
       "en": "rule",
-      "ko": "규칙"
+      "ko": "규칙",
+      "zh": "规则",
+      "py": "guī zé"
     },
     {
       "en": "proud",
-      "ko": "자랑스러운"
+      "ko": "자랑스러운",
+      "zh": "骄傲",
+      "py": "jiāo ào"
     }
   ],
   "phrases": [
@@ -68,28 +88,36 @@
       "highlights": [
         "student",
         "uniform"
-      ]
+      ],
+      "zh": "我是学生，我穿校服。",
+      "py": "wǒ shì xué shēng， wǒ chuān xiào fú。"
     },
     {
       "en": "I do my homework.",
       "ko": "나는 숙제를 해요.",
       "highlights": [
         "homework"
-      ]
+      ],
+      "zh": "我做作业。",
+      "py": "wǒ zuò zuò yè。"
     },
     {
       "en": "I listen in class.",
       "ko": "나는 수업 시간에 들어요.",
       "highlights": [
         "listen"
-      ]
+      ],
+      "zh": "我在课上听讲。",
+      "py": "wǒ zài kè shàng tīng jiǎng。"
     },
     {
       "en": "I ask when I do not know.",
       "ko": "나는 모를 때 질문해요.",
       "highlights": [
         "ask"
-      ]
+      ],
+      "zh": "我不懂的时候就问。",
+      "py": "wǒ bù dǒng de shí hòu jiù wèn。"
     },
     {
       "en": "I try my best, and I come on time.",
@@ -98,21 +126,27 @@
         "try",
         "best",
         "on time"
-      ]
+      ],
+      "zh": "我尽自己最大的努力，也按时到。",
+      "py": "wǒ jǐn zì jǐ zuì dà de nǔ lì， yě àn shí dào。"
     },
     {
       "en": "I follow the rule.",
       "ko": "나는 규칙을 지켜요.",
       "highlights": [
         "rule"
-      ]
+      ],
+      "zh": "我遵守规则。",
+      "py": "wǒ zūn shǒu guī zé。"
     },
     {
       "en": "I am proud to learn.",
       "ko": "나는 배우는 것이 자랑스러워요.",
       "highlights": [
         "proud"
-      ]
+      ],
+      "zh": "能学习，我感到骄傲。",
+      "py": "néng xué xí， wǒ gǎn dào jiāo ào。"
     },
     {
       "en": "A student in the sixth grade has more homework.",
@@ -120,7 +154,9 @@
       "highlights": [
         "student",
         "homework"
-      ]
+      ],
+      "zh": "六年级的学生作业更多。",
+      "py": "liù nián jí de xué shēng zuò yè gèng duō。"
     },
     {
       "en": "I listen first, and then I ask.",
@@ -128,7 +164,9 @@
       "highlights": [
         "listen",
         "ask"
-      ]
+      ],
+      "zh": "我先听，然后再问。",
+      "py": "wǒ xiān tīng， rán hòu zài wèn。"
     },
     {
       "en": "On time is a simple rule, and I keep it.",
@@ -136,7 +174,9 @@
       "highlights": [
         "on time",
         "rule"
-      ]
+      ],
+      "zh": "按时到是一条简单的规则，我遵守它。",
+      "py": "àn shí dào shì yī tiáo jiǎn dān de guī zé， wǒ zūn shǒu tā。"
     },
     {
       "en": "I try my best because I want to be proud of my work.",
@@ -145,7 +185,9 @@
         "try",
         "best",
         "proud"
-      ]
+      ],
+      "zh": "我想为自己的努力骄傲，所以我尽最大的努力。",
+      "py": "wǒ xiǎng wèi zì jǐ de nǔ lì jiāo ào， suǒ yǐ wǒ jǐn zuì dà de nǔ lì。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I am a student, and I wear a uniform. I do my homework. I listen in class. I ask when I do not know. I try my best, and I come on time. I follow the rule. I am proud to learn. A student in the sixth grade has more homework. I listen first, and then I ask. On time is a simple rule, and I keep it. I try my best because I want to be proud of my work."
+  "full_passage_spoken": "I am a student, and I wear a uniform. I do my homework. I listen in class. I ask when I do not know. I try my best, and I come on time. I follow the rule. I am proud to learn. A student in the sixth grade has more homework. I listen first, and then I ask. On time is a simple rule, and I keep it. I try my best because I want to be proud of my work.",
+  "topic_zh": "学生",
+  "topic_pinyin": "xué shēng",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我是学生，我穿校服。我做作业。我在课上听讲。我不懂的时候就问。我尽自己最大的努力，也按时到。我遵守规则。能学习，我感到骄傲。六年级的学生作业更多。我先听，然后再问。按时到是一条简单的规则，我遵守它。我想为自己的努力骄傲，所以我尽最大的努力。",
+  "full_passage_pinyin": "wǒ shì xué shēng， wǒ chuān xiào fú。 wǒ zuò zuò yè。 wǒ zài kè shàng tīng jiǎng。 wǒ bù dǒng de shí hòu jiù wèn。 wǒ jǐn zì jǐ zuì dà de nǔ lì， yě àn shí dào。 wǒ zūn shǒu guī zé。 néng xué xí， wǒ gǎn dào jiāo ào。 liù nián jí de xué shēng zuò yè gèng duō。 wǒ xiān tīng， rán hòu zài wèn。 àn shí dào shì yī tiáo jiǎn dān de guī zé， wǒ zūn shǒu tā。 wǒ xiǎng wèi zì jǐ de nǔ lì jiāo ào， suǒ yǐ wǒ jǐn zuì dà de nǔ lì。"
 }

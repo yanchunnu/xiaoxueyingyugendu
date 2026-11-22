@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "first",
-      "ko": "첫 번째"
+      "ko": "첫 번째",
+      "zh": "第一",
+      "py": "dì yī"
     },
     {
       "en": "day",
-      "ko": "날"
+      "ko": "날",
+      "zh": "天",
+      "py": "tiān"
     },
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     },
     {
       "en": "new",
-      "ko": "새로운"
+      "ko": "새로운",
+      "zh": "新",
+      "py": "xīn"
     },
     {
       "en": "nervous",
-      "ko": "긴장되는"
+      "ko": "긴장되는",
+      "zh": "紧张",
+      "py": "jǐn zhāng"
     },
     {
       "en": "classroom",
-      "ko": "교실"
+      "ko": "교실",
+      "zh": "教室",
+      "py": "jiào shì"
     },
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "smile",
-      "ko": "미소"
+      "ko": "미소",
+      "zh": "微笑",
+      "py": "wēi xiào"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "ready",
-      "ko": "준비된"
+      "ko": "준비된",
+      "zh": "准备好",
+      "py": "zhǔn bèi hǎo"
     }
   ],
   "phrases": [
@@ -70,21 +90,27 @@
         "day",
         "school",
         "new"
-      ]
+      ],
+      "zh": "今天是开学第一天，一切都是新的。",
+      "py": "jīn tiān shì kāi xué dì yī tiān， yī qiè dōu shì xīn de。"
     },
     {
       "en": "I feel a little nervous.",
       "ko": "나는 조금 긴장돼요.",
       "highlights": [
         "nervous"
-      ]
+      ],
+      "zh": "我有一点紧张。",
+      "py": "wǒ yǒu yì diǎn jǐn zhāng。"
     },
     {
       "en": "I find my classroom.",
       "ko": "나는 나의 교실을 찾아요.",
       "highlights": [
         "classroom"
-      ]
+      ],
+      "zh": "我找到我的教室。",
+      "py": "wǒ zhǎo dào wǒ de jiào shì。"
     },
     {
       "en": "My teacher has a smile.",
@@ -92,7 +118,9 @@
       "highlights": [
         "teacher",
         "smile"
-      ]
+      ],
+      "zh": "我的老师带着微笑。",
+      "py": "wǒ de lǎo shī dài zhe wēi xiào。"
     },
     {
       "en": "I meet a new friend.",
@@ -100,7 +128,9 @@
       "highlights": [
         "new",
         "friend"
-      ]
+      ],
+      "zh": "我认识一个新朋友。",
+      "py": "wǒ rèn shí yí gè xīn péng yǒu。"
     },
     {
       "en": "The day is good, and I am ready.",
@@ -108,12 +138,16 @@
       "highlights": [
         "day",
         "ready"
-      ]
+      ],
+      "zh": "这一天很好，我准备好了。",
+      "py": "zhè yī tiān hěn hǎo， wǒ zhǔn bèi hǎo le。"
     },
     {
       "en": "I am thirteen, and this is sixth grade.",
       "ko": "나는 열세 살이고, 올해는 6학년이에요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我十三岁，这是六年级。",
+      "py": "wǒ shí sān suì， zhè shì liù nián jí。"
     },
     {
       "en": "A new classroom still feels a little strange.",
@@ -121,7 +155,9 @@
       "highlights": [
         "new",
         "classroom"
-      ]
+      ],
+      "zh": "新教室仍然有一点陌生。",
+      "py": "xīn jiào shì réng rán yǒu yì diǎn mò shēng。"
     },
     {
       "en": "The teacher smiles, so I feel less nervous.",
@@ -130,7 +166,9 @@
         "nervous",
         "teacher",
         "smile"
-      ]
+      ],
+      "zh": "老师微笑，所以我没那么紧张了。",
+      "py": "lǎo shī wēi xiào， suǒ yǐ wǒ méi nà me jǐn zhāng le。"
     },
     {
       "en": "A new friend says hello.",
@@ -138,7 +176,9 @@
       "highlights": [
         "new",
         "friend"
-      ]
+      ],
+      "zh": "新朋友说你好。",
+      "py": "xīn péng yǒu shuō nǐ hǎo。"
     },
     {
       "en": "By the end of the first day, I am ready for more.",
@@ -147,7 +187,9 @@
         "first",
         "day",
         "ready"
-      ]
+      ],
+      "zh": "第一天结束的时候，我准备好迎接更多。",
+      "py": "dì yī tiān jié shù de shí hòu， wǒ zhǔn bèi hǎo yíng jiē gèng duō。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "It is the first day of school, and everything is new. I feel a little nervous. I find my classroom. My teacher has a smile. I meet a new friend. The day is good, and I am ready. I am thirteen, and this is sixth grade. A new classroom still feels a little strange. The teacher smiles, so I feel less nervous. A new friend says hello. By the end of the first day, I am ready for more."
+  "full_passage_spoken": "It is the first day of school, and everything is new. I feel a little nervous. I find my classroom. My teacher has a smile. I meet a new friend. The day is good, and I am ready. I am thirteen, and this is sixth grade. A new classroom still feels a little strange. The teacher smiles, so I feel less nervous. A new friend says hello. By the end of the first day, I am ready for more.",
+  "topic_zh": "开学第一天",
+  "topic_pinyin": "kāi xué dì yī tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "今天是开学第一天，一切都是新的。我有一点紧张。我找到我的教室。我的老师带着微笑。我认识一个新朋友。这一天很好，我准备好了。我十三岁，这是六年级。新教室仍然有一点陌生。老师微笑，所以我没那么紧张了。新朋友说你好。第一天结束的时候，我准备好迎接更多。",
+  "full_passage_pinyin": "jīn tiān shì kāi xué dì yī tiān， yī qiè dōu shì xīn de。 wǒ yǒu yì diǎn jǐn zhāng。 wǒ zhǎo dào wǒ de jiào shì。 wǒ de lǎo shī dài zhe wēi xiào。 wǒ rèn shí yí gè xīn péng yǒu。 zhè yī tiān hěn hǎo， wǒ zhǔn bèi hǎo le。 wǒ shí sān suì， zhè shì liù nián jí。 xīn jiào shì réng rán yǒu yì diǎn mò shēng。 lǎo shī wēi xiào， suǒ yǐ wǒ méi nà me jǐn zhāng le。 xīn péng yǒu shuō nǐ hǎo。 dì yī tiān jié shù de shí hòu， wǒ zhǔn bèi hǎo yíng jiē gèng duō。"
 }

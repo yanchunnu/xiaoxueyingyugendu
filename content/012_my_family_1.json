@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     },
     {
       "en": "six",
-      "ko": "여섯"
+      "ko": "여섯",
+      "zh": "六",
+      "py": "liù"
     },
     {
       "en": "people",
-      "ko": "사람들"
+      "ko": "사람들",
+      "zh": "人",
+      "py": "rén"
     },
     {
       "en": "home",
-      "ko": "집"
+      "ko": "집",
+      "zh": "家",
+      "py": "jiā"
     },
     {
       "en": "dinner",
-      "ko": "저녁 식사"
+      "ko": "저녁 식사",
+      "zh": "晚饭",
+      "py": "wǎn fàn"
     },
     {
       "en": "together",
-      "ko": "함께"
+      "ko": "함께",
+      "zh": "一起",
+      "py": "yì qǐ"
     },
     {
       "en": "talk",
-      "ko": "이야기하다"
+      "ko": "이야기하다",
+      "zh": "说话",
+      "py": "shuō huà"
     },
     {
       "en": "laugh",
-      "ko": "웃다"
+      "ko": "웃다",
+      "zh": "笑",
+      "py": "xiào"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "family",
         "six",
         "people"
-      ]
+      ],
+      "zh": "我们家有六口人。",
+      "py": "wǒ men jiā yǒu liù kǒu rén。"
     },
     {
       "en": "We live together in one home in Seoul.",
@@ -77,7 +99,9 @@
       "highlights": [
         "home",
         "together"
-      ]
+      ],
+      "zh": "我们一起住在首尔的一个家里。",
+      "py": "wǒ men yì qǐ zhù zài shǒu ěr de yí gè jiā lǐ。"
     },
     {
       "en": "We eat dinner together almost every day.",
@@ -85,7 +109,9 @@
       "highlights": [
         "dinner",
         "together"
-      ]
+      ],
+      "zh": "我们几乎每天一起吃晚饭。",
+      "py": "wǒ men jī hū měi tiān yì qǐ chī wǎn fàn。"
     },
     {
       "en": "We talk and we laugh at the table.",
@@ -93,7 +119,9 @@
       "highlights": [
         "talk",
         "laugh"
-      ]
+      ],
+      "zh": "我们在饭桌边说话，也一起笑。",
+      "py": "wǒ men zài fàn zhuō biān shuō huà， yě yì qǐ xiào。"
     },
     {
       "en": "My family is happy, and I love my family.",
@@ -102,7 +130,9 @@
         "family",
         "happy",
         "love"
-      ]
+      ],
+      "zh": "我的家人很快乐，我爱我的家人。",
+      "py": "wǒ de jiā rén hěn kuài lè， wǒ ài wǒ de jiā rén。"
     },
     {
       "en": "My family loves me too.",
@@ -110,22 +140,30 @@
       "highlights": [
         "family",
         "love"
-      ]
+      ],
+      "zh": "我的家人也爱我。",
+      "py": "wǒ de jiā rén yě ài wǒ。"
     },
     {
       "en": "There is my father, my mother, and my brother.",
       "ko": "아버지, 어머니, 그리고 오빠가 있어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "有爸爸、妈妈和哥哥。",
+      "py": "yǒu bà bà、 mā mā hé gē gē。"
     },
     {
       "en": "There is also my older sister and my little sister.",
       "ko": "언니와 여동생도 있어요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "还有姐姐和妹妹。",
+      "py": "hái yǒu jiě jiě hé mèi mèi。"
     },
     {
       "en": "I am thirteen, and my little sister is eleven.",
       "ko": "나는 열세 살이고, 여동생은 열한 살이에요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我十三岁，妹妹十一岁。",
+      "py": "wǒ shí sān suì， mèi mèi shí yī suì。"
     },
     {
       "en": "Six people make our home warm and loud.",
@@ -134,7 +172,9 @@
         "six",
         "people",
         "home"
-      ]
+      ],
+      "zh": "六个人让我们的家又温暖又热闹。",
+      "py": "liù gè rén ràng wǒ men de jiā yòu wēn nuǎn yòu rè nào。"
     },
     {
       "en": "I am happy because we are together.",
@@ -142,7 +182,9 @@
       "highlights": [
         "together",
         "happy"
-      ]
+      ],
+      "zh": "我们在一起，所以我很快乐。",
+      "py": "wǒ men zài yì qǐ， suǒ yǐ wǒ hěn kuài lè。"
     }
   ],
   "full_passage_lines": [
@@ -229,5 +271,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "There are six people in my family. We live together in one home in Seoul. We eat dinner together almost every day. We talk and we laugh at the table. My family is happy, and I love my family. My family loves me too. There is my father, my mother, and my brother. There is also my older sister and my little sister. I am thirteen, and my little sister is eleven. Six people make our home warm and loud. I am happy because we are together."
+  "full_passage_spoken": "There are six people in my family. We live together in one home in Seoul. We eat dinner together almost every day. We talk and we laugh at the table. My family is happy, and I love my family. My family loves me too. There is my father, my mother, and my brother. There is also my older sister and my little sister. I am thirteen, and my little sister is eleven. Six people make our home warm and loud. I am happy because we are together.",
+  "topic_zh": "我的家人（一）",
+  "topic_pinyin": "wǒ de jiā rén（ yī）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我们家有六口人。我们一起住在首尔的一个家里。我们几乎每天一起吃晚饭。我们在饭桌边说话，也一起笑。我的家人很快乐，我爱我的家人。我的家人也爱我。有爸爸、妈妈和哥哥。还有姐姐和妹妹。我十三岁，妹妹十一岁。六个人让我们的家又温暖又热闹。我们在一起，所以我很快乐。",
+  "full_passage_pinyin": "wǒ men jiā yǒu liù kǒu rén。 wǒ men yì qǐ zhù zài shǒu ěr de yí gè jiā lǐ。 wǒ men jī hū měi tiān yì qǐ chī wǎn fàn。 wǒ men zài fàn zhuō biān shuō huà， yě yì qǐ xiào。 wǒ de jiā rén hěn kuài lè， wǒ ài wǒ de jiā rén。 wǒ de jiā rén yě ài wǒ。 yǒu bà bà、 mā mā hé gē gē。 hái yǒu jiě jiě hé mèi mèi。 wǒ shí sān suì， mèi mèi shí yī suì。 liù gè rén ràng wǒ men de jiā yòu wēn nuǎn yòu rè nào。 wǒ men zài yì qǐ， suǒ yǐ wǒ hěn kuài lè。"
 }

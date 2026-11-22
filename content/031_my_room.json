@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "room",
-      "ko": "방"
+      "ko": "방",
+      "zh": "房间",
+      "py": "fáng jiān"
     },
     {
       "en": "bed",
-      "ko": "침대"
+      "ko": "침대",
+      "zh": "床",
+      "py": "chuáng"
     },
     {
       "en": "desk",
-      "ko": "책상"
+      "ko": "책상",
+      "zh": "书桌",
+      "py": "shū zhuō"
     },
     {
       "en": "chair",
-      "ko": "의자"
+      "ko": "의자",
+      "zh": "椅子",
+      "py": "yǐ zi"
     },
     {
       "en": "toy",
-      "ko": "장난감"
+      "ko": "장난감",
+      "zh": "玩具",
+      "py": "wán jù"
     },
     {
       "en": "box",
-      "ko": "상자"
+      "ko": "상자",
+      "zh": "盒子",
+      "py": "hé zi"
     },
     {
       "en": "poster",
-      "ko": "포스터"
+      "ko": "포스터",
+      "zh": "海报",
+      "py": "hǎi bào"
     },
     {
       "en": "wall",
-      "ko": "벽"
+      "ko": "벽",
+      "zh": "墙",
+      "py": "qiáng"
     },
     {
       "en": "clean",
-      "ko": "깨끗한"
+      "ko": "깨끗한",
+      "zh": "干净",
+      "py": "gān jìng"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     }
   ],
   "phrases": [
@@ -67,7 +87,9 @@
       "ko": "이곳은 나의 방이고, 나는 나의 방을 좋아해요.",
       "highlights": [
         "room"
-      ]
+      ],
+      "zh": "这是我的房间，我喜欢我的房间。",
+      "py": "zhè shì wǒ de fáng jiān， wǒ xǐ huān wǒ de fáng jiān。"
     },
     {
       "en": "I have a bed and a desk.",
@@ -75,7 +97,9 @@
       "highlights": [
         "bed",
         "desk"
-      ]
+      ],
+      "zh": "我有一张床和一张书桌。",
+      "py": "wǒ yǒu yī zhāng chuáng hé yī zhāng shū zhuō。"
     },
     {
       "en": "A chair is by the desk.",
@@ -83,7 +107,9 @@
       "highlights": [
         "desk",
         "chair"
-      ]
+      ],
+      "zh": "书桌旁边有一把椅子。",
+      "py": "shū zhuō páng biān yǒu yī bǎ yǐ zi。"
     },
     {
       "en": "My toy is in a box.",
@@ -91,7 +117,9 @@
       "highlights": [
         "toy",
         "box"
-      ]
+      ],
+      "zh": "我的玩具在盒子里。",
+      "py": "wǒ de wán jù zài hé zi lǐ。"
     },
     {
       "en": "A poster is on the wall.",
@@ -99,7 +127,9 @@
       "highlights": [
         "poster",
         "wall"
-      ]
+      ],
+      "zh": "墙上有一张海报。",
+      "py": "qiáng shàng yǒu yī zhāng hǎi bào。"
     },
     {
       "en": "My room is clean and quiet.",
@@ -108,21 +138,27 @@
         "room",
         "clean",
         "quiet"
-      ]
+      ],
+      "zh": "我的房间又干净又安静。",
+      "py": "wǒ de fáng jiān yòu gān jìng yòu ān jìng。"
     },
     {
       "en": "I do my homework at the desk.",
       "ko": "나는 책상에서 숙제를 해요.",
       "highlights": [
         "desk"
-      ]
+      ],
+      "zh": "我在书桌前做作业。",
+      "py": "wǒ zài shū zhuō qián zuò zuò yè。"
     },
     {
       "en": "The bed is soft, and I sleep well.",
       "ko": "침대는 부드럽고, 나는 잠을 잘 자요.",
       "highlights": [
         "bed"
-      ]
+      ],
+      "zh": "床很柔软，我睡得很好。",
+      "py": "chuáng hěn róu ruǎn， wǒ shuì de hěn hǎo。"
     },
     {
       "en": "I keep the toy box closed.",
@@ -130,14 +166,18 @@
       "highlights": [
         "toy",
         "box"
-      ]
+      ],
+      "zh": "我把玩具盒关好。",
+      "py": "wǒ bǎ wán jù hé guān hǎo。"
     },
     {
       "en": "The poster shows a green park.",
       "ko": "포스터에는 초록색 공원이 있어요.",
       "highlights": [
         "poster"
-      ]
+      ],
+      "zh": "海报上是一个绿色的公园。",
+      "py": "hǎi bào shàng shì yí gè lǜ sè de gōng yuán。"
     },
     {
       "en": "A quiet room helps me read.",
@@ -145,7 +185,9 @@
       "highlights": [
         "room",
         "quiet"
-      ]
+      ],
+      "zh": "安静的房间帮助我看书。",
+      "py": "ān jìng de fáng jiān bāng zhù wǒ kàn shū。"
     }
   ],
   "full_passage_lines": [
@@ -235,5 +277,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "This is my room, and I like my room. I have a bed and a desk. A chair is by the desk. My toy is in a box. A poster is on the wall. My room is clean and quiet. I do my homework at the desk. The bed is soft, and I sleep well. I keep the toy box closed. The poster shows a green park. A quiet room helps me read."
+  "full_passage_spoken": "This is my room, and I like my room. I have a bed and a desk. A chair is by the desk. My toy is in a box. A poster is on the wall. My room is clean and quiet. I do my homework at the desk. The bed is soft, and I sleep well. I keep the toy box closed. The poster shows a green park. A quiet room helps me read.",
+  "topic_zh": "我的房间",
+  "topic_pinyin": "wǒ de fáng jiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "这是我的房间，我喜欢我的房间。我有一张床和一张书桌。书桌旁边有一把椅子。我的玩具在盒子里。墙上有一张海报。我的房间又干净又安静。我在书桌前做作业。床很柔软，我睡得很好。我把玩具盒关好。海报上是一个绿色的公园。安静的房间帮助我看书。",
+  "full_passage_pinyin": "zhè shì wǒ de fáng jiān， wǒ xǐ huān wǒ de fáng jiān。 wǒ yǒu yī zhāng chuáng hé yī zhāng shū zhuō。 shū zhuō páng biān yǒu yī bǎ yǐ zi。 wǒ de wán jù zài hé zi lǐ。 qiáng shàng yǒu yī zhāng hǎi bào。 wǒ de fáng jiān yòu gān jìng yòu ān jìng。 wǒ zài shū zhuō qián zuò zuò yè。 chuáng hěn róu ruǎn， wǒ shuì de hěn hǎo。 wǒ bǎ wán jù hé guān hǎo。 hǎi bào shàng shì yí gè lǜ sè de gōng yuán。 ān jìng de fáng jiān bāng zhù wǒ kàn shū。"
 }

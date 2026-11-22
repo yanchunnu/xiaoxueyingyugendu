@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "four",
-      "ko": "넷"
+      "ko": "넷",
+      "zh": "四",
+      "py": "sì"
     },
     {
       "en": "season",
-      "ko": "계절"
+      "ko": "계절",
+      "zh": "季节",
+      "py": "jì jié"
     },
     {
       "en": "spring",
-      "ko": "봄"
+      "ko": "봄",
+      "zh": "春天",
+      "py": "chūn tiān"
     },
     {
       "en": "summer",
-      "ko": "여름"
+      "ko": "여름",
+      "zh": "夏天",
+      "py": "xià tiān"
     },
     {
       "en": "autumn",
-      "ko": "가을"
+      "ko": "가을",
+      "zh": "秋天",
+      "py": "qiū tiān"
     },
     {
       "en": "winter",
-      "ko": "겨울"
+      "ko": "겨울",
+      "zh": "冬天",
+      "py": "dōng tiān"
     },
     {
       "en": "weather",
-      "ko": "날씨"
+      "ko": "날씨",
+      "zh": "天气",
+      "py": "tiān qì"
     },
     {
       "en": "change",
-      "ko": "변하다"
+      "ko": "변하다",
+      "zh": "变化",
+      "py": "biàn huà"
     },
     {
       "en": "year",
-      "ko": "해"
+      "ko": "해",
+      "zh": "一年",
+      "py": "yī nián"
     },
     {
       "en": "special",
-      "ko": "특별한"
+      "ko": "특별한",
+      "zh": "特别",
+      "py": "tè bié"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "four",
         "season"
-      ]
+      ],
+      "zh": "一年有四个季节。",
+      "py": "yī nián yǒu sì gè jì jié。"
     },
     {
       "en": "They are spring, summer, autumn, and winter.",
@@ -78,7 +100,9 @@
         "summer",
         "autumn",
         "winter"
-      ]
+      ],
+      "zh": "它们是春天、夏天、秋天和冬天。",
+      "py": "tā men shì chūn tiān、 xià tiān、 qiū tiān hé dōng tiān。"
     },
     {
       "en": "The weather changes.",
@@ -86,14 +110,18 @@
       "highlights": [
         "weather",
         "change"
-      ]
+      ],
+      "zh": "天气会变化。",
+      "py": "tiān qì huì biàn huà。"
     },
     {
       "en": "Trees change too.",
       "ko": "나무도 변해요.",
       "highlights": [
         "change"
-      ]
+      ],
+      "zh": "树也会变化。",
+      "py": "shù yě huì biàn huà。"
     },
     {
       "en": "Each season is special.",
@@ -101,7 +129,9 @@
       "highlights": [
         "season",
         "special"
-      ]
+      ],
+      "zh": "每个季节都很特别。",
+      "py": "měi gè jì jié dōu hěn tè bié。"
     },
     {
       "en": "A year has all four.",
@@ -109,14 +139,18 @@
       "highlights": [
         "four",
         "year"
-      ]
+      ],
+      "zh": "一年里四个季节都有。",
+      "py": "yī nián lǐ sì gè jì jié dōu yǒu。"
     },
     {
       "en": "I like every season.",
       "ko": "나는 모든 계절을 좋아해요.",
       "highlights": [
         "season"
-      ]
+      ],
+      "zh": "我喜欢每一个季节。",
+      "py": "wǒ xǐ huān měi yí gè jì jié。"
     },
     {
       "en": "Spring is warm, summer is hot, and winter is cold.",
@@ -125,7 +159,9 @@
         "spring",
         "summer",
         "winter"
-      ]
+      ],
+      "zh": "春天暖和，夏天热，冬天冷。",
+      "py": "chūn tiān nuǎn huo， xià tiān rè， dōng tiān lěng。"
     },
     {
       "en": "Autumn is cool, and the weather changes again.",
@@ -134,7 +170,9 @@
         "autumn",
         "weather",
         "change"
-      ]
+      ],
+      "zh": "秋天凉快，天气又变化了。",
+      "py": "qiū tiān liáng kuài， tiān qì yòu biàn huà le。"
     },
     {
       "en": "Four seasons make one full year.",
@@ -143,7 +181,9 @@
         "four",
         "season",
         "year"
-      ]
+      ],
+      "zh": "四个季节组成完整的一年。",
+      "py": "sì gè jì jié zǔ chéng wán zhěng de yī nián。"
     },
     {
       "en": "Each special season teaches me something new.",
@@ -151,7 +191,9 @@
       "highlights": [
         "season",
         "special"
-      ]
+      ],
+      "zh": "每个特别的季节都教我一点新东西。",
+      "py": "měi gè tè bié de jì jié dōu jiāo wǒ yì diǎn xīn dōng xī。"
     }
   ],
   "full_passage_lines": [
@@ -247,5 +289,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "There are four seasons. They are spring, summer, autumn, and winter. The weather changes. Trees change too. Each season is special. A year has all four. I like every season. Spring is warm, summer is hot, and winter is cold. Autumn is cool, and the weather changes again. Four seasons make one full year. Each special season teaches me something new."
+  "full_passage_spoken": "There are four seasons. They are spring, summer, autumn, and winter. The weather changes. Trees change too. Each season is special. A year has all four. I like every season. Spring is warm, summer is hot, and winter is cold. Autumn is cool, and the weather changes again. Four seasons make one full year. Each special season teaches me something new.",
+  "topic_zh": "四季",
+  "topic_pinyin": "sì jì",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "一年有四个季节。它们是春天、夏天、秋天和冬天。天气会变化。树也会变化。每个季节都很特别。一年里四个季节都有。我喜欢每一个季节。春天暖和，夏天热，冬天冷。秋天凉快，天气又变化了。四个季节组成完整的一年。每个特别的季节都教我一点新东西。",
+  "full_passage_pinyin": "yī nián yǒu sì gè jì jié。 tā men shì chūn tiān、 xià tiān、 qiū tiān hé dōng tiān。 tiān qì huì biàn huà。 shù yě huì biàn huà。 měi gè jì jié dōu hěn tè bié。 yī nián lǐ sì gè jì jié dōu yǒu。 wǒ xǐ huān měi yí gè jì jié。 chūn tiān nuǎn huo， xià tiān rè， dōng tiān lěng。 qiū tiān liáng kuài， tiān qì yòu biàn huà le。 sì gè jì jié zǔ chéng wán zhěng de yī nián。 měi gè tè bié de jì jié dōu jiāo wǒ yì diǎn xīn dōng xī。"
 }

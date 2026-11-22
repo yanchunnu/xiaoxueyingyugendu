@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "three",
-      "ko": "셋"
+      "ko": "셋",
+      "zh": "三",
+      "py": "sān"
     },
     {
       "en": "meal",
-      "ko": "끼니"
+      "ko": "끼니",
+      "zh": "一餐",
+      "py": "yī cān"
     },
     {
       "en": "breakfast",
-      "ko": "아침"
+      "ko": "아침",
+      "zh": "早饭",
+      "py": "zǎo fàn"
     },
     {
       "en": "lunch",
-      "ko": "점심"
+      "ko": "점심",
+      "zh": "午饭",
+      "py": "wǔ fàn"
     },
     {
       "en": "dinner",
-      "ko": "저녁"
+      "ko": "저녁",
+      "zh": "晚饭",
+      "py": "wǎn fàn"
     },
     {
       "en": "on time",
-      "ko": "제시간에"
+      "ko": "제시간에",
+      "zh": "按时",
+      "py": "àn shí"
     },
     {
       "en": "skip",
-      "ko": "거르다"
+      "ko": "거르다",
+      "zh": "不吃",
+      "py": "bù chī"
     },
     {
       "en": "regular",
-      "ko": "규칙적인"
+      "ko": "규칙적인",
+      "zh": "规律",
+      "py": "guī lǜ"
     },
     {
       "en": "energy",
-      "ko": "에너지"
+      "ko": "에너지",
+      "zh": "能量",
+      "py": "néng liàng"
     },
     {
       "en": "study",
-      "ko": "공부하다"
+      "ko": "공부하다",
+      "zh": "学习",
+      "py": "xué xí"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "three",
         "meal"
-      ]
+      ],
+      "zh": "我一天吃三餐。",
+      "py": "wǒ yī tiān chī sān cān。"
     },
     {
       "en": "Breakfast is one meal.",
@@ -76,28 +98,36 @@
       "highlights": [
         "meal",
         "breakfast"
-      ]
+      ],
+      "zh": "早饭是一餐。",
+      "py": "zǎo fàn shì yī cān。"
     },
     {
       "en": "Lunch is at school.",
       "ko": "점심은 학교에서 먹어요.",
       "highlights": [
         "lunch"
-      ]
+      ],
+      "zh": "午饭在学校吃。",
+      "py": "wǔ fàn zài xué xiào chī。"
     },
     {
       "en": "Dinner is at home.",
       "ko": "저녁은 집에서 먹어요.",
       "highlights": [
         "dinner"
-      ]
+      ],
+      "zh": "晚饭在家里吃。",
+      "py": "wǎn fàn zài jiā lǐ chī。"
     },
     {
       "en": "I eat on time.",
       "ko": "나는 제시간에 먹어요.",
       "highlights": [
         "on time"
-      ]
+      ],
+      "zh": "我按时吃饭。",
+      "py": "wǒ àn shí chī fàn。"
     },
     {
       "en": "I do not skip a meal.",
@@ -105,7 +135,9 @@
       "highlights": [
         "meal",
         "skip"
-      ]
+      ],
+      "zh": "我不会不吃一餐。",
+      "py": "wǒ bú huì bù chī yī cān。"
     },
     {
       "en": "Regular meals give me energy.",
@@ -114,14 +146,18 @@
         "meal",
         "regular",
         "energy"
-      ]
+      ],
+      "zh": "规律的用餐给我能量。",
+      "py": "guī lǜ de yòng cān gěi wǒ néng liàng。"
     },
     {
       "en": "They help me study.",
       "ko": "그 식사는 공부에 도움이 돼요.",
       "highlights": [
         "study"
-      ]
+      ],
+      "zh": "它们帮助我学习。",
+      "py": "tā men bāng zhù wǒ xué xí。"
     },
     {
       "en": "Three meals are breakfast, lunch, and dinner.",
@@ -132,7 +168,9 @@
         "breakfast",
         "lunch",
         "dinner"
-      ]
+      ],
+      "zh": "三餐就是早饭、午饭和晚饭。",
+      "py": "sān cān jiù shì zǎo fàn、 wǔ fàn hé wǎn fàn。"
     },
     {
       "en": "I do not skip lunch even when I am busy.",
@@ -140,7 +178,9 @@
       "highlights": [
         "lunch",
         "skip"
-      ]
+      ],
+      "zh": "就算很忙，我也不会不吃午饭。",
+      "py": "jiù suàn hěn máng， wǒ yě bú huì bù chī wǔ fàn。"
     },
     {
       "en": "On time meals give me energy to study.",
@@ -150,7 +190,9 @@
         "on time",
         "energy",
         "study"
-      ]
+      ],
+      "zh": "按时吃饭给我学习的能量。",
+      "py": "àn shí chī fàn gěi wǒ xué xí de néng liàng。"
     }
   ],
   "full_passage_lines": [
@@ -245,5 +287,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I eat three meals a day. Breakfast is one meal. Lunch is at school. Dinner is at home. I eat on time. I do not skip a meal. Regular meals give me energy. They help me study. Three meals are breakfast, lunch, and dinner. I do not skip lunch even when I am busy. On time meals give me energy to study."
+  "full_passage_spoken": "I eat three meals a day. Breakfast is one meal. Lunch is at school. Dinner is at home. I eat on time. I do not skip a meal. Regular meals give me energy. They help me study. Three meals are breakfast, lunch, and dinner. I do not skip lunch even when I am busy. On time meals give me energy to study.",
+  "topic_zh": "一日三餐",
+  "topic_pinyin": "yī rì sān cān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我一天吃三餐。早饭是一餐。午饭在学校吃。晚饭在家里吃。我按时吃饭。我不会不吃一餐。规律的用餐给我能量。它们帮助我学习。三餐就是早饭、午饭和晚饭。就算很忙，我也不会不吃午饭。按时吃饭给我学习的能量。",
+  "full_passage_pinyin": "wǒ yī tiān chī sān cān。 zǎo fàn shì yī cān。 wǔ fàn zài xué xiào chī。 wǎn fàn zài jiā lǐ chī。 wǒ àn shí chī fàn。 wǒ bú huì bù chī yī cān。 guī lǜ de yòng cān gěi wǒ néng liàng。 tā men bāng zhù wǒ xué xí。 sān cān jiù shì zǎo fàn、 wǔ fàn hé wǎn fàn。 jiù suàn hěn máng， wǒ yě bú huì bù chī wǔ fàn。 àn shí chī fàn gěi wǒ xué xí de néng liàng。"
 }

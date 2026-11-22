@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "season",
-      "ko": "계절"
+      "ko": "계절",
+      "zh": "季节",
+      "py": "jì jié"
     },
     {
       "en": "spring",
-      "ko": "봄"
+      "ko": "봄",
+      "zh": "春天",
+      "py": "chūn tiān"
     },
     {
       "en": "air",
-      "ko": "공기"
+      "ko": "공기",
+      "zh": "空气",
+      "py": "kōng qì"
     },
     {
       "en": "warm",
-      "ko": "따뜻한"
+      "ko": "따뜻한",
+      "zh": "温暖",
+      "py": "wēn nuǎn"
     },
     {
       "en": "flower",
-      "ko": "꽃"
+      "ko": "꽃",
+      "zh": "花",
+      "py": "huā"
     },
     {
       "en": "outside",
-      "ko": "바깥"
+      "ko": "바깥",
+      "zh": "外面",
+      "py": "wài miàn"
     },
     {
       "en": "bike",
-      "ko": "자전거"
+      "ko": "자전거",
+      "zh": "自行车",
+      "py": "zì xíng chē"
     },
     {
       "en": "hope",
-      "ko": "희망"
+      "ko": "희망",
+      "zh": "希望",
+      "py": "xī wàng"
     },
     {
       "en": "year",
-      "ko": "해"
+      "ko": "해",
+      "zh": "一年",
+      "py": "yī nián"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "favorite",
         "season",
         "spring"
-      ]
+      ],
+      "zh": "我最喜欢的季节是春天。",
+      "py": "wǒ zuì xǐ huān de jì jié shì chūn tiān。"
     },
     {
       "en": "The air is warm.",
@@ -77,35 +99,45 @@
       "highlights": [
         "air",
         "warm"
-      ]
+      ],
+      "zh": "空气很温暖。",
+      "py": "kōng qì hěn wēn nuǎn。"
     },
     {
       "en": "I see a flower.",
       "ko": "나는 꽃을 봐요.",
       "highlights": [
         "flower"
-      ]
+      ],
+      "zh": "我看见一朵花。",
+      "py": "wǒ kàn jiàn yī duǒ huā。"
     },
     {
       "en": "I walk outside.",
       "ko": "나는 바깥을 걸어요.",
       "highlights": [
         "outside"
-      ]
+      ],
+      "zh": "我走到外面。",
+      "py": "wǒ zǒu dào wài miàn。"
     },
     {
       "en": "I ride my bike.",
       "ko": "나는 자전거를 타요.",
       "highlights": [
         "bike"
-      ]
+      ],
+      "zh": "我骑自行车。",
+      "py": "wǒ qí zì xíng chē。"
     },
     {
       "en": "I feel full of hope.",
       "ko": "나는 희망으로 가득해요.",
       "highlights": [
         "hope"
-      ]
+      ],
+      "zh": "我心里充满希望。",
+      "py": "wǒ xīn lǐ chōng mǎn xī wàng。"
     },
     {
       "en": "Spring is my favorite.",
@@ -113,14 +145,18 @@
       "highlights": [
         "favorite",
         "spring"
-      ]
+      ],
+      "zh": "春天是我最喜欢的。",
+      "py": "chūn tiān shì wǒ zuì xǐ huān de。"
     },
     {
       "en": "I wait for it every year.",
       "ko": "나는 매년 봄을 기다려요.",
       "highlights": [
         "year"
-      ]
+      ],
+      "zh": "我每年都等它。",
+      "py": "wǒ měi nián dōu děng tā。"
     },
     {
       "en": "Warm air and a flower mean spring is here.",
@@ -130,7 +166,9 @@
         "air",
         "warm",
         "flower"
-      ]
+      ],
+      "zh": "温暖的空气和一朵花，说明春天来了。",
+      "py": "wēn nuǎn de kōng qì hé yī duǒ huā， shuō míng chūn tiān lái le。"
     },
     {
       "en": "I go outside and ride my bike.",
@@ -138,7 +176,9 @@
       "highlights": [
         "outside",
         "bike"
-      ]
+      ],
+      "zh": "我走到外面，骑自行车。",
+      "py": "wǒ zǒu dào wài miàn， qí zì xíng chē。"
     },
     {
       "en": "Every year this season fills me with hope.",
@@ -147,7 +187,9 @@
         "season",
         "hope",
         "year"
-      ]
+      ],
+      "zh": "每年这个季节都让我充满希望。",
+      "py": "měi nián zhè ge jì jié dōu ràng wǒ chōng mǎn xī wàng。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite season is spring. The air is warm. I see a flower. I walk outside. I ride my bike. I feel full of hope. Spring is my favorite. I wait for it every year. Warm air and a flower mean spring is here. I go outside and ride my bike. Every year this season fills me with hope."
+  "full_passage_spoken": "My favorite season is spring. The air is warm. I see a flower. I walk outside. I ride my bike. I feel full of hope. Spring is my favorite. I wait for it every year. Warm air and a flower mean spring is here. I go outside and ride my bike. Every year this season fills me with hope.",
+  "topic_zh": "我最喜欢的季节",
+  "topic_pinyin": "wǒ zuì xǐ huān de jì jié",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的季节是春天。空气很温暖。我看见一朵花。我走到外面。我骑自行车。我心里充满希望。春天是我最喜欢的。我每年都等它。温暖的空气和一朵花，说明春天来了。我走到外面，骑自行车。每年这个季节都让我充满希望。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de jì jié shì chūn tiān。 kōng qì hěn wēn nuǎn。 wǒ kàn jiàn yī duǒ huā。 wǒ zǒu dào wài miàn。 wǒ qí zì xíng chē。 wǒ xīn lǐ chōng mǎn xī wàng。 chūn tiān shì wǒ zuì xǐ huān de。 wǒ měi nián dōu děng tā。 wēn nuǎn de kōng qì hé yī duǒ huā， shuō míng chūn tiān lái le。 wǒ zǒu dào wài miàn， qí zì xíng chē。 měi nián zhè ge jì jié dōu ràng wǒ chōng mǎn xī wàng。"
 }

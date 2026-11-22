@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "father",
-      "ko": "아버지"
+      "ko": "아버지",
+      "zh": "爸爸",
+      "py": "bà bà"
     },
     {
       "en": "doctor",
-      "ko": "의사"
+      "ko": "의사",
+      "zh": "医生",
+      "py": "yī shēng"
     },
     {
       "en": "hospital",
-      "ko": "병원"
+      "ko": "병원",
+      "zh": "医院",
+      "py": "yī yuàn"
     },
     {
       "en": "work",
-      "ko": "일"
+      "ko": "일",
+      "zh": "工作",
+      "py": "gōng zuò"
     },
     {
       "en": "tall",
-      "ko": "키가 큰"
+      "ko": "키가 큰",
+      "zh": "高",
+      "py": "gāo"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     },
     {
       "en": "cook",
-      "ko": "요리하다"
+      "ko": "요리하다",
+      "zh": "做饭",
+      "py": "zuò fàn"
     },
     {
       "en": "dinner",
-      "ko": "저녁"
+      "ko": "저녁",
+      "zh": "晚饭",
+      "py": "wǎn fàn"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "doctor",
         "hospital",
         "work"
-      ]
+      ],
+      "zh": "我的爸爸是医生，他在医院工作。",
+      "py": "wǒ de bà bà shì yī shēng， tā zài yī yuàn gōng zuò。"
     },
     {
       "en": "He is tall and kind.",
@@ -78,21 +100,27 @@
       "highlights": [
         "tall",
         "kind"
-      ]
+      ],
+      "zh": "他又高又善良。",
+      "py": "tā yòu gāo yòu shàn liáng。"
     },
     {
       "en": "He goes to work in the morning.",
       "ko": "아버지는 아침에 일하러 가요.",
       "highlights": [
         "work"
-      ]
+      ],
+      "zh": "他早上去上班。",
+      "py": "tā zǎo shàng qù shàng bān。"
     },
     {
       "en": "His work is important, but he still smiles at us.",
       "ko": "아버지의 일은 중요하지만, 그래도 우리에게 미소를 지어요.",
       "highlights": [
         "work"
-      ]
+      ],
+      "zh": "他的工作很重要，可是他仍然对我们笑。",
+      "py": "tā de gōng zuò hěn zhòng yào， kě shì tā réng rán duì wǒ men xiào。"
     },
     {
       "en": "He can cook dinner for our family.",
@@ -101,7 +129,9 @@
         "cook",
         "dinner",
         "family"
-      ]
+      ],
+      "zh": "他会给我们家人做晚饭。",
+      "py": "tā huì gěi wǒ men jiā rén zuò wǎn fàn。"
     },
     {
       "en": "I love my father because he cares for us.",
@@ -109,7 +139,9 @@
       "highlights": [
         "father",
         "love"
-      ]
+      ],
+      "zh": "我爱爸爸，因为他照顾我们。",
+      "py": "wǒ ài bà bà， yīn wèi tā zhào gù wǒ men。"
     },
     {
       "en": "He loves our family very much.",
@@ -117,24 +149,32 @@
       "highlights": [
         "love",
         "family"
-      ]
+      ],
+      "zh": "他也很爱我们一家人。",
+      "py": "tā yě hěn ài wǒ men yī jiā rén。"
     },
     {
       "en": "After work, he asks about my school day.",
       "ko": "일이 끝나면 아버지는 나의 학교 하루에 대해 물어요.",
       "highlights": [
         "work"
-      ]
+      ],
+      "zh": "下班以后，他会问我学校里的事。",
+      "py": "xià bān yǐ hòu， tā huì wèn wǒ xué xiào lǐ de shì。"
     },
     {
       "en": "He is proud when I try hard.",
       "ko": "내가 열심히 하면 아버지는 자랑스러워해요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "我努力的时候，他很骄傲。",
+      "py": "wǒ nǔ lì de shí hòu， tā hěn jiāo ào。"
     },
     {
       "en": "My little sister runs to him at the door.",
       "ko": "여동생은 문 앞에서 아버지에게 달려가요.",
-      "highlights": []
+      "highlights": [],
+      "zh": "妹妹会跑到门口找他。",
+      "py": "mèi mèi huì pǎo dào mén kǒu zhǎo tā。"
     },
     {
       "en": "I want to be kind like my father.",
@@ -142,7 +182,9 @@
       "highlights": [
         "father",
         "kind"
-      ]
+      ],
+      "zh": "我想像爸爸一样善良。",
+      "py": "wǒ xiǎng xiàng bà bà yī yàng shàn liáng。"
     }
   ],
   "full_passage_lines": [
@@ -229,5 +271,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My father is a doctor, and he works at a hospital. He is tall and kind. He goes to work in the morning. His work is important, but he still smiles at us. He can cook dinner for our family. I love my father because he cares for us. He loves our family very much. After work, he asks about my school day. He is proud when I try hard. My little sister runs to him at the door. I want to be kind like my father."
+  "full_passage_spoken": "My father is a doctor, and he works at a hospital. He is tall and kind. He goes to work in the morning. His work is important, but he still smiles at us. He can cook dinner for our family. I love my father because he cares for us. He loves our family very much. After work, he asks about my school day. He is proud when I try hard. My little sister runs to him at the door. I want to be kind like my father.",
+  "topic_zh": "我的爸爸",
+  "topic_pinyin": "wǒ de bà bà",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的爸爸是医生，他在医院工作。他又高又善良。他早上去上班。他的工作很重要，可是他仍然对我们笑。他会给我们家人做晚饭。我爱爸爸，因为他照顾我们。他也很爱我们一家人。下班以后，他会问我学校里的事。我努力的时候，他很骄傲。妹妹会跑到门口找他。我想像爸爸一样善良。",
+  "full_passage_pinyin": "wǒ de bà bà shì yī shēng， tā zài yī yuàn gōng zuò。 tā yòu gāo yòu shàn liáng。 tā zǎo shàng qù shàng bān。 tā de gōng zuò hěn zhòng yào， kě shì tā réng rán duì wǒ men xiào。 tā huì gěi wǒ men jiā rén zuò wǎn fàn。 wǒ ài bà bà， yīn wèi tā zhào gù wǒ men。 tā yě hěn ài wǒ men yī jiā rén。 xià bān yǐ hòu， tā huì wèn wǒ xué xiào lǐ de shì。 wǒ nǔ lì de shí hòu， tā hěn jiāo ào。 mèi mèi huì pǎo dào mén kǒu zhǎo tā。 wǒ xiǎng xiàng bà bà yī yàng shàn liáng。"
 }

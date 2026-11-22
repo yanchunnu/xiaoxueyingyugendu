@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "sea",
-      "ko": "바다"
+      "ko": "바다",
+      "zh": "海",
+      "py": "hǎi"
     },
     {
       "en": "blue",
-      "ko": "파란"
+      "ko": "파란",
+      "zh": "蓝",
+      "py": "lán"
     },
     {
       "en": "wide",
-      "ko": "넓은"
+      "ko": "넓은",
+      "zh": "宽",
+      "py": "kuān"
     },
     {
       "en": "wave",
-      "ko": "파도"
+      "ko": "파도",
+      "zh": "浪",
+      "py": "làng"
     },
     {
       "en": "sand",
-      "ko": "모래"
+      "ko": "모래",
+      "zh": "沙子",
+      "py": "shā zi"
     },
     {
       "en": "shell",
-      "ko": "조개"
+      "ko": "조개",
+      "zh": "贝壳",
+      "py": "bèi ké"
     },
     {
       "en": "boat",
-      "ko": "배"
+      "ko": "배",
+      "zh": "船",
+      "py": "chuán"
     },
     {
       "en": "wind",
-      "ko": "바람"
+      "ko": "바람",
+      "zh": "风",
+      "py": "fēng"
     },
     {
       "en": "swim",
-      "ko": "수영하다"
+      "ko": "수영하다",
+      "zh": "游泳",
+      "py": "yóu yǒng"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "sea",
         "blue",
         "wide"
-      ]
+      ],
+      "zh": "大海又蓝又宽。",
+      "py": "dà hǎi yòu lán yòu kuān。"
     },
     {
       "en": "A wave comes to the sand, and I pick up a shell.",
@@ -78,14 +100,18 @@
         "wave",
         "sand",
         "shell"
-      ]
+      ],
+      "zh": "浪来到沙子上，我捡起一个贝壳。",
+      "py": "làng lái dào shā zi shàng， wǒ jiǎn qǐ yí gè bèi ké。"
     },
     {
       "en": "I see a small boat on the water.",
       "ko": "나는 물 위에 있는 작은 배를 봐요.",
       "highlights": [
         "boat"
-      ]
+      ],
+      "zh": "我看见水上有一条小船。",
+      "py": "wǒ kàn jiàn shuǐ shàng yǒu yī tiáo xiǎo chuán。"
     },
     {
       "en": "The wind is cool, and I want to swim.",
@@ -93,7 +119,9 @@
       "highlights": [
         "wind",
         "swim"
-      ]
+      ],
+      "zh": "风很凉快，我想游泳。",
+      "py": "fēng hěn liáng kuài， wǒ xiǎng yóu yǒng。"
     },
     {
       "en": "I love the sea because it makes me calm.",
@@ -101,21 +129,27 @@
       "highlights": [
         "sea",
         "love"
-      ]
+      ],
+      "zh": "我爱大海，因为它让我平静。",
+      "py": "wǒ ài dà hǎi， yīn wèi tā ràng wǒ píng jìng。"
     },
     {
       "en": "My family goes to the sea in summer.",
       "ko": "우리 가족은 여름에 바다에 가요.",
       "highlights": [
         "sea"
-      ]
+      ],
+      "zh": "夏天我们一家人去海边。",
+      "py": "xià tiān wǒ men yī jiā rén qù hǎi biān。"
     },
     {
       "en": "My little sister looks for a pretty shell.",
       "ko": "여동생은 예쁜 조개를 찾아요.",
       "highlights": [
         "shell"
-      ]
+      ],
+      "zh": "妹妹在找漂亮的贝壳。",
+      "py": "mèi mèi zài zhǎo piào liàng de bèi ké。"
     },
     {
       "en": "The wide sea meets the blue sky.",
@@ -124,7 +158,9 @@
         "sea",
         "blue",
         "wide"
-      ]
+      ],
+      "zh": "宽宽的大海和蓝色的天空连在一起。",
+      "py": "kuān kuān de dà hǎi hé lán sè de tiān kōng lián zài yì qǐ。"
     },
     {
       "en": "We do not swim when the wave is too high.",
@@ -132,14 +168,18 @@
       "highlights": [
         "wave",
         "swim"
-      ]
+      ],
+      "zh": "浪太高的时候，我们不游泳。",
+      "py": "làng tài gāo de shí hòu， wǒ men bù yóu yǒng。"
     },
     {
       "en": "The wind lifts my hair, and I laugh.",
       "ko": "바람이 내 머리를 들어 올리고, 나는 웃어요.",
       "highlights": [
         "wind"
-      ]
+      ],
+      "zh": "风吹起我的头发，我就笑。",
+      "py": "fēng chuī qǐ wǒ de tóu fa， wǒ jiù xiào。"
     },
     {
       "en": "I love a quiet hour by the sea.",
@@ -147,7 +187,9 @@
       "highlights": [
         "sea",
         "love"
-      ]
+      ],
+      "zh": "我喜欢在海边安静地待一会儿。",
+      "py": "wǒ xǐ huān zài hǎi biān ān jìng de dài yī huì er。"
     }
   ],
   "full_passage_lines": [
@@ -239,5 +281,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "The sea is blue and wide. A wave comes to the sand, and I pick up a shell. I see a small boat on the water. The wind is cool, and I want to swim. I love the sea because it makes me calm. My family goes to the sea in summer. My little sister looks for a pretty shell. The wide sea meets the blue sky. We do not swim when the wave is too high. The wind lifts my hair, and I laugh. I love a quiet hour by the sea."
+  "full_passage_spoken": "The sea is blue and wide. A wave comes to the sand, and I pick up a shell. I see a small boat on the water. The wind is cool, and I want to swim. I love the sea because it makes me calm. My family goes to the sea in summer. My little sister looks for a pretty shell. The wide sea meets the blue sky. We do not swim when the wave is too high. The wind lifts my hair, and I laugh. I love a quiet hour by the sea.",
+  "topic_zh": "大海",
+  "topic_pinyin": "dà hǎi",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "大海又蓝又宽。浪来到沙子上，我捡起一个贝壳。我看见水上有一条小船。风很凉快，我想游泳。我爱大海，因为它让我平静。夏天我们一家人去海边。妹妹在找漂亮的贝壳。宽宽的大海和蓝色的天空连在一起。浪太高的时候，我们不游泳。风吹起我的头发，我就笑。我喜欢在海边安静地待一会儿。",
+  "full_passage_pinyin": "dà hǎi yòu lán yòu kuān。 làng lái dào shā zi shàng， wǒ jiǎn qǐ yí gè bèi ké。 wǒ kàn jiàn shuǐ shàng yǒu yī tiáo xiǎo chuán。 fēng hěn liáng kuài， wǒ xiǎng yóu yǒng。 wǒ ài dà hǎi， yīn wèi tā ràng wǒ píng jìng。 xià tiān wǒ men yī jiā rén qù hǎi biān。 mèi mèi zài zhǎo piào liàng de bèi ké。 kuān kuān de dà hǎi hé lán sè de tiān kōng lián zài yì qǐ。 làng tài gāo de shí hòu， wǒ men bù yóu yǒng。 fēng chuī qǐ wǒ de tóu fa， wǒ jiù xiào。 wǒ xǐ huān zài hǎi biān ān jìng de dài yī huì er。"
 }

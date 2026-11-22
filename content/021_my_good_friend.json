@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "good",
-      "ko": "좋은"
+      "ko": "좋은",
+      "zh": "好",
+      "py": "hǎo"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "listen",
-      "ko": "듣다"
+      "ko": "듣다",
+      "zh": "听",
+      "py": "tīng"
     },
     {
       "en": "wait",
-      "ko": "기다리다"
+      "ko": "기다리다",
+      "zh": "等",
+      "py": "děng"
     },
     {
       "en": "share",
-      "ko": "나누다"
+      "ko": "나누다",
+      "zh": "分享",
+      "py": "fēn xiǎng"
     },
     {
       "en": "fair",
-      "ko": "공정한"
+      "ko": "공정한",
+      "zh": "公平",
+      "py": "gōng píng"
     },
     {
       "en": "team",
-      "ko": "팀"
+      "ko": "팀",
+      "zh": "队",
+      "py": "duì"
     },
     {
       "en": "cheer",
-      "ko": "응원하다"
+      "ko": "응원하다",
+      "zh": "加油",
+      "py": "jiā yóu"
     },
     {
       "en": "win",
-      "ko": "이기다"
+      "ko": "이기다",
+      "zh": "赢",
+      "py": "yíng"
     },
     {
       "en": "kind",
-      "ko": "친절한"
+      "ko": "친절한",
+      "zh": "善良",
+      "py": "shàn liáng"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "friend",
         "listen",
         "wait"
-      ]
+      ],
+      "zh": "好朋友会听，好朋友也会等。",
+      "py": "hǎo péng yǒu huì tīng， hǎo péng yǒu yě huì děng。"
     },
     {
       "en": "We share, and we play fair.",
@@ -78,7 +100,9 @@
       "highlights": [
         "share",
         "fair"
-      ]
+      ],
+      "zh": "我们分享，也公平地玩。",
+      "py": "wǒ men fēn xiǎng， yě gōng píng de wán。"
     },
     {
       "en": "We are on one team, and we cheer for our team.",
@@ -86,7 +110,9 @@
       "highlights": [
         "team",
         "cheer"
-      ]
+      ],
+      "zh": "我们在同一个队，为我们的队加油。",
+      "py": "wǒ men zài tóng yī gè duì， wèi wǒ men de duì jiā yóu。"
     },
     {
       "en": "We want to win, but we also want to be fair.",
@@ -94,7 +120,9 @@
       "highlights": [
         "fair",
         "win"
-      ]
+      ],
+      "zh": "我们想赢，可是也想公平。",
+      "py": "wǒ men xiǎng yíng， kě shì yě xiǎng gōng píng。"
     },
     {
       "en": "Tom can be kind, and he is my good friend.",
@@ -103,28 +131,36 @@
         "good",
         "friend",
         "kind"
-      ]
+      ],
+      "zh": "汤姆会很善良，他是我的好朋友。",
+      "py": "tāng mǔ huì hěn shàn liáng， tā shì wǒ de hǎo péng yǒu。"
     },
     {
       "en": "He listens when I am sad.",
       "ko": "내가 슬프면 톰이 들어요.",
       "highlights": [
         "listen"
-      ]
+      ],
+      "zh": "我难过的时候，他会听我说。",
+      "py": "wǒ nán guò de shí hòu， tā huì tīng wǒ shuō。"
     },
     {
       "en": "He will wait for me at the gate.",
       "ko": "톰은 교문에서 나를 기다려 줄 거예요.",
       "highlights": [
         "wait"
-      ]
+      ],
+      "zh": "他会在校门口等我。",
+      "py": "tā huì zài xiào mén kǒu děng wǒ。"
     },
     {
       "en": "We share a snack after the game.",
       "ko": "경기 후에 우리는 간식을 나눠요.",
       "highlights": [
         "share"
-      ]
+      ],
+      "zh": "比赛以后我们分享零食。",
+      "py": "bǐ sài yǐ hòu wǒ men fēn xiǎng líng shí。"
     },
     {
       "en": "Our team cheers even when we do not win.",
@@ -133,7 +169,9 @@
         "team",
         "cheer",
         "win"
-      ]
+      ],
+      "zh": "就算没有赢，我们的队也会加油。",
+      "py": "jiù suàn méi yǒu yíng， wǒ men de duì yě huì jiā yóu。"
     },
     {
       "en": "A kind friend makes a good team.",
@@ -143,7 +181,9 @@
         "friend",
         "team",
         "kind"
-      ]
+      ],
+      "zh": "善良的朋友能组成好队伍。",
+      "py": "shàn liáng de péng yǒu néng zǔ chéng hǎo duì wǔ。"
     },
     {
       "en": "I want to be a good friend too.",
@@ -151,7 +191,9 @@
       "highlights": [
         "good",
         "friend"
-      ]
+      ],
+      "zh": "我也想做一个好朋友。",
+      "py": "wǒ yě xiǎng zuò yí gè hǎo péng yǒu。"
     }
   ],
   "full_passage_lines": [
@@ -247,5 +289,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "A good friend can listen, and a good friend can wait. We share, and we play fair. We are on one team, and we cheer for our team. We want to win, but we also want to be fair. Tom can be kind, and he is my good friend. He listens when I am sad. He will wait for me at the gate. We share a snack after the game. Our team cheers even when we do not win. A kind friend makes a good team. I want to be a good friend too."
+  "full_passage_spoken": "A good friend can listen, and a good friend can wait. We share, and we play fair. We are on one team, and we cheer for our team. We want to win, but we also want to be fair. Tom can be kind, and he is my good friend. He listens when I am sad. He will wait for me at the gate. We share a snack after the game. Our team cheers even when we do not win. A kind friend makes a good team. I want to be a good friend too.",
+  "topic_zh": "我的好朋友",
+  "topic_pinyin": "wǒ de hǎo péng yǒu",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "好朋友会听，好朋友也会等。我们分享，也公平地玩。我们在同一个队，为我们的队加油。我们想赢，可是也想公平。汤姆会很善良，他是我的好朋友。我难过的时候，他会听我说。他会在校门口等我。比赛以后我们分享零食。就算没有赢，我们的队也会加油。善良的朋友能组成好队伍。我也想做一个好朋友。",
+  "full_passage_pinyin": "hǎo péng yǒu huì tīng， hǎo péng yǒu yě huì děng。 wǒ men fēn xiǎng， yě gōng píng de wán。 wǒ men zài tóng yī gè duì， wèi wǒ men de duì jiā yóu。 wǒ men xiǎng yíng， kě shì yě xiǎng gōng píng。 tāng mǔ huì hěn shàn liáng， tā shì wǒ de hǎo péng yǒu。 wǒ nán guò de shí hòu， tā huì tīng wǒ shuō。 tā huì zài xiào mén kǒu děng wǒ。 bǐ sài yǐ hòu wǒ men fēn xiǎng líng shí。 jiù suàn méi yǒu yíng， wǒ men de duì yě huì jiā yóu。 shàn liáng de péng yǒu néng zǔ chéng hǎo duì wǔ。 wǒ yě xiǎng zuò yí gè hǎo péng yǒu。"
 }

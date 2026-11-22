@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "school",
-      "ko": "학교"
+      "ko": "학교",
+      "zh": "学校",
+      "py": "xué xiào"
     },
     {
       "en": "big",
-      "ko": "큰"
+      "ko": "큰",
+      "zh": "大",
+      "py": "dà"
     },
     {
       "en": "building",
-      "ko": "건물"
+      "ko": "건물",
+      "zh": "楼",
+      "py": "lóu"
     },
     {
       "en": "playground",
-      "ko": "운동장"
+      "ko": "운동장",
+      "zh": "操场",
+      "py": "cāo chǎng"
     },
     {
       "en": "library",
-      "ko": "도서관"
+      "ko": "도서관",
+      "zh": "图书馆",
+      "py": "tú shū guǎn"
     },
     {
       "en": "gate",
-      "ko": "교문"
+      "ko": "교문",
+      "zh": "校门",
+      "py": "xiào mén"
     },
     {
       "en": "walk",
-      "ko": "걷다"
+      "ko": "걷다",
+      "zh": "走",
+      "py": "zǒu"
     },
     {
       "en": "teacher",
-      "ko": "선생님"
+      "ko": "선생님",
+      "zh": "老师",
+      "py": "lǎo shī"
     },
     {
       "en": "friend",
-      "ko": "친구"
+      "ko": "친구",
+      "zh": "朋友",
+      "py": "péng yǒu"
     },
     {
       "en": "love",
-      "ko": "사랑하다"
+      "ko": "사랑하다",
+      "zh": "爱",
+      "py": "ài"
     }
   ],
   "phrases": [
@@ -69,7 +89,9 @@
         "school",
         "big",
         "building"
-      ]
+      ],
+      "zh": "我的学校很大，楼是白色的。",
+      "py": "wǒ de xué xiào hěn dà， lóu shì bái sè de。"
     },
     {
       "en": "We have a playground, and we have a library too.",
@@ -77,7 +99,9 @@
       "highlights": [
         "playground",
         "library"
-      ]
+      ],
+      "zh": "我们有操场，也有图书馆。",
+      "py": "wǒ men yǒu cāo chǎng， yě yǒu tú shū guǎn。"
     },
     {
       "en": "I walk through the gate.",
@@ -85,7 +109,9 @@
       "highlights": [
         "gate",
         "walk"
-      ]
+      ],
+      "zh": "我走过校门。",
+      "py": "wǒ zǒu guò xiào mén。"
     },
     {
       "en": "My teacher is there, and my friend is there too.",
@@ -93,7 +119,9 @@
       "highlights": [
         "teacher",
         "friend"
-      ]
+      ],
+      "zh": "我的老师在那里，我的朋友也在那里。",
+      "py": "wǒ de lǎo shī zài nà lǐ， wǒ de péng yǒu yě zài nà lǐ。"
     },
     {
       "en": "I love my school.",
@@ -101,7 +129,9 @@
       "highlights": [
         "school",
         "love"
-      ]
+      ],
+      "zh": "我爱我的学校。",
+      "py": "wǒ ài wǒ de xué xiào。"
     },
     {
       "en": "The big playground is noisy at lunch.",
@@ -109,7 +139,9 @@
       "highlights": [
         "big",
         "playground"
-      ]
+      ],
+      "zh": "午饭时，大操场很吵。",
+      "py": "wǔ fàn shí， dà cāo chǎng hěn chǎo。"
     },
     {
       "en": "I walk to school because it is near.",
@@ -117,7 +149,9 @@
       "highlights": [
         "school",
         "walk"
-      ]
+      ],
+      "zh": "学校很近，所以我走着去上学。",
+      "py": "xué xiào hěn jìn， suǒ yǐ wǒ zǒu zhe qù shàng xué。"
     },
     {
       "en": "The library is my quiet place in the building.",
@@ -125,7 +159,9 @@
       "highlights": [
         "building",
         "library"
-      ]
+      ],
+      "zh": "图书馆是楼里我安静的地方。",
+      "py": "tú shū guǎn shì lóu lǐ wǒ ān jìng de dì fāng。"
     },
     {
       "en": "A kind teacher and a good friend make school better.",
@@ -134,7 +170,9 @@
         "school",
         "teacher",
         "friend"
-      ]
+      ],
+      "zh": "善良的老师和好朋友让学校更好。",
+      "py": "shàn liáng de lǎo shī hé hǎo péng yǒu ràng xué xiào gèng hǎo。"
     },
     {
       "en": "I love the gate in the morning light.",
@@ -142,7 +180,9 @@
       "highlights": [
         "gate",
         "love"
-      ]
+      ],
+      "zh": "我喜欢早晨阳光里的校门。",
+      "py": "wǒ xǐ huān zǎo chén yáng guāng lǐ de xiào mén。"
     },
     {
       "en": "This big school is where I learn and play.",
@@ -150,7 +190,9 @@
       "highlights": [
         "school",
         "big"
-      ]
+      ],
+      "zh": "这所很大的学校是我学习和玩耍的地方。",
+      "py": "zhè suǒ hěn dà de xué xiào shì wǒ xué xí hé wán shuǎ de dì fāng。"
     }
   ],
   "full_passage_lines": [
@@ -245,5 +287,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My school is big, and the building is white. We have a playground, and we have a library too. I walk through the gate. My teacher is there, and my friend is there too. I love my school. The big playground is noisy at lunch. I walk to school because it is near. The library is my quiet place in the building. A kind teacher and a good friend make school better. I love the gate in the morning light. This big school is where I learn and play."
+  "full_passage_spoken": "My school is big, and the building is white. We have a playground, and we have a library too. I walk through the gate. My teacher is there, and my friend is there too. I love my school. The big playground is noisy at lunch. I walk to school because it is near. The library is my quiet place in the building. A kind teacher and a good friend make school better. I love the gate in the morning light. This big school is where I learn and play.",
+  "topic_zh": "我的学校",
+  "topic_pinyin": "wǒ de xué xiào",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的学校很大，楼是白色的。我们有操场，也有图书馆。我走过校门。我的老师在那里，我的朋友也在那里。我爱我的学校。午饭时，大操场很吵。学校很近，所以我走着去上学。图书馆是楼里我安静的地方。善良的老师和好朋友让学校更好。我喜欢早晨阳光里的校门。这所很大的学校是我学习和玩耍的地方。",
+  "full_passage_pinyin": "wǒ de xué xiào hěn dà， lóu shì bái sè de。 wǒ men yǒu cāo chǎng， yě yǒu tú shū guǎn。 wǒ zǒu guò xiào mén。 wǒ de lǎo shī zài nà lǐ， wǒ de péng yǒu yě zài nà lǐ。 wǒ ài wǒ de xué xiào。 wǔ fàn shí， dà cāo chǎng hěn chǎo。 xué xiào hěn jìn， suǒ yǐ wǒ zǒu zhe qù shàng xué。 tú shū guǎn shì lóu lǐ wǒ ān jìng de dì fāng。 shàn liáng de lǎo shī hé hǎo péng yǒu ràng xué xiào gèng hǎo。 wǒ xǐ huān zǎo chén yáng guāng lǐ de xiào mén。 zhè suǒ hěn dà de xué xiào shì wǒ xué xí hé wán shuǎ de dì fāng。"
 }

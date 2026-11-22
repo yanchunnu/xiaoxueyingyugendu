@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "shopping",
-      "ko": "쇼핑"
+      "ko": "쇼핑",
+      "zh": "购物",
+      "py": "gòu wù"
     },
     {
       "en": "mom",
-      "ko": "엄마"
+      "ko": "엄마",
+      "zh": "妈妈",
+      "py": "mā mā"
     },
     {
       "en": "list",
-      "ko": "목록"
+      "ko": "목록",
+      "zh": "清单",
+      "py": "qīng dān"
     },
     {
       "en": "choose",
-      "ko": "고르다"
+      "ko": "고르다",
+      "zh": "挑选",
+      "py": "tiāo xuǎn"
     },
     {
       "en": "fruit",
-      "ko": "과일"
+      "ko": "과일",
+      "zh": "水果",
+      "py": "shuǐ guǒ"
     },
     {
       "en": "bread",
-      "ko": "빵"
+      "ko": "빵",
+      "zh": "面包",
+      "py": "miàn bāo"
     },
     {
       "en": "pay",
-      "ko": "값을 내다"
+      "ko": "값을 내다",
+      "zh": "付钱",
+      "py": "fù qián"
     },
     {
       "en": "bag",
-      "ko": "봉지"
+      "ko": "봉지",
+      "zh": "袋子",
+      "py": "dài zi"
     },
     {
       "en": "help",
-      "ko": "돕다"
+      "ko": "돕다",
+      "zh": "帮忙",
+      "py": "bāng máng"
     },
     {
       "en": "home",
-      "ko": "집"
+      "ko": "집",
+      "zh": "家",
+      "py": "jiā"
     }
   ],
   "phrases": [
@@ -68,14 +88,18 @@
       "highlights": [
         "shopping",
         "mom"
-      ]
+      ],
+      "zh": "我和妈妈一起去购物。",
+      "py": "wǒ hé mā mā yì qǐ qù gòu wù。"
     },
     {
       "en": "We have a list.",
       "ko": "우리에게는 목록이 있어요.",
       "highlights": [
         "list"
-      ]
+      ],
+      "zh": "我们有一张清单。",
+      "py": "wǒ men yǒu yī zhāng qīng dān。"
     },
     {
       "en": "We choose fruit and bread.",
@@ -84,7 +108,9 @@
         "choose",
         "fruit",
         "bread"
-      ]
+      ],
+      "zh": "我们挑选水果和面包。",
+      "py": "wǒ men tiāo xuǎn shuǐ guǒ huó miàn bāo。"
     },
     {
       "en": "Mom will pay.",
@@ -92,14 +118,18 @@
       "highlights": [
         "mom",
         "pay"
-      ]
+      ],
+      "zh": "妈妈会付钱。",
+      "py": "mā mā huì fù qián。"
     },
     {
       "en": "The bag is full.",
       "ko": "봉지가 가득해요.",
       "highlights": [
         "bag"
-      ]
+      ],
+      "zh": "袋子满了。",
+      "py": "dài zi mǎn le。"
     },
     {
       "en": "I help hold the bag.",
@@ -107,14 +137,18 @@
       "highlights": [
         "bag",
         "help"
-      ]
+      ],
+      "zh": "我帮忙拿袋子。",
+      "py": "wǒ bāng máng ná dài zi。"
     },
     {
       "en": "We go home happy.",
       "ko": "우리는 행복하게 집에 가요.",
       "highlights": [
         "home"
-      ]
+      ],
+      "zh": "我们快乐地回家。",
+      "py": "wǒ men kuài lè de huí jiā。"
     },
     {
       "en": "The list helps us choose only what we need.",
@@ -123,7 +157,9 @@
         "list",
         "choose",
         "help"
-      ]
+      ],
+      "zh": "清单帮助我们只挑选需要的东西。",
+      "py": "qīng dān bāng zhù wǒ men zhǐ tiāo xuǎn xū yào de dōng xī。"
     },
     {
       "en": "Fruit and bread are at the top of the list.",
@@ -132,7 +168,9 @@
         "list",
         "fruit",
         "bread"
-      ]
+      ],
+      "zh": "水果和面包在清单的最上面。",
+      "py": "shuǐ guǒ huó miàn bāo zài qīng dān de zuì shàng miàn。"
     },
     {
       "en": "I help Mom, and then she will pay.",
@@ -141,7 +179,9 @@
         "mom",
         "pay",
         "help"
-      ]
+      ],
+      "zh": "我帮妈妈，然后她会付钱。",
+      "py": "wǒ bāng mā mā， rán hòu tā huì fù qián。"
     },
     {
       "en": "A full bag means we can go home and cook.",
@@ -149,7 +189,9 @@
       "highlights": [
         "bag",
         "home"
-      ]
+      ],
+      "zh": "袋子满了，就说明我们可以回家做饭了。",
+      "py": "dài zi mǎn le， jiù shuō míng wǒ men kě yǐ huí jiā zuò fàn le。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I go shopping with my mom. We have a list. We choose fruit and bread. Mom will pay. The bag is full. I help hold the bag. We go home happy. The list helps us choose only what we need. Fruit and bread are at the top of the list. I help Mom, and then she will pay. A full bag means we can go home and cook."
+  "full_passage_spoken": "I go shopping with my mom. We have a list. We choose fruit and bread. Mom will pay. The bag is full. I help hold the bag. We go home happy. The list helps us choose only what we need. Fruit and bread are at the top of the list. I help Mom, and then she will pay. A full bag means we can go home and cook.",
+  "topic_zh": "去购物",
+  "topic_pinyin": "qù gòu wù",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我和妈妈一起去购物。我们有一张清单。我们挑选水果和面包。妈妈会付钱。袋子满了。我帮忙拿袋子。我们快乐地回家。清单帮助我们只挑选需要的东西。水果和面包在清单的最上面。我帮妈妈，然后她会付钱。袋子满了，就说明我们可以回家做饭了。",
+  "full_passage_pinyin": "wǒ hé mā mā yì qǐ qù gòu wù。 wǒ men yǒu yī zhāng qīng dān。 wǒ men tiāo xuǎn shuǐ guǒ huó miàn bāo。 mā mā huì fù qián。 dài zi mǎn le。 wǒ bāng máng ná dài zi。 wǒ men kuài lè de huí jiā。 qīng dān bāng zhù wǒ men zhǐ tiāo xuǎn xū yào de dōng xī。 shuǐ guǒ huó miàn bāo zài qīng dān de zuì shàng miàn。 wǒ bāng mā mā， rán hòu tā huì fù qián。 dài zi mǎn le， jiù shuō míng wǒ men kě yǐ huí jiā zuò fàn le。"
 }

@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "favorite",
-      "ko": "가장 좋아하는"
+      "ko": "가장 좋아하는",
+      "zh": "最喜欢",
+      "py": "zuì xǐ huān"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "story",
-      "ko": "이야기"
+      "ko": "이야기",
+      "zh": "故事",
+      "py": "gù shì"
     },
     {
       "en": "animal",
-      "ko": "동물"
+      "ko": "동물",
+      "zh": "动物",
+      "py": "dòng wù"
     },
     {
       "en": "picture",
-      "ko": "그림"
+      "ko": "그림",
+      "zh": "图画",
+      "py": "tú huà"
     },
     {
       "en": "bright",
-      "ko": "밝은"
+      "ko": "밝은",
+      "zh": "明亮",
+      "py": "míng liàng"
     },
     {
       "en": "library",
-      "ko": "도서관"
+      "ko": "도서관",
+      "zh": "图书馆",
+      "py": "tú shū guǎn"
     },
     {
       "en": "page",
-      "ko": "쪽"
+      "ko": "쪽",
+      "zh": "页",
+      "py": "yè"
     },
     {
       "en": "interesting",
-      "ko": "재미있는"
+      "ko": "재미있는",
+      "zh": "有趣",
+      "py": "yǒu qù"
     },
     {
       "en": "again",
-      "ko": "다시"
+      "ko": "다시",
+      "zh": "再一次",
+      "py": "zài yí cì"
     }
   ],
   "phrases": [
@@ -70,7 +90,9 @@
         "book",
         "story",
         "animal"
-      ]
+      ],
+      "zh": "我最喜欢的书是一个关于动物的故事。",
+      "py": "wǒ zuì xǐ huān de shū shì yí gè guān yú dòng wù de gù shì。"
     },
     {
       "en": "The picture is bright.",
@@ -78,14 +100,18 @@
       "highlights": [
         "picture",
         "bright"
-      ]
+      ],
+      "zh": "图画很明亮。",
+      "py": "tú huà hěn míng liàng。"
     },
     {
       "en": "I found it at the library.",
       "ko": "나는 도서관에서 그 책을 찾았어요.",
       "highlights": [
         "library"
-      ]
+      ],
+      "zh": "我在图书馆找到它。",
+      "py": "wǒ zài tú shū guǎn zhǎo dào tā。"
     },
     {
       "en": "I like every page, and the story is interesting.",
@@ -94,14 +120,18 @@
         "story",
         "page",
         "interesting"
-      ]
+      ],
+      "zh": "我喜欢每一页，故事也很有趣。",
+      "py": "wǒ xǐ huān měi yī yè， gù shì yě hěn yǒu qù。"
     },
     {
       "en": "I like to read it again.",
       "ko": "나는 그것을 다시 읽고 싶어요.",
       "highlights": [
         "again"
-      ]
+      ],
+      "zh": "我想再读一次。",
+      "py": "wǒ xiǎng zài dú yī cì。"
     },
     {
       "en": "The animal in the book is brave and kind.",
@@ -109,7 +139,9 @@
       "highlights": [
         "book",
         "animal"
-      ]
+      ],
+      "zh": "书里的动物又勇敢又善良。",
+      "py": "shū lǐ de dòng wù yòu yǒng gǎn yòu shàn liáng。"
     },
     {
       "en": "A bright picture helps me understand the story.",
@@ -118,21 +150,27 @@
         "story",
         "picture",
         "bright"
-      ]
+      ],
+      "zh": "明亮的图画帮助我明白故事。",
+      "py": "míng liàng de tú huà bāng zhù wǒ míng bái gù shì。"
     },
     {
       "en": "I go to the library with my sister.",
       "ko": "나는 여동생과 도서관에 가요.",
       "highlights": [
         "library"
-      ]
+      ],
+      "zh": "我和妹妹一起去图书馆。",
+      "py": "wǒ hé mèi mèi yì qǐ qù tú shū guǎn。"
     },
     {
       "en": "Each page has a new idea.",
       "ko": "쪽마다 새로운 생각이 있어요.",
       "highlights": [
         "page"
-      ]
+      ],
+      "zh": "每一页都有一个新想法。",
+      "py": "měi yī yè dōu yǒu yí gè xīn xiǎng fǎ。"
     },
     {
       "en": "An interesting book is hard to close.",
@@ -140,7 +178,9 @@
       "highlights": [
         "book",
         "interesting"
-      ]
+      ],
+      "zh": "有趣的书让人不想放下。",
+      "py": "yǒu qù de shū ràng rén bù xiǎng fàng xià。"
     },
     {
       "en": "I want to read my favorite book again tonight.",
@@ -149,7 +189,9 @@
         "favorite",
         "book",
         "again"
-      ]
+      ],
+      "zh": "今晚我想再读一次我最喜欢的书。",
+      "py": "jīn wǎn wǒ xiǎng zài dú yī cì wǒ zuì xǐ huān de shū。"
     }
   ],
   "full_passage_lines": [
@@ -243,5 +285,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My favorite book is a story about an animal. The picture is bright. I found it at the library. I like every page, and the story is interesting. I like to read it again. The animal in the book is brave and kind. A bright picture helps me understand the story. I go to the library with my sister. Each page has a new idea. An interesting book is hard to close. I want to read my favorite book again tonight."
+  "full_passage_spoken": "My favorite book is a story about an animal. The picture is bright. I found it at the library. I like every page, and the story is interesting. I like to read it again. The animal in the book is brave and kind. A bright picture helps me understand the story. I go to the library with my sister. Each page has a new idea. An interesting book is hard to close. I want to read my favorite book again tonight.",
+  "topic_zh": "我最喜欢的书（一）",
+  "topic_pinyin": "wǒ zuì xǐ huān de shū（ yī）",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我最喜欢的书是一个关于动物的故事。图画很明亮。我在图书馆找到它。我喜欢每一页，故事也很有趣。我想再读一次。书里的动物又勇敢又善良。明亮的图画帮助我明白故事。我和妹妹一起去图书馆。每一页都有一个新想法。有趣的书让人不想放下。今晚我想再读一次我最喜欢的书。",
+  "full_passage_pinyin": "wǒ zuì xǐ huān de shū shì yí gè guān yú dòng wù de gù shì。 tú huà hěn míng liàng。 wǒ zài tú shū guǎn zhǎo dào tā。 wǒ xǐ huān měi yī yè， gù shì yě hěn yǒu qù。 wǒ xiǎng zài dú yī cì。 shū lǐ de dòng wù yòu yǒng gǎn yòu shàn liáng。 míng liàng de tú huà bāng zhù wǒ míng bái gù shì。 wǒ hé mèi mèi yì qǐ qù tú shū guǎn。 měi yī yè dōu yǒu yí gè xīn xiǎng fǎ。 yǒu qù de shū ràng rén bù xiǎng fàng xià。 jīn wǎn wǒ xiǎng zài dú yī cì wǒ zuì xǐ huān de shū。"
 }

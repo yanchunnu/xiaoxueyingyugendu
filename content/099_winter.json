@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "winter",
-      "ko": "겨울"
+      "ko": "겨울",
+      "zh": "冬天",
+      "py": "dōng tiān"
     },
     {
       "en": "cold",
-      "ko": "추운"
+      "ko": "추운",
+      "zh": "冷",
+      "py": "lěng"
     },
     {
       "en": "snow",
-      "ko": "눈"
+      "ko": "눈",
+      "zh": "雪",
+      "py": "xuě"
     },
     {
       "en": "white",
-      "ko": "하얀"
+      "ko": "하얀",
+      "zh": "白",
+      "py": "bái"
     },
     {
       "en": "ice",
-      "ko": "얼음"
+      "ko": "얼음",
+      "zh": "冰",
+      "py": "bīng"
     },
     {
       "en": "lake",
-      "ko": "호수"
+      "ko": "호수",
+      "zh": "湖",
+      "py": "hú"
     },
     {
       "en": "coat",
-      "ko": "코트"
+      "ko": "코트",
+      "zh": "外套",
+      "py": "wài tào"
     },
     {
       "en": "glove",
-      "ko": "장갑"
+      "ko": "장갑",
+      "zh": "手套",
+      "py": "shǒu tào"
     },
     {
       "en": "snowman",
-      "ko": "눈사람"
+      "ko": "눈사람",
+      "zh": "雪人",
+      "py": "xuě rén"
     },
     {
       "en": "hot",
-      "ko": "뜨거운"
+      "ko": "뜨거운",
+      "zh": "热",
+      "py": "rè"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "winter",
         "cold"
-      ]
+      ],
+      "zh": "冬天很冷。",
+      "py": "dōng tiān hěn lěng。"
     },
     {
       "en": "Snow is white.",
@@ -76,7 +98,9 @@
       "highlights": [
         "snow",
         "white"
-      ]
+      ],
+      "zh": "雪是白色的。",
+      "py": "xuě shì bái sè de。"
     },
     {
       "en": "Ice is on the lake.",
@@ -84,35 +108,45 @@
       "highlights": [
         "ice",
         "lake"
-      ]
+      ],
+      "zh": "湖上有冰。",
+      "py": "hú shàng yǒu bīng。"
     },
     {
       "en": "I wear a coat.",
       "ko": "나는 코트를 입어요.",
       "highlights": [
         "coat"
-      ]
+      ],
+      "zh": "我穿外套。",
+      "py": "wǒ chuān wài tào。"
     },
     {
       "en": "A glove keeps my hand warm.",
       "ko": "장갑은 내 손을 따뜻하게 해요.",
       "highlights": [
         "glove"
-      ]
+      ],
+      "zh": "手套让我的手暖和。",
+      "py": "shǒu tào ràng wǒ de shǒu nuǎn huo。"
     },
     {
       "en": "I make a snowman.",
       "ko": "나는 눈사람을 만들어요.",
       "highlights": [
         "snowman"
-      ]
+      ],
+      "zh": "我堆一个雪人。",
+      "py": "wǒ duī yí gè xuě rén。"
     },
     {
       "en": "Then I drink something hot.",
       "ko": "그리고 나는 뜨거운 것을 마셔요.",
       "highlights": [
         "hot"
-      ]
+      ],
+      "zh": "然后我喝一点热的东西。",
+      "py": "rán hòu wǒ hē yì diǎn rè de dōng xī。"
     },
     {
       "en": "White snow and ice make the lake shine.",
@@ -122,7 +156,9 @@
         "white",
         "ice",
         "lake"
-      ]
+      ],
+      "zh": "白雪和冰让湖面发光。",
+      "py": "bái xuě hé bīng ràng hú miàn fā guāng。"
     },
     {
       "en": "A coat and a glove keep me warm outside.",
@@ -130,7 +166,9 @@
       "highlights": [
         "coat",
         "glove"
-      ]
+      ],
+      "zh": "外套和手套让我在外面很暖和。",
+      "py": "wài tào hé shǒu tào ràng wǒ zài wài miàn hěn nuǎn huo。"
     },
     {
       "en": "The snowman is white, and my drink is hot.",
@@ -139,14 +177,18 @@
         "white",
         "snowman",
         "hot"
-      ]
+      ],
+      "zh": "雪人是白的，我的饮料是热的。",
+      "py": "xuě rén shì bái de， wǒ de yǐn liào shì rè de。"
     },
     {
       "en": "I like winter when I can play and then get warm.",
       "ko": "놀고 나서 따뜻해질 수 있을 때 나는 겨울을 좋아해요.",
       "highlights": [
         "winter"
-      ]
+      ],
+      "zh": "我喜欢冬天，因为我可以玩，然后再暖和起来。",
+      "py": "wǒ xǐ huān dōng tiān， yīn wèi wǒ kě yǐ wán， rán hòu zài nuǎn huo qǐ lái。"
     }
   ],
   "full_passage_lines": [
@@ -237,5 +279,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "Winter is cold. Snow is white. Ice is on the lake. I wear a coat. A glove keeps my hand warm. I make a snowman. Then I drink something hot. White snow and ice make the lake shine. A coat and a glove keep me warm outside. The snowman is white, and my drink is hot. I like winter when I can play and then get warm."
+  "full_passage_spoken": "Winter is cold. Snow is white. Ice is on the lake. I wear a coat. A glove keeps my hand warm. I make a snowman. Then I drink something hot. White snow and ice make the lake shine. A coat and a glove keep me warm outside. The snowman is white, and my drink is hot. I like winter when I can play and then get warm.",
+  "topic_zh": "冬天",
+  "topic_pinyin": "dōng tiān",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "冬天很冷。雪是白色的。湖上有冰。我穿外套。手套让我的手暖和。我堆一个雪人。然后我喝一点热的东西。白雪和冰让湖面发光。外套和手套让我在外面很暖和。雪人是白的，我的饮料是热的。我喜欢冬天，因为我可以玩，然后再暖和起来。",
+  "full_passage_pinyin": "dōng tiān hěn lěng。 xuě shì bái sè de。 hú shàng yǒu bīng。 wǒ chuān wài tào。 shǒu tào ràng wǒ de shǒu nuǎn huo。 wǒ duī yí gè xuě rén。 rán hòu wǒ hē yì diǎn rè de dōng xī。 bái xuě hé bīng ràng hú miàn fā guāng。 wài tào hé shǒu tào ràng wǒ zài wài miàn hěn nuǎn huo。 xuě rén shì bái de， wǒ de yǐn liào shì rè de。 wǒ xǐ huān dōng tiān， yīn wèi wǒ kě yǐ wán， rán hòu zài nuǎn huo qǐ lái。"
 }

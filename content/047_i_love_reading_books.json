@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "love",
-      "ko": "아주 좋아하다"
+      "ko": "아주 좋아하다",
+      "zh": "爱",
+      "py": "ài"
     },
     {
       "en": "reading",
-      "ko": "책 읽기"
+      "ko": "책 읽기",
+      "zh": "阅读",
+      "py": "yuè dú"
     },
     {
       "en": "book",
-      "ko": "책"
+      "ko": "책",
+      "zh": "书",
+      "py": "shū"
     },
     {
       "en": "quiet",
-      "ko": "조용한"
+      "ko": "조용한",
+      "zh": "安静",
+      "py": "ān jìng"
     },
     {
       "en": "story",
-      "ko": "이야기"
+      "ko": "이야기",
+      "zh": "故事",
+      "py": "gù shì"
     },
     {
       "en": "night",
-      "ko": "밤"
+      "ko": "밤",
+      "zh": "晚上",
+      "py": "wǎn shàng"
     },
     {
       "en": "lamp",
-      "ko": "전등"
+      "ko": "전등",
+      "zh": "灯",
+      "py": "dēng"
     },
     {
       "en": "word",
-      "ko": "단어"
+      "ko": "단어",
+      "zh": "单词",
+      "py": "dān cí"
     },
     {
       "en": "library",
-      "ko": "도서관"
+      "ko": "도서관",
+      "zh": "图书馆",
+      "py": "tú shū guǎn"
     },
     {
       "en": "happy",
-      "ko": "행복한"
+      "ko": "행복한",
+      "zh": "快乐",
+      "py": "kuài lè"
     }
   ],
   "phrases": [
@@ -69,14 +89,18 @@
         "love",
         "reading",
         "book"
-      ]
+      ],
+      "zh": "我爱阅读，也爱一本好书。",
+      "py": "wǒ ài yuè dú， yě ài yī běn hǎo shū。"
     },
     {
       "en": "I sit in a quiet place.",
       "ko": "나는 조용한 곳에 앉아요.",
       "highlights": [
         "quiet"
-      ]
+      ],
+      "zh": "我坐在安静的地方。",
+      "py": "wǒ zuò zài ān jìng de dì fāng。"
     },
     {
       "en": "I like to read a story at night.",
@@ -84,21 +108,27 @@
       "highlights": [
         "story",
         "night"
-      ]
+      ],
+      "zh": "我喜欢晚上读一个故事。",
+      "py": "wǒ xǐ huān wǎn shàng dú yí gè gù shì。"
     },
     {
       "en": "The lamp is on.",
       "ko": "전등이 켜져 있어요.",
       "highlights": [
         "lamp"
-      ]
+      ],
+      "zh": "灯是开着的。",
+      "py": "dēng shì kāi zhe de。"
     },
     {
       "en": "I learn a new word.",
       "ko": "나는 새 단어를 배워요.",
       "highlights": [
         "word"
-      ]
+      ],
+      "zh": "我学一个新单词。",
+      "py": "wǒ xué yí gè xīn dān cí。"
     },
     {
       "en": "I go to the library, and reading makes me happy.",
@@ -107,7 +137,9 @@
         "reading",
         "library",
         "happy"
-      ]
+      ],
+      "zh": "我去图书馆，阅读让我快乐。",
+      "py": "wǒ qù tú shū guǎn， yuè dú ràng wǒ kuài lè。"
     },
     {
       "en": "A quiet room and a lamp are enough.",
@@ -115,7 +147,9 @@
       "highlights": [
         "quiet",
         "lamp"
-      ]
+      ],
+      "zh": "一间安静的房间和一盏灯就够了。",
+      "py": "yī jiān ān jìng de fáng jiān hé yī zhǎn dēng jiù gòu le。"
     },
     {
       "en": "Each story gives me a new word.",
@@ -123,7 +157,9 @@
       "highlights": [
         "story",
         "word"
-      ]
+      ],
+      "zh": "每个故事都给我一个新单词。",
+      "py": "měi gè gù shì dōu gěi wǒ yí gè xīn dān cí。"
     },
     {
       "en": "I love reading with my little sister.",
@@ -131,7 +167,9 @@
       "highlights": [
         "love",
         "reading"
-      ]
+      ],
+      "zh": "我和妹妹一起阅读，我很爱这样。",
+      "py": "wǒ hé mèi mèi yì qǐ yuè dú， wǒ hěn ài zhè yàng。"
     },
     {
       "en": "The library has more books than my room.",
@@ -139,7 +177,9 @@
       "highlights": [
         "book",
         "library"
-      ]
+      ],
+      "zh": "图书馆的书比我房间里的多。",
+      "py": "tú shū guǎn de shū bǐ wǒ fáng jiān lǐ de duō。"
     },
     {
       "en": "At night a happy reader closes the book slowly.",
@@ -148,7 +188,9 @@
         "book",
         "night",
         "happy"
-      ]
+      ],
+      "zh": "晚上，快乐的读者慢慢合上书。",
+      "py": "wǎn shàng， kuài lè de dú zhě màn màn hé shàng shū。"
     }
   ],
   "full_passage_lines": [
@@ -241,5 +283,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "I love reading, and I love a good book. I sit in a quiet place. I like to read a story at night. The lamp is on. I learn a new word. I go to the library, and reading makes me happy. A quiet room and a lamp are enough. Each story gives me a new word. I love reading with my little sister. The library has more books than my room. At night a happy reader closes the book slowly."
+  "full_passage_spoken": "I love reading, and I love a good book. I sit in a quiet place. I like to read a story at night. The lamp is on. I learn a new word. I go to the library, and reading makes me happy. A quiet room and a lamp are enough. Each story gives me a new word. I love reading with my little sister. The library has more books than my room. At night a happy reader closes the book slowly.",
+  "topic_zh": "我爱看书",
+  "topic_pinyin": "wǒ ài kàn shū",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我爱阅读，也爱一本好书。我坐在安静的地方。我喜欢晚上读一个故事。灯是开着的。我学一个新单词。我去图书馆，阅读让我快乐。一间安静的房间和一盏灯就够了。每个故事都给我一个新单词。我和妹妹一起阅读，我很爱这样。图书馆的书比我房间里的多。晚上，快乐的读者慢慢合上书。",
+  "full_passage_pinyin": "wǒ ài yuè dú， yě ài yī běn hǎo shū。 wǒ zuò zài ān jìng de dì fāng。 wǒ xǐ huān wǎn shàng dú yí gè gù shì。 dēng shì kāi zhe de。 wǒ xué yí gè xīn dān cí。 wǒ qù tú shū guǎn， yuè dú ràng wǒ kuài lè。 yī jiān ān jìng de fáng jiān hé yī zhǎn dēng jiù gòu le。 měi gè gù shì dōu gěi wǒ yí gè xīn dān cí。 wǒ hé mèi mèi yì qǐ yuè dú， wǒ hěn ài zhè yàng。 tú shū guǎn de shū bǐ wǒ fáng jiān lǐ de duō。 wǎn shàng， kuài lè de dú zhě màn màn hé shàng shū。"
 }

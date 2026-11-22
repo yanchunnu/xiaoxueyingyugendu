@@ -22,43 +22,63 @@
   "words": [
     {
       "en": "home",
-      "ko": "집"
+      "ko": "집",
+      "zh": "家",
+      "py": "jiā"
     },
     {
       "en": "house",
-      "ko": "주택"
+      "ko": "주택",
+      "zh": "房子",
+      "py": "fáng zi"
     },
     {
       "en": "kitchen",
-      "ko": "부엌"
+      "ko": "부엌",
+      "zh": "厨房",
+      "py": "chú fáng"
     },
     {
       "en": "warm",
-      "ko": "따뜻한"
+      "ko": "따뜻한",
+      "zh": "温暖",
+      "py": "wēn nuǎn"
     },
     {
       "en": "living room",
-      "ko": "거실"
+      "ko": "거실",
+      "zh": "客厅",
+      "py": "kè tīng"
     },
     {
       "en": "window",
-      "ko": "창문"
+      "ko": "창문",
+      "zh": "窗户",
+      "py": "chuāng hù"
     },
     {
       "en": "room",
-      "ko": "방"
+      "ko": "방",
+      "zh": "房间",
+      "py": "fáng jiān"
     },
     {
       "en": "clean",
-      "ko": "깨끗한"
+      "ko": "깨끗한",
+      "zh": "干净",
+      "py": "gān jìng"
     },
     {
       "en": "safe",
-      "ko": "안전한"
+      "ko": "안전한",
+      "zh": "安全",
+      "py": "ān quán"
     },
     {
       "en": "family",
-      "ko": "가족"
+      "ko": "가족",
+      "zh": "家人",
+      "py": "jiā rén"
     }
   ],
   "phrases": [
@@ -68,7 +88,9 @@
       "highlights": [
         "home",
         "house"
-      ]
+      ],
+      "zh": "我的家是首尔的一所小房子。",
+      "py": "wǒ de jiā shì shǒu ěr de yī suǒ xiǎo fáng zi。"
     },
     {
       "en": "It has a warm kitchen and a bright living room.",
@@ -78,14 +100,18 @@
         "warm",
         "living room",
         "room"
-      ]
+      ],
+      "zh": "它有温暖的厨房和明亮的客厅。",
+      "py": "tā yǒu wēn nuǎn de chú fáng hé míng liàng de kè tīng。"
     },
     {
       "en": "The sun comes in the window.",
       "ko": "해가 창문으로 들어와요.",
       "highlights": [
         "window"
-      ]
+      ],
+      "zh": "阳光从窗户进来。",
+      "py": "yáng guāng cóng chuāng hù jìn lái。"
     },
     {
       "en": "My room is clean, and I feel safe at home.",
@@ -95,7 +121,9 @@
         "room",
         "clean",
         "safe"
-      ]
+      ],
+      "zh": "我的房间很干净，我在家里觉得安全。",
+      "py": "wǒ de fáng jiān hěn gān jìng， wǒ zài jiā lǐ jué de ān quán。"
     },
     {
       "en": "My family loves our home.",
@@ -103,14 +131,18 @@
       "highlights": [
         "home",
         "family"
-      ]
+      ],
+      "zh": "我的家人爱我们的家。",
+      "py": "wǒ de jiā rén ài wǒ men de jiā。"
     },
     {
       "en": "Six people share this house.",
       "ko": "여섯 사람이 이 집을 함께 써요.",
       "highlights": [
         "house"
-      ]
+      ],
+      "zh": "六个人住在这所房子里。",
+      "py": "liù gè rén zhù zài zhè suǒ fáng zi lǐ。"
     },
     {
       "en": "The living room is where we talk at night.",
@@ -118,7 +150,9 @@
       "highlights": [
         "living room",
         "room"
-      ]
+      ],
+      "zh": "晚上我们在客厅说话。",
+      "py": "wǎn shàng wǒ men zài kè tīng shuō huà。"
     },
     {
       "en": "The kitchen smells warm when Mom cooks.",
@@ -126,7 +160,9 @@
       "highlights": [
         "kitchen",
         "warm"
-      ]
+      ],
+      "zh": "妈妈做饭的时候，厨房有温暖的气味。",
+      "py": "mā mā zuò fàn de shí hòu， chú fáng yǒu wēn nuǎn de qì wèi。"
     },
     {
       "en": "I keep my room clean because I like it.",
@@ -134,7 +170,9 @@
       "highlights": [
         "room",
         "clean"
-      ]
+      ],
+      "zh": "我喜欢我的房间，所以把它保持干净。",
+      "py": "wǒ xǐ huān wǒ de fáng jiān， suǒ yǐ bǎ tā bǎo chí gān jìng。"
     },
     {
       "en": "A safe home is the best place to rest.",
@@ -142,7 +180,9 @@
       "highlights": [
         "home",
         "safe"
-      ]
+      ],
+      "zh": "安全的家是最好的休息地方。",
+      "py": "ān quán de jiā shì zuì hǎo de xiū xī dì fāng。"
     },
     {
       "en": "I am happy when my family is home.",
@@ -150,7 +190,9 @@
       "highlights": [
         "home",
         "family"
-      ]
+      ],
+      "zh": "家人都在家的时候，我很快乐。",
+      "py": "jiā rén dōu zài jiā de shí hòu， wǒ hěn kuài lè。"
     }
   ],
   "full_passage_lines": [
@@ -245,5 +287,10 @@
       ]
     }
   ],
-  "full_passage_spoken": "My home is a small house in Seoul. It has a warm kitchen and a bright living room. The sun comes in the window. My room is clean, and I feel safe at home. My family loves our home. Six people share this house. The living room is where we talk at night. The kitchen smells warm when Mom cooks. I keep my room clean because I like it. A safe home is the best place to rest. I am happy when my family is home."
+  "full_passage_spoken": "My home is a small house in Seoul. It has a warm kitchen and a bright living room. The sun comes in the window. My room is clean, and I feel safe at home. My family loves our home. Six people share this house. The living room is where we talk at night. The kitchen smells warm when Mom cooks. I keep my room clean because I like it. A safe home is the best place to rest. I am happy when my family is home.",
+  "topic_zh": "我的家",
+  "topic_pinyin": "wǒ de jiā",
+  "voice_zh": "zh-CN-XiaoxiaoNeural",
+  "full_passage_zh": "我的家是首尔的一所小房子。它有温暖的厨房和明亮的客厅。阳光从窗户进来。我的房间很干净，我在家里觉得安全。我的家人爱我们的家。六个人住在这所房子里。晚上我们在客厅说话。妈妈做饭的时候，厨房有温暖的气味。我喜欢我的房间，所以把它保持干净。安全的家是最好的休息地方。家人都在家的时候，我很快乐。",
+  "full_passage_pinyin": "wǒ de jiā shì shǒu ěr de yī suǒ xiǎo fáng zi。 tā yǒu wēn nuǎn de chú fáng hé míng liàng de kè tīng。 yáng guāng cóng chuāng hù jìn lái。 wǒ de fáng jiān hěn gān jìng， wǒ zài jiā lǐ jué de ān quán。 wǒ de jiā rén ài wǒ men de jiā。 liù gè rén zhù zài zhè suǒ fáng zi lǐ。 wǎn shàng wǒ men zài kè tīng shuō huà。 mā mā zuò fàn de shí hòu， chú fáng yǒu wēn nuǎn de qì wèi。 wǒ xǐ huān wǒ de fáng jiān， suǒ yǐ bǎ tā bǎo chí gān jìng。 ān quán de jiā shì zuì hǎo de xiū xī dì fāng。 jiā rén dōu zài jiā de shí hòu， wǒ hěn kuài lè。"
 }
