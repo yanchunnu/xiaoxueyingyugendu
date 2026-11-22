@@ -2,9 +2,10 @@
   "slug": "my_favorite_animal",
   "topic": "My Favorite Animal",
   "topic_ko": "내가 가장 좋아하는 동물",
-  "number": 51,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 51,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Favorite Animal",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/051_my_favorite_animal.mp3",
   "words": [
     {
       "en": "favorite",
@@ -70,17 +72,11 @@
       ]
     },
     {
-      "en": "It has long ears.",
-      "ko": "토끼는 귀가 길어요.",
+      "en": "It has long ears, and it is soft.",
+      "ko": "토끼는 귀가 길고, 부드러워요.",
       "highlights": [
         "ear",
-        "long"
-      ]
-    },
-    {
-      "en": "It is soft.",
-      "ko": "토끼는 부드러워요.",
-      "highlights": [
+        "long",
         "soft"
       ]
     },
@@ -99,18 +95,11 @@
       ]
     },
     {
-      "en": "A rabbit is cute.",
-      "ko": "토끼는 귀여워요.",
+      "en": "A rabbit is cute, and a rabbit is gentle.",
+      "ko": "토끼는 귀엽고 순해요.",
       "highlights": [
         "rabbit",
-        "cute"
-      ]
-    },
-    {
-      "en": "A rabbit is gentle.",
-      "ko": "토끼는 순해요.",
-      "highlights": [
-        "rabbit",
+        "cute",
         "gentle"
       ]
     },
@@ -119,6 +108,47 @@
       "ko": "나는 이 동물을 좋아해요.",
       "highlights": [
         "animal"
+      ]
+    },
+    {
+      "en": "Long ears make the rabbit easy to know.",
+      "ko": "긴 귀 때문에 토끼를 알아보기 쉬워요.",
+      "highlights": [
+        "rabbit",
+        "ear",
+        "long"
+      ]
+    },
+    {
+      "en": "Its soft fur is nice to touch.",
+      "ko": "부드러운 털은 만지기 좋아요.",
+      "highlights": [
+        "soft"
+      ]
+    },
+    {
+      "en": "It can hop across the grass.",
+      "ko": "토끼는 풀밭을 깡충 건너뛸 수 있어요.",
+      "highlights": [
+        "hop"
+      ]
+    },
+    {
+      "en": "A gentle animal does not scare me.",
+      "ko": "순한 동물은 나를 무섭게 하지 않아요.",
+      "highlights": [
+        "animal",
+        "gentle"
+      ]
+    },
+    {
+      "en": "A cute rabbit with a carrot is my favorite picture.",
+      "ko": "당근을 가진 귀여운 토끼는 내가 가장 좋아하는 그림이에요.",
+      "highlights": [
+        "favorite",
+        "rabbit",
+        "carrot",
+        "cute"
       ]
     }
   ],
@@ -133,17 +163,11 @@
       ]
     },
     {
-      "en": "It has long ears.",
-      "ko": "토끼는 귀가 길어요.",
+      "en": "It has long ears, and it is soft.",
+      "ko": "토끼는 귀가 길고, 부드러워요.",
       "highlights": [
         "ear",
-        "long"
-      ]
-    },
-    {
-      "en": "It is soft.",
-      "ko": "토끼는 부드러워요.",
-      "highlights": [
+        "long",
         "soft"
       ]
     },
@@ -162,18 +186,11 @@
       ]
     },
     {
-      "en": "A rabbit is cute.",
-      "ko": "토끼는 귀여워요.",
+      "en": "A rabbit is cute, and a rabbit is gentle.",
+      "ko": "토끼는 귀엽고 순해요.",
       "highlights": [
         "rabbit",
-        "cute"
-      ]
-    },
-    {
-      "en": "A rabbit is gentle.",
-      "ko": "토끼는 순해요.",
-      "highlights": [
-        "rabbit",
+        "cute",
         "gentle"
       ]
     },
@@ -183,7 +200,48 @@
       "highlights": [
         "animal"
       ]
+    },
+    {
+      "en": "Long ears make the rabbit easy to know.",
+      "ko": "긴 귀 때문에 토끼를 알아보기 쉬워요.",
+      "highlights": [
+        "rabbit",
+        "ear",
+        "long"
+      ]
+    },
+    {
+      "en": "Its soft fur is nice to touch.",
+      "ko": "부드러운 털은 만지기 좋아요.",
+      "highlights": [
+        "soft"
+      ]
+    },
+    {
+      "en": "It can hop across the grass.",
+      "ko": "토끼는 풀밭을 깡충 건너뛸 수 있어요.",
+      "highlights": [
+        "hop"
+      ]
+    },
+    {
+      "en": "A gentle animal does not scare me.",
+      "ko": "순한 동물은 나를 무섭게 하지 않아요.",
+      "highlights": [
+        "animal",
+        "gentle"
+      ]
+    },
+    {
+      "en": "A cute rabbit with a carrot is my favorite picture.",
+      "ko": "당근을 가진 귀여운 토끼는 내가 가장 좋아하는 그림이에요.",
+      "highlights": [
+        "favorite",
+        "rabbit",
+        "carrot",
+        "cute"
+      ]
     }
   ],
-  "full_passage_spoken": "My favorite animal is a rabbit. It has long ears. It is soft. It can hop. It likes a carrot. A rabbit is cute. A rabbit is gentle. I like this animal."
+  "full_passage_spoken": "My favorite animal is a rabbit. It has long ears, and it is soft. It can hop. It likes a carrot. A rabbit is cute, and a rabbit is gentle. I like this animal. Long ears make the rabbit easy to know. Its soft fur is nice to touch. It can hop across the grass. A gentle animal does not scare me. A cute rabbit with a carrot is my favorite picture."
 }

@@ -2,9 +2,10 @@
   "slug": "a_happy_day",
   "topic": "A Happy Day",
   "topic_ko": "행복한 하루",
-  "number": 72,
-  "section_ko": "일상생활",
-  "section_en": "Daily Life",
+  "topic_number": 72,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "A Happy Day",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/072_a_happy_day.mp3",
   "words": [
     {
       "en": "today",
@@ -61,84 +63,11 @@
   ],
   "phrases": [
     {
-      "en": "Today is a happy day.",
-      "ko": "오늘은 행복한 날이에요.",
+      "en": "Today is a happy day, and the sky is sunny.",
+      "ko": "오늘은 행복한 날이고, 하늘이 화창해요.",
       "highlights": [
         "today",
-        "happy"
-      ]
-    },
-    {
-      "en": "The sky is sunny.",
-      "ko": "하늘이 화창해요.",
-      "highlights": [
-        "sunny"
-      ]
-    },
-    {
-      "en": "I meet my friend.",
-      "ko": "나는 친구를 만나요.",
-      "highlights": [
-        "friend"
-      ]
-    },
-    {
-      "en": "We have a picnic.",
-      "ko": "우리는 소풍을 해요.",
-      "highlights": [
-        "picnic"
-      ]
-    },
-    {
-      "en": "We laugh",
-      "ko": "우리는 웃어요.",
-      "highlights": [
-        "laugh"
-      ]
-    },
-    {
-      "en": "and play a game.",
-      "ko": "그리고 놀이를 해요.",
-      "highlights": [
-        "game"
-      ]
-    },
-    {
-      "en": "We take a photo.",
-      "ko": "우리는 사진을 찍어요.",
-      "highlights": [
-        "photo"
-      ]
-    },
-    {
-      "en": "I remember this smile.",
-      "ko": "나는 이 미소를 기억해요.",
-      "highlights": [
-        "smile",
-        "remember"
-      ]
-    },
-    {
-      "en": "I want more days like today.",
-      "ko": "나는 오늘 같은 날이 더 있으면 좋겠어요.",
-      "highlights": [
-        "today"
-      ]
-    }
-  ],
-  "full_passage_lines": [
-    {
-      "en": "Today is a happy day.",
-      "ko": "오늘은 행복한 날이에요.",
-      "highlights": [
-        "today",
-        "happy"
-      ]
-    },
-    {
-      "en": "The sky is sunny.",
-      "ko": "하늘이 화창해요.",
-      "highlights": [
+        "happy",
         "sunny"
       ]
     },
@@ -185,7 +114,130 @@
       "highlights": [
         "today"
       ]
+    },
+    {
+      "en": "A sunny picnic makes a happy day.",
+      "ko": "화창한 소풍은 행복한 하루를 만들어요.",
+      "highlights": [
+        "happy",
+        "sunny",
+        "picnic"
+      ]
+    },
+    {
+      "en": "My friend and I laugh at a silly game.",
+      "ko": "친구와 나는 재미있는 놀이에 웃어요.",
+      "highlights": [
+        "friend",
+        "laugh",
+        "game"
+      ]
+    },
+    {
+      "en": "The photo keeps our smile.",
+      "ko": "사진은 우리의 미소를 남겨 줘요.",
+      "highlights": [
+        "photo",
+        "smile"
+      ]
+    },
+    {
+      "en": "I will remember today for a long time.",
+      "ko": "나는 오늘을 오래 기억할 거예요.",
+      "highlights": [
+        "today",
+        "remember"
+      ]
     }
   ],
-  "full_passage_spoken": "Today is a happy day. The sky is sunny. I meet my friend. We have a picnic. We laugh and play a game. We take a photo. I remember this smile. I want more days like today."
+  "full_passage_lines": [
+    {
+      "en": "Today is a happy day, and the sky is sunny.",
+      "ko": "오늘은 행복한 날이고, 하늘이 화창해요.",
+      "highlights": [
+        "today",
+        "happy",
+        "sunny"
+      ]
+    },
+    {
+      "en": "I meet my friend.",
+      "ko": "나는 친구를 만나요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "We have a picnic.",
+      "ko": "우리는 소풍을 해요.",
+      "highlights": [
+        "picnic"
+      ]
+    },
+    {
+      "en": "We laugh and play a game.",
+      "ko": "우리는 웃고 놀이를 해요.",
+      "highlights": [
+        "laugh",
+        "game"
+      ]
+    },
+    {
+      "en": "We take a photo.",
+      "ko": "우리는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "I remember this smile.",
+      "ko": "나는 이 미소를 기억해요.",
+      "highlights": [
+        "smile",
+        "remember"
+      ]
+    },
+    {
+      "en": "I want more days like today.",
+      "ko": "나는 오늘 같은 날이 더 있으면 좋겠어요.",
+      "highlights": [
+        "today"
+      ]
+    },
+    {
+      "en": "A sunny picnic makes a happy day.",
+      "ko": "화창한 소풍은 행복한 하루를 만들어요.",
+      "highlights": [
+        "happy",
+        "sunny",
+        "picnic"
+      ]
+    },
+    {
+      "en": "My friend and I laugh at a silly game.",
+      "ko": "친구와 나는 재미있는 놀이에 웃어요.",
+      "highlights": [
+        "friend",
+        "laugh",
+        "game"
+      ]
+    },
+    {
+      "en": "The photo keeps our smile.",
+      "ko": "사진은 우리의 미소를 남겨 줘요.",
+      "highlights": [
+        "photo",
+        "smile"
+      ]
+    },
+    {
+      "en": "I will remember today for a long time.",
+      "ko": "나는 오늘을 오래 기억할 거예요.",
+      "highlights": [
+        "today",
+        "remember"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Today is a happy day, and the sky is sunny. I meet my friend. We have a picnic. We laugh and play a game. We take a photo. I remember this smile. I want more days like today. A sunny picnic makes a happy day. My friend and I laugh at a silly game. The photo keeps our smile. I will remember today for a long time."
 }

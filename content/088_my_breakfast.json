@@ -2,9 +2,10 @@
   "slug": "my_breakfast",
   "topic": "My Breakfast",
   "topic_ko": "나의 아침 식사",
-  "number": 88,
-  "section_ko": "건강과 음식",
-  "section_en": "Health and Food",
+  "topic_number": 88,
+  "topic_total": 100,
+  "category_en": "Health and Food",
+  "category_ko": "건강과 음식",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Breakfast",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/088_my_breakfast.mp3",
   "words": [
     {
       "en": "breakfast",
@@ -76,16 +78,10 @@
       ]
     },
     {
-      "en": "I have milk",
-      "ko": "나는 우유를 마셔요.",
+      "en": "I have milk and bread.",
+      "ko": "나는 우유와 빵을 먹어요.",
       "highlights": [
-        "milk"
-      ]
-    },
-    {
-      "en": "and bread.",
-      "ko": "그리고 빵을 먹어요.",
-      "highlights": [
+        "milk",
         "bread"
       ]
     },
@@ -116,6 +112,42 @@
       "en": "Then I go to school.",
       "ko": "그리고 나는 학교에 가요.",
       "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "A hungry morning needs a real breakfast.",
+      "ko": "배고픈 아침에는 제대로 된 아침 식사가 필요해요.",
+      "highlights": [
+        "breakfast",
+        "morning",
+        "hungry"
+      ]
+    },
+    {
+      "en": "Milk, bread, an egg, and fruit are enough.",
+      "ko": "우유, 빵, 달걀, 과일이면 충분해요.",
+      "highlights": [
+        "milk",
+        "bread",
+        "egg",
+        "fruit"
+      ]
+    },
+    {
+      "en": "This healthy meal gives me energy for school.",
+      "ko": "이 건강한 식사는 학교 갈 힘을 줘요.",
+      "highlights": [
+        "energy",
+        "healthy",
+        "school"
+      ]
+    },
+    {
+      "en": "I do not skip breakfast before school.",
+      "ko": "나는 학교 가기 전에 아침 식사를 거르지 않아요.",
+      "highlights": [
+        "breakfast",
         "school"
       ]
     }
@@ -173,7 +205,43 @@
       "highlights": [
         "school"
       ]
+    },
+    {
+      "en": "A hungry morning needs a real breakfast.",
+      "ko": "배고픈 아침에는 제대로 된 아침 식사가 필요해요.",
+      "highlights": [
+        "breakfast",
+        "morning",
+        "hungry"
+      ]
+    },
+    {
+      "en": "Milk, bread, an egg, and fruit are enough.",
+      "ko": "우유, 빵, 달걀, 과일이면 충분해요.",
+      "highlights": [
+        "milk",
+        "bread",
+        "egg",
+        "fruit"
+      ]
+    },
+    {
+      "en": "This healthy meal gives me energy for school.",
+      "ko": "이 건강한 식사는 학교 갈 힘을 줘요.",
+      "highlights": [
+        "energy",
+        "healthy",
+        "school"
+      ]
+    },
+    {
+      "en": "I do not skip breakfast before school.",
+      "ko": "나는 학교 가기 전에 아침 식사를 거르지 않아요.",
+      "highlights": [
+        "breakfast",
+        "school"
+      ]
     }
   ],
-  "full_passage_spoken": "I eat breakfast every morning. I am hungry. I have milk and bread. I have an egg and fruit. Breakfast gives me energy. It is a healthy start. Then I go to school."
+  "full_passage_spoken": "I eat breakfast every morning. I am hungry. I have milk and bread. I have an egg and fruit. Breakfast gives me energy. It is a healthy start. Then I go to school. A hungry morning needs a real breakfast. Milk, bread, an egg, and fruit are enough. This healthy meal gives me energy for school. I do not skip breakfast before school."
 }

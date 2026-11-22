@@ -2,9 +2,10 @@
   "slug": "a_trip_to_the_farm",
   "topic": "A Trip to the Farm",
   "topic_ko": "농장 나들이",
-  "number": 83,
-  "section_ko": "일상생활",
-  "section_en": "Daily Life",
+  "topic_number": 83,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "A Trip to the Farm",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/083_a_trip_to_the_farm.mp3",
   "words": [
     {
       "en": "trip",
@@ -117,6 +119,31 @@
         "trip",
         "great"
       ]
+    },
+    {
+      "en": "The bus is full of happy students.",
+      "ko": "버스에는 행복한 학생들이 가득해요.",
+      "highlights": [
+        "bus"
+      ]
+    },
+    {
+      "en": "The horse is tall, and the cow is calm.",
+      "ko": "말은 키가 크고, 소는 차분해요.",
+      "highlights": [
+        "cow",
+        "horse"
+      ]
+    },
+    {
+      "en": "A great trip gives us photos and fresh milk.",
+      "ko": "멋진 여행은 사진과 신선한 우유를 남겨 줘요.",
+      "highlights": [
+        "trip",
+        "milk",
+        "photo",
+        "great"
+      ]
     }
   ],
   "full_passage_lines": [
@@ -177,7 +204,32 @@
         "trip",
         "great"
       ]
+    },
+    {
+      "en": "The bus is full of happy students.",
+      "ko": "버스에는 행복한 학생들이 가득해요.",
+      "highlights": [
+        "bus"
+      ]
+    },
+    {
+      "en": "The horse is tall, and the cow is calm.",
+      "ko": "말은 키가 크고, 소는 차분해요.",
+      "highlights": [
+        "cow",
+        "horse"
+      ]
+    },
+    {
+      "en": "A great trip gives us photos and fresh milk.",
+      "ko": "멋진 여행은 사진과 신선한 우유를 남겨 줘요.",
+      "highlights": [
+        "trip",
+        "milk",
+        "photo",
+        "great"
+      ]
     }
   ],
-  "full_passage_spoken": "We take a trip to a farm. We go by bus. I see a cow and a horse. I feed a chicken. I try fresh milk. I take a photo. Then we go home. It is a great trip."
+  "full_passage_spoken": "We take a trip to a farm. We go by bus. I see a cow and a horse. I feed a chicken. I try fresh milk. I take a photo. Then we go home. It is a great trip. The bus is full of happy students. The horse is tall, and the cow is calm. A great trip gives us photos and fresh milk."
 }

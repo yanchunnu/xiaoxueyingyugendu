@@ -2,9 +2,10 @@
   "slug": "my_winter_vacation",
   "topic": "My Winter Vacation",
   "topic_ko": "나의 겨울 방학",
-  "number": 81,
-  "section_ko": "일상생활",
-  "section_en": "Daily Life",
+  "topic_number": 81,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Winter Vacation",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/081_my_winter_vacation.mp3",
   "words": [
     {
       "en": "winter",
@@ -119,6 +121,32 @@
       "highlights": [
         "home"
       ]
+    },
+    {
+      "en": "The sled is fun when the snow is soft.",
+      "ko": "눈이 부드러우면 썰매가 재미있어요.",
+      "highlights": [
+        "snow",
+        "sled"
+      ]
+    },
+    {
+      "en": "Hot cocoa warms my hands after I play.",
+      "ko": "놀고 나면 뜨거운 코코아가 내 손을 따뜻하게 해요.",
+      "highlights": [
+        "cocoa",
+        "hot"
+      ]
+    },
+    {
+      "en": "Winter vacation is cold outside and warm at home.",
+      "ko": "겨울 방학은 바깥은 춥고 집은 따뜻해요.",
+      "highlights": [
+        "winter",
+        "vacation",
+        "cold",
+        "home"
+      ]
     }
   ],
   "full_passage_lines": [
@@ -181,7 +209,33 @@
       "highlights": [
         "home"
       ]
+    },
+    {
+      "en": "The sled is fun when the snow is soft.",
+      "ko": "눈이 부드러우면 썰매가 재미있어요.",
+      "highlights": [
+        "snow",
+        "sled"
+      ]
+    },
+    {
+      "en": "Hot cocoa warms my hands after I play.",
+      "ko": "놀고 나면 뜨거운 코코아가 내 손을 따뜻하게 해요.",
+      "highlights": [
+        "cocoa",
+        "hot"
+      ]
+    },
+    {
+      "en": "Winter vacation is cold outside and warm at home.",
+      "ko": "겨울 방학은 바깥은 춥고 집은 따뜻해요.",
+      "highlights": [
+        "winter",
+        "vacation",
+        "cold",
+        "home"
+      ]
     }
   ],
-  "full_passage_spoken": "Winter vacation is cold. Snow is on the ground. I wear a warm coat. I play on a sled. I drink hot cocoa. I like to read a book at home. I rest a lot at home. I feel warm at home."
+  "full_passage_spoken": "Winter vacation is cold. Snow is on the ground. I wear a warm coat. I play on a sled. I drink hot cocoa. I like to read a book at home. I rest a lot at home. I feel warm at home. The sled is fun when the snow is soft. Hot cocoa warms my hands after I play. Winter vacation is cold outside and warm at home."
 }

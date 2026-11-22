@@ -2,9 +2,10 @@
   "slug": "my_brother",
   "topic": "My Brother",
   "topic_ko": "나의 오빠",
-  "number": 8,
-  "section_ko": "인물 묘사",
-  "section_en": "People",
+  "topic_number": 8,
+  "topic_total": 100,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Brother",
@@ -15,16 +16,21 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/008_my_brother.mp3",
   "words": [
     {
       "en": "brother",
       "ko": "오빠"
     },
     {
-      "en": "twelve",
-      "ko": "열두"
+      "en": "sixteen",
+      "ko": "열여섯"
+    },
+    {
+      "en": "basketball",
+      "ko": "농구"
     },
     {
       "en": "tall",
@@ -33,10 +39,6 @@
     {
       "en": "funny",
       "ko": "재미있는"
-    },
-    {
-      "en": "basketball",
-      "ko": "농구"
     },
     {
       "en": "joke",
@@ -61,119 +63,169 @@
   ],
   "phrases": [
     {
-      "en": "My brother is twelve years old.",
-      "ko": "나의 오빠는 열두 살이에요.",
+      "en": "My brother is sixteen years old, and he is tall.",
+      "ko": "나의 오빠는 열여섯 살이고, 키가 커요.",
       "highlights": [
         "brother",
-        "twelve"
-      ]
-    },
-    {
-      "en": "He is tall",
-      "ko": "오빠는 키가 커요.",
-      "highlights": [
+        "sixteen",
         "tall"
       ]
     },
     {
-      "en": "and funny.",
-      "ko": "그리고 재미있어요.",
+      "en": "He is funny, and he tells a joke at dinner.",
+      "ko": "오빠는 재미있고, 저녁에 농담을 해요.",
       "highlights": [
-        "funny"
+        "funny",
+        "joke"
       ]
     },
     {
-      "en": "He plays basketball.",
-      "ko": "오빠는 농구를 해요.",
+      "en": "He plays basketball after school.",
+      "ko": "오빠는 방과 후에 농구를 해요.",
       "highlights": [
         "basketball"
       ]
     },
     {
-      "en": "He tells a joke.",
-      "ko": "오빠는 농담을 해요.",
-      "highlights": [
-        "joke"
-      ]
-    },
-    {
-      "en": "We share a snack.",
-      "ko": "우리는 간식을 나눠요.",
+      "en": "We share a snack when he comes home.",
+      "ko": "오빠가 집에 오면 우리는 간식을 나눠요.",
       "highlights": [
         "share",
         "snack"
       ]
     },
     {
-      "en": "He helps with homework.",
-      "ko": "오빠는 숙제를 도와줘요.",
+      "en": "He helps me with my homework.",
+      "ko": "오빠는 내 숙제를 도와줘요.",
       "highlights": [
         "homework",
         "help"
       ]
     },
     {
-      "en": "I like my brother.",
-      "ko": "나는 오빠를 좋아해요.",
+      "en": "I like my brother because he is kind.",
+      "ko": "오빠는 친절해서 나는 오빠를 좋아해요.",
       "highlights": [
         "brother"
+      ]
+    },
+    {
+      "en": "He is much taller than me.",
+      "ko": "오빠는 나보다 훨씬 키가 커요.",
+      "highlights": []
+    },
+    {
+      "en": "Sometimes we play basketball in the park.",
+      "ko": "가끔 우리는 공원에서 농구를 해요.",
+      "highlights": [
+        "basketball"
+      ]
+    },
+    {
+      "en": "He shares his snack with my little sister too.",
+      "ko": "오빠는 여동생에게도 간식을 나눠 줘요.",
+      "highlights": [
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "en": "His jokes make our family laugh.",
+      "ko": "오빠의 농담은 우리 가족을 웃게 해요.",
+      "highlights": [
+        "joke"
+      ]
+    },
+    {
+      "en": "I am glad he can help me.",
+      "ko": "오빠가 나를 도와줘서 기뻐요.",
+      "highlights": [
+        "help"
       ]
     }
   ],
   "full_passage_lines": [
     {
-      "en": "My brother is twelve years old.",
-      "ko": "나의 오빠는 열두 살이에요.",
+      "en": "My brother is sixteen years old, and he is tall.",
+      "ko": "나의 오빠는 열여섯 살이고, 키가 커요.",
       "highlights": [
         "brother",
-        "twelve"
+        "sixteen",
+        "tall"
       ]
     },
     {
-      "en": "He is tall and funny.",
-      "ko": "오빠는 키가 크고 재미있어요.",
+      "en": "He is funny, and he tells a joke at dinner.",
+      "ko": "오빠는 재미있고, 저녁에 농담을 해요.",
       "highlights": [
-        "tall",
-        "funny"
+        "funny",
+        "joke"
       ]
     },
     {
-      "en": "He plays basketball.",
-      "ko": "오빠는 농구를 해요.",
+      "en": "He plays basketball after school.",
+      "ko": "오빠는 방과 후에 농구를 해요.",
       "highlights": [
         "basketball"
       ]
     },
     {
-      "en": "He tells a joke.",
-      "ko": "오빠는 농담을 해요.",
-      "highlights": [
-        "joke"
-      ]
-    },
-    {
-      "en": "We share a snack.",
-      "ko": "우리는 간식을 나눠요.",
+      "en": "We share a snack when he comes home.",
+      "ko": "오빠가 집에 오면 우리는 간식을 나눠요.",
       "highlights": [
         "share",
         "snack"
       ]
     },
     {
-      "en": "He helps with homework.",
-      "ko": "오빠는 숙제를 도와줘요.",
+      "en": "He helps me with my homework.",
+      "ko": "오빠는 내 숙제를 도와줘요.",
       "highlights": [
         "homework",
         "help"
       ]
     },
     {
-      "en": "I like my brother.",
-      "ko": "나는 오빠를 좋아해요.",
+      "en": "I like my brother because he is kind.",
+      "ko": "오빠는 친절해서 나는 오빠를 좋아해요.",
       "highlights": [
         "brother"
       ]
+    },
+    {
+      "en": "He is much taller than me.",
+      "ko": "오빠는 나보다 훨씬 키가 커요.",
+      "highlights": []
+    },
+    {
+      "en": "Sometimes we play basketball in the park.",
+      "ko": "가끔 우리는 공원에서 농구를 해요.",
+      "highlights": [
+        "basketball"
+      ]
+    },
+    {
+      "en": "He shares his snack with my little sister too.",
+      "ko": "오빠는 여동생에게도 간식을 나눠 줘요.",
+      "highlights": [
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "en": "His jokes make our family laugh.",
+      "ko": "오빠의 농담은 우리 가족을 웃게 해요.",
+      "highlights": [
+        "joke"
+      ]
+    },
+    {
+      "en": "I am glad he can help me.",
+      "ko": "오빠가 나를 도와줘서 기뻐요.",
+      "highlights": [
+        "help"
+      ]
     }
   ],
-  "full_passage_spoken": "My brother is twelve years old. He is tall and funny. He plays basketball. He tells a joke. We share a snack. He helps with homework. I like my brother."
+  "full_passage_spoken": "My brother is sixteen years old, and he is tall. He is funny, and he tells a joke at dinner. He plays basketball after school. We share a snack when he comes home. He helps me with my homework. I like my brother because he is kind. He is much taller than me. Sometimes we play basketball in the park. He shares his snack with my little sister too. His jokes make our family laugh. I am glad he can help me."
 }

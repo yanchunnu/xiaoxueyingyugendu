@@ -2,9 +2,10 @@
   "slug": "my_grandpas_farm",
   "topic": "My Grandpa's Farm",
   "topic_ko": "할아버지의 농장",
-  "number": 27,
-  "section_ko": "장소·풍경 묘사",
-  "section_en": "Places and Scenery",
+  "topic_number": 27,
+  "topic_total": 100,
+  "category_en": "Places and Scenery",
+  "category_ko": "장소·풍경 묘사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Grandpa's Farm",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/027_my_grandpas_farm.mp3",
   "words": [
     {
       "en": "grandpa",
@@ -61,8 +63,8 @@
   ],
   "phrases": [
     {
-      "en": "This is my grandpa's farm.",
-      "ko": "이곳은 할아버지의 농장이에요.",
+      "en": "This is my grandpa's farm, and I love it.",
+      "ko": "이곳은 할아버지의 농장이고, 나는 농장을 좋아해요.",
       "highlights": [
         "grandpa",
         "farm"
@@ -85,39 +87,73 @@
       ]
     },
     {
-      "en": "There is a red apple.",
-      "ko": "빨간 사과가 있어요.",
+      "en": "There is a red apple on the tree.",
+      "ko": "나무에 빨간 사과가 있어요.",
       "highlights": [
         "apple"
       ]
     },
     {
-      "en": "The air is fresh.",
-      "ko": "공기가 신선해요.",
+      "en": "The air is fresh in the morning.",
+      "ko": "아침 공기는 신선해요.",
       "highlights": [
-        "fresh"
+        "fresh",
+        "morning"
       ]
     },
     {
-      "en": "I help in the morning.",
-      "ko": "나는 아침에 도와요.",
+      "en": "I help in the morning because grandpa is busy.",
+      "ko": "할아버지가 바빠서 나는 아침에 도와요.",
       "highlights": [
+        "grandpa",
         "morning",
         "help"
       ]
     },
     {
-      "en": "I love the farm.",
-      "ko": "나는 농장을 좋아해요.",
+      "en": "The duck swims, and the chicken looks for food.",
+      "ko": "오리는 헤엄치고, 닭은 먹을 것을 찾아요.",
       "highlights": [
-        "farm"
+        "chicken",
+        "duck"
+      ]
+    },
+    {
+      "en": "My little sister feeds the chicken.",
+      "ko": "여동생은 닭에게 먹이를 줘요.",
+      "highlights": [
+        "chicken"
+      ]
+    },
+    {
+      "en": "We pick a fresh apple and share it.",
+      "ko": "우리는 신선한 사과를 따서 나눠요.",
+      "highlights": [
+        "apple",
+        "fresh"
+      ]
+    },
+    {
+      "en": "Grandpa smiles when I help.",
+      "ko": "내가 도우면 할아버지가 미소를 지어요.",
+      "highlights": [
+        "grandpa",
+        "help"
+      ]
+    },
+    {
+      "en": "The farm is quiet, and the field is green.",
+      "ko": "농장은 조용하고, 들판은 푸르러요.",
+      "highlights": [
+        "farm",
+        "field"
       ]
     }
   ],
   "full_passage_lines": [
     {
-      "en": "This is my grandpa's farm.",
-      "ko": "이곳은 할아버지의 농장이에요.",
+      "en": "This is my grandpa's farm, and I love it.",
+      "ko": "이곳은 할아버지의 농장이고, 나는 농장을 좋아해요.",
       "highlights": [
         "grandpa",
         "farm"
@@ -140,34 +176,68 @@
       ]
     },
     {
-      "en": "There is a red apple.",
-      "ko": "빨간 사과가 있어요.",
+      "en": "There is a red apple on the tree.",
+      "ko": "나무에 빨간 사과가 있어요.",
       "highlights": [
         "apple"
       ]
     },
     {
-      "en": "The air is fresh.",
-      "ko": "공기가 신선해요.",
+      "en": "The air is fresh in the morning.",
+      "ko": "아침 공기는 신선해요.",
       "highlights": [
-        "fresh"
+        "fresh",
+        "morning"
       ]
     },
     {
-      "en": "I help in the morning.",
-      "ko": "나는 아침에 도와요.",
+      "en": "I help in the morning because grandpa is busy.",
+      "ko": "할아버지가 바빠서 나는 아침에 도와요.",
       "highlights": [
+        "grandpa",
         "morning",
         "help"
       ]
     },
     {
-      "en": "I love the farm.",
-      "ko": "나는 농장을 좋아해요.",
+      "en": "The duck swims, and the chicken looks for food.",
+      "ko": "오리는 헤엄치고, 닭은 먹을 것을 찾아요.",
       "highlights": [
-        "farm"
+        "chicken",
+        "duck"
+      ]
+    },
+    {
+      "en": "My little sister feeds the chicken.",
+      "ko": "여동생은 닭에게 먹이를 줘요.",
+      "highlights": [
+        "chicken"
+      ]
+    },
+    {
+      "en": "We pick a fresh apple and share it.",
+      "ko": "우리는 신선한 사과를 따서 나눠요.",
+      "highlights": [
+        "apple",
+        "fresh"
+      ]
+    },
+    {
+      "en": "Grandpa smiles when I help.",
+      "ko": "내가 도우면 할아버지가 미소를 지어요.",
+      "highlights": [
+        "grandpa",
+        "help"
+      ]
+    },
+    {
+      "en": "The farm is quiet, and the field is green.",
+      "ko": "농장은 조용하고, 들판은 푸르러요.",
+      "highlights": [
+        "farm",
+        "field"
       ]
     }
   ],
-  "full_passage_spoken": "This is my grandpa's farm. A cow walks in the field. I see a chicken and a duck. There is a red apple. The air is fresh. I help in the morning. I love the farm."
+  "full_passage_spoken": "This is my grandpa's farm, and I love it. A cow walks in the field. I see a chicken and a duck. There is a red apple on the tree. The air is fresh in the morning. I help in the morning because grandpa is busy. The duck swims, and the chicken looks for food. My little sister feeds the chicken. We pick a fresh apple and share it. Grandpa smiles when I help. The farm is quiet, and the field is green."
 }

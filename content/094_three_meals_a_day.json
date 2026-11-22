@@ -2,9 +2,10 @@
   "slug": "three_meals_a_day",
   "topic": "Three Meals a Day",
   "topic_ko": "하루 세 끼",
-  "number": 94,
-  "section_ko": "건강과 음식",
-  "section_en": "Health and Food",
+  "topic_number": 94,
+  "topic_total": 100,
+  "category_en": "Health and Food",
+  "category_ko": "건강과 음식",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "Three Meals a Day",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/094_three_meals_a_day.mp3",
   "words": [
     {
       "en": "three",
@@ -120,6 +122,35 @@
       "highlights": [
         "study"
       ]
+    },
+    {
+      "en": "Three meals are breakfast, lunch, and dinner.",
+      "ko": "세 끼는 아침, 점심, 저녁이에요.",
+      "highlights": [
+        "three",
+        "meal",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "en": "I do not skip lunch even when I am busy.",
+      "ko": "바빠도 나는 점심을 거르지 않아요.",
+      "highlights": [
+        "lunch",
+        "skip"
+      ]
+    },
+    {
+      "en": "On time meals give me energy to study.",
+      "ko": "제시간에 먹는 식사는 공부할 에너지를 줘요.",
+      "highlights": [
+        "meal",
+        "on time",
+        "energy",
+        "study"
+      ]
     }
   ],
   "full_passage_lines": [
@@ -183,7 +214,36 @@
       "highlights": [
         "study"
       ]
+    },
+    {
+      "en": "Three meals are breakfast, lunch, and dinner.",
+      "ko": "세 끼는 아침, 점심, 저녁이에요.",
+      "highlights": [
+        "three",
+        "meal",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "en": "I do not skip lunch even when I am busy.",
+      "ko": "바빠도 나는 점심을 거르지 않아요.",
+      "highlights": [
+        "lunch",
+        "skip"
+      ]
+    },
+    {
+      "en": "On time meals give me energy to study.",
+      "ko": "제시간에 먹는 식사는 공부할 에너지를 줘요.",
+      "highlights": [
+        "meal",
+        "on time",
+        "energy",
+        "study"
+      ]
     }
   ],
-  "full_passage_spoken": "I eat three meals a day. Breakfast is one meal. Lunch is at school. Dinner is at home. I eat on time. I do not skip a meal. Regular meals give me energy. They help me study."
+  "full_passage_spoken": "I eat three meals a day. Breakfast is one meal. Lunch is at school. Dinner is at home. I eat on time. I do not skip a meal. Regular meals give me energy. They help me study. Three meals are breakfast, lunch, and dinner. I do not skip lunch even when I am busy. On time meals give me energy to study."
 }

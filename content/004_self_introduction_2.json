@@ -2,9 +2,10 @@
   "slug": "self_introduction_2",
   "topic": "Self-Introduction (2)",
   "topic_ko": "자기소개 (2)",
-  "number": 4,
-  "section_ko": "인물 묘사",
-  "section_en": "People",
+  "topic_number": 4,
+  "topic_total": 100,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "Self-Introduction, Part Two",
@@ -15,12 +16,13 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/004_self_introduction_2.mp3",
   "words": [
     {
       "en": "can",
-      "ko": "~할 수 있다"
+      "ko": "할 수 있다"
     },
     {
       "en": "swim",
@@ -29,10 +31,6 @@
     {
       "en": "sing",
       "ko": "노래 부르다"
-    },
-    {
-      "en": "little",
-      "ko": "조금"
     },
     {
       "en": "draw",
@@ -57,36 +55,33 @@
     {
       "en": "night",
       "ko": "밤"
+    },
+    {
+      "en": "little",
+      "ko": "조금"
     }
   ],
   "phrases": [
     {
-      "en": "I can swim.",
-      "ko": "나는 수영할 수 있어요.",
+      "en": "I can swim, and I can also sing a little.",
+      "ko": "나는 수영할 수 있고, 노래도 조금 부를 수 있어요.",
       "highlights": [
         "can",
-        "swim"
-      ]
-    },
-    {
-      "en": "I can sing a little.",
-      "ko": "나는 노래를 조금 부를 수 있어요.",
-      "highlights": [
-        "can",
+        "swim",
         "sing",
         "little"
       ]
     },
     {
-      "en": "I like to draw.",
-      "ko": "나는 그림 그리기를 좋아해요.",
+      "en": "I like to draw pictures of animals.",
+      "ko": "나는 동물 그림을 그리는 것을 좋아해요.",
       "highlights": [
         "draw"
       ]
     },
     {
-      "en": "I can run fast.",
-      "ko": "나는 빨리 달릴 수 있어요.",
+      "en": "I can run fast when I play with my friends.",
+      "ko": "친구들과 놀 때 나는 빨리 달릴 수 있어요.",
       "highlights": [
         "can",
         "run",
@@ -94,69 +89,8 @@
       ]
     },
     {
-      "en": "I play the piano.",
-      "ko": "나는 피아노를 쳐요.",
-      "highlights": [
-        "piano"
-      ]
-    },
-    {
-      "en": "I like to read a story",
-      "ko": "나는 이야기를 읽는 것을 좋아해요.",
-      "highlights": [
-        "story"
-      ]
-    },
-    {
-      "en": "at night.",
-      "ko": "밤에 읽어요.",
-      "highlights": [
-        "night"
-      ]
-    },
-    {
-      "en": "Nice to meet you.",
-      "ko": "만나서 반가워요.",
-      "highlights": []
-    }
-  ],
-  "full_passage_lines": [
-    {
-      "en": "I can swim.",
-      "ko": "나는 수영할 수 있어요.",
-      "highlights": [
-        "can",
-        "swim"
-      ]
-    },
-    {
-      "en": "I can sing a little.",
-      "ko": "나는 노래를 조금 부를 수 있어요.",
-      "highlights": [
-        "can",
-        "sing",
-        "little"
-      ]
-    },
-    {
-      "en": "I like to draw.",
-      "ko": "나는 그림 그리기를 좋아해요.",
-      "highlights": [
-        "draw"
-      ]
-    },
-    {
-      "en": "I can run fast.",
-      "ko": "나는 빨리 달릴 수 있어요.",
-      "highlights": [
-        "can",
-        "run",
-        "fast"
-      ]
-    },
-    {
-      "en": "I play the piano.",
-      "ko": "나는 피아노를 쳐요.",
+      "en": "I play the piano at home in the evening.",
+      "ko": "나는 저녁에 집에서 피아노를 쳐요.",
       "highlights": [
         "piano"
       ]
@@ -170,10 +104,136 @@
       ]
     },
     {
-      "en": "Nice to meet you.",
-      "ko": "만나서 반가워요.",
+      "en": "My little sister listens when I sing.",
+      "ko": "내가 노래하면 여동생이 들어요.",
+      "highlights": [
+        "sing",
+        "little"
+      ]
+    },
+    {
+      "en": "She is eleven, and she likes my stories.",
+      "ko": "동생은 열한 살이고, 내 이야기를 좋아해요.",
+      "highlights": []
+    },
+    {
+      "en": "I can help her with a short story.",
+      "ko": "나는 짧은 이야기로 동생을 도와줄 수 있어요.",
+      "highlights": [
+        "can",
+        "story"
+      ]
+    },
+    {
+      "en": "I draw, I run, and I swim because they make me happy.",
+      "ko": "나는 그림을 그리고, 달리고, 수영해요. 그러면 행복해져요.",
+      "highlights": [
+        "swim",
+        "draw",
+        "run"
+      ]
+    },
+    {
+      "en": "At night I play the piano a little.",
+      "ko": "밤에는 피아노를 조금 쳐요.",
+      "highlights": [
+        "piano",
+        "night",
+        "little"
+      ]
+    },
+    {
+      "en": "This is more about me, and I am glad to tell you.",
+      "ko": "이것이 나에 대한 이야기이고, 말해 주어서 기뻐요.",
       "highlights": []
     }
   ],
-  "full_passage_spoken": "I can swim. I can sing a little. I like to draw. I can run fast. I play the piano. I like to read a story at night. Nice to meet you."
+  "full_passage_lines": [
+    {
+      "en": "I can swim, and I can also sing a little.",
+      "ko": "나는 수영할 수 있고, 노래도 조금 부를 수 있어요.",
+      "highlights": [
+        "can",
+        "swim",
+        "sing",
+        "little"
+      ]
+    },
+    {
+      "en": "I like to draw pictures of animals.",
+      "ko": "나는 동물 그림을 그리는 것을 좋아해요.",
+      "highlights": [
+        "draw"
+      ]
+    },
+    {
+      "en": "I can run fast when I play with my friends.",
+      "ko": "친구들과 놀 때 나는 빨리 달릴 수 있어요.",
+      "highlights": [
+        "can",
+        "run",
+        "fast"
+      ]
+    },
+    {
+      "en": "I play the piano at home in the evening.",
+      "ko": "나는 저녁에 집에서 피아노를 쳐요.",
+      "highlights": [
+        "piano"
+      ]
+    },
+    {
+      "en": "I like to read a story at night.",
+      "ko": "나는 밤에 이야기를 읽는 것을 좋아해요.",
+      "highlights": [
+        "story",
+        "night"
+      ]
+    },
+    {
+      "en": "My little sister listens when I sing.",
+      "ko": "내가 노래하면 여동생이 들어요.",
+      "highlights": [
+        "sing",
+        "little"
+      ]
+    },
+    {
+      "en": "She is eleven, and she likes my stories.",
+      "ko": "동생은 열한 살이고, 내 이야기를 좋아해요.",
+      "highlights": []
+    },
+    {
+      "en": "I can help her with a short story.",
+      "ko": "나는 짧은 이야기로 동생을 도와줄 수 있어요.",
+      "highlights": [
+        "can",
+        "story"
+      ]
+    },
+    {
+      "en": "I draw, I run, and I swim because they make me happy.",
+      "ko": "나는 그림을 그리고, 달리고, 수영해요. 그러면 행복해져요.",
+      "highlights": [
+        "swim",
+        "draw",
+        "run"
+      ]
+    },
+    {
+      "en": "At night I play the piano a little.",
+      "ko": "밤에는 피아노를 조금 쳐요.",
+      "highlights": [
+        "piano",
+        "night",
+        "little"
+      ]
+    },
+    {
+      "en": "This is more about me, and I am glad to tell you.",
+      "ko": "이것이 나에 대한 이야기이고, 말해 주어서 기뻐요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_spoken": "I can swim, and I can also sing a little. I like to draw pictures of animals. I can run fast when I play with my friends. I play the piano at home in the evening. I like to read a story at night. My little sister listens when I sing. She is eleven, and she likes my stories. I can help her with a short story. I draw, I run, and I swim because they make me happy. At night I play the piano a little. This is more about me, and I am glad to tell you."
 }

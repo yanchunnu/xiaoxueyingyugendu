@@ -2,9 +2,10 @@
   "slug": "my_hobby",
   "topic": "My Hobby",
   "topic_ko": "나의 취미",
-  "number": 44,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 44,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Hobby",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/044_my_hobby.mp3",
   "words": [
     {
       "en": "hobby",
@@ -61,17 +63,11 @@
   ],
   "phrases": [
     {
-      "en": "My hobby is drawing.",
-      "ko": "나의 취미는 그림 그리기예요.",
+      "en": "My hobby is drawing, and I draw a picture on paper.",
+      "ko": "나의 취미는 그림 그리기이고, 나는 종이에 그림을 그려요.",
       "highlights": [
         "hobby",
-        "drawing"
-      ]
-    },
-    {
-      "en": "I draw a picture on paper.",
-      "ko": "나는 종이에 그림을 그려요.",
-      "highlights": [
+        "drawing",
         "picture",
         "paper"
       ]
@@ -92,18 +88,12 @@
       ]
     },
     {
-      "en": "Drawing makes me calm.",
-      "ko": "그림 그리기는 나를 차분하게 해요.",
-      "highlights": [
-        "drawing",
-        "calm"
-      ]
-    },
-    {
-      "en": "I enjoy my hobby.",
-      "ko": "나는 나의 취미를 즐겨요.",
+      "en": "Drawing makes me calm, and I enjoy my hobby.",
+      "ko": "그림 그리기는 나를 차분하게 하고, 나는 취미를 즐겨요.",
       "highlights": [
         "hobby",
+        "drawing",
+        "calm",
         "enjoy"
       ]
     },
@@ -114,22 +104,62 @@
         "picture",
         "show",
         "mom"
+      ]
+    },
+    {
+      "en": "I often draw animals and people.",
+      "ko": "나는 자주 동물과 사람을 그려요.",
+      "highlights": []
+    },
+    {
+      "en": "My free time after homework is for drawing.",
+      "ko": "숙제 후의 여가 시간은 그림 그리기를 위한 시간이에요.",
+      "highlights": [
+        "drawing",
+        "free time"
+      ]
+    },
+    {
+      "en": "A calm hobby is good after a busy day.",
+      "ko": "바쁜 하루 후에는 차분한 취미가 좋아요.",
+      "highlights": [
+        "hobby",
+        "calm"
+      ]
+    },
+    {
+      "en": "Mom smiles when I show her a new picture.",
+      "ko": "내가 새 그림을 보여 주면 엄마가 미소를 지어요.",
+      "highlights": [
+        "picture",
+        "show",
+        "mom"
+      ]
+    },
+    {
+      "en": "I enjoy drawing because the paper can become anything.",
+      "ko": "종이는 무엇이든 될 수 있어서 나는 그림 그리기를 즐겨요.",
+      "highlights": [
+        "drawing",
+        "paper",
+        "enjoy"
+      ]
+    },
+    {
+      "en": "This hobby makes me happy.",
+      "ko": "이 취미는 나를 행복하게 해요.",
+      "highlights": [
+        "hobby"
       ]
     }
   ],
   "full_passage_lines": [
     {
-      "en": "My hobby is drawing.",
-      "ko": "나의 취미는 그림 그리기예요.",
+      "en": "My hobby is drawing, and I draw a picture on paper.",
+      "ko": "나의 취미는 그림 그리기이고, 나는 종이에 그림을 그려요.",
       "highlights": [
         "hobby",
-        "drawing"
-      ]
-    },
-    {
-      "en": "I draw a picture on paper.",
-      "ko": "나는 종이에 그림을 그려요.",
-      "highlights": [
+        "drawing",
         "picture",
         "paper"
       ]
@@ -150,18 +180,12 @@
       ]
     },
     {
-      "en": "Drawing makes me calm.",
-      "ko": "그림 그리기는 나를 차분하게 해요.",
-      "highlights": [
-        "drawing",
-        "calm"
-      ]
-    },
-    {
-      "en": "I enjoy my hobby.",
-      "ko": "나는 나의 취미를 즐겨요.",
+      "en": "Drawing makes me calm, and I enjoy my hobby.",
+      "ko": "그림 그리기는 나를 차분하게 하고, 나는 취미를 즐겨요.",
       "highlights": [
         "hobby",
+        "drawing",
+        "calm",
         "enjoy"
       ]
     },
@@ -173,7 +197,53 @@
         "show",
         "mom"
       ]
+    },
+    {
+      "en": "I often draw animals and people.",
+      "ko": "나는 자주 동물과 사람을 그려요.",
+      "highlights": []
+    },
+    {
+      "en": "My free time after homework is for drawing.",
+      "ko": "숙제 후의 여가 시간은 그림 그리기를 위한 시간이에요.",
+      "highlights": [
+        "drawing",
+        "free time"
+      ]
+    },
+    {
+      "en": "A calm hobby is good after a busy day.",
+      "ko": "바쁜 하루 후에는 차분한 취미가 좋아요.",
+      "highlights": [
+        "hobby",
+        "calm"
+      ]
+    },
+    {
+      "en": "Mom smiles when I show her a new picture.",
+      "ko": "내가 새 그림을 보여 주면 엄마가 미소를 지어요.",
+      "highlights": [
+        "picture",
+        "show",
+        "mom"
+      ]
+    },
+    {
+      "en": "I enjoy drawing because the paper can become anything.",
+      "ko": "종이는 무엇이든 될 수 있어서 나는 그림 그리기를 즐겨요.",
+      "highlights": [
+        "drawing",
+        "paper",
+        "enjoy"
+      ]
+    },
+    {
+      "en": "This hobby makes me happy.",
+      "ko": "이 취미는 나를 행복하게 해요.",
+      "highlights": [
+        "hobby"
+      ]
     }
   ],
-  "full_passage_spoken": "My hobby is drawing. I draw a picture on paper. I color the picture. I draw in my free time. Drawing makes me calm. I enjoy my hobby. I show the picture to my mom."
+  "full_passage_spoken": "My hobby is drawing, and I draw a picture on paper. I color the picture. I draw in my free time. Drawing makes me calm, and I enjoy my hobby. I show the picture to my mom. I often draw animals and people. My free time after homework is for drawing. A calm hobby is good after a busy day. Mom smiles when I show her a new picture. I enjoy drawing because the paper can become anything. This hobby makes me happy."
 }

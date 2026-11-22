@@ -2,9 +2,10 @@
   "slug": "i_love_reading_books",
   "topic": "I Love Reading Books",
   "topic_ko": "나는 책 읽기를 좋아해요",
-  "number": 47,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 47,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "I Love Reading Books",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/047_i_love_reading_books.mp3",
   "words": [
     {
       "en": "love",
@@ -61,86 +63,11 @@
   ],
   "phrases": [
     {
-      "en": "I love reading.",
-      "ko": "나는 책 읽기를 아주 좋아해요.",
+      "en": "I love reading, and I love a good book.",
+      "ko": "나는 책 읽기를 아주 좋아하고, 좋은 책도 아주 좋아해요.",
       "highlights": [
         "love",
-        "reading"
-      ]
-    },
-    {
-      "en": "I love a good book.",
-      "ko": "나는 좋은 책을 아주 좋아해요.",
-      "highlights": [
-        "love",
-        "book"
-      ]
-    },
-    {
-      "en": "I sit in a quiet place.",
-      "ko": "나는 조용한 곳에 앉아요.",
-      "highlights": [
-        "quiet"
-      ]
-    },
-    {
-      "en": "I like to read a story",
-      "ko": "나는 이야기를 읽는 것을 좋아해요.",
-      "highlights": [
-        "story"
-      ]
-    },
-    {
-      "en": "at night.",
-      "ko": "밤에 읽어요.",
-      "highlights": [
-        "night"
-      ]
-    },
-    {
-      "en": "The lamp is on.",
-      "ko": "전등이 켜져 있어요.",
-      "highlights": [
-        "lamp"
-      ]
-    },
-    {
-      "en": "I learn a new word.",
-      "ko": "나는 새 단어를 배워요.",
-      "highlights": [
-        "word"
-      ]
-    },
-    {
-      "en": "I go to the library.",
-      "ko": "나는 도서관에 가요.",
-      "highlights": [
-        "library"
-      ]
-    },
-    {
-      "en": "Reading makes me happy.",
-      "ko": "책 읽기는 나를 행복하게 해요.",
-      "highlights": [
         "reading",
-        "happy"
-      ]
-    }
-  ],
-  "full_passage_lines": [
-    {
-      "en": "I love reading.",
-      "ko": "나는 책 읽기를 아주 좋아해요.",
-      "highlights": [
-        "love",
-        "reading"
-      ]
-    },
-    {
-      "en": "I love a good book.",
-      "ko": "나는 좋은 책을 아주 좋아해요.",
-      "highlights": [
-        "love",
         "book"
       ]
     },
@@ -174,20 +101,145 @@
       ]
     },
     {
-      "en": "I go to the library.",
-      "ko": "나는 도서관에 가요.",
+      "en": "I go to the library, and reading makes me happy.",
+      "ko": "나는 도서관에 가고, 책 읽기는 나를 행복하게 해요.",
       "highlights": [
+        "reading",
+        "library",
+        "happy"
+      ]
+    },
+    {
+      "en": "A quiet room and a lamp are enough.",
+      "ko": "조용한 방과 전등만 있으면 돼요.",
+      "highlights": [
+        "quiet",
+        "lamp"
+      ]
+    },
+    {
+      "en": "Each story gives me a new word.",
+      "ko": "이야기마다 새 단어를 줘요.",
+      "highlights": [
+        "story",
+        "word"
+      ]
+    },
+    {
+      "en": "I love reading with my little sister.",
+      "ko": "나는 여동생과 함께 책 읽기를 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "reading"
+      ]
+    },
+    {
+      "en": "The library has more books than my room.",
+      "ko": "도서관에는 내 방보다 책이 더 많아요.",
+      "highlights": [
+        "book",
         "library"
       ]
     },
     {
-      "en": "Reading makes me happy.",
-      "ko": "책 읽기는 나를 행복하게 해요.",
+      "en": "At night a happy reader closes the book slowly.",
+      "ko": "밤에 행복한 독자는 책을 천천히 덮어요.",
       "highlights": [
-        "reading",
+        "book",
+        "night",
         "happy"
       ]
     }
   ],
-  "full_passage_spoken": "I love reading. I love a good book. I sit in a quiet place. I like to read a story at night. The lamp is on. I learn a new word. I go to the library. Reading makes me happy."
+  "full_passage_lines": [
+    {
+      "en": "I love reading, and I love a good book.",
+      "ko": "나는 책 읽기를 아주 좋아하고, 좋은 책도 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "reading",
+        "book"
+      ]
+    },
+    {
+      "en": "I sit in a quiet place.",
+      "ko": "나는 조용한 곳에 앉아요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like to read a story at night.",
+      "ko": "나는 밤에 이야기를 읽는 것을 좋아해요.",
+      "highlights": [
+        "story",
+        "night"
+      ]
+    },
+    {
+      "en": "The lamp is on.",
+      "ko": "전등이 켜져 있어요.",
+      "highlights": [
+        "lamp"
+      ]
+    },
+    {
+      "en": "I learn a new word.",
+      "ko": "나는 새 단어를 배워요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I go to the library, and reading makes me happy.",
+      "ko": "나는 도서관에 가고, 책 읽기는 나를 행복하게 해요.",
+      "highlights": [
+        "reading",
+        "library",
+        "happy"
+      ]
+    },
+    {
+      "en": "A quiet room and a lamp are enough.",
+      "ko": "조용한 방과 전등만 있으면 돼요.",
+      "highlights": [
+        "quiet",
+        "lamp"
+      ]
+    },
+    {
+      "en": "Each story gives me a new word.",
+      "ko": "이야기마다 새 단어를 줘요.",
+      "highlights": [
+        "story",
+        "word"
+      ]
+    },
+    {
+      "en": "I love reading with my little sister.",
+      "ko": "나는 여동생과 함께 책 읽기를 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "reading"
+      ]
+    },
+    {
+      "en": "The library has more books than my room.",
+      "ko": "도서관에는 내 방보다 책이 더 많아요.",
+      "highlights": [
+        "book",
+        "library"
+      ]
+    },
+    {
+      "en": "At night a happy reader closes the book slowly.",
+      "ko": "밤에 행복한 독자는 책을 천천히 덮어요.",
+      "highlights": [
+        "book",
+        "night",
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I love reading, and I love a good book. I sit in a quiet place. I like to read a story at night. The lamp is on. I learn a new word. I go to the library, and reading makes me happy. A quiet room and a lamp are enough. Each story gives me a new word. I love reading with my little sister. The library has more books than my room. At night a happy reader closes the book slowly."
 }

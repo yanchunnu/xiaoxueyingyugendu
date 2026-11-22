@@ -2,9 +2,10 @@
   "slug": "my_dream_teacher",
   "topic": "My Dream (Teacher)",
   "topic_ko": "나의 꿈 (선생님)",
-  "number": 63,
-  "section_ko": "학교생활",
-  "section_en": "School Life",
+  "topic_number": 63,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Dream, Teacher",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/063_my_dream_teacher.mp3",
   "words": [
     {
       "en": "dream",
@@ -77,16 +79,10 @@
       ]
     },
     {
-      "en": "I want to be kind.",
-      "ko": "나는 친절한 선생님이 되고 싶어요.",
+      "en": "I want to be kind, and I want to be patient.",
+      "ko": "나는 친절하고 싶고, 참을성 있고 싶어요.",
       "highlights": [
-        "kind"
-      ]
-    },
-    {
-      "en": "I want to be patient.",
-      "ko": "나는 참을성 있는 선생님이 되고 싶어요.",
-      "highlights": [
+        "kind",
         "patient"
       ]
     },
@@ -106,17 +102,53 @@
       ]
     },
     {
-      "en": "The future can be bright.",
-      "ko": "미래는 밝을 수 있어요.",
+      "en": "The future can be bright, and this is my dream.",
+      "ko": "미래는 밝을 수 있고, 이것이 나의 꿈이에요.",
       "highlights": [
+        "dream",
         "future"
       ]
     },
     {
-      "en": "This is my dream.",
-      "ko": "이것이 나의 꿈이에요.",
+      "en": "A kind teacher helps a child feel safe.",
+      "ko": "친절한 선생님은 아이가 안전하다고 느끼게 도와줘요.",
       "highlights": [
-        "dream"
+        "teacher",
+        "child",
+        "help",
+        "kind"
+      ]
+    },
+    {
+      "en": "I study hard because a dream needs work.",
+      "ko": "꿈에는 노력이 필요해서 나는 열심히 공부해요.",
+      "highlights": [
+        "dream",
+        "study",
+        "hard"
+      ]
+    },
+    {
+      "en": "I hope the future school is full of smiles.",
+      "ko": "미래의 학교는 미소로 가득하기를 바라요.",
+      "highlights": [
+        "school",
+        "future"
+      ]
+    },
+    {
+      "en": "My mother is a teacher, and she is my example.",
+      "ko": "어머니는 선생님이고, 나의 본보기예요.",
+      "highlights": [
+        "teacher"
+      ]
+    },
+    {
+      "en": "This dream is patient work, one day at a time.",
+      "ko": "이 꿈은 하루하루의 참을성 있는 일이에요.",
+      "highlights": [
+        "dream",
+        "patient"
       ]
     }
   ],
@@ -138,16 +170,10 @@
       ]
     },
     {
-      "en": "I want to be kind.",
-      "ko": "나는 친절한 선생님이 되고 싶어요.",
+      "en": "I want to be kind, and I want to be patient.",
+      "ko": "나는 친절하고 싶고, 참을성 있고 싶어요.",
       "highlights": [
-        "kind"
-      ]
-    },
-    {
-      "en": "I want to be patient.",
-      "ko": "나는 참을성 있는 선생님이 되고 싶어요.",
-      "highlights": [
+        "kind",
         "patient"
       ]
     },
@@ -167,19 +193,55 @@
       ]
     },
     {
-      "en": "The future can be bright.",
-      "ko": "미래는 밝을 수 있어요.",
+      "en": "The future can be bright, and this is my dream.",
+      "ko": "미래는 밝을 수 있고, 이것이 나의 꿈이에요.",
       "highlights": [
+        "dream",
         "future"
       ]
     },
     {
-      "en": "This is my dream.",
-      "ko": "이것이 나의 꿈이에요.",
+      "en": "A kind teacher helps a child feel safe.",
+      "ko": "친절한 선생님은 아이가 안전하다고 느끼게 도와줘요.",
       "highlights": [
-        "dream"
+        "teacher",
+        "child",
+        "help",
+        "kind"
+      ]
+    },
+    {
+      "en": "I study hard because a dream needs work.",
+      "ko": "꿈에는 노력이 필요해서 나는 열심히 공부해요.",
+      "highlights": [
+        "dream",
+        "study",
+        "hard"
+      ]
+    },
+    {
+      "en": "I hope the future school is full of smiles.",
+      "ko": "미래의 학교는 미소로 가득하기를 바라요.",
+      "highlights": [
+        "school",
+        "future"
+      ]
+    },
+    {
+      "en": "My mother is a teacher, and she is my example.",
+      "ko": "어머니는 선생님이고, 나의 본보기예요.",
+      "highlights": [
+        "teacher"
+      ]
+    },
+    {
+      "en": "This dream is patient work, one day at a time.",
+      "ko": "이 꿈은 하루하루의 참을성 있는 일이에요.",
+      "highlights": [
+        "dream",
+        "patient"
       ]
     }
   ],
-  "full_passage_spoken": "One dream is to be a teacher. I want to help a child. I want to be kind. I want to be patient. I will teach at a school. I study hard now. The future can be bright. This is my dream."
+  "full_passage_spoken": "One dream is to be a teacher. I want to help a child. I want to be kind, and I want to be patient. I will teach at a school. I study hard now. The future can be bright, and this is my dream. A kind teacher helps a child feel safe. I study hard because a dream needs work. I hope the future school is full of smiles. My mother is a teacher, and she is my example. This dream is patient work, one day at a time."
 }

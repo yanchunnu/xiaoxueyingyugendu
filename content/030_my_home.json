@@ -2,9 +2,10 @@
   "slug": "my_home",
   "topic": "My Home",
   "topic_ko": "나의 집",
-  "number": 30,
-  "section_ko": "개인 물건",
-  "section_en": "My Things",
+  "topic_number": 30,
+  "topic_total": 100,
+  "category_en": "My Things",
+  "category_ko": "개인 물건",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Home",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/030_my_home.mp3",
   "words": [
     {
       "en": "home",
@@ -61,25 +63,19 @@
   ],
   "phrases": [
     {
-      "en": "My home is a small house.",
-      "ko": "나의 집은 작은 주택이에요.",
+      "en": "My home is a small house in Seoul.",
+      "ko": "나의 집은 서울에 있는 작은 주택이에요.",
       "highlights": [
         "home",
         "house"
       ]
     },
     {
-      "en": "It has a warm kitchen.",
-      "ko": "따뜻한 부엌이 있어요.",
+      "en": "It has a warm kitchen and a bright living room.",
+      "ko": "따뜻한 부엌과 밝은 거실이 있어요.",
       "highlights": [
         "kitchen",
-        "warm"
-      ]
-    },
-    {
-      "en": "We sit in the living room.",
-      "ko": "우리는 거실에 앉아요.",
-      "highlights": [
+        "warm",
         "living room",
         "room"
       ]
@@ -92,24 +88,65 @@
       ]
     },
     {
-      "en": "My room is clean.",
-      "ko": "내 방은 깨끗해요.",
-      "highlights": [
-        "room",
-        "clean"
-      ]
-    },
-    {
-      "en": "I feel safe at home.",
-      "ko": "나는 집에서 안전해요.",
+      "en": "My room is clean, and I feel safe at home.",
+      "ko": "내 방은 깨끗하고, 나는 집에서 안전해요.",
       "highlights": [
         "home",
+        "room",
+        "clean",
         "safe"
       ]
     },
     {
       "en": "My family loves our home.",
       "ko": "우리 가족은 우리 집을 사랑해요.",
+      "highlights": [
+        "home",
+        "family"
+      ]
+    },
+    {
+      "en": "Six people share this house.",
+      "ko": "여섯 사람이 이 집을 함께 써요.",
+      "highlights": [
+        "house"
+      ]
+    },
+    {
+      "en": "The living room is where we talk at night.",
+      "ko": "거실은 밤에 우리가 이야기하는 곳이에요.",
+      "highlights": [
+        "living room",
+        "room"
+      ]
+    },
+    {
+      "en": "The kitchen smells warm when Mom cooks.",
+      "ko": "엄마가 요리하면 부엌에서 따뜻한 냄새가 나요.",
+      "highlights": [
+        "kitchen",
+        "warm"
+      ]
+    },
+    {
+      "en": "I keep my room clean because I like it.",
+      "ko": "나는 내 방을 좋아해서 깨끗하게 두어요.",
+      "highlights": [
+        "room",
+        "clean"
+      ]
+    },
+    {
+      "en": "A safe home is the best place to rest.",
+      "ko": "안전한 집은 쉬기에 가장 좋은 곳이에요.",
+      "highlights": [
+        "home",
+        "safe"
+      ]
+    },
+    {
+      "en": "I am happy when my family is home.",
+      "ko": "가족이 집에 있으면 나는 행복해요.",
       "highlights": [
         "home",
         "family"
@@ -118,25 +155,19 @@
   ],
   "full_passage_lines": [
     {
-      "en": "My home is a small house.",
-      "ko": "나의 집은 작은 주택이에요.",
+      "en": "My home is a small house in Seoul.",
+      "ko": "나의 집은 서울에 있는 작은 주택이에요.",
       "highlights": [
         "home",
         "house"
       ]
     },
     {
-      "en": "It has a warm kitchen.",
-      "ko": "따뜻한 부엌이 있어요.",
+      "en": "It has a warm kitchen and a bright living room.",
+      "ko": "따뜻한 부엌과 밝은 거실이 있어요.",
       "highlights": [
         "kitchen",
-        "warm"
-      ]
-    },
-    {
-      "en": "We sit in the living room.",
-      "ko": "우리는 거실에 앉아요.",
-      "highlights": [
+        "warm",
         "living room",
         "room"
       ]
@@ -149,18 +180,12 @@
       ]
     },
     {
-      "en": "My room is clean.",
-      "ko": "내 방은 깨끗해요.",
-      "highlights": [
-        "room",
-        "clean"
-      ]
-    },
-    {
-      "en": "I feel safe at home.",
-      "ko": "나는 집에서 안전해요.",
+      "en": "My room is clean, and I feel safe at home.",
+      "ko": "내 방은 깨끗하고, 나는 집에서 안전해요.",
       "highlights": [
         "home",
+        "room",
+        "clean",
         "safe"
       ]
     },
@@ -171,7 +196,54 @@
         "home",
         "family"
       ]
+    },
+    {
+      "en": "Six people share this house.",
+      "ko": "여섯 사람이 이 집을 함께 써요.",
+      "highlights": [
+        "house"
+      ]
+    },
+    {
+      "en": "The living room is where we talk at night.",
+      "ko": "거실은 밤에 우리가 이야기하는 곳이에요.",
+      "highlights": [
+        "living room",
+        "room"
+      ]
+    },
+    {
+      "en": "The kitchen smells warm when Mom cooks.",
+      "ko": "엄마가 요리하면 부엌에서 따뜻한 냄새가 나요.",
+      "highlights": [
+        "kitchen",
+        "warm"
+      ]
+    },
+    {
+      "en": "I keep my room clean because I like it.",
+      "ko": "나는 내 방을 좋아해서 깨끗하게 두어요.",
+      "highlights": [
+        "room",
+        "clean"
+      ]
+    },
+    {
+      "en": "A safe home is the best place to rest.",
+      "ko": "안전한 집은 쉬기에 가장 좋은 곳이에요.",
+      "highlights": [
+        "home",
+        "safe"
+      ]
+    },
+    {
+      "en": "I am happy when my family is home.",
+      "ko": "가족이 집에 있으면 나는 행복해요.",
+      "highlights": [
+        "home",
+        "family"
+      ]
     }
   ],
-  "full_passage_spoken": "My home is a small house. It has a warm kitchen. We sit in the living room. The sun comes in the window. My room is clean. I feel safe at home. My family loves our home."
+  "full_passage_spoken": "My home is a small house in Seoul. It has a warm kitchen and a bright living room. The sun comes in the window. My room is clean, and I feel safe at home. My family loves our home. Six people share this house. The living room is where we talk at night. The kitchen smells warm when Mom cooks. I keep my room clean because I like it. A safe home is the best place to rest. I am happy when my family is home."
 }

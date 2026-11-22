@@ -2,9 +2,10 @@
   "slug": "the_importance_of_reading",
   "topic": "The Importance of Reading",
   "topic_ko": "독서가 중요한 이유",
-  "number": 69,
-  "section_ko": "학교생활",
-  "section_en": "School Life",
+  "topic_number": 69,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "The Importance of Reading",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/069_the_importance_of_reading.mp3",
   "words": [
     {
       "en": "reading",
@@ -108,17 +110,43 @@
       ]
     },
     {
-      "en": "Books are good friends.",
-      "ko": "책은 좋은 친구예요.",
+      "en": "Books are good friends, and I like reading.",
+      "ko": "책은 좋은 친구이고, 나는 독서를 좋아해요.",
       "highlights": [
+        "reading",
         "friend"
       ]
     },
     {
-      "en": "I like reading.",
-      "ko": "나는 독서를 좋아해요.",
+      "en": "An idea from a book can stay all day.",
+      "ko": "책에서 온 생각은 하루 종일 남을 수 있어요.",
       "highlights": [
-        "reading"
+        "idea"
+      ]
+    },
+    {
+      "en": "A new word makes the next book easier.",
+      "ko": "새 단어는 다음 책을 더 쉽게 해요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I imagine the place, and then I want to go.",
+      "ko": "나는 그 장소를 상상하고, 그다음에 가 보고 싶어요.",
+      "highlights": [
+        "imagine",
+        "place"
+      ]
+    },
+    {
+      "en": "Quiet reading helps me grow into a kinder friend.",
+      "ko": "조용한 독서는 내가 더 친절한 친구로 자라도록 도와줘요.",
+      "highlights": [
+        "reading",
+        "grow",
+        "quiet",
+        "friend"
       ]
     }
   ],
@@ -171,19 +199,45 @@
       ]
     },
     {
-      "en": "Books are good friends.",
-      "ko": "책은 좋은 친구예요.",
+      "en": "Books are good friends, and I like reading.",
+      "ko": "책은 좋은 친구이고, 나는 독서를 좋아해요.",
       "highlights": [
+        "reading",
         "friend"
       ]
     },
     {
-      "en": "I like reading.",
-      "ko": "나는 독서를 좋아해요.",
+      "en": "An idea from a book can stay all day.",
+      "ko": "책에서 온 생각은 하루 종일 남을 수 있어요.",
       "highlights": [
-        "reading"
+        "idea"
+      ]
+    },
+    {
+      "en": "A new word makes the next book easier.",
+      "ko": "새 단어는 다음 책을 더 쉽게 해요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I imagine the place, and then I want to go.",
+      "ko": "나는 그 장소를 상상하고, 그다음에 가 보고 싶어요.",
+      "highlights": [
+        "imagine",
+        "place"
+      ]
+    },
+    {
+      "en": "Quiet reading helps me grow into a kinder friend.",
+      "ko": "조용한 독서는 내가 더 친절한 친구로 자라도록 도와줘요.",
+      "highlights": [
+        "reading",
+        "grow",
+        "quiet",
+        "friend"
       ]
     }
   ],
-  "full_passage_spoken": "Reading is important. It gives my mind a new idea. I learn a new word. I imagine a new place. Reading helps me grow. I sit in a quiet place. Books are good friends. I like reading."
+  "full_passage_spoken": "Reading is important. It gives my mind a new idea. I learn a new word. I imagine a new place. Reading helps me grow. I sit in a quiet place. Books are good friends, and I like reading. An idea from a book can stay all day. A new word makes the next book easier. I imagine the place, and then I want to go. Quiet reading helps me grow into a kinder friend."
 }

@@ -2,9 +2,10 @@
   "slug": "my_favorite_fruit",
   "topic": "My Favorite Fruit",
   "topic_ko": "내가 가장 좋아하는 과일",
-  "number": 49,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 49,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Favorite Fruit",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/049_my_favorite_fruit.mp3",
   "words": [
     {
       "en": "fruit",
@@ -69,30 +71,18 @@
       ]
     },
     {
-      "en": "It is red",
-      "ko": "사과는 빨개요.",
+      "en": "It is red and sweet.",
+      "ko": "사과는 빨갛고 달콤해요.",
       "highlights": [
-        "red"
-      ]
-    },
-    {
-      "en": "and sweet.",
-      "ko": "그리고 달콤해요.",
-      "highlights": [
+        "red",
         "sweet"
       ]
     },
     {
-      "en": "I wash it first.",
-      "ko": "나는 먼저 사과를 씻어요.",
+      "en": "I wash it first, and I take a big bite.",
+      "ko": "나는 먼저 사과를 씻고, 크게 한 입 베어 물어요.",
       "highlights": [
-        "wash"
-      ]
-    },
-    {
-      "en": "I take a big bite.",
-      "ko": "나는 크게 한 입 베어 물어요.",
-      "highlights": [
+        "wash",
         "bite"
       ]
     },
@@ -112,19 +102,55 @@
       ]
     },
     {
-      "en": "I eat fruit as a snack.",
-      "ko": "나는 과일을 간식으로 먹어요.",
+      "en": "I eat fruit as a snack, and I eat fruit every day.",
+      "ko": "나는 과일을 간식으로 먹고, 매일 과일을 먹어요.",
       "highlights": [
         "fruit",
-        "snack"
+        "snack",
+        "every day"
       ]
     },
     {
-      "en": "I eat fruit every day.",
-      "ko": "나는 매일 과일을 먹어요.",
+      "en": "A red apple looks sweet before I bite it.",
+      "ko": "빨간 사과는 베어 물기 전에도 달콤해 보여요.",
+      "highlights": [
+        "apple",
+        "red",
+        "sweet",
+        "bite"
+      ]
+    },
+    {
+      "en": "I wash the fruit because clean food is better.",
+      "ko": "깨끗한 음식이 더 좋아서 나는 과일을 씻어요.",
+      "highlights": [
+        "fruit",
+        "wash"
+      ]
+    },
+    {
+      "en": "Juice is sweet, but a whole apple is healthier.",
+      "ko": "주스는 달콤하지만, 사과 한 개가 더 건강해요.",
+      "highlights": [
+        "apple",
+        "sweet",
+        "juice"
+      ]
+    },
+    {
+      "en": "Every day I put fruit in my schoolbag.",
+      "ko": "나는 매일 책가방에 과일을 넣어요.",
       "highlights": [
         "fruit",
         "every day"
+      ]
+    },
+    {
+      "en": "A healthy snack helps me study.",
+      "ko": "건강한 간식은 내가 공부하도록 도와줘요.",
+      "highlights": [
+        "healthy",
+        "snack"
       ]
     }
   ],
@@ -146,16 +172,10 @@
       ]
     },
     {
-      "en": "I wash it first.",
-      "ko": "나는 먼저 사과를 씻어요.",
+      "en": "I wash it first, and I take a big bite.",
+      "ko": "나는 먼저 사과를 씻고, 크게 한 입 베어 물어요.",
       "highlights": [
-        "wash"
-      ]
-    },
-    {
-      "en": "I take a big bite.",
-      "ko": "나는 크게 한 입 베어 물어요.",
-      "highlights": [
+        "wash",
         "bite"
       ]
     },
@@ -175,21 +195,57 @@
       ]
     },
     {
-      "en": "I eat fruit as a snack.",
-      "ko": "나는 과일을 간식으로 먹어요.",
+      "en": "I eat fruit as a snack, and I eat fruit every day.",
+      "ko": "나는 과일을 간식으로 먹고, 매일 과일을 먹어요.",
       "highlights": [
         "fruit",
-        "snack"
+        "snack",
+        "every day"
       ]
     },
     {
-      "en": "I eat fruit every day.",
-      "ko": "나는 매일 과일을 먹어요.",
+      "en": "A red apple looks sweet before I bite it.",
+      "ko": "빨간 사과는 베어 물기 전에도 달콤해 보여요.",
+      "highlights": [
+        "apple",
+        "red",
+        "sweet",
+        "bite"
+      ]
+    },
+    {
+      "en": "I wash the fruit because clean food is better.",
+      "ko": "깨끗한 음식이 더 좋아서 나는 과일을 씻어요.",
+      "highlights": [
+        "fruit",
+        "wash"
+      ]
+    },
+    {
+      "en": "Juice is sweet, but a whole apple is healthier.",
+      "ko": "주스는 달콤하지만, 사과 한 개가 더 건강해요.",
+      "highlights": [
+        "apple",
+        "sweet",
+        "juice"
+      ]
+    },
+    {
+      "en": "Every day I put fruit in my schoolbag.",
+      "ko": "나는 매일 책가방에 과일을 넣어요.",
       "highlights": [
         "fruit",
         "every day"
       ]
+    },
+    {
+      "en": "A healthy snack helps me study.",
+      "ko": "건강한 간식은 내가 공부하도록 도와줘요.",
+      "highlights": [
+        "healthy",
+        "snack"
+      ]
     }
   ],
-  "full_passage_spoken": "My favorite fruit is an apple. It is red and sweet. I wash it first. I take a big bite. Sometimes I drink juice. An apple is healthy. I eat fruit as a snack. I eat fruit every day."
+  "full_passage_spoken": "My favorite fruit is an apple. It is red and sweet. I wash it first, and I take a big bite. Sometimes I drink juice. An apple is healthy. I eat fruit as a snack, and I eat fruit every day. A red apple looks sweet before I bite it. I wash the fruit because clean food is better. Juice is sweet, but a whole apple is healthier. Every day I put fruit in my schoolbag. A healthy snack helps me study."
 }

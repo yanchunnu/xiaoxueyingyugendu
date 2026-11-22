@@ -2,9 +2,10 @@
   "slug": "my_national_day_holiday",
   "topic": "My National Day Holiday",
   "topic_ko": "나의 국경일 연휴",
-  "number": 80,
-  "section_ko": "일상생활",
-  "section_en": "Daily Life",
+  "topic_number": 80,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My National Day Holiday",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/080_my_national_day_holiday.mp3",
   "words": [
     {
       "en": "national",
@@ -106,17 +108,45 @@
       ]
     },
     {
-      "en": "The holiday is special.",
-      "ko": "이 휴일은 특별해요.",
+      "en": "The holiday is special, and I love my country.",
+      "ko": "이 휴일은 특별하고, 나는 나의 나라를 사랑해요.",
       "highlights": [
+        "holiday",
+        "country",
+        "special"
+      ]
+    },
+    {
+      "en": "The flag moves in the wind, and I feel proud.",
+      "ko": "국기가 바람에 흔들리고, 나는 자랑스러워요.",
+      "highlights": [
+        "flag",
+        "proud"
+      ]
+    },
+    {
+      "en": "A national holiday is a special day for families.",
+      "ko": "나라의 휴일은 가족에게 특별한 날이에요.",
+      "highlights": [
+        "national",
         "holiday",
         "special"
       ]
     },
     {
-      "en": "I love my country.",
-      "ko": "나는 나의 나라를 사랑해요.",
+      "en": "We rest together after the short trip.",
+      "ko": "짧은 여행 후에 우리는 함께 쉬어요.",
       "highlights": [
+        "trip",
+        "rest",
+        "together"
+      ]
+    },
+    {
+      "en": "I love my country, and I am glad for this holiday.",
+      "ko": "나는 나라를 사랑하고, 이 휴일이 있어서 기뻐요.",
+      "highlights": [
+        "holiday",
         "country"
       ]
     }
@@ -168,20 +198,48 @@
       ]
     },
     {
-      "en": "The holiday is special.",
-      "ko": "이 휴일은 특별해요.",
+      "en": "The holiday is special, and I love my country.",
+      "ko": "이 휴일은 특별하고, 나는 나의 나라를 사랑해요.",
       "highlights": [
+        "holiday",
+        "country",
+        "special"
+      ]
+    },
+    {
+      "en": "The flag moves in the wind, and I feel proud.",
+      "ko": "국기가 바람에 흔들리고, 나는 자랑스러워요.",
+      "highlights": [
+        "flag",
+        "proud"
+      ]
+    },
+    {
+      "en": "A national holiday is a special day for families.",
+      "ko": "나라의 휴일은 가족에게 특별한 날이에요.",
+      "highlights": [
+        "national",
         "holiday",
         "special"
       ]
     },
     {
-      "en": "I love my country.",
-      "ko": "나는 나의 나라를 사랑해요.",
+      "en": "We rest together after the short trip.",
+      "ko": "짧은 여행 후에 우리는 함께 쉬어요.",
       "highlights": [
+        "trip",
+        "rest",
+        "together"
+      ]
+    },
+    {
+      "en": "I love my country, and I am glad for this holiday.",
+      "ko": "나는 나라를 사랑하고, 이 휴일이 있어서 기뻐요.",
+      "highlights": [
+        "holiday",
         "country"
       ]
     }
   ],
-  "full_passage_spoken": "It is a national holiday. I see our flag. I feel proud of my country. My family takes a short trip. We also rest at home. We eat together. The holiday is special. I love my country."
+  "full_passage_spoken": "It is a national holiday. I see our flag. I feel proud of my country. My family takes a short trip. We also rest at home. We eat together. The holiday is special, and I love my country. The flag moves in the wind, and I feel proud. A national holiday is a special day for families. We rest together after the short trip. I love my country, and I am glad for this holiday."
 }

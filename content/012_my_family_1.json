@@ -2,9 +2,10 @@
   "slug": "my_family_1",
   "topic": "My Family (1)",
   "topic_ko": "나의 가족 (1)",
-  "number": 12,
-  "section_ko": "인물 묘사",
-  "section_en": "People",
+  "topic_number": 12,
+  "topic_total": 100,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Family, Part One",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/012_my_family_1.mp3",
   "words": [
     {
       "en": "family",
@@ -70,56 +72,76 @@
       ]
     },
     {
-      "en": "We live in one home.",
-      "ko": "우리는 한 집에 살아요.",
+      "en": "We live together in one home in Seoul.",
+      "ko": "우리는 서울의 한 집에서 함께 살아요.",
       "highlights": [
-        "home"
+        "home",
+        "together"
       ]
     },
     {
-      "en": "We eat dinner together.",
-      "ko": "우리는 함께 저녁을 먹어요.",
+      "en": "We eat dinner together almost every day.",
+      "ko": "우리는 거의 매일 함께 저녁을 먹어요.",
       "highlights": [
         "dinner",
         "together"
       ]
     },
     {
-      "en": "We talk",
-      "ko": "우리는 이야기해요.",
+      "en": "We talk and we laugh at the table.",
+      "ko": "우리는 식탁에서 이야기하고 웃어요.",
       "highlights": [
-        "talk"
-      ]
-    },
-    {
-      "en": "and laugh.",
-      "ko": "그리고 웃어요.",
-      "highlights": [
+        "talk",
         "laugh"
       ]
     },
     {
-      "en": "My family is happy.",
-      "ko": "나의 가족은 행복해요.",
+      "en": "My family is happy, and I love my family.",
+      "ko": "나의 가족은 행복하고, 나는 가족을 사랑해요.",
       "highlights": [
         "family",
-        "happy"
-      ]
-    },
-    {
-      "en": "I love my family.",
-      "ko": "나는 가족을 사랑해요.",
-      "highlights": [
-        "family",
+        "happy",
         "love"
       ]
     },
     {
-      "en": "My family loves me.",
+      "en": "My family loves me too.",
       "ko": "가족도 나를 사랑해요.",
       "highlights": [
         "family",
         "love"
+      ]
+    },
+    {
+      "en": "There is my father, my mother, and my brother.",
+      "ko": "아버지, 어머니, 그리고 오빠가 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "There is also my older sister and my little sister.",
+      "ko": "언니와 여동생도 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "I am thirteen, and my little sister is eleven.",
+      "ko": "나는 열세 살이고, 여동생은 열한 살이에요.",
+      "highlights": []
+    },
+    {
+      "en": "Six people make our home warm and loud.",
+      "ko": "여섯 사람이 있어서 우리 집은 따뜻하고 시끌벅적해요.",
+      "highlights": [
+        "six",
+        "people",
+        "home"
+      ]
+    },
+    {
+      "en": "I am happy because we are together.",
+      "ko": "우리는 함께 있어서 나는 행복해요.",
+      "highlights": [
+        "together",
+        "happy"
       ]
     }
   ],
@@ -134,52 +156,78 @@
       ]
     },
     {
-      "en": "We live in one home.",
-      "ko": "우리는 한 집에 살아요.",
+      "en": "We live together in one home in Seoul.",
+      "ko": "우리는 서울의 한 집에서 함께 살아요.",
       "highlights": [
-        "home"
+        "home",
+        "together"
       ]
     },
     {
-      "en": "We eat dinner together.",
-      "ko": "우리는 함께 저녁을 먹어요.",
+      "en": "We eat dinner together almost every day.",
+      "ko": "우리는 거의 매일 함께 저녁을 먹어요.",
       "highlights": [
         "dinner",
         "together"
       ]
     },
     {
-      "en": "We talk and laugh.",
-      "ko": "우리는 이야기하고 웃어요.",
+      "en": "We talk and we laugh at the table.",
+      "ko": "우리는 식탁에서 이야기하고 웃어요.",
       "highlights": [
         "talk",
         "laugh"
       ]
     },
     {
-      "en": "My family is happy.",
-      "ko": "나의 가족은 행복해요.",
+      "en": "My family is happy, and I love my family.",
+      "ko": "나의 가족은 행복하고, 나는 가족을 사랑해요.",
       "highlights": [
         "family",
-        "happy"
-      ]
-    },
-    {
-      "en": "I love my family.",
-      "ko": "나는 가족을 사랑해요.",
-      "highlights": [
-        "family",
+        "happy",
         "love"
       ]
     },
     {
-      "en": "My family loves me.",
+      "en": "My family loves me too.",
       "ko": "가족도 나를 사랑해요.",
       "highlights": [
         "family",
         "love"
       ]
+    },
+    {
+      "en": "There is my father, my mother, and my brother.",
+      "ko": "아버지, 어머니, 그리고 오빠가 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "There is also my older sister and my little sister.",
+      "ko": "언니와 여동생도 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "I am thirteen, and my little sister is eleven.",
+      "ko": "나는 열세 살이고, 여동생은 열한 살이에요.",
+      "highlights": []
+    },
+    {
+      "en": "Six people make our home warm and loud.",
+      "ko": "여섯 사람이 있어서 우리 집은 따뜻하고 시끌벅적해요.",
+      "highlights": [
+        "six",
+        "people",
+        "home"
+      ]
+    },
+    {
+      "en": "I am happy because we are together.",
+      "ko": "우리는 함께 있어서 나는 행복해요.",
+      "highlights": [
+        "together",
+        "happy"
+      ]
     }
   ],
-  "full_passage_spoken": "There are six people in my family. We live in one home. We eat dinner together. We talk and laugh. My family is happy. I love my family. My family loves me."
+  "full_passage_spoken": "There are six people in my family. We live together in one home in Seoul. We eat dinner together almost every day. We talk and we laugh at the table. My family is happy, and I love my family. My family loves me too. There is my father, my mother, and my brother. There is also my older sister and my little sister. I am thirteen, and my little sister is eleven. Six people make our home warm and loud. I am happy because we are together."
 }

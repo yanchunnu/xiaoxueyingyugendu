@@ -2,9 +2,10 @@
   "slug": "my_favourite_colour",
   "topic": "My Favourite Colour",
   "topic_ko": "내가 가장 좋아하는 색깔",
-  "number": 50,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 50,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Favourite Colour",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/050_my_favourite_colour.mp3",
   "words": [
     {
       "en": "favorite",
@@ -70,84 +72,11 @@
       ]
     },
     {
-      "en": "The sky is blue.",
-      "ko": "하늘은 파란색이에요.",
+      "en": "The sky is blue, and the sea is blue too.",
+      "ko": "하늘은 파란색이고, 바다도 파란색이에요.",
       "highlights": [
         "blue",
-        "sky"
-      ]
-    },
-    {
-      "en": "The sea is blue too.",
-      "ko": "바다도 파란색이에요.",
-      "highlights": [
-        "blue",
-        "sea"
-      ]
-    },
-    {
-      "en": "I have a blue shirt.",
-      "ko": "나는 파란색 셔츠가 있어요.",
-      "highlights": [
-        "blue",
-        "shirt"
-      ]
-    },
-    {
-      "en": "I use blue paint.",
-      "ko": "나는 파란색 물감을 사용해요.",
-      "highlights": [
-        "blue",
-        "paint"
-      ]
-    },
-    {
-      "en": "Blue is bright",
-      "ko": "파란색은 밝아요.",
-      "highlights": [
-        "blue",
-        "bright"
-      ]
-    },
-    {
-      "en": "and pretty.",
-      "ko": "그리고 예뻐요.",
-      "highlights": [
-        "pretty"
-      ]
-    },
-    {
-      "en": "I see blue all day.",
-      "ko": "나는 하루 종일 파란색을 봐요.",
-      "highlights": [
-        "blue",
-        "day"
-      ]
-    }
-  ],
-  "full_passage_lines": [
-    {
-      "en": "My favorite color is blue.",
-      "ko": "내가 가장 좋아하는 색깔은 파란색이에요.",
-      "highlights": [
-        "favorite",
-        "color",
-        "blue"
-      ]
-    },
-    {
-      "en": "The sky is blue.",
-      "ko": "하늘은 파란색이에요.",
-      "highlights": [
-        "blue",
-        "sky"
-      ]
-    },
-    {
-      "en": "The sea is blue too.",
-      "ko": "바다도 파란색이에요.",
-      "highlights": [
-        "blue",
+        "sky",
         "sea"
       ]
     },
@@ -183,7 +112,146 @@
         "blue",
         "day"
       ]
+    },
+    {
+      "en": "This color is my favorite because it feels calm.",
+      "ko": "이 색깔은 차분해 보여서 내가 가장 좋아해요.",
+      "highlights": [
+        "favorite",
+        "color"
+      ]
+    },
+    {
+      "en": "My shirt is blue on Monday.",
+      "ko": "월요일에 내 셔츠는 파란색이에요.",
+      "highlights": [
+        "blue",
+        "shirt"
+      ]
+    },
+    {
+      "en": "I paint the sky with blue paint.",
+      "ko": "나는 파란색 물감으로 하늘을 칠해요.",
+      "highlights": [
+        "blue",
+        "sky",
+        "paint"
+      ]
+    },
+    {
+      "en": "A bright blue day is pretty.",
+      "ko": "밝고 파란 하루는 예뻐요.",
+      "highlights": [
+        "blue",
+        "bright",
+        "pretty",
+        "day"
+      ]
+    },
+    {
+      "en": "I look for this color every day.",
+      "ko": "나는 매일 이 색깔을 찾아요.",
+      "highlights": [
+        "color",
+        "day"
+      ]
     }
   ],
-  "full_passage_spoken": "My favorite color is blue. The sky is blue. The sea is blue too. I have a blue shirt. I use blue paint. Blue is bright and pretty. I see blue all day."
+  "full_passage_lines": [
+    {
+      "en": "My favorite color is blue.",
+      "ko": "내가 가장 좋아하는 색깔은 파란색이에요.",
+      "highlights": [
+        "favorite",
+        "color",
+        "blue"
+      ]
+    },
+    {
+      "en": "The sky is blue, and the sea is blue too.",
+      "ko": "하늘은 파란색이고, 바다도 파란색이에요.",
+      "highlights": [
+        "blue",
+        "sky",
+        "sea"
+      ]
+    },
+    {
+      "en": "I have a blue shirt.",
+      "ko": "나는 파란색 셔츠가 있어요.",
+      "highlights": [
+        "blue",
+        "shirt"
+      ]
+    },
+    {
+      "en": "I use blue paint.",
+      "ko": "나는 파란색 물감을 사용해요.",
+      "highlights": [
+        "blue",
+        "paint"
+      ]
+    },
+    {
+      "en": "Blue is bright and pretty.",
+      "ko": "파란색은 밝고 예뻐요.",
+      "highlights": [
+        "blue",
+        "bright",
+        "pretty"
+      ]
+    },
+    {
+      "en": "I see blue all day.",
+      "ko": "나는 하루 종일 파란색을 봐요.",
+      "highlights": [
+        "blue",
+        "day"
+      ]
+    },
+    {
+      "en": "This color is my favorite because it feels calm.",
+      "ko": "이 색깔은 차분해 보여서 내가 가장 좋아해요.",
+      "highlights": [
+        "favorite",
+        "color"
+      ]
+    },
+    {
+      "en": "My shirt is blue on Monday.",
+      "ko": "월요일에 내 셔츠는 파란색이에요.",
+      "highlights": [
+        "blue",
+        "shirt"
+      ]
+    },
+    {
+      "en": "I paint the sky with blue paint.",
+      "ko": "나는 파란색 물감으로 하늘을 칠해요.",
+      "highlights": [
+        "blue",
+        "sky",
+        "paint"
+      ]
+    },
+    {
+      "en": "A bright blue day is pretty.",
+      "ko": "밝고 파란 하루는 예뻐요.",
+      "highlights": [
+        "blue",
+        "bright",
+        "pretty",
+        "day"
+      ]
+    },
+    {
+      "en": "I look for this color every day.",
+      "ko": "나는 매일 이 색깔을 찾아요.",
+      "highlights": [
+        "color",
+        "day"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite color is blue. The sky is blue, and the sea is blue too. I have a blue shirt. I use blue paint. Blue is bright and pretty. I see blue all day. This color is my favorite because it feels calm. My shirt is blue on Monday. I paint the sky with blue paint. A bright blue day is pretty. I look for this color every day."
 }

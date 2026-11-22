@@ -2,9 +2,10 @@
   "slug": "my_favorite_sport_1",
   "topic": "My Favorite Sport (1)",
   "topic_ko": "내가 가장 좋아하는 운동 (1)",
-  "number": 53,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 53,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Favorite Sport, Part One",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/053_my_favorite_sport_1.mp3",
   "words": [
     {
       "en": "favorite",
@@ -100,17 +102,51 @@
       ]
     },
     {
-      "en": "I play with my friend.",
-      "ko": "나는 친구와 같이 놀아요.",
+      "en": "I play with my friend, and I like this sport.",
+      "ko": "나는 친구와 함께 하고, 이 운동을 좋아해요.",
       "highlights": [
+        "sport",
         "friend"
       ]
     },
     {
-      "en": "I like this sport.",
-      "ko": "나는 이 운동을 좋아해요.",
+      "en": "A good team passes the ball.",
+      "ko": "좋은 팀은 공을 패스해요.",
       "highlights": [
-        "sport"
+        "ball",
+        "team"
+      ]
+    },
+    {
+      "en": "I kick hard, but I also play fair.",
+      "ko": "나는 세게 차지만, 공정하게도 해요.",
+      "highlights": [
+        "kick"
+      ]
+    },
+    {
+      "en": "Saturday practice makes us better.",
+      "ko": "토요일 연습은 우리를 더 잘하게 해요.",
+      "highlights": [
+        "practice",
+        "Saturday"
+      ]
+    },
+    {
+      "en": "My friend cheers when we make a goal.",
+      "ko": "우리가 골을 넣으면 친구가 응원해요.",
+      "highlights": [
+        "goal",
+        "friend"
+      ]
+    },
+    {
+      "en": "Soccer is my favorite sport because it is exciting.",
+      "ko": "축구는 신나서 내가 가장 좋아하는 운동이에요.",
+      "highlights": [
+        "favorite",
+        "sport",
+        "soccer"
       ]
     }
   ],
@@ -155,19 +191,53 @@
       ]
     },
     {
-      "en": "I play with my friend.",
-      "ko": "나는 친구와 같이 놀아요.",
+      "en": "I play with my friend, and I like this sport.",
+      "ko": "나는 친구와 함께 하고, 이 운동을 좋아해요.",
       "highlights": [
+        "sport",
         "friend"
       ]
     },
     {
-      "en": "I like this sport.",
-      "ko": "나는 이 운동을 좋아해요.",
+      "en": "A good team passes the ball.",
+      "ko": "좋은 팀은 공을 패스해요.",
       "highlights": [
-        "sport"
+        "ball",
+        "team"
+      ]
+    },
+    {
+      "en": "I kick hard, but I also play fair.",
+      "ko": "나는 세게 차지만, 공정하게도 해요.",
+      "highlights": [
+        "kick"
+      ]
+    },
+    {
+      "en": "Saturday practice makes us better.",
+      "ko": "토요일 연습은 우리를 더 잘하게 해요.",
+      "highlights": [
+        "practice",
+        "Saturday"
+      ]
+    },
+    {
+      "en": "My friend cheers when we make a goal.",
+      "ko": "우리가 골을 넣으면 친구가 응원해요.",
+      "highlights": [
+        "goal",
+        "friend"
+      ]
+    },
+    {
+      "en": "Soccer is my favorite sport because it is exciting.",
+      "ko": "축구는 신나서 내가 가장 좋아하는 운동이에요.",
+      "highlights": [
+        "favorite",
+        "sport",
+        "soccer"
       ]
     }
   ],
-  "full_passage_spoken": "My favorite sport is soccer. I kick the ball. I run with my team. We try to make a goal. We practice on Saturday. I play with my friend. I like this sport."
+  "full_passage_spoken": "My favorite sport is soccer. I kick the ball. I run with my team. We try to make a goal. We practice on Saturday. I play with my friend, and I like this sport. A good team passes the ball. I kick hard, but I also play fair. Saturday practice makes us better. My friend cheers when we make a goal. Soccer is my favorite sport because it is exciting."
 }

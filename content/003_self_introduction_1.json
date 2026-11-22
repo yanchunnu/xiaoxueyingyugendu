@@ -2,9 +2,10 @@
   "slug": "self_introduction_1",
   "topic": "Self-Introduction (1)",
   "topic_ko": "자기소개 (1)",
-  "number": 3,
-  "section_ko": "인물 묘사",
-  "section_en": "People",
+  "topic_number": 3,
+  "topic_total": 100,
+  "category_en": "People",
+  "category_ko": "인물 묘사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "Self-Introduction, Part One",
@@ -15,16 +16,13 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/003_self_introduction_1.mp3",
   "words": [
     {
       "en": "hello",
       "ko": "안녕"
-    },
-    {
-      "en": "from",
-      "ko": "~에서 온"
     },
     {
       "en": "Korea",
@@ -47,8 +45,12 @@
       "ko": "학교"
     },
     {
-      "en": "every day",
-      "ko": "매일"
+      "en": "sixth",
+      "ko": "여섯째"
+    },
+    {
+      "en": "grade",
+      "ko": "학년"
     },
     {
       "en": "class",
@@ -61,48 +63,67 @@
   ],
   "phrases": [
     {
-      "en": "Hello!",
-      "ko": "안녕!",
+      "en": "Hello, my name is Mina, and I am from Korea.",
+      "ko": "안녕, 내 이름은 미나이고, 나는 한국에서 왔어요.",
       "highlights": [
-        "hello"
-      ]
-    },
-    {
-      "en": "I am from Korea.",
-      "ko": "나는 한국에서 왔어요.",
-      "highlights": [
-        "from",
+        "hello",
         "Korea"
       ]
     },
     {
-      "en": "I live in Seoul.",
-      "ko": "나는 서울에 살아요.",
+      "en": "I live in Seoul with my family.",
+      "ko": "나는 가족과 함께 서울에 살아요.",
       "highlights": [
         "live",
         "Seoul"
       ]
     },
     {
-      "en": "I am a student.",
-      "ko": "나는 학생이에요.",
+      "en": "I am a student, and I go to school every day.",
+      "ko": "나는 학생이고, 매일 학교에 가요.",
       "highlights": [
-        "student"
+        "student",
+        "school"
       ]
     },
     {
-      "en": "I go to school every day.",
-      "ko": "나는 매일 학교에 가요.",
+      "en": "I am in the sixth grade.",
+      "ko": "나는 6학년이에요.",
+      "highlights": [
+        "sixth",
+        "grade"
+      ]
+    },
+    {
+      "en": "I am in Class Three at my school.",
+      "ko": "나는 우리 학교 3반이에요.",
       "highlights": [
         "school",
-        "every day"
+        "class"
       ]
     },
     {
-      "en": "I am in Class Four.",
-      "ko": "나는 4반이에요.",
+      "en": "My school is near my home, so I walk there.",
+      "ko": "학교는 집 가까이에 있어서 걸어서 가요.",
       "highlights": [
-        "class"
+        "school"
+      ]
+    },
+    {
+      "en": "I am thirteen years old.",
+      "ko": "나는 열세 살이에요.",
+      "highlights": []
+    },
+    {
+      "en": "I have a little sister, and she is eleven.",
+      "ko": "나에게는 여동생이 있고, 동생은 열한 살이에요.",
+      "highlights": []
+    },
+    {
+      "en": "I like English, and I like to meet new friends.",
+      "ko": "나는 영어를 좋아하고, 새 친구를 만나는 것도 좋아해요.",
+      "highlights": [
+        "meet"
       ]
     },
     {
@@ -110,53 +131,80 @@
       "ko": "만나서 반가워요.",
       "highlights": [
         "meet"
+      ]
+    },
+    {
+      "en": "This is my short hello from Seoul.",
+      "ko": "이것은 서울에서 전하는 짧은 인사예요.",
+      "highlights": [
+        "hello",
+        "Seoul"
       ]
     }
   ],
   "full_passage_lines": [
     {
-      "en": "Hello!",
-      "ko": "안녕!",
+      "en": "Hello, my name is Mina, and I am from Korea.",
+      "ko": "안녕, 내 이름은 미나이고, 나는 한국에서 왔어요.",
       "highlights": [
-        "hello"
-      ]
-    },
-    {
-      "en": "I am from Korea.",
-      "ko": "나는 한국에서 왔어요.",
-      "highlights": [
-        "from",
+        "hello",
         "Korea"
       ]
     },
     {
-      "en": "I live in Seoul.",
-      "ko": "나는 서울에 살아요.",
+      "en": "I live in Seoul with my family.",
+      "ko": "나는 가족과 함께 서울에 살아요.",
       "highlights": [
         "live",
         "Seoul"
       ]
     },
     {
-      "en": "I am a student.",
-      "ko": "나는 학생이에요.",
+      "en": "I am a student, and I go to school every day.",
+      "ko": "나는 학생이고, 매일 학교에 가요.",
       "highlights": [
-        "student"
+        "student",
+        "school"
       ]
     },
     {
-      "en": "I go to school every day.",
-      "ko": "나는 매일 학교에 가요.",
+      "en": "I am in the sixth grade.",
+      "ko": "나는 6학년이에요.",
+      "highlights": [
+        "sixth",
+        "grade"
+      ]
+    },
+    {
+      "en": "I am in Class Three at my school.",
+      "ko": "나는 우리 학교 3반이에요.",
       "highlights": [
         "school",
-        "every day"
+        "class"
       ]
     },
     {
-      "en": "I am in Class Four.",
-      "ko": "나는 4반이에요.",
+      "en": "My school is near my home, so I walk there.",
+      "ko": "학교는 집 가까이에 있어서 걸어서 가요.",
       "highlights": [
-        "class"
+        "school"
+      ]
+    },
+    {
+      "en": "I am thirteen years old.",
+      "ko": "나는 열세 살이에요.",
+      "highlights": []
+    },
+    {
+      "en": "I have a little sister, and she is eleven.",
+      "ko": "나에게는 여동생이 있고, 동생은 열한 살이에요.",
+      "highlights": []
+    },
+    {
+      "en": "I like English, and I like to meet new friends.",
+      "ko": "나는 영어를 좋아하고, 새 친구를 만나는 것도 좋아해요.",
+      "highlights": [
+        "meet"
       ]
     },
     {
@@ -165,7 +213,15 @@
       "highlights": [
         "meet"
       ]
+    },
+    {
+      "en": "This is my short hello from Seoul.",
+      "ko": "이것은 서울에서 전하는 짧은 인사예요.",
+      "highlights": [
+        "hello",
+        "Seoul"
+      ]
     }
   ],
-  "full_passage_spoken": "Hello! I am from Korea. I live in Seoul. I am a student. I go to school every day. I am in Class Four. I am happy to meet you."
+  "full_passage_spoken": "Hello, my name is Mina, and I am from Korea. I live in Seoul with my family. I am a student, and I go to school every day. I am in the sixth grade. I am in Class Three at my school. My school is near my home, so I walk there. I am thirteen years old. I have a little sister, and she is eleven. I like English, and I like to meet new friends. I am happy to meet you. This is my short hello from Seoul."
 }

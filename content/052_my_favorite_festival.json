@@ -2,9 +2,10 @@
   "slug": "my_favorite_festival",
   "topic": "My Favorite Festival",
   "topic_ko": "내가 가장 좋아하는 축제",
-  "number": 52,
-  "section_ko": "취미·관심사",
-  "section_en": "Hobbies and Interests",
+  "topic_number": 52,
+  "topic_total": 100,
+  "category_en": "Hobbies and Interests",
+  "category_ko": "취미·관심사",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Favorite Festival",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/052_my_favorite_festival.mp3",
   "words": [
     {
       "en": "favorite",
@@ -92,16 +94,10 @@
       ]
     },
     {
-      "en": "We sing a song.",
-      "ko": "우리는 노래를 불러요.",
+      "en": "We sing a song, and we play together.",
+      "ko": "우리는 노래를 부르고, 함께 놀아요.",
       "highlights": [
-        "song"
-      ]
-    },
-    {
-      "en": "We play together.",
-      "ko": "우리는 함께 놀아요.",
-      "highlights": [
+        "song",
         "together"
       ]
     },
@@ -110,6 +106,45 @@
       "ko": "모두 행복해요.",
       "highlights": [
         "happy"
+      ]
+    },
+    {
+      "en": "This festival is for children, and I am thirteen.",
+      "ko": "이 축제는 아이들을 위한 것이고, 나는 열세 살이에요.",
+      "highlights": [
+        "festival"
+      ]
+    },
+    {
+      "en": "In May the park is full of families.",
+      "ko": "오월에는 공원에 가족들이 많아요.",
+      "highlights": [
+        "May",
+        "park"
+      ]
+    },
+    {
+      "en": "A small gift can still make a big smile.",
+      "ko": "작은 선물도 큰 미소를 만들 수 있어요.",
+      "highlights": [
+        "gift"
+      ]
+    },
+    {
+      "en": "We sing a song together and clap.",
+      "ko": "우리는 함께 노래를 부르고 박수를 쳐요.",
+      "highlights": [
+        "song",
+        "together"
+      ]
+    },
+    {
+      "en": "I like this festival because we are happy together.",
+      "ko": "우리는 함께 행복해서 나는 이 축제를 좋아해요.",
+      "highlights": [
+        "festival",
+        "happy",
+        "together"
       ]
     }
   ],
@@ -146,16 +181,10 @@
       ]
     },
     {
-      "en": "We sing a song.",
-      "ko": "우리는 노래를 불러요.",
+      "en": "We sing a song, and we play together.",
+      "ko": "우리는 노래를 부르고, 함께 놀아요.",
       "highlights": [
-        "song"
-      ]
-    },
-    {
-      "en": "We play together.",
-      "ko": "우리는 함께 놀아요.",
-      "highlights": [
+        "song",
         "together"
       ]
     },
@@ -165,7 +194,46 @@
       "highlights": [
         "happy"
       ]
+    },
+    {
+      "en": "This festival is for children, and I am thirteen.",
+      "ko": "이 축제는 아이들을 위한 것이고, 나는 열세 살이에요.",
+      "highlights": [
+        "festival"
+      ]
+    },
+    {
+      "en": "In May the park is full of families.",
+      "ko": "오월에는 공원에 가족들이 많아요.",
+      "highlights": [
+        "May",
+        "park"
+      ]
+    },
+    {
+      "en": "A small gift can still make a big smile.",
+      "ko": "작은 선물도 큰 미소를 만들 수 있어요.",
+      "highlights": [
+        "gift"
+      ]
+    },
+    {
+      "en": "We sing a song together and clap.",
+      "ko": "우리는 함께 노래를 부르고 박수를 쳐요.",
+      "highlights": [
+        "song",
+        "together"
+      ]
+    },
+    {
+      "en": "I like this festival because we are happy together.",
+      "ko": "우리는 함께 행복해서 나는 이 축제를 좋아해요.",
+      "highlights": [
+        "festival",
+        "happy",
+        "together"
+      ]
     }
   ],
-  "full_passage_spoken": "My favorite festival is Children's Day. It is in May. I get a small gift. My family goes to the park. We sing a song. We play together. Everyone is happy."
+  "full_passage_spoken": "My favorite festival is Children's Day. It is in May. I get a small gift. My family goes to the park. We sing a song, and we play together. Everyone is happy. This festival is for children, and I am thirteen. In May the park is full of families. A small gift can still make a big smile. We sing a song together and clap. I like this festival because we are happy together."
 }

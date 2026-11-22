@@ -2,9 +2,10 @@
   "slug": "spring",
   "topic": "Spring",
   "topic_ko": "봄",
-  "number": 96,
-  "section_ko": "사계절",
-  "section_en": "The Seasons",
+  "topic_number": 96,
+  "topic_total": 100,
+  "category_en": "The Seasons",
+  "category_ko": "사계절",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "Spring",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/096_spring.mp3",
   "words": [
     {
       "en": "spring",
@@ -112,6 +114,41 @@
       "highlights": [
         "spring"
       ]
+    },
+    {
+      "en": "Warm spring days open the flowers.",
+      "ko": "따뜻한 봄날은 꽃을 피워요.",
+      "highlights": [
+        "spring",
+        "warm",
+        "flower",
+        "open"
+      ]
+    },
+    {
+      "en": "A bird sings, and a butterfly follows the flower.",
+      "ko": "새가 노래하고, 나비가 꽃을 따라가요.",
+      "highlights": [
+        "flower",
+        "bird",
+        "sing",
+        "butterfly"
+      ]
+    },
+    {
+      "en": "Green leaves come after the rain.",
+      "ko": "비가 온 뒤에 초록색 잎이 나와요.",
+      "highlights": [
+        "green",
+        "rain"
+      ]
+    },
+    {
+      "en": "I like spring because the world feels new.",
+      "ko": "세상이 새롭게 느껴져서 나는 봄을 좋아해요.",
+      "highlights": [
+        "spring"
+      ]
     }
   ],
   "full_passage_lines": [
@@ -167,7 +204,42 @@
       "highlights": [
         "spring"
       ]
+    },
+    {
+      "en": "Warm spring days open the flowers.",
+      "ko": "따뜻한 봄날은 꽃을 피워요.",
+      "highlights": [
+        "spring",
+        "warm",
+        "flower",
+        "open"
+      ]
+    },
+    {
+      "en": "A bird sings, and a butterfly follows the flower.",
+      "ko": "새가 노래하고, 나비가 꽃을 따라가요.",
+      "highlights": [
+        "flower",
+        "bird",
+        "sing",
+        "butterfly"
+      ]
+    },
+    {
+      "en": "Green leaves come after the rain.",
+      "ko": "비가 온 뒤에 초록색 잎이 나와요.",
+      "highlights": [
+        "green",
+        "rain"
+      ]
+    },
+    {
+      "en": "I like spring because the world feels new.",
+      "ko": "세상이 새롭게 느껴져서 나는 봄을 좋아해요.",
+      "highlights": [
+        "spring"
+      ]
     }
   ],
-  "full_passage_spoken": "Spring is warm. Flowers open up. A bird sings in the tree. A leaf turns green. A little rain falls. I see a butterfly. I like spring."
+  "full_passage_spoken": "Spring is warm. Flowers open up. A bird sings in the tree. A leaf turns green. A little rain falls. I see a butterfly. I like spring. Warm spring days open the flowers. A bird sings, and a butterfly follows the flower. Green leaves come after the rain. I like spring because the world feels new."
 }

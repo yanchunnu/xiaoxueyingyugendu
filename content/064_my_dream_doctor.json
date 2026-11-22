@@ -2,9 +2,10 @@
   "slug": "my_dream_doctor",
   "topic": "My Dream (Doctor)",
   "topic_ko": "나의 꿈 (의사)",
-  "number": 64,
-  "section_ko": "학교생활",
-  "section_en": "School Life",
+  "topic_number": 64,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My Dream, Doctor",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/064_my_dream_doctor.mp3",
   "words": [
     {
       "en": "dream",
@@ -103,18 +105,12 @@
       ]
     },
     {
-      "en": "I hope to help.",
-      "ko": "나는 돕기를 바라요.",
-      "highlights": [
-        "help",
-        "hope"
-      ]
-    },
-    {
-      "en": "A doctor is kind.",
-      "ko": "의사는 친절해요.",
+      "en": "I hope to help, and a doctor is kind.",
+      "ko": "나는 돕기를 바라고, 의사는 친절해요.",
       "highlights": [
         "doctor",
+        "help",
+        "hope",
         "kind"
       ]
     },
@@ -124,6 +120,38 @@
       "highlights": [
         "dream",
         "help"
+      ]
+    },
+    {
+      "en": "My father is a doctor, so I see this work.",
+      "ko": "아버지는 의사라서 나는 이 일을 봐요.",
+      "highlights": [
+        "doctor"
+      ]
+    },
+    {
+      "en": "Sick people need a calm and kind doctor.",
+      "ko": "아픈 사람들에게는 차분하고 친절한 의사가 필요해요.",
+      "highlights": [
+        "doctor",
+        "sick",
+        "people",
+        "kind"
+      ]
+    },
+    {
+      "en": "I hope I can care for them one day.",
+      "ko": "나는 언젠가 그들을 돌볼 수 있기를 바라요.",
+      "highlights": [
+        "care",
+        "hope"
+      ]
+    },
+    {
+      "en": "A healthy town is a happy town.",
+      "ko": "건강한 마을은 행복한 마을이에요.",
+      "highlights": [
+        "healthy"
       ]
     }
   ],
@@ -171,18 +199,12 @@
       ]
     },
     {
-      "en": "I hope to help.",
-      "ko": "나는 돕기를 바라요.",
-      "highlights": [
-        "help",
-        "hope"
-      ]
-    },
-    {
-      "en": "A doctor is kind.",
-      "ko": "의사는 친절해요.",
+      "en": "I hope to help, and a doctor is kind.",
+      "ko": "나는 돕기를 바라고, 의사는 친절해요.",
       "highlights": [
         "doctor",
+        "help",
+        "hope",
         "kind"
       ]
     },
@@ -193,7 +215,39 @@
         "dream",
         "help"
       ]
+    },
+    {
+      "en": "My father is a doctor, so I see this work.",
+      "ko": "아버지는 의사라서 나는 이 일을 봐요.",
+      "highlights": [
+        "doctor"
+      ]
+    },
+    {
+      "en": "Sick people need a calm and kind doctor.",
+      "ko": "아픈 사람들에게는 차분하고 친절한 의사가 필요해요.",
+      "highlights": [
+        "doctor",
+        "sick",
+        "people",
+        "kind"
+      ]
+    },
+    {
+      "en": "I hope I can care for them one day.",
+      "ko": "나는 언젠가 그들을 돌볼 수 있기를 바라요.",
+      "highlights": [
+        "care",
+        "hope"
+      ]
+    },
+    {
+      "en": "A healthy town is a happy town.",
+      "ko": "건강한 마을은 행복한 마을이에요.",
+      "highlights": [
+        "healthy"
+      ]
     }
   ],
-  "full_passage_spoken": "One dream is to be a doctor. A doctor helps sick people. A doctor works at a hospital. A doctor can care for them. I want people to be healthy. I hope to help. A doctor is kind. Helping is a good dream."
+  "full_passage_spoken": "One dream is to be a doctor. A doctor helps sick people. A doctor works at a hospital. A doctor can care for them. I want people to be healthy. I hope to help, and a doctor is kind. Helping is a good dream. My father is a doctor, so I see this work. Sick people need a calm and kind doctor. I hope I can care for them one day. A healthy town is a happy town."
 }

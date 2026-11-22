@@ -231,14 +231,14 @@ def collect_texts(topics: list[dict]) -> list[tuple[str, str, str]]:
     return ordered
 
 
-def build_one(data: dict, number: int) -> Path:
+def build_one(data: dict, number: int, audio_rel: str | None = None) -> Path:
     slug = data["slug"]
     work = ROOT / "build" / "work" / f"{number:03d}_{slug}"
     work.mkdir(parents=True, exist_ok=True)
     parts = timeline_for(data, work)
     wav_all = work / "all.wav"
     concat_wavs(parts, wav_all)
-    dest = AUDIO_DIR / f"{number:03d}_{slug}.mp3"
+    dest = ROOT / audio_rel if audio_rel else AUDIO_DIR / f"{number:03d}_{slug}.mp3"
     encode_mp3(wav_all, dest)
     return dest
 
@@ -256,15 +256,17 @@ def main() -> int:
     if args.only:
         wanted = {int(part) for part in args.only.split(",") if part.strip()}
 
-    numbers = manifest_numbers()
-    topics: list[tuple[int, dict]] = []
+    manifest = json.loads((CONTENT / "manifest.json").read_text(encoding="utf-8"))
+    by_file = {item["file"]: item for item in manifest["topics"]}
+    topics: list[tuple[int, dict, str]] = []
     for path in iter_topic_files():
-        number = numbers[f"content/{path.name}"]
+        item = by_file[f"content/{path.name}"]
+        number = item["number"]
         if wanted is not None and number not in wanted:
             continue
-        topics.append((number, load_topic(path)))
+        topics.append((number, load_topic(path), item["audio"]))
 
-    texts = collect_texts([data for _, data in topics])
+    texts = collect_texts([data for _, data, _audio in topics])
     CACHE.mkdir(parents=True, exist_ok=True)
     pending = []
     for text, voice, rate in texts:
@@ -280,8 +282,8 @@ def main() -> int:
     ensure_wavs(mp3s)
 
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
-    for number, data in topics:
-        dest = build_one(data, number)
+    for number, data, audio_rel in topics:
+        dest = build_one(data, number, audio_rel)
         all_wav = ROOT / "build" / "work" / f"{number:03d}_{data['slug']}" / "all.wav"
         print(f"{dest.name}  {dest.stat().st_size / 1024:.0f} KB  {wav_duration(all_wav):.1f}s")
     return 0

@@ -2,9 +2,10 @@
   "slug": "my_school",
   "topic": "My School",
   "topic_ko": "나의 학교",
-  "number": 57,
-  "section_ko": "학교생활",
-  "section_en": "School Life",
+  "topic_number": 57,
+  "topic_total": 100,
+  "category_en": "School Life",
+  "category_ko": "학교생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "My School",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/057_my_school.mp3",
   "words": [
     {
       "en": "school",
@@ -61,31 +63,19 @@
   ],
   "phrases": [
     {
-      "en": "My school is big.",
-      "ko": "나의 학교는 커요.",
+      "en": "My school is big, and the building is white.",
+      "ko": "나의 학교는 크고, 건물은 흰색이에요.",
       "highlights": [
         "school",
-        "big"
-      ]
-    },
-    {
-      "en": "The building is white.",
-      "ko": "건물은 흰색이에요.",
-      "highlights": [
+        "big",
         "building"
       ]
     },
     {
-      "en": "We have a playground.",
-      "ko": "운동장이 있어요.",
+      "en": "We have a playground, and we have a library too.",
+      "ko": "운동장이 있고, 도서관도 있어요.",
       "highlights": [
-        "playground"
-      ]
-    },
-    {
-      "en": "We have a library too.",
-      "ko": "도서관도 있어요.",
-      "highlights": [
+        "playground",
         "library"
       ]
     },
@@ -98,16 +88,10 @@
       ]
     },
     {
-      "en": "My teacher is there.",
-      "ko": "선생님이 거기 있어요.",
+      "en": "My teacher is there, and my friend is there too.",
+      "ko": "선생님이 거기 있고, 친구도 거기 있어요.",
       "highlights": [
-        "teacher"
-      ]
-    },
-    {
-      "en": "My friend is there too.",
-      "ko": "친구도 거기 있어요.",
-      "highlights": [
+        "teacher",
         "friend"
       ]
     },
@@ -117,36 +101,73 @@
       "highlights": [
         "school",
         "love"
+      ]
+    },
+    {
+      "en": "The big playground is noisy at lunch.",
+      "ko": "큰 운동장은 점심에 시끌벅적해요.",
+      "highlights": [
+        "big",
+        "playground"
+      ]
+    },
+    {
+      "en": "I walk to school because it is near.",
+      "ko": "가까워서 나는 걸어서 학교에 가요.",
+      "highlights": [
+        "school",
+        "walk"
+      ]
+    },
+    {
+      "en": "The library is my quiet place in the building.",
+      "ko": "도서관은 건물 안의 나의 조용한 곳이에요.",
+      "highlights": [
+        "building",
+        "library"
+      ]
+    },
+    {
+      "en": "A kind teacher and a good friend make school better.",
+      "ko": "친절한 선생님과 좋은 친구는 학교를 더 좋게 해요.",
+      "highlights": [
+        "school",
+        "teacher",
+        "friend"
+      ]
+    },
+    {
+      "en": "I love the gate in the morning light.",
+      "ko": "나는 아침 햇살 속의 교문을 좋아해요.",
+      "highlights": [
+        "gate",
+        "love"
+      ]
+    },
+    {
+      "en": "This big school is where I learn and play.",
+      "ko": "이 큰 학교는 내가 배우고 노는 곳이에요.",
+      "highlights": [
+        "school",
+        "big"
       ]
     }
   ],
   "full_passage_lines": [
     {
-      "en": "My school is big.",
-      "ko": "나의 학교는 커요.",
+      "en": "My school is big, and the building is white.",
+      "ko": "나의 학교는 크고, 건물은 흰색이에요.",
       "highlights": [
         "school",
-        "big"
-      ]
-    },
-    {
-      "en": "The building is white.",
-      "ko": "건물은 흰색이에요.",
-      "highlights": [
+        "big",
         "building"
       ]
     },
     {
-      "en": "We have a playground.",
-      "ko": "운동장이 있어요.",
+      "en": "We have a playground, and we have a library too.",
+      "ko": "운동장이 있고, 도서관도 있어요.",
       "highlights": [
-        "playground"
-      ]
-    },
-    {
-      "en": "We have a library too.",
-      "ko": "도서관도 있어요.",
-      "highlights": [
+        "playground",
         "library"
       ]
     },
@@ -159,16 +180,10 @@
       ]
     },
     {
-      "en": "My teacher is there.",
-      "ko": "선생님이 거기 있어요.",
+      "en": "My teacher is there, and my friend is there too.",
+      "ko": "선생님이 거기 있고, 친구도 거기 있어요.",
       "highlights": [
-        "teacher"
-      ]
-    },
-    {
-      "en": "My friend is there too.",
-      "ko": "친구도 거기 있어요.",
-      "highlights": [
+        "teacher",
         "friend"
       ]
     },
@@ -179,7 +194,56 @@
         "school",
         "love"
       ]
+    },
+    {
+      "en": "The big playground is noisy at lunch.",
+      "ko": "큰 운동장은 점심에 시끌벅적해요.",
+      "highlights": [
+        "big",
+        "playground"
+      ]
+    },
+    {
+      "en": "I walk to school because it is near.",
+      "ko": "가까워서 나는 걸어서 학교에 가요.",
+      "highlights": [
+        "school",
+        "walk"
+      ]
+    },
+    {
+      "en": "The library is my quiet place in the building.",
+      "ko": "도서관은 건물 안의 나의 조용한 곳이에요.",
+      "highlights": [
+        "building",
+        "library"
+      ]
+    },
+    {
+      "en": "A kind teacher and a good friend make school better.",
+      "ko": "친절한 선생님과 좋은 친구는 학교를 더 좋게 해요.",
+      "highlights": [
+        "school",
+        "teacher",
+        "friend"
+      ]
+    },
+    {
+      "en": "I love the gate in the morning light.",
+      "ko": "나는 아침 햇살 속의 교문을 좋아해요.",
+      "highlights": [
+        "gate",
+        "love"
+      ]
+    },
+    {
+      "en": "This big school is where I learn and play.",
+      "ko": "이 큰 학교는 내가 배우고 노는 곳이에요.",
+      "highlights": [
+        "school",
+        "big"
+      ]
     }
   ],
-  "full_passage_spoken": "My school is big. The building is white. We have a playground. We have a library too. I walk through the gate. My teacher is there. My friend is there too. I love my school."
+  "full_passage_spoken": "My school is big, and the building is white. We have a playground, and we have a library too. I walk through the gate. My teacher is there, and my friend is there too. I love my school. The big playground is noisy at lunch. I walk to school because it is near. The library is my quiet place in the building. A kind teacher and a good friend make school better. I love the gate in the morning light. This big school is where I learn and play."
 }

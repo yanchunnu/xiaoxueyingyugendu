@@ -2,9 +2,10 @@
   "slug": "a_wonderful_weekend",
   "topic": "A Wonderful Weekend",
   "topic_ko": "멋진 주말",
-  "number": 75,
-  "section_ko": "일상생활",
-  "section_en": "Daily Life",
+  "topic_number": 75,
+  "topic_total": 100,
+  "category_en": "Daily Life",
+  "category_ko": "일상생활",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "A Wonderful Weekend",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/075_a_wonderful_weekend.mp3",
   "words": [
     {
       "en": "wonderful",
@@ -91,16 +93,10 @@
       ]
     },
     {
-      "en": "We eat a cookie.",
-      "ko": "우리는 쿠키를 먹어요.",
+      "en": "We eat a cookie, and we walk in the garden.",
+      "ko": "우리는 쿠키를 먹고, 정원을 걸어요.",
       "highlights": [
-        "cookie"
-      ]
-    },
-    {
-      "en": "We walk in the garden.",
-      "ko": "우리는 정원을 걸어요.",
-      "highlights": [
+        "cookie",
         "garden"
       ]
     },
@@ -115,6 +111,40 @@
       "en": "I feel happy.",
       "ko": "나는 행복해요.",
       "highlights": [
+        "happy"
+      ]
+    },
+    {
+      "en": "The train ride is part of the wonderful weekend.",
+      "ko": "기차 여행은 멋진 주말의 일부예요.",
+      "highlights": [
+        "wonderful",
+        "weekend",
+        "train"
+      ]
+    },
+    {
+      "en": "Grandmother's story is long and kind.",
+      "ko": "할머니의 이야기는 길고 친절해요.",
+      "highlights": [
+        "grandmother",
+        "story"
+      ]
+    },
+    {
+      "en": "A cookie in the garden tastes better.",
+      "ko": "정원에서 먹는 쿠키는 더 맛있어요.",
+      "highlights": [
+        "cookie",
+        "garden"
+      ]
+    },
+    {
+      "en": "I come back happy, and I want to visit again.",
+      "ko": "나는 행복하게 돌아오고, 다시 방문하고 싶어요.",
+      "highlights": [
+        "visit",
+        "back",
         "happy"
       ]
     }
@@ -151,16 +181,10 @@
       ]
     },
     {
-      "en": "We eat a cookie.",
-      "ko": "우리는 쿠키를 먹어요.",
+      "en": "We eat a cookie, and we walk in the garden.",
+      "ko": "우리는 쿠키를 먹고, 정원을 걸어요.",
       "highlights": [
-        "cookie"
-      ]
-    },
-    {
-      "en": "We walk in the garden.",
-      "ko": "우리는 정원을 걸어요.",
-      "highlights": [
+        "cookie",
         "garden"
       ]
     },
@@ -177,7 +201,41 @@
       "highlights": [
         "happy"
       ]
+    },
+    {
+      "en": "The train ride is part of the wonderful weekend.",
+      "ko": "기차 여행은 멋진 주말의 일부예요.",
+      "highlights": [
+        "wonderful",
+        "weekend",
+        "train"
+      ]
+    },
+    {
+      "en": "Grandmother's story is long and kind.",
+      "ko": "할머니의 이야기는 길고 친절해요.",
+      "highlights": [
+        "grandmother",
+        "story"
+      ]
+    },
+    {
+      "en": "A cookie in the garden tastes better.",
+      "ko": "정원에서 먹는 쿠키는 더 맛있어요.",
+      "highlights": [
+        "cookie",
+        "garden"
+      ]
+    },
+    {
+      "en": "I come back happy, and I want to visit again.",
+      "ko": "나는 행복하게 돌아오고, 다시 방문하고 싶어요.",
+      "highlights": [
+        "visit",
+        "back",
+        "happy"
+      ]
     }
   ],
-  "full_passage_spoken": "I have a wonderful weekend. I visit my grandmother. We go by train. She tells a story. We eat a cookie. We walk in the garden. Then I come back home. I feel happy."
+  "full_passage_spoken": "I have a wonderful weekend. I visit my grandmother. We go by train. She tells a story. We eat a cookie, and we walk in the garden. Then I come back home. I feel happy. The train ride is part of the wonderful weekend. Grandmother's story is long and kind. A cookie in the garden tastes better. I come back happy, and I want to visit again."
 }

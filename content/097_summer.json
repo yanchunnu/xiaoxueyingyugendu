@@ -2,9 +2,10 @@
   "slug": "summer",
   "topic": "Summer",
   "topic_ko": "여름",
-  "number": 97,
-  "section_ko": "사계절",
-  "section_en": "The Seasons",
+  "topic_number": 97,
+  "topic_total": 100,
+  "category_en": "The Seasons",
+  "category_ko": "사계절",
   "voice": "en-US-JennyNeural",
   "rate": "-20%",
   "title_spoken": "Summer",
@@ -15,8 +16,9 @@
   "closing_ko": "참 잘했어요!",
   "word_repeat": 3,
   "word_pause_sec": 2.0,
-  "phrase_pause_multiplier": 1.5,
-  "phrase_pause_min_sec": 2.5,
+  "phrase_pause_multiplier": 1.3,
+  "phrase_pause_min_sec": 3.0,
+  "qr_url": "https://raw.githubusercontent.com/yanchunnu/xiaoxueyingyugendu/main/audio/097_summer.mp3",
   "words": [
     {
       "en": "summer",
@@ -61,17 +63,11 @@
   ],
   "phrases": [
     {
-      "en": "Summer is hot.",
-      "ko": "여름은 더워요.",
+      "en": "Summer is hot, and the sun is strong.",
+      "ko": "여름은 덥고, 해가 강해요.",
       "highlights": [
         "summer",
-        "hot"
-      ]
-    },
-    {
-      "en": "The sun is strong.",
-      "ko": "해가 강해요.",
-      "highlights": [
+        "hot",
         "sun"
       ]
     },
@@ -117,22 +113,49 @@
       "ko": "나는 여름을 좋아해요.",
       "highlights": [
         "summer"
+      ]
+    },
+    {
+      "en": "A hat helps on a hot, sunny day.",
+      "ko": "모자는 덥고 햇빛이 강한 날에 도움이 돼요.",
+      "highlights": [
+        "hot",
+        "hat"
+      ]
+    },
+    {
+      "en": "After I swim, ice cream tastes better.",
+      "ko": "수영한 뒤에 아이스크림이 더 맛있어요.",
+      "highlights": [
+        "swim",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "The fan keeps my room cool in the long afternoon.",
+      "ko": "선풍기는 긴 오후에 내 방을 시원하게 해 줘요.",
+      "highlights": [
+        "fan",
+        "cool",
+        "long"
+      ]
+    },
+    {
+      "en": "I like summer because the days are long and bright.",
+      "ko": "낮은 길고 밝아서 나는 여름을 좋아해요.",
+      "highlights": [
+        "summer",
+        "long"
       ]
     }
   ],
   "full_passage_lines": [
     {
-      "en": "Summer is hot.",
-      "ko": "여름은 더워요.",
+      "en": "Summer is hot, and the sun is strong.",
+      "ko": "여름은 덥고, 해가 강해요.",
       "highlights": [
         "summer",
-        "hot"
-      ]
-    },
-    {
-      "en": "The sun is strong.",
-      "ko": "해가 강해요.",
-      "highlights": [
+        "hot",
         "sun"
       ]
     },
@@ -179,7 +202,40 @@
       "highlights": [
         "summer"
       ]
+    },
+    {
+      "en": "A hat helps on a hot, sunny day.",
+      "ko": "모자는 덥고 햇빛이 강한 날에 도움이 돼요.",
+      "highlights": [
+        "hot",
+        "hat"
+      ]
+    },
+    {
+      "en": "After I swim, ice cream tastes better.",
+      "ko": "수영한 뒤에 아이스크림이 더 맛있어요.",
+      "highlights": [
+        "swim",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "The fan keeps my room cool in the long afternoon.",
+      "ko": "선풍기는 긴 오후에 내 방을 시원하게 해 줘요.",
+      "highlights": [
+        "fan",
+        "cool",
+        "long"
+      ]
+    },
+    {
+      "en": "I like summer because the days are long and bright.",
+      "ko": "낮은 길고 밝아서 나는 여름을 좋아해요.",
+      "highlights": [
+        "summer",
+        "long"
+      ]
     }
   ],
-  "full_passage_spoken": "Summer is hot. The sun is strong. I wear a hat. I swim in the pool. I eat ice cream. A fan keeps me cool. The days are long. I like summer."
+  "full_passage_spoken": "Summer is hot, and the sun is strong. I wear a hat. I swim in the pool. I eat ice cream. A fan keeps me cool. The days are long. I like summer. A hat helps on a hot, sunny day. After I swim, ice cream tastes better. The fan keeps my room cool in the long afternoon. I like summer because the days are long and bright."
 }
