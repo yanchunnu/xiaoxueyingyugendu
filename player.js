@@ -134,14 +134,19 @@ async function gap(seconds, id) {
   }
 }
 
-async function playRepeats(url, times, id, label) {
+function repeatGap(duration, extra, minimum, fallback) {
+  const length = Number.isFinite(duration) ? duration : fallback;
+  return Math.max(minimum, length + extra);
+}
+
+async function playRepeats(url, times, id, label, extra, minimum, fallback) {
   for (let i = 1; i <= times; i += 1) {
     if (id !== runId) return;
     await waitWhilePaused();
     $("status").textContent = `${label} · ${i} / ${times}`;
     const duration = await playUrl(url, id);
     if (id !== runId) return;
-    await gap((Number.isFinite(duration) ? duration : 1) + 1.5, id);
+    await gap(repeatGap(duration, extra, minimum, fallback), id);
   }
 }
 
@@ -159,20 +164,20 @@ async function run(topic) {
       for (let i = 0; i < topic.data.words.length; i += 1) {
         if (id !== runId) return;
         mark("#words .word", i);
-        await playRepeats(`${base}/w${String(i + 1).padStart(2, "0")}.mp3`, wordN, id, `단어 ${i + 1}`);
+        await playRepeats(`${base}/w${String(i + 1).padStart(2, "0")}.mp3`, wordN, id, `단어 ${i + 1}`, 0.6, 1.2, 0.6);
       }
     }
     if (sentN > 0) {
       for (let i = 0; i < topic.data.phrases.length; i += 1) {
         if (id !== runId) return;
         mark("#passage li", i);
-        await playRepeats(`${base}/s${String(i + 1).padStart(2, "0")}.mp3`, sentN, id, `문장 ${i + 1}`);
+        await playRepeats(`${base}/s${String(i + 1).padStart(2, "0")}.mp3`, sentN, id, `문장 ${i + 1}`, 1.5, 0, 1);
       }
     }
     if (fullN > 0) {
       clearCurrent();
       $("passage").classList.add("current-all");
-      await playRepeats(`${base}/full.mp3`, fullN, id, "본문 전체");
+      await playRepeats(`${base}/full.mp3`, fullN, id, "본문 전체", 1.5, 0, 1);
     }
     if (id === runId) $("status").textContent = "끝났어요. 참 잘했어요!";
   } catch (error) {
