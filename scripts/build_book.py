@@ -158,14 +158,18 @@ def draw_toc(path: Path, manifest: dict, kr: fitz.Font, kr_med: fitz.Font) -> No
     right = A4.width - 34
     for section in manifest["sections"]:
         items = [t for t in manifest["topics"] if section["start"] <= t["number"] <= section["end"]]
-        if y > 780:
+        if y > 748:
             new_page()
         color = SECTION_COLOR.get(section["ko"], TEAL)
-        page.draw_rect(fitz.Rect(34, y, right, y + 20), fill=color, color=color, radius=0.15)
+        band_h = 20
+        # Baseline of the next row must sit below the band, clear of the
+        # font's ascent. The old gap (8pt) left the first title inside the band.
+        gap_after_band = 18
+        page.draw_rect(fitz.Rect(34, y, right, y + band_h), fill=color, color=color, radius=0.15)
         tw = fitz.TextWriter(page.rect)
         tw.append((42, y + 14), f"{section['ko']}    {section['en']}", font=kr_med, fontsize=10)
         tw.write_text(page, color=WHITE)
-        y += 28
+        y += band_h + gap_after_band
         for item in items:
             if y > 800:
                 new_page()
