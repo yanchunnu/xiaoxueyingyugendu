@@ -1,0 +1,181 @@
+{
+  "slug": "going_shopping",
+  "topic": "Going Shopping",
+  "topic_ko": "쇼핑 가기",
+  "number": 87,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Going Shopping",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "shopping",
+      "ko": "쇼핑"
+    },
+    {
+      "en": "mom",
+      "ko": "엄마"
+    },
+    {
+      "en": "list",
+      "ko": "목록"
+    },
+    {
+      "en": "choose",
+      "ko": "고르다"
+    },
+    {
+      "en": "fruit",
+      "ko": "과일"
+    },
+    {
+      "en": "bread",
+      "ko": "빵"
+    },
+    {
+      "en": "pay",
+      "ko": "값을 내다"
+    },
+    {
+      "en": "bag",
+      "ko": "봉지"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "home",
+      "ko": "집"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I go shopping with my mom.",
+      "ko": "나는 엄마와 쇼핑을 가요.",
+      "highlights": [
+        "shopping",
+        "mom"
+      ]
+    },
+    {
+      "en": "We have a list.",
+      "ko": "우리에게는 목록이 있어요.",
+      "highlights": [
+        "list"
+      ]
+    },
+    {
+      "en": "We choose fruit",
+      "ko": "우리는 과일을 골라요.",
+      "highlights": [
+        "choose",
+        "fruit"
+      ]
+    },
+    {
+      "en": "and bread.",
+      "ko": "그리고 빵도 골라요.",
+      "highlights": [
+        "bread"
+      ]
+    },
+    {
+      "en": "Mom will pay.",
+      "ko": "엄마가 값을 낼 거예요.",
+      "highlights": [
+        "mom",
+        "pay"
+      ]
+    },
+    {
+      "en": "The bag is full.",
+      "ko": "봉지가 가득해요.",
+      "highlights": [
+        "bag"
+      ]
+    },
+    {
+      "en": "I help hold the bag.",
+      "ko": "나는 봉지를 같이 들며 도와요.",
+      "highlights": [
+        "bag",
+        "help"
+      ]
+    },
+    {
+      "en": "We go home happy.",
+      "ko": "우리는 행복하게 집에 가요.",
+      "highlights": [
+        "home"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I go shopping with my mom.",
+      "ko": "나는 엄마와 쇼핑을 가요.",
+      "highlights": [
+        "shopping",
+        "mom"
+      ]
+    },
+    {
+      "en": "We have a list.",
+      "ko": "우리에게는 목록이 있어요.",
+      "highlights": [
+        "list"
+      ]
+    },
+    {
+      "en": "We choose fruit and bread.",
+      "ko": "우리는 과일과 빵을 골라요.",
+      "highlights": [
+        "choose",
+        "fruit",
+        "bread"
+      ]
+    },
+    {
+      "en": "Mom will pay.",
+      "ko": "엄마가 값을 낼 거예요.",
+      "highlights": [
+        "mom",
+        "pay"
+      ]
+    },
+    {
+      "en": "The bag is full.",
+      "ko": "봉지가 가득해요.",
+      "highlights": [
+        "bag"
+      ]
+    },
+    {
+      "en": "I help hold the bag.",
+      "ko": "나는 봉지를 같이 들며 도와요.",
+      "highlights": [
+        "bag",
+        "help"
+      ]
+    },
+    {
+      "en": "We go home happy.",
+      "ko": "우리는 행복하게 집에 가요.",
+      "highlights": [
+        "home"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I go shopping with my mom. We have a list. We choose fruit and bread. Mom will pay. The bag is full. I help hold the bag. We go home happy."
+}

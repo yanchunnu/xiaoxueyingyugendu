@@ -1,0 +1,187 @@
+{
+  "slug": "my_national_day_holiday",
+  "topic": "My National Day Holiday",
+  "topic_ko": "나의 국경일 연휴",
+  "number": 80,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My National Day Holiday",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "national",
+      "ko": "나라의"
+    },
+    {
+      "en": "holiday",
+      "ko": "휴일"
+    },
+    {
+      "en": "flag",
+      "ko": "국기"
+    },
+    {
+      "en": "country",
+      "ko": "나라"
+    },
+    {
+      "en": "proud",
+      "ko": "자랑스러운"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "trip",
+      "ko": "여행"
+    },
+    {
+      "en": "rest",
+      "ko": "쉬다"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    },
+    {
+      "en": "special",
+      "ko": "특별한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "It is a national holiday.",
+      "ko": "나라의 휴일이에요.",
+      "highlights": [
+        "national",
+        "holiday"
+      ]
+    },
+    {
+      "en": "I see our flag.",
+      "ko": "나는 우리나라 국기를 봐요.",
+      "highlights": [
+        "flag"
+      ]
+    },
+    {
+      "en": "I feel proud of my country.",
+      "ko": "나는 나의 나라가 자랑스러워요.",
+      "highlights": [
+        "country",
+        "proud"
+      ]
+    },
+    {
+      "en": "My family takes a short trip.",
+      "ko": "우리 가족은 짧은 여행을 가요.",
+      "highlights": [
+        "family",
+        "trip"
+      ]
+    },
+    {
+      "en": "We also rest at home.",
+      "ko": "우리는 집에서도 쉬어요.",
+      "highlights": [
+        "rest"
+      ]
+    },
+    {
+      "en": "We eat together.",
+      "ko": "우리는 함께 먹어요.",
+      "highlights": [
+        "together"
+      ]
+    },
+    {
+      "en": "The holiday is special.",
+      "ko": "이 휴일은 특별해요.",
+      "highlights": [
+        "holiday",
+        "special"
+      ]
+    },
+    {
+      "en": "I love my country.",
+      "ko": "나는 나의 나라를 사랑해요.",
+      "highlights": [
+        "country"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "It is a national holiday.",
+      "ko": "나라의 휴일이에요.",
+      "highlights": [
+        "national",
+        "holiday"
+      ]
+    },
+    {
+      "en": "I see our flag.",
+      "ko": "나는 우리나라 국기를 봐요.",
+      "highlights": [
+        "flag"
+      ]
+    },
+    {
+      "en": "I feel proud of my country.",
+      "ko": "나는 나의 나라가 자랑스러워요.",
+      "highlights": [
+        "country",
+        "proud"
+      ]
+    },
+    {
+      "en": "My family takes a short trip.",
+      "ko": "우리 가족은 짧은 여행을 가요.",
+      "highlights": [
+        "family",
+        "trip"
+      ]
+    },
+    {
+      "en": "We also rest at home.",
+      "ko": "우리는 집에서도 쉬어요.",
+      "highlights": [
+        "rest"
+      ]
+    },
+    {
+      "en": "We eat together.",
+      "ko": "우리는 함께 먹어요.",
+      "highlights": [
+        "together"
+      ]
+    },
+    {
+      "en": "The holiday is special.",
+      "ko": "이 휴일은 특별해요.",
+      "highlights": [
+        "holiday",
+        "special"
+      ]
+    },
+    {
+      "en": "I love my country.",
+      "ko": "나는 나의 나라를 사랑해요.",
+      "highlights": [
+        "country"
+      ]
+    }
+  ],
+  "full_passage_spoken": "It is a national holiday. I see our flag. I feel proud of my country. My family takes a short trip. We also rest at home. We eat together. The holiday is special. I love my country."
+}

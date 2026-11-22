@@ -1,0 +1,171 @@
+{
+  "slug": "my_favorite_festival",
+  "topic": "My Favorite Festival",
+  "topic_ko": "내가 가장 좋아하는 축제",
+  "number": 52,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Festival",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "festival",
+      "ko": "축제"
+    },
+    {
+      "en": "Children's Day",
+      "ko": "어린이날"
+    },
+    {
+      "en": "May",
+      "ko": "오월"
+    },
+    {
+      "en": "gift",
+      "ko": "선물"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "song",
+      "ko": "노래"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite festival is Children's Day.",
+      "ko": "내가 가장 좋아하는 축제는 어린이날이에요.",
+      "highlights": [
+        "favorite",
+        "festival",
+        "Children's Day"
+      ]
+    },
+    {
+      "en": "It is in May.",
+      "ko": "어린이날은 오월에 있어요.",
+      "highlights": [
+        "May"
+      ]
+    },
+    {
+      "en": "I get a small gift.",
+      "ko": "나는 작은 선물을 받아요.",
+      "highlights": [
+        "gift"
+      ]
+    },
+    {
+      "en": "My family goes to the park.",
+      "ko": "우리 가족은 공원에 가요.",
+      "highlights": [
+        "family",
+        "park"
+      ]
+    },
+    {
+      "en": "We sing a song.",
+      "ko": "우리는 노래를 불러요.",
+      "highlights": [
+        "song"
+      ]
+    },
+    {
+      "en": "We play together.",
+      "ko": "우리는 함께 놀아요.",
+      "highlights": [
+        "together"
+      ]
+    },
+    {
+      "en": "Everyone is happy.",
+      "ko": "모두 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite festival is Children's Day.",
+      "ko": "내가 가장 좋아하는 축제는 어린이날이에요.",
+      "highlights": [
+        "favorite",
+        "festival",
+        "Children's Day"
+      ]
+    },
+    {
+      "en": "It is in May.",
+      "ko": "어린이날은 오월에 있어요.",
+      "highlights": [
+        "May"
+      ]
+    },
+    {
+      "en": "I get a small gift.",
+      "ko": "나는 작은 선물을 받아요.",
+      "highlights": [
+        "gift"
+      ]
+    },
+    {
+      "en": "My family goes to the park.",
+      "ko": "우리 가족은 공원에 가요.",
+      "highlights": [
+        "family",
+        "park"
+      ]
+    },
+    {
+      "en": "We sing a song.",
+      "ko": "우리는 노래를 불러요.",
+      "highlights": [
+        "song"
+      ]
+    },
+    {
+      "en": "We play together.",
+      "ko": "우리는 함께 놀아요.",
+      "highlights": [
+        "together"
+      ]
+    },
+    {
+      "en": "Everyone is happy.",
+      "ko": "모두 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite festival is Children's Day. It is in May. I get a small gift. My family goes to the park. We sing a song. We play together. Everyone is happy."
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "this_is_me",
+  "topic": "This is Me",
+  "topic_ko": "이것이 나예요",
+  "number": 5,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "This is Me",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "photo",
+      "ko": "사진"
+    },
+    {
+      "en": "short",
+      "ko": "짧은"
+    },
+    {
+      "en": "black",
+      "ko": "검은"
+    },
+    {
+      "en": "hair",
+      "ko": "머리"
+    },
+    {
+      "en": "eyes",
+      "ko": "눈"
+    },
+    {
+      "en": "glasses",
+      "ko": "안경"
+    },
+    {
+      "en": "wear",
+      "ko": "쓰다"
+    },
+    {
+      "en": "cute",
+      "ko": "귀여운"
+    },
+    {
+      "en": "strong",
+      "ko": "튼튼한"
+    },
+    {
+      "en": "ready",
+      "ko": "준비된"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my photo.",
+      "ko": "이것은 내 사진이에요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "I have short black hair.",
+      "ko": "내 머리는 짧고 검은색이에요.",
+      "highlights": [
+        "short",
+        "black",
+        "hair"
+      ]
+    },
+    {
+      "en": "I have big eyes.",
+      "ko": "나는 눈이 커요.",
+      "highlights": [
+        "eyes"
+      ]
+    },
+    {
+      "en": "I wear glasses.",
+      "ko": "나는 안경을 써요.",
+      "highlights": [
+        "glasses",
+        "wear"
+      ]
+    },
+    {
+      "en": "I look cute.",
+      "ko": "나는 귀여워 보여요.",
+      "highlights": [
+        "cute"
+      ]
+    },
+    {
+      "en": "I am strong.",
+      "ko": "나는 튼튼해요.",
+      "highlights": [
+        "strong"
+      ]
+    },
+    {
+      "en": "I am ready for school.",
+      "ko": "나는 학교에 갈 준비가 됐어요.",
+      "highlights": [
+        "ready"
+      ]
+    },
+    {
+      "en": "This is me!",
+      "ko": "이것이 나예요!",
+      "highlights": []
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my photo.",
+      "ko": "이것은 내 사진이에요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "I have short black hair.",
+      "ko": "내 머리는 짧고 검은색이에요.",
+      "highlights": [
+        "short",
+        "black",
+        "hair"
+      ]
+    },
+    {
+      "en": "I have big eyes.",
+      "ko": "나는 눈이 커요.",
+      "highlights": [
+        "eyes"
+      ]
+    },
+    {
+      "en": "I wear glasses.",
+      "ko": "나는 안경을 써요.",
+      "highlights": [
+        "glasses",
+        "wear"
+      ]
+    },
+    {
+      "en": "I look cute.",
+      "ko": "나는 귀여워 보여요.",
+      "highlights": [
+        "cute"
+      ]
+    },
+    {
+      "en": "I am strong.",
+      "ko": "나는 튼튼해요.",
+      "highlights": [
+        "strong"
+      ]
+    },
+    {
+      "en": "I am ready for school.",
+      "ko": "나는 학교에 갈 준비가 됐어요.",
+      "highlights": [
+        "ready"
+      ]
+    },
+    {
+      "en": "This is me!",
+      "ko": "이것이 나예요!",
+      "highlights": []
+    }
+  ],
+  "full_passage_spoken": "This is my photo. I have short black hair. I have big eyes. I wear glasses. I look cute. I am strong. I am ready for school. This is me!"
+}

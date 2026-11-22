@@ -1,0 +1,185 @@
+{
+  "slug": "going_camping",
+  "topic": "Going Camping",
+  "topic_ko": "캠핑 가기",
+  "number": 86,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Going Camping",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "camping",
+      "ko": "캠핑"
+    },
+    {
+      "en": "tent",
+      "ko": "텐트"
+    },
+    {
+      "en": "night",
+      "ko": "밤"
+    },
+    {
+      "en": "star",
+      "ko": "별"
+    },
+    {
+      "en": "fire",
+      "ko": "모닥불"
+    },
+    {
+      "en": "story",
+      "ko": "이야기"
+    },
+    {
+      "en": "sleep",
+      "ko": "자다"
+    },
+    {
+      "en": "sleeping bag",
+      "ko": "침낭"
+    },
+    {
+      "en": "exciting",
+      "ko": "신나는"
+    },
+    {
+      "en": "again",
+      "ko": "다시"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "We go camping.",
+      "ko": "우리는 캠핑을 가요.",
+      "highlights": [
+        "camping"
+      ]
+    },
+    {
+      "en": "We put up a tent.",
+      "ko": "우리는 텐트를 쳐요.",
+      "highlights": [
+        "tent"
+      ]
+    },
+    {
+      "en": "At night I see a star.",
+      "ko": "밤에 나는 별을 봐요.",
+      "highlights": [
+        "night",
+        "star"
+      ]
+    },
+    {
+      "en": "We sit by a small fire.",
+      "ko": "우리는 작은 모닥불 옆에 앉아요.",
+      "highlights": [
+        "fire"
+      ]
+    },
+    {
+      "en": "Dad tells a story.",
+      "ko": "아빠는 이야기를 해 줘요.",
+      "highlights": [
+        "story"
+      ]
+    },
+    {
+      "en": "I sleep in a sleeping bag.",
+      "ko": "나는 침낭에서 자요.",
+      "highlights": [
+        "sleep",
+        "sleeping bag"
+      ]
+    },
+    {
+      "en": "Camping is exciting.",
+      "ko": "캠핑은 신나요.",
+      "highlights": [
+        "camping",
+        "exciting"
+      ]
+    },
+    {
+      "en": "I want to go again.",
+      "ko": "나는 다시 가고 싶어요.",
+      "highlights": [
+        "again"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "We go camping.",
+      "ko": "우리는 캠핑을 가요.",
+      "highlights": [
+        "camping"
+      ]
+    },
+    {
+      "en": "We put up a tent.",
+      "ko": "우리는 텐트를 쳐요.",
+      "highlights": [
+        "tent"
+      ]
+    },
+    {
+      "en": "At night I see a star.",
+      "ko": "밤에 나는 별을 봐요.",
+      "highlights": [
+        "night",
+        "star"
+      ]
+    },
+    {
+      "en": "We sit by a small fire.",
+      "ko": "우리는 작은 모닥불 옆에 앉아요.",
+      "highlights": [
+        "fire"
+      ]
+    },
+    {
+      "en": "Dad tells a story.",
+      "ko": "아빠는 이야기를 해 줘요.",
+      "highlights": [
+        "story"
+      ]
+    },
+    {
+      "en": "I sleep in a sleeping bag.",
+      "ko": "나는 침낭에서 자요.",
+      "highlights": [
+        "sleep",
+        "sleeping bag"
+      ]
+    },
+    {
+      "en": "Camping is exciting.",
+      "ko": "캠핑은 신나요.",
+      "highlights": [
+        "camping",
+        "exciting"
+      ]
+    },
+    {
+      "en": "I want to go again.",
+      "ko": "나는 다시 가고 싶어요.",
+      "highlights": [
+        "again"
+      ]
+    }
+  ],
+  "full_passage_spoken": "We go camping. We put up a tent. At night I see a star. We sit by a small fire. Dad tells a story. I sleep in a sleeping bag. Camping is exciting. I want to go again."
+}

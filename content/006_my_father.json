@@ -1,0 +1,183 @@
+{
+  "slug": "my_father",
+  "topic": "My Father",
+  "topic_ko": "나의 아버지",
+  "number": 6,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Father",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "father",
+      "ko": "아버지"
+    },
+    {
+      "en": "doctor",
+      "ko": "의사"
+    },
+    {
+      "en": "tall",
+      "ko": "키가 큰"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "hospital",
+      "ko": "병원"
+    },
+    {
+      "en": "work",
+      "ko": "일"
+    },
+    {
+      "en": "cook",
+      "ko": "요리하다"
+    },
+    {
+      "en": "dinner",
+      "ko": "저녁"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My father is a doctor.",
+      "ko": "나의 아버지는 의사예요.",
+      "highlights": [
+        "father",
+        "doctor"
+      ]
+    },
+    {
+      "en": "He is tall",
+      "ko": "아버지는 키가 커요.",
+      "highlights": [
+        "tall"
+      ]
+    },
+    {
+      "en": "and kind.",
+      "ko": "그리고 친절해요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "He works at a hospital.",
+      "ko": "아버지는 병원에서 일해요.",
+      "highlights": [
+        "hospital",
+        "work"
+      ]
+    },
+    {
+      "en": "He likes his work.",
+      "ko": "아버지는 자신의 일을 좋아해요.",
+      "highlights": [
+        "work"
+      ]
+    },
+    {
+      "en": "He can cook dinner.",
+      "ko": "아버지는 저녁을 요리할 수 있어요.",
+      "highlights": [
+        "cook",
+        "dinner"
+      ]
+    },
+    {
+      "en": "I love my father.",
+      "ko": "나는 아버지를 사랑해요.",
+      "highlights": [
+        "father",
+        "love"
+      ]
+    },
+    {
+      "en": "He loves our family.",
+      "ko": "아버지는 우리 가족을 사랑해요.",
+      "highlights": [
+        "love",
+        "family"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My father is a doctor.",
+      "ko": "나의 아버지는 의사예요.",
+      "highlights": [
+        "father",
+        "doctor"
+      ]
+    },
+    {
+      "en": "He is tall and kind.",
+      "ko": "아버지는 키가 크고 친절해요.",
+      "highlights": [
+        "tall",
+        "kind"
+      ]
+    },
+    {
+      "en": "He works at a hospital.",
+      "ko": "아버지는 병원에서 일해요.",
+      "highlights": [
+        "hospital",
+        "work"
+      ]
+    },
+    {
+      "en": "He likes his work.",
+      "ko": "아버지는 자신의 일을 좋아해요.",
+      "highlights": [
+        "work"
+      ]
+    },
+    {
+      "en": "He can cook dinner.",
+      "ko": "아버지는 저녁을 요리할 수 있어요.",
+      "highlights": [
+        "cook",
+        "dinner"
+      ]
+    },
+    {
+      "en": "I love my father.",
+      "ko": "나는 아버지를 사랑해요.",
+      "highlights": [
+        "father",
+        "love"
+      ]
+    },
+    {
+      "en": "He loves our family.",
+      "ko": "아버지는 우리 가족을 사랑해요.",
+      "highlights": [
+        "love",
+        "family"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My father is a doctor. He is tall and kind. He works at a hospital. He likes his work. He can cook dinner. I love my father. He loves our family."
+}

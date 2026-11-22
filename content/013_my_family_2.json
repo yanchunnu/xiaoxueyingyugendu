@@ -1,0 +1,171 @@
+{
+  "slug": "my_family_2",
+  "topic": "My Family (2)",
+  "topic_ko": "나의 가족 (2)",
+  "number": 13,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Family, Part Two",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "weekend",
+      "ko": "주말"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "picnic",
+      "ko": "소풍"
+    },
+    {
+      "en": "photo",
+      "ko": "사진"
+    },
+    {
+      "en": "game",
+      "ko": "놀이"
+    },
+    {
+      "en": "parents",
+      "ko": "부모님"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "care",
+      "ko": "돌보다"
+    },
+    {
+      "en": "lucky",
+      "ko": "운이 좋은"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "On the weekend, we go to the park.",
+      "ko": "주말에 우리는 공원에 가요.",
+      "highlights": [
+        "weekend",
+        "park"
+      ]
+    },
+    {
+      "en": "We have a picnic.",
+      "ko": "우리는 소풍을 해요.",
+      "highlights": [
+        "picnic"
+      ]
+    },
+    {
+      "en": "We take a photo.",
+      "ko": "우리는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "We play a game together.",
+      "ko": "우리는 함께 놀이를 해요.",
+      "highlights": [
+        "game",
+        "together"
+      ]
+    },
+    {
+      "en": "My parents help me.",
+      "ko": "부모님은 나를 도와요.",
+      "highlights": [
+        "parents",
+        "help"
+      ]
+    },
+    {
+      "en": "They care for me.",
+      "ko": "부모님은 나를 돌봐요.",
+      "highlights": [
+        "care"
+      ]
+    },
+    {
+      "en": "I am lucky.",
+      "ko": "나는 운이 좋아요.",
+      "highlights": [
+        "lucky"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "On the weekend, we go to the park.",
+      "ko": "주말에 우리는 공원에 가요.",
+      "highlights": [
+        "weekend",
+        "park"
+      ]
+    },
+    {
+      "en": "We have a picnic.",
+      "ko": "우리는 소풍을 해요.",
+      "highlights": [
+        "picnic"
+      ]
+    },
+    {
+      "en": "We take a photo.",
+      "ko": "우리는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "We play a game together.",
+      "ko": "우리는 함께 놀이를 해요.",
+      "highlights": [
+        "game",
+        "together"
+      ]
+    },
+    {
+      "en": "My parents help me.",
+      "ko": "부모님은 나를 도와요.",
+      "highlights": [
+        "parents",
+        "help"
+      ]
+    },
+    {
+      "en": "They care for me.",
+      "ko": "부모님은 나를 돌봐요.",
+      "highlights": [
+        "care"
+      ]
+    },
+    {
+      "en": "I am lucky.",
+      "ko": "나는 운이 좋아요.",
+      "highlights": [
+        "lucky"
+      ]
+    }
+  ],
+  "full_passage_spoken": "On the weekend, we go to the park. We have a picnic. We take a photo. We play a game together. My parents help me. They care for me. I am lucky."
+}

@@ -1,0 +1,199 @@
+{
+  "slug": "my_dream_doctor",
+  "topic": "My Dream (Doctor)",
+  "topic_ko": "나의 꿈 (의사)",
+  "number": 64,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Dream, Doctor",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "dream",
+      "ko": "꿈"
+    },
+    {
+      "en": "doctor",
+      "ko": "의사"
+    },
+    {
+      "en": "sick",
+      "ko": "아픈"
+    },
+    {
+      "en": "people",
+      "ko": "사람들"
+    },
+    {
+      "en": "hospital",
+      "ko": "병원"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "care",
+      "ko": "돌보다"
+    },
+    {
+      "en": "healthy",
+      "ko": "건강한"
+    },
+    {
+      "en": "hope",
+      "ko": "바라다"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "One dream is to be a doctor.",
+      "ko": "한 가지 꿈은 의사가 되는 것이에요.",
+      "highlights": [
+        "dream",
+        "doctor"
+      ]
+    },
+    {
+      "en": "A doctor helps sick people.",
+      "ko": "의사는 아픈 사람들을 도와요.",
+      "highlights": [
+        "doctor",
+        "sick",
+        "people",
+        "help"
+      ]
+    },
+    {
+      "en": "A doctor works at a hospital.",
+      "ko": "의사는 병원에서 일해요.",
+      "highlights": [
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "en": "A doctor can care for them.",
+      "ko": "의사는 그들을 돌볼 수 있어요.",
+      "highlights": [
+        "doctor",
+        "care"
+      ]
+    },
+    {
+      "en": "I want people to be healthy.",
+      "ko": "나는 사람들이 건강하기를 바라요.",
+      "highlights": [
+        "people",
+        "healthy"
+      ]
+    },
+    {
+      "en": "I hope to help.",
+      "ko": "나는 돕기를 바라요.",
+      "highlights": [
+        "help",
+        "hope"
+      ]
+    },
+    {
+      "en": "A doctor is kind.",
+      "ko": "의사는 친절해요.",
+      "highlights": [
+        "doctor",
+        "kind"
+      ]
+    },
+    {
+      "en": "Helping is a good dream.",
+      "ko": "돕는 일은 좋은 꿈이에요.",
+      "highlights": [
+        "dream",
+        "help"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "One dream is to be a doctor.",
+      "ko": "한 가지 꿈은 의사가 되는 것이에요.",
+      "highlights": [
+        "dream",
+        "doctor"
+      ]
+    },
+    {
+      "en": "A doctor helps sick people.",
+      "ko": "의사는 아픈 사람들을 도와요.",
+      "highlights": [
+        "doctor",
+        "sick",
+        "people",
+        "help"
+      ]
+    },
+    {
+      "en": "A doctor works at a hospital.",
+      "ko": "의사는 병원에서 일해요.",
+      "highlights": [
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "en": "A doctor can care for them.",
+      "ko": "의사는 그들을 돌볼 수 있어요.",
+      "highlights": [
+        "doctor",
+        "care"
+      ]
+    },
+    {
+      "en": "I want people to be healthy.",
+      "ko": "나는 사람들이 건강하기를 바라요.",
+      "highlights": [
+        "people",
+        "healthy"
+      ]
+    },
+    {
+      "en": "I hope to help.",
+      "ko": "나는 돕기를 바라요.",
+      "highlights": [
+        "help",
+        "hope"
+      ]
+    },
+    {
+      "en": "A doctor is kind.",
+      "ko": "의사는 친절해요.",
+      "highlights": [
+        "doctor",
+        "kind"
+      ]
+    },
+    {
+      "en": "Helping is a good dream.",
+      "ko": "돕는 일은 좋은 꿈이에요.",
+      "highlights": [
+        "dream",
+        "help"
+      ]
+    }
+  ],
+  "full_passage_spoken": "One dream is to be a doctor. A doctor helps sick people. A doctor works at a hospital. A doctor can care for them. I want people to be healthy. I hope to help. A doctor is kind. Helping is a good dream."
+}

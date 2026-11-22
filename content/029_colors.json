@@ -1,0 +1,177 @@
+{
+  "slug": "colors",
+  "topic": "Colors",
+  "topic_ko": "색깔",
+  "number": 29,
+  "section_ko": "장소·풍경 묘사",
+  "section_en": "Places and Scenery",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Colors",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "color",
+      "ko": "색깔"
+    },
+    {
+      "en": "red",
+      "ko": "빨간색"
+    },
+    {
+      "en": "bright",
+      "ko": "밝은"
+    },
+    {
+      "en": "sky",
+      "ko": "하늘"
+    },
+    {
+      "en": "blue",
+      "ko": "파란색"
+    },
+    {
+      "en": "grass",
+      "ko": "풀"
+    },
+    {
+      "en": "green",
+      "ko": "초록색"
+    },
+    {
+      "en": "yellow",
+      "ko": "노란색"
+    },
+    {
+      "en": "rainbow",
+      "ko": "무지개"
+    },
+    {
+      "en": "pretty",
+      "ko": "예쁜"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Red is a color.",
+      "ko": "빨간색은 색깔이에요.",
+      "highlights": [
+        "color",
+        "red"
+      ]
+    },
+    {
+      "en": "Red is bright.",
+      "ko": "빨간색은 밝아요.",
+      "highlights": [
+        "red",
+        "bright"
+      ]
+    },
+    {
+      "en": "The sky is blue.",
+      "ko": "하늘은 파란색이에요.",
+      "highlights": [
+        "sky",
+        "blue"
+      ]
+    },
+    {
+      "en": "The grass is green.",
+      "ko": "풀은 초록색이에요.",
+      "highlights": [
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "The sun is yellow.",
+      "ko": "해는 노란색이에요.",
+      "highlights": [
+        "yellow"
+      ]
+    },
+    {
+      "en": "A rainbow has many colors.",
+      "ko": "무지개에는 여러 색깔이 있어요.",
+      "highlights": [
+        "color",
+        "rainbow"
+      ]
+    },
+    {
+      "en": "Colors look pretty.",
+      "ko": "색깔은 예뻐요.",
+      "highlights": [
+        "color",
+        "pretty"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Red is a color.",
+      "ko": "빨간색은 색깔이에요.",
+      "highlights": [
+        "color",
+        "red"
+      ]
+    },
+    {
+      "en": "Red is bright.",
+      "ko": "빨간색은 밝아요.",
+      "highlights": [
+        "red",
+        "bright"
+      ]
+    },
+    {
+      "en": "The sky is blue.",
+      "ko": "하늘은 파란색이에요.",
+      "highlights": [
+        "sky",
+        "blue"
+      ]
+    },
+    {
+      "en": "The grass is green.",
+      "ko": "풀은 초록색이에요.",
+      "highlights": [
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "The sun is yellow.",
+      "ko": "해는 노란색이에요.",
+      "highlights": [
+        "yellow"
+      ]
+    },
+    {
+      "en": "A rainbow has many colors.",
+      "ko": "무지개에는 여러 색깔이 있어요.",
+      "highlights": [
+        "color",
+        "rainbow"
+      ]
+    },
+    {
+      "en": "Colors look pretty.",
+      "ko": "색깔은 예뻐요.",
+      "highlights": [
+        "color",
+        "pretty"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Red is a color. Red is bright. The sky is blue. The grass is green. The sun is yellow. A rainbow has many colors. Colors look pretty."
+}

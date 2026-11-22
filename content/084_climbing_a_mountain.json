@@ -1,0 +1,195 @@
+{
+  "slug": "climbing_a_mountain",
+  "topic": "Climbing a Mountain",
+  "topic_ko": "산 오르기",
+  "number": 84,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Climbing a Mountain",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "climb",
+      "ko": "오르다"
+    },
+    {
+      "en": "mountain",
+      "ko": "산"
+    },
+    {
+      "en": "path",
+      "ko": "산길"
+    },
+    {
+      "en": "step",
+      "ko": "걸음"
+    },
+    {
+      "en": "tree",
+      "ko": "나무"
+    },
+    {
+      "en": "water",
+      "ko": "물"
+    },
+    {
+      "en": "tired",
+      "ko": "피곤한"
+    },
+    {
+      "en": "top",
+      "ko": "꼭대기"
+    },
+    {
+      "en": "view",
+      "ko": "경치"
+    },
+    {
+      "en": "proud",
+      "ko": "자랑스러운"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "We climb a small mountain.",
+      "ko": "우리는 작은 산을 올라요.",
+      "highlights": [
+        "climb",
+        "mountain"
+      ]
+    },
+    {
+      "en": "The path is not too long.",
+      "ko": "산길은 너무 길지 않아요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "We take one step at a time.",
+      "ko": "우리는 한 걸음씩 올라요.",
+      "highlights": [
+        "step"
+      ]
+    },
+    {
+      "en": "Trees are all around.",
+      "ko": "나무가 사방에 있어요.",
+      "highlights": [
+        "tree"
+      ]
+    },
+    {
+      "en": "I drink some water.",
+      "ko": "나는 물을 마셔요.",
+      "highlights": [
+        "water"
+      ]
+    },
+    {
+      "en": "I feel a little tired.",
+      "ko": "나는 조금 피곤해요.",
+      "highlights": [
+        "tired"
+      ]
+    },
+    {
+      "en": "We reach the top.",
+      "ko": "우리는 꼭대기에 도착해요.",
+      "highlights": [
+        "top"
+      ]
+    },
+    {
+      "en": "The view is wide.",
+      "ko": "경치가 넓어요.",
+      "highlights": [
+        "view"
+      ]
+    },
+    {
+      "en": "I am proud.",
+      "ko": "나는 자랑스러워요.",
+      "highlights": [
+        "proud"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "We climb a small mountain.",
+      "ko": "우리는 작은 산을 올라요.",
+      "highlights": [
+        "climb",
+        "mountain"
+      ]
+    },
+    {
+      "en": "The path is not too long.",
+      "ko": "산길은 너무 길지 않아요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "We take one step at a time.",
+      "ko": "우리는 한 걸음씩 올라요.",
+      "highlights": [
+        "step"
+      ]
+    },
+    {
+      "en": "Trees are all around.",
+      "ko": "나무가 사방에 있어요.",
+      "highlights": [
+        "tree"
+      ]
+    },
+    {
+      "en": "I drink some water.",
+      "ko": "나는 물을 마셔요.",
+      "highlights": [
+        "water"
+      ]
+    },
+    {
+      "en": "I feel a little tired.",
+      "ko": "나는 조금 피곤해요.",
+      "highlights": [
+        "tired"
+      ]
+    },
+    {
+      "en": "We reach the top.",
+      "ko": "우리는 꼭대기에 도착해요.",
+      "highlights": [
+        "top"
+      ]
+    },
+    {
+      "en": "The view is wide.",
+      "ko": "경치가 넓어요.",
+      "highlights": [
+        "view"
+      ]
+    },
+    {
+      "en": "I am proud.",
+      "ko": "나는 자랑스러워요.",
+      "highlights": [
+        "proud"
+      ]
+    }
+  ],
+  "full_passage_spoken": "We climb a small mountain. The path is not too long. We take one step at a time. Trees are all around. I drink some water. I feel a little tired. We reach the top. The view is wide. I am proud."
+}

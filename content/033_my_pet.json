@@ -1,0 +1,191 @@
+{
+  "slug": "my_pet",
+  "topic": "My Pet",
+  "topic_ko": "나의 반려동물",
+  "number": 33,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Pet",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "pet",
+      "ko": "반려동물"
+    },
+    {
+      "en": "dog",
+      "ko": "개"
+    },
+    {
+      "en": "name",
+      "ko": "이름"
+    },
+    {
+      "en": "small",
+      "ko": "작은"
+    },
+    {
+      "en": "brown",
+      "ko": "갈색"
+    },
+    {
+      "en": "run",
+      "ko": "달리다"
+    },
+    {
+      "en": "ball",
+      "ko": "공"
+    },
+    {
+      "en": "feed",
+      "ko": "먹이를 주다"
+    },
+    {
+      "en": "door",
+      "ko": "문"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I have a pet.",
+      "ko": "나에게는 반려동물이 있어요.",
+      "highlights": [
+        "pet"
+      ]
+    },
+    {
+      "en": "It is a dog.",
+      "ko": "그것은 개예요.",
+      "highlights": [
+        "dog"
+      ]
+    },
+    {
+      "en": "His name is Coco.",
+      "ko": "그의 이름은 코코예요.",
+      "highlights": [
+        "name"
+      ]
+    },
+    {
+      "en": "Coco is small",
+      "ko": "코코는 작아요.",
+      "highlights": [
+        "small"
+      ]
+    },
+    {
+      "en": "and brown.",
+      "ko": "그리고 갈색이에요.",
+      "highlights": [
+        "brown"
+      ]
+    },
+    {
+      "en": "He runs with a ball.",
+      "ko": "코코는 공을 가지고 달려요.",
+      "highlights": [
+        "run",
+        "ball"
+      ]
+    },
+    {
+      "en": "I feed him every day.",
+      "ko": "나는 매일 코코에게 먹이를 줘요.",
+      "highlights": [
+        "feed"
+      ]
+    },
+    {
+      "en": "He waits at the door.",
+      "ko": "코코는 문 앞에서 기다려요.",
+      "highlights": [
+        "door"
+      ]
+    },
+    {
+      "en": "I love my pet.",
+      "ko": "나는 나의 반려동물을 사랑해요.",
+      "highlights": [
+        "pet",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I have a pet.",
+      "ko": "나에게는 반려동물이 있어요.",
+      "highlights": [
+        "pet"
+      ]
+    },
+    {
+      "en": "It is a dog.",
+      "ko": "그것은 개예요.",
+      "highlights": [
+        "dog"
+      ]
+    },
+    {
+      "en": "His name is Coco.",
+      "ko": "그의 이름은 코코예요.",
+      "highlights": [
+        "name"
+      ]
+    },
+    {
+      "en": "Coco is small and brown.",
+      "ko": "코코는 작고 갈색이에요.",
+      "highlights": [
+        "small",
+        "brown"
+      ]
+    },
+    {
+      "en": "He runs with a ball.",
+      "ko": "코코는 공을 가지고 달려요.",
+      "highlights": [
+        "run",
+        "ball"
+      ]
+    },
+    {
+      "en": "I feed him every day.",
+      "ko": "나는 매일 코코에게 먹이를 줘요.",
+      "highlights": [
+        "feed"
+      ]
+    },
+    {
+      "en": "He waits at the door.",
+      "ko": "코코는 문 앞에서 기다려요.",
+      "highlights": [
+        "door"
+      ]
+    },
+    {
+      "en": "I love my pet.",
+      "ko": "나는 나의 반려동물을 사랑해요.",
+      "highlights": [
+        "pet",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I have a pet. It is a dog. His name is Coco. Coco is small and brown. He runs with a ball. I feed him every day. He waits at the door. I love my pet."
+}

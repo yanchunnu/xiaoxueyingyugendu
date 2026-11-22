@@ -1,0 +1,173 @@
+{
+  "slug": "my_grandmother",
+  "topic": "My Grandmother",
+  "topic_ko": "나의 할머니",
+  "number": 11,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Grandmother",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "grandmother",
+      "ko": "할머니"
+    },
+    {
+      "en": "cookie",
+      "ko": "쿠키"
+    },
+    {
+      "en": "kitchen",
+      "ko": "부엌"
+    },
+    {
+      "en": "warm",
+      "ko": "따뜻한"
+    },
+    {
+      "en": "knit",
+      "ko": "뜨개질하다"
+    },
+    {
+      "en": "soft",
+      "ko": "부드러운"
+    },
+    {
+      "en": "sweater",
+      "ko": "스웨터"
+    },
+    {
+      "en": "tea",
+      "ko": "차"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    },
+    {
+      "en": "smile",
+      "ko": "미소"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My grandmother makes cookies.",
+      "ko": "나의 할머니는 쿠키를 만들어요.",
+      "highlights": [
+        "grandmother",
+        "cookie"
+      ]
+    },
+    {
+      "en": "Her kitchen is warm.",
+      "ko": "할머니의 부엌은 따뜻해요.",
+      "highlights": [
+        "kitchen",
+        "warm"
+      ]
+    },
+    {
+      "en": "She likes to knit.",
+      "ko": "할머니는 뜨개질을 좋아해요.",
+      "highlights": [
+        "knit"
+      ]
+    },
+    {
+      "en": "She makes a soft sweater.",
+      "ko": "할머니는 부드러운 스웨터를 만들어요.",
+      "highlights": [
+        "soft",
+        "sweater"
+      ]
+    },
+    {
+      "en": "We drink tea together.",
+      "ko": "우리는 함께 차를 마셔요.",
+      "highlights": [
+        "tea",
+        "together"
+      ]
+    },
+    {
+      "en": "She has a kind smile.",
+      "ko": "할머니에게는 친절한 미소가 있어요.",
+      "highlights": [
+        "smile"
+      ]
+    },
+    {
+      "en": "I love my grandmother.",
+      "ko": "나는 할머니를 사랑해요.",
+      "highlights": [
+        "grandmother"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My grandmother makes cookies.",
+      "ko": "나의 할머니는 쿠키를 만들어요.",
+      "highlights": [
+        "grandmother",
+        "cookie"
+      ]
+    },
+    {
+      "en": "Her kitchen is warm.",
+      "ko": "할머니의 부엌은 따뜻해요.",
+      "highlights": [
+        "kitchen",
+        "warm"
+      ]
+    },
+    {
+      "en": "She likes to knit.",
+      "ko": "할머니는 뜨개질을 좋아해요.",
+      "highlights": [
+        "knit"
+      ]
+    },
+    {
+      "en": "She makes a soft sweater.",
+      "ko": "할머니는 부드러운 스웨터를 만들어요.",
+      "highlights": [
+        "soft",
+        "sweater"
+      ]
+    },
+    {
+      "en": "We drink tea together.",
+      "ko": "우리는 함께 차를 마셔요.",
+      "highlights": [
+        "tea",
+        "together"
+      ]
+    },
+    {
+      "en": "She has a kind smile.",
+      "ko": "할머니에게는 친절한 미소가 있어요.",
+      "highlights": [
+        "smile"
+      ]
+    },
+    {
+      "en": "I love my grandmother.",
+      "ko": "나는 할머니를 사랑해요.",
+      "highlights": [
+        "grandmother"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My grandmother makes cookies. Her kitchen is warm. She likes to knit. She makes a soft sweater. We drink tea together. She has a kind smile. I love my grandmother."
+}

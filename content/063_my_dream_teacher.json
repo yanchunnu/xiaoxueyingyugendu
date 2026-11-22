@@ -1,0 +1,185 @@
+{
+  "slug": "my_dream_teacher",
+  "topic": "My Dream (Teacher)",
+  "topic_ko": "나의 꿈 (선생님)",
+  "number": 63,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Dream, Teacher",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "dream",
+      "ko": "꿈"
+    },
+    {
+      "en": "teacher",
+      "ko": "선생님"
+    },
+    {
+      "en": "child",
+      "ko": "아이"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "patient",
+      "ko": "참을성 있는"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    },
+    {
+      "en": "study",
+      "ko": "공부하다"
+    },
+    {
+      "en": "hard",
+      "ko": "열심히"
+    },
+    {
+      "en": "future",
+      "ko": "미래"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "One dream is to be a teacher.",
+      "ko": "한 가지 꿈은 선생님이 되는 것이에요.",
+      "highlights": [
+        "dream",
+        "teacher"
+      ]
+    },
+    {
+      "en": "I want to help a child.",
+      "ko": "나는 아이를 돕고 싶어요.",
+      "highlights": [
+        "child",
+        "help"
+      ]
+    },
+    {
+      "en": "I want to be kind.",
+      "ko": "나는 친절한 선생님이 되고 싶어요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "I want to be patient.",
+      "ko": "나는 참을성 있는 선생님이 되고 싶어요.",
+      "highlights": [
+        "patient"
+      ]
+    },
+    {
+      "en": "I will teach at a school.",
+      "ko": "나는 학교에서 가르칠 거예요.",
+      "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "I study hard now.",
+      "ko": "나는 지금 열심히 공부해요.",
+      "highlights": [
+        "study",
+        "hard"
+      ]
+    },
+    {
+      "en": "The future can be bright.",
+      "ko": "미래는 밝을 수 있어요.",
+      "highlights": [
+        "future"
+      ]
+    },
+    {
+      "en": "This is my dream.",
+      "ko": "이것이 나의 꿈이에요.",
+      "highlights": [
+        "dream"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "One dream is to be a teacher.",
+      "ko": "한 가지 꿈은 선생님이 되는 것이에요.",
+      "highlights": [
+        "dream",
+        "teacher"
+      ]
+    },
+    {
+      "en": "I want to help a child.",
+      "ko": "나는 아이를 돕고 싶어요.",
+      "highlights": [
+        "child",
+        "help"
+      ]
+    },
+    {
+      "en": "I want to be kind.",
+      "ko": "나는 친절한 선생님이 되고 싶어요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "I want to be patient.",
+      "ko": "나는 참을성 있는 선생님이 되고 싶어요.",
+      "highlights": [
+        "patient"
+      ]
+    },
+    {
+      "en": "I will teach at a school.",
+      "ko": "나는 학교에서 가르칠 거예요.",
+      "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "I study hard now.",
+      "ko": "나는 지금 열심히 공부해요.",
+      "highlights": [
+        "study",
+        "hard"
+      ]
+    },
+    {
+      "en": "The future can be bright.",
+      "ko": "미래는 밝을 수 있어요.",
+      "highlights": [
+        "future"
+      ]
+    },
+    {
+      "en": "This is my dream.",
+      "ko": "이것이 나의 꿈이에요.",
+      "highlights": [
+        "dream"
+      ]
+    }
+  ],
+  "full_passage_spoken": "One dream is to be a teacher. I want to help a child. I want to be kind. I want to be patient. I will teach at a school. I study hard now. The future can be bright. This is my dream."
+}

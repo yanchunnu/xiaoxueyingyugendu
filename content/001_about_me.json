@@ -1,0 +1,50 @@
+{
+  "slug": "about_me",
+  "topic": "About Me",
+  "topic_ko": "나에 대해",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "About Me",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {"en": "name", "ko": "이름"},
+    {"en": "years old", "ko": "살 (나이)"},
+    {"en": "grade", "ko": "학년"},
+    {"en": "like", "ko": "좋아하다"},
+    {"en": "English", "ko": "영어"},
+    {"en": "soccer", "ko": "축구"},
+    {"en": "hobby", "ko": "취미"},
+    {"en": "drawing", "ko": "그림 그리기"},
+    {"en": "sister", "ko": "여동생"},
+    {"en": "family", "ko": "가족"}
+  ],
+  "phrases": [
+    {"en": "My name is Mina.", "ko": "내 이름은 미나예요.", "highlights": ["name"]},
+    {"en": "I am ten years old.", "ko": "나는 열 살이에요.", "highlights": ["years old"]},
+    {"en": "I am in the fourth grade.", "ko": "나는 4학년이에요.", "highlights": ["grade"]},
+    {"en": "I like English", "ko": "나는 영어를 좋아해요.", "highlights": ["like", "English"]},
+    {"en": "and soccer.", "ko": "그리고 축구를요.", "highlights": ["soccer"]},
+    {"en": "My hobby is", "ko": "나의 취미는", "highlights": ["hobby"]},
+    {"en": "drawing pictures.", "ko": "그림 그리기예요.", "highlights": ["drawing"]},
+    {"en": "I have a little sister.", "ko": "나에게는 여동생이 있어요.", "highlights": ["sister"]},
+    {"en": "I love my family very much.", "ko": "나는 가족을 매우 사랑해요.", "highlights": ["family"]}
+  ],
+  "full_passage_lines": [
+    {"en": "My name is Mina.", "ko": "내 이름은 미나예요.", "highlights": ["name"]},
+    {"en": "I am ten years old.", "ko": "나는 열 살이에요.", "highlights": ["years old"]},
+    {"en": "I am in the fourth grade.", "ko": "나는 4학년이에요.", "highlights": ["grade"]},
+    {"en": "I like English and soccer.", "ko": "나는 영어와 축구를 좋아해요.", "highlights": ["like", "English", "soccer"]},
+    {"en": "My hobby is drawing pictures.", "ko": "나의 취미는 그림 그리기예요.", "highlights": ["hobby", "drawing"]},
+    {"en": "I have a little sister.", "ko": "나에게는 여동생이 있어요.", "highlights": ["sister"]},
+    {"en": "I love my family very much.", "ko": "나는 가족을 매우 사랑해요.", "highlights": ["family"]}
+  ],
+  "full_passage_spoken": "My name is Mina. I am ten years old. I am in the fourth grade. I like English and soccer. My hobby is drawing pictures. I have a little sister. I love my family very much."
+}

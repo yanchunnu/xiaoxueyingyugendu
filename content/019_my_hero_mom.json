@@ -1,0 +1,187 @@
+{
+  "slug": "my_hero_mom",
+  "topic": "My Hero (Mom)",
+  "topic_ko": "나의 영웅 (엄마)",
+  "number": 19,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Hero, Mom",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "mom",
+      "ko": "엄마"
+    },
+    {
+      "en": "hero",
+      "ko": "영웅"
+    },
+    {
+      "en": "early",
+      "ko": "일찍"
+    },
+    {
+      "en": "care",
+      "ko": "돌보다"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "tired",
+      "ko": "피곤한"
+    },
+    {
+      "en": "smile",
+      "ko": "미소"
+    },
+    {
+      "en": "warm",
+      "ko": "따뜻한"
+    },
+    {
+      "en": "heart",
+      "ko": "마음"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My mom is my hero.",
+      "ko": "엄마는 나의 영웅이에요.",
+      "highlights": [
+        "mom",
+        "hero"
+      ]
+    },
+    {
+      "en": "She gets up early.",
+      "ko": "엄마는 일찍 일어나요.",
+      "highlights": [
+        "early"
+      ]
+    },
+    {
+      "en": "She cares for our family.",
+      "ko": "엄마는 우리 가족을 돌봐요.",
+      "highlights": [
+        "care",
+        "family"
+      ]
+    },
+    {
+      "en": "Sometimes she is tired.",
+      "ko": "가끔 엄마는 피곤해요.",
+      "highlights": [
+        "tired"
+      ]
+    },
+    {
+      "en": "She still has a smile.",
+      "ko": "그래도 엄마는 미소를 지어요.",
+      "highlights": [
+        "smile"
+      ]
+    },
+    {
+      "en": "She has a warm heart.",
+      "ko": "엄마는 따뜻한 마음을 가지고 있어요.",
+      "highlights": [
+        "warm",
+        "heart"
+      ]
+    },
+    {
+      "en": "I love my mom.",
+      "ko": "나는 엄마를 사랑해요.",
+      "highlights": [
+        "mom",
+        "love"
+      ]
+    },
+    {
+      "en": "I thank my hero.",
+      "ko": "나는 나의 영웅에게 고마워해요.",
+      "highlights": [
+        "hero"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My mom is my hero.",
+      "ko": "엄마는 나의 영웅이에요.",
+      "highlights": [
+        "mom",
+        "hero"
+      ]
+    },
+    {
+      "en": "She gets up early.",
+      "ko": "엄마는 일찍 일어나요.",
+      "highlights": [
+        "early"
+      ]
+    },
+    {
+      "en": "She cares for our family.",
+      "ko": "엄마는 우리 가족을 돌봐요.",
+      "highlights": [
+        "care",
+        "family"
+      ]
+    },
+    {
+      "en": "Sometimes she is tired.",
+      "ko": "가끔 엄마는 피곤해요.",
+      "highlights": [
+        "tired"
+      ]
+    },
+    {
+      "en": "She still has a smile.",
+      "ko": "그래도 엄마는 미소를 지어요.",
+      "highlights": [
+        "smile"
+      ]
+    },
+    {
+      "en": "She has a warm heart.",
+      "ko": "엄마는 따뜻한 마음을 가지고 있어요.",
+      "highlights": [
+        "warm",
+        "heart"
+      ]
+    },
+    {
+      "en": "I love my mom.",
+      "ko": "나는 엄마를 사랑해요.",
+      "highlights": [
+        "mom",
+        "love"
+      ]
+    },
+    {
+      "en": "I thank my hero.",
+      "ko": "나는 나의 영웅에게 고마워해요.",
+      "highlights": [
+        "hero"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My mom is my hero. She gets up early. She cares for our family. Sometimes she is tired. She still has a smile. She has a warm heart. I love my mom. I thank my hero."
+}

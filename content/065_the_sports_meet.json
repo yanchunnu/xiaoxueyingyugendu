@@ -1,0 +1,181 @@
+{
+  "slug": "the_sports_meet",
+  "topic": "The Sports Meet",
+  "topic_ko": "운동회",
+  "number": 65,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Sports Meet",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "today",
+      "ko": "오늘"
+    },
+    {
+      "en": "sports meet",
+      "ko": "운동회"
+    },
+    {
+      "en": "race",
+      "ko": "달리기"
+    },
+    {
+      "en": "team",
+      "ko": "팀"
+    },
+    {
+      "en": "cheer",
+      "ko": "응원하다"
+    },
+    {
+      "en": "try",
+      "ko": "노력하다"
+    },
+    {
+      "en": "best",
+      "ko": "최선"
+    },
+    {
+      "en": "ribbon",
+      "ko": "리본"
+    },
+    {
+      "en": "excited",
+      "ko": "신나는"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Today is the sports meet.",
+      "ko": "오늘은 운동회예요.",
+      "highlights": [
+        "today",
+        "sports meet"
+      ]
+    },
+    {
+      "en": "I am in a race.",
+      "ko": "나는 달리기에 나가요.",
+      "highlights": [
+        "race"
+      ]
+    },
+    {
+      "en": "We cheer for our team.",
+      "ko": "우리는 우리 팀을 응원해요.",
+      "highlights": [
+        "team",
+        "cheer"
+      ]
+    },
+    {
+      "en": "I try my best.",
+      "ko": "나는 최선을 다해요.",
+      "highlights": [
+        "try",
+        "best"
+      ]
+    },
+    {
+      "en": "We get a ribbon.",
+      "ko": "우리는 리본을 받아요.",
+      "highlights": [
+        "ribbon"
+      ]
+    },
+    {
+      "en": "Everyone is excited.",
+      "ko": "모두 신이 나요.",
+      "highlights": [
+        "excited"
+      ]
+    },
+    {
+      "en": "We play together.",
+      "ko": "우리는 함께 놀아요.",
+      "highlights": [
+        "together"
+      ]
+    },
+    {
+      "en": "It is a happy day.",
+      "ko": "행복한 하루예요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Today is the sports meet.",
+      "ko": "오늘은 운동회예요.",
+      "highlights": [
+        "today",
+        "sports meet"
+      ]
+    },
+    {
+      "en": "I am in a race.",
+      "ko": "나는 달리기에 나가요.",
+      "highlights": [
+        "race"
+      ]
+    },
+    {
+      "en": "We cheer for our team.",
+      "ko": "우리는 우리 팀을 응원해요.",
+      "highlights": [
+        "team",
+        "cheer"
+      ]
+    },
+    {
+      "en": "I try my best.",
+      "ko": "나는 최선을 다해요.",
+      "highlights": [
+        "try",
+        "best"
+      ]
+    },
+    {
+      "en": "We get a ribbon.",
+      "ko": "우리는 리본을 받아요.",
+      "highlights": [
+        "ribbon"
+      ]
+    },
+    {
+      "en": "Everyone is excited.",
+      "ko": "모두 신이 나요.",
+      "highlights": [
+        "excited"
+      ]
+    },
+    {
+      "en": "We play together.",
+      "ko": "우리는 함께 놀아요.",
+      "highlights": [
+        "together"
+      ]
+    },
+    {
+      "en": "It is a happy day.",
+      "ko": "행복한 하루예요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_spoken": "Today is the sports meet. I am in a race. We cheer for our team. I try my best. We get a ribbon. Everyone is excited. We play together. It is a happy day."
+}

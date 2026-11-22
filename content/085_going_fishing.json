@@ -1,0 +1,191 @@
+{
+  "slug": "going_fishing",
+  "topic": "Going Fishing",
+  "topic_ko": "낚시하러 가기",
+  "number": 85,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Going Fishing",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "fishing",
+      "ko": "낚시"
+    },
+    {
+      "en": "grandpa",
+      "ko": "할아버지"
+    },
+    {
+      "en": "lake",
+      "ko": "호수"
+    },
+    {
+      "en": "rod",
+      "ko": "낚싯대"
+    },
+    {
+      "en": "wait",
+      "ko": "기다리다"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    },
+    {
+      "en": "catch",
+      "ko": "잡다"
+    },
+    {
+      "en": "fish",
+      "ko": "물고기"
+    },
+    {
+      "en": "smile",
+      "ko": "미소"
+    },
+    {
+      "en": "patient",
+      "ko": "참을성 있는"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I go fishing with my grandpa.",
+      "ko": "나는 할아버지와 낚시를 가요.",
+      "highlights": [
+        "fishing",
+        "grandpa",
+        "fish"
+      ]
+    },
+    {
+      "en": "We sit by the lake.",
+      "ko": "우리는 호숫가에 앉아요.",
+      "highlights": [
+        "lake"
+      ]
+    },
+    {
+      "en": "I hold a rod.",
+      "ko": "나는 낚싯대를 잡아요.",
+      "highlights": [
+        "rod"
+      ]
+    },
+    {
+      "en": "We wait.",
+      "ko": "우리는 기다려요.",
+      "highlights": [
+        "wait"
+      ]
+    },
+    {
+      "en": "We are quiet.",
+      "ko": "우리는 조용해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I catch a small fish.",
+      "ko": "나는 작은 물고기를 잡아요.",
+      "highlights": [
+        "catch",
+        "fish"
+      ]
+    },
+    {
+      "en": "Grandpa has a smile.",
+      "ko": "할아버지는 미소를 지어요.",
+      "highlights": [
+        "grandpa",
+        "smile"
+      ]
+    },
+    {
+      "en": "Fishing makes me patient.",
+      "ko": "낚시는 나를 참을성 있게 해요.",
+      "highlights": [
+        "fishing",
+        "fish",
+        "patient"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I go fishing with my grandpa.",
+      "ko": "나는 할아버지와 낚시를 가요.",
+      "highlights": [
+        "fishing",
+        "grandpa",
+        "fish"
+      ]
+    },
+    {
+      "en": "We sit by the lake.",
+      "ko": "우리는 호숫가에 앉아요.",
+      "highlights": [
+        "lake"
+      ]
+    },
+    {
+      "en": "I hold a rod.",
+      "ko": "나는 낚싯대를 잡아요.",
+      "highlights": [
+        "rod"
+      ]
+    },
+    {
+      "en": "We wait.",
+      "ko": "우리는 기다려요.",
+      "highlights": [
+        "wait"
+      ]
+    },
+    {
+      "en": "We are quiet.",
+      "ko": "우리는 조용해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I catch a small fish.",
+      "ko": "나는 작은 물고기를 잡아요.",
+      "highlights": [
+        "catch",
+        "fish"
+      ]
+    },
+    {
+      "en": "Grandpa has a smile.",
+      "ko": "할아버지는 미소를 지어요.",
+      "highlights": [
+        "grandpa",
+        "smile"
+      ]
+    },
+    {
+      "en": "Fishing makes me patient.",
+      "ko": "낚시는 나를 참을성 있게 해요.",
+      "highlights": [
+        "fishing",
+        "fish",
+        "patient"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I go fishing with my grandpa. We sit by the lake. I hold a rod. We wait. We are quiet. I catch a small fish. Grandpa has a smile. Fishing makes me patient."
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "my_schoolbag",
+  "topic": "My Schoolbag",
+  "topic_ko": "나의 책가방",
+  "number": 32,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Schoolbag",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "schoolbag",
+      "ko": "책가방"
+    },
+    {
+      "en": "blue",
+      "ko": "파란색"
+    },
+    {
+      "en": "heavy",
+      "ko": "무거운"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "pencil",
+      "ko": "연필"
+    },
+    {
+      "en": "notebook",
+      "ko": "공책"
+    },
+    {
+      "en": "inside",
+      "ko": "안에"
+    },
+    {
+      "en": "carry",
+      "ko": "들고 다니다"
+    },
+    {
+      "en": "every day",
+      "ko": "매일"
+    },
+    {
+      "en": "pack",
+      "ko": "챙기다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My schoolbag is blue.",
+      "ko": "나의 책가방은 파란색이에요.",
+      "highlights": [
+        "schoolbag",
+        "blue"
+      ]
+    },
+    {
+      "en": "It is a little heavy.",
+      "ko": "책가방은 조금 무거워요.",
+      "highlights": [
+        "heavy"
+      ]
+    },
+    {
+      "en": "My book is inside.",
+      "ko": "내 책은 안에 있어요.",
+      "highlights": [
+        "book",
+        "inside"
+      ]
+    },
+    {
+      "en": "My pencil is inside too.",
+      "ko": "내 연필도 안에 있어요.",
+      "highlights": [
+        "pencil",
+        "inside"
+      ]
+    },
+    {
+      "en": "My notebook is inside too.",
+      "ko": "내 공책도 안에 있어요.",
+      "highlights": [
+        "notebook",
+        "inside"
+      ]
+    },
+    {
+      "en": "I carry it every day.",
+      "ko": "나는 매일 책가방을 들고 다녀요.",
+      "highlights": [
+        "carry",
+        "every day"
+      ]
+    },
+    {
+      "en": "I pack it at night.",
+      "ko": "나는 밤에 책가방을 챙겨요.",
+      "highlights": [
+        "pack"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My schoolbag is blue.",
+      "ko": "나의 책가방은 파란색이에요.",
+      "highlights": [
+        "schoolbag",
+        "blue"
+      ]
+    },
+    {
+      "en": "It is a little heavy.",
+      "ko": "책가방은 조금 무거워요.",
+      "highlights": [
+        "heavy"
+      ]
+    },
+    {
+      "en": "My book is inside.",
+      "ko": "내 책은 안에 있어요.",
+      "highlights": [
+        "book",
+        "inside"
+      ]
+    },
+    {
+      "en": "My pencil is inside too.",
+      "ko": "내 연필도 안에 있어요.",
+      "highlights": [
+        "pencil",
+        "inside"
+      ]
+    },
+    {
+      "en": "My notebook is inside too.",
+      "ko": "내 공책도 안에 있어요.",
+      "highlights": [
+        "notebook",
+        "inside"
+      ]
+    },
+    {
+      "en": "I carry it every day.",
+      "ko": "나는 매일 책가방을 들고 다녀요.",
+      "highlights": [
+        "carry",
+        "every day"
+      ]
+    },
+    {
+      "en": "I pack it at night.",
+      "ko": "나는 밤에 책가방을 챙겨요.",
+      "highlights": [
+        "pack"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My schoolbag is blue. It is a little heavy. My book is inside. My pencil is inside too. My notebook is inside too. I carry it every day. I pack it at night."
+}

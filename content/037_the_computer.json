@@ -1,0 +1,185 @@
+{
+  "slug": "the_computer",
+  "topic": "The Computer",
+  "topic_ko": "컴퓨터",
+  "number": 37,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Computer",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "computer",
+      "ko": "컴퓨터"
+    },
+    {
+      "en": "screen",
+      "ko": "화면"
+    },
+    {
+      "en": "keyboard",
+      "ko": "키보드"
+    },
+    {
+      "en": "mouse",
+      "ko": "마우스"
+    },
+    {
+      "en": "click",
+      "ko": "클릭하다"
+    },
+    {
+      "en": "learn",
+      "ko": "배우다"
+    },
+    {
+      "en": "game",
+      "ko": "게임"
+    },
+    {
+      "en": "short",
+      "ko": "짧은"
+    },
+    {
+      "en": "careful",
+      "ko": "조심하는"
+    },
+    {
+      "en": "turn off",
+      "ko": "끄다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is our computer.",
+      "ko": "이것은 우리 컴퓨터예요.",
+      "highlights": [
+        "computer"
+      ]
+    },
+    {
+      "en": "It has a screen",
+      "ko": "화면이 있어요.",
+      "highlights": [
+        "screen"
+      ]
+    },
+    {
+      "en": "and a keyboard.",
+      "ko": "그리고 키보드가 있어요.",
+      "highlights": [
+        "keyboard"
+      ]
+    },
+    {
+      "en": "I use the mouse.",
+      "ko": "나는 마우스를 사용해요.",
+      "highlights": [
+        "mouse"
+      ]
+    },
+    {
+      "en": "I click",
+      "ko": "나는 클릭해요.",
+      "highlights": [
+        "click"
+      ]
+    },
+    {
+      "en": "and learn.",
+      "ko": "그리고 배워요.",
+      "highlights": [
+        "learn"
+      ]
+    },
+    {
+      "en": "I play a game for a short time.",
+      "ko": "나는 짧은 시간 동안 게임을 해요.",
+      "highlights": [
+        "game",
+        "short"
+      ]
+    },
+    {
+      "en": "I am careful.",
+      "ko": "나는 조심해요.",
+      "highlights": [
+        "careful"
+      ]
+    },
+    {
+      "en": "Then I turn off the computer.",
+      "ko": "그리고 나는 컴퓨터를 꺼요.",
+      "highlights": [
+        "computer",
+        "turn off"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is our computer.",
+      "ko": "이것은 우리 컴퓨터예요.",
+      "highlights": [
+        "computer"
+      ]
+    },
+    {
+      "en": "It has a screen and a keyboard.",
+      "ko": "화면과 키보드가 있어요.",
+      "highlights": [
+        "screen",
+        "keyboard"
+      ]
+    },
+    {
+      "en": "I use the mouse.",
+      "ko": "나는 마우스를 사용해요.",
+      "highlights": [
+        "mouse"
+      ]
+    },
+    {
+      "en": "I click and learn.",
+      "ko": "나는 클릭하고 배워요.",
+      "highlights": [
+        "click",
+        "learn"
+      ]
+    },
+    {
+      "en": "I play a game for a short time.",
+      "ko": "나는 짧은 시간 동안 게임을 해요.",
+      "highlights": [
+        "game",
+        "short"
+      ]
+    },
+    {
+      "en": "I am careful.",
+      "ko": "나는 조심해요.",
+      "highlights": [
+        "careful"
+      ]
+    },
+    {
+      "en": "Then I turn off the computer.",
+      "ko": "그리고 나는 컴퓨터를 꺼요.",
+      "highlights": [
+        "computer",
+        "turn off"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is our computer. It has a screen and a keyboard. I use the mouse. I click and learn. I play a game for a short time. I am careful. Then I turn off the computer."
+}

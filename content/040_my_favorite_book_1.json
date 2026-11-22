@@ -1,0 +1,173 @@
+{
+  "slug": "my_favorite_book_1",
+  "topic": "My Favorite Book (1)",
+  "topic_ko": "내가 가장 좋아하는 책 (1)",
+  "number": 40,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Book, Part One",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "story",
+      "ko": "이야기"
+    },
+    {
+      "en": "animal",
+      "ko": "동물"
+    },
+    {
+      "en": "picture",
+      "ko": "그림"
+    },
+    {
+      "en": "bright",
+      "ko": "밝은"
+    },
+    {
+      "en": "library",
+      "ko": "도서관"
+    },
+    {
+      "en": "page",
+      "ko": "쪽"
+    },
+    {
+      "en": "interesting",
+      "ko": "재미있는"
+    },
+    {
+      "en": "again",
+      "ko": "다시"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite book is a story.",
+      "ko": "내가 가장 좋아하는 책은 이야기책이에요.",
+      "highlights": [
+        "favorite",
+        "book",
+        "story"
+      ]
+    },
+    {
+      "en": "It is about an animal.",
+      "ko": "그것은 동물 이야기예요.",
+      "highlights": [
+        "animal"
+      ]
+    },
+    {
+      "en": "The picture is bright.",
+      "ko": "그림이 밝아요.",
+      "highlights": [
+        "picture",
+        "bright"
+      ]
+    },
+    {
+      "en": "I found it at the library.",
+      "ko": "나는 도서관에서 그 책을 찾았어요.",
+      "highlights": [
+        "library"
+      ]
+    },
+    {
+      "en": "I like every page.",
+      "ko": "나는 모든 쪽이 좋아요.",
+      "highlights": [
+        "page"
+      ]
+    },
+    {
+      "en": "The story is interesting.",
+      "ko": "이야기는 재미있어요.",
+      "highlights": [
+        "story",
+        "interesting"
+      ]
+    },
+    {
+      "en": "I like to read it again.",
+      "ko": "나는 그것을 다시 읽고 싶어요.",
+      "highlights": [
+        "again"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite book is a story.",
+      "ko": "내가 가장 좋아하는 책은 이야기책이에요.",
+      "highlights": [
+        "favorite",
+        "book",
+        "story"
+      ]
+    },
+    {
+      "en": "It is about an animal.",
+      "ko": "그것은 동물 이야기예요.",
+      "highlights": [
+        "animal"
+      ]
+    },
+    {
+      "en": "The picture is bright.",
+      "ko": "그림이 밝아요.",
+      "highlights": [
+        "picture",
+        "bright"
+      ]
+    },
+    {
+      "en": "I found it at the library.",
+      "ko": "나는 도서관에서 그 책을 찾았어요.",
+      "highlights": [
+        "library"
+      ]
+    },
+    {
+      "en": "I like every page.",
+      "ko": "나는 모든 쪽이 좋아요.",
+      "highlights": [
+        "page"
+      ]
+    },
+    {
+      "en": "The story is interesting.",
+      "ko": "이야기는 재미있어요.",
+      "highlights": [
+        "story",
+        "interesting"
+      ]
+    },
+    {
+      "en": "I like to read it again.",
+      "ko": "나는 그것을 다시 읽고 싶어요.",
+      "highlights": [
+        "again"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite book is a story. It is about an animal. The picture is bright. I found it at the library. I like every page. The story is interesting. I like to read it again."
+}

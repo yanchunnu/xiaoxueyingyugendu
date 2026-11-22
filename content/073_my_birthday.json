@@ -1,0 +1,185 @@
+{
+  "slug": "my_birthday",
+  "topic": "My Birthday",
+  "topic_ko": "나의 생일",
+  "number": 73,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Birthday",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "birthday",
+      "ko": "생일"
+    },
+    {
+      "en": "ten",
+      "ko": "열"
+    },
+    {
+      "en": "cake",
+      "ko": "케이크"
+    },
+    {
+      "en": "candle",
+      "ko": "초"
+    },
+    {
+      "en": "wish",
+      "ko": "소원"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "song",
+      "ko": "노래"
+    },
+    {
+      "en": "clap",
+      "ko": "박수치다"
+    },
+    {
+      "en": "gift",
+      "ko": "선물"
+    },
+    {
+      "en": "party",
+      "ko": "파티"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Today is my birthday.",
+      "ko": "오늘은 나의 생일이에요.",
+      "highlights": [
+        "birthday"
+      ]
+    },
+    {
+      "en": "I am ten years old.",
+      "ko": "나는 열 살이에요.",
+      "highlights": [
+        "ten"
+      ]
+    },
+    {
+      "en": "I have a cake with a candle.",
+      "ko": "초가 꽂힌 케이크가 있어요.",
+      "highlights": [
+        "cake",
+        "candle"
+      ]
+    },
+    {
+      "en": "I make a wish.",
+      "ko": "나는 소원을 빌어요.",
+      "highlights": [
+        "wish"
+      ]
+    },
+    {
+      "en": "My friend sings a song.",
+      "ko": "내 친구는 노래를 불러요.",
+      "highlights": [
+        "friend",
+        "song"
+      ]
+    },
+    {
+      "en": "They clap for me.",
+      "ko": "친구들은 나를 위해 박수를 쳐요.",
+      "highlights": [
+        "clap"
+      ]
+    },
+    {
+      "en": "I get a small gift.",
+      "ko": "나는 작은 선물을 받아요.",
+      "highlights": [
+        "gift"
+      ]
+    },
+    {
+      "en": "I love my birthday party.",
+      "ko": "나는 나의 생일 파티를 사랑해요.",
+      "highlights": [
+        "birthday",
+        "party"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Today is my birthday.",
+      "ko": "오늘은 나의 생일이에요.",
+      "highlights": [
+        "birthday"
+      ]
+    },
+    {
+      "en": "I am ten years old.",
+      "ko": "나는 열 살이에요.",
+      "highlights": [
+        "ten"
+      ]
+    },
+    {
+      "en": "I have a cake with a candle.",
+      "ko": "초가 꽂힌 케이크가 있어요.",
+      "highlights": [
+        "cake",
+        "candle"
+      ]
+    },
+    {
+      "en": "I make a wish.",
+      "ko": "나는 소원을 빌어요.",
+      "highlights": [
+        "wish"
+      ]
+    },
+    {
+      "en": "My friend sings a song.",
+      "ko": "내 친구는 노래를 불러요.",
+      "highlights": [
+        "friend",
+        "song"
+      ]
+    },
+    {
+      "en": "They clap for me.",
+      "ko": "친구들은 나를 위해 박수를 쳐요.",
+      "highlights": [
+        "clap"
+      ]
+    },
+    {
+      "en": "I get a small gift.",
+      "ko": "나는 작은 선물을 받아요.",
+      "highlights": [
+        "gift"
+      ]
+    },
+    {
+      "en": "I love my birthday party.",
+      "ko": "나는 나의 생일 파티를 사랑해요.",
+      "highlights": [
+        "birthday",
+        "party"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Today is my birthday. I am ten years old. I have a cake with a candle. I make a wish. My friend sings a song. They clap for me. I get a small gift. I love my birthday party."
+}

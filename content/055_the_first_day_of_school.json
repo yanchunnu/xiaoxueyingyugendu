@@ -1,0 +1,187 @@
+{
+  "slug": "the_first_day_of_school",
+  "topic": "The First Day of School",
+  "topic_ko": "학교 첫날",
+  "number": 55,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The First Day of School",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "first",
+      "ko": "첫 번째"
+    },
+    {
+      "en": "day",
+      "ko": "날"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    },
+    {
+      "en": "new",
+      "ko": "새로운"
+    },
+    {
+      "en": "nervous",
+      "ko": "긴장되는"
+    },
+    {
+      "en": "classroom",
+      "ko": "교실"
+    },
+    {
+      "en": "teacher",
+      "ko": "선생님"
+    },
+    {
+      "en": "smile",
+      "ko": "미소"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "ready",
+      "ko": "준비된"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "It is the first day of school.",
+      "ko": "학교 첫날이에요.",
+      "highlights": [
+        "first",
+        "day",
+        "school"
+      ]
+    },
+    {
+      "en": "Everything is new.",
+      "ko": "모든 것이 새롭아요.",
+      "highlights": [
+        "new"
+      ]
+    },
+    {
+      "en": "I feel a little nervous.",
+      "ko": "나는 조금 긴장돼요.",
+      "highlights": [
+        "nervous"
+      ]
+    },
+    {
+      "en": "I find my classroom.",
+      "ko": "나는 나의 교실을 찾아요.",
+      "highlights": [
+        "classroom"
+      ]
+    },
+    {
+      "en": "My teacher has a smile.",
+      "ko": "선생님은 미소를 지어요.",
+      "highlights": [
+        "teacher",
+        "smile"
+      ]
+    },
+    {
+      "en": "I meet a new friend.",
+      "ko": "나는 새 친구를 만나요.",
+      "highlights": [
+        "new",
+        "friend"
+      ]
+    },
+    {
+      "en": "The day is good.",
+      "ko": "좋은 하루예요.",
+      "highlights": [
+        "day"
+      ]
+    },
+    {
+      "en": "I am ready.",
+      "ko": "나는 준비되었어요.",
+      "highlights": [
+        "ready"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "It is the first day of school.",
+      "ko": "학교 첫날이에요.",
+      "highlights": [
+        "first",
+        "day",
+        "school"
+      ]
+    },
+    {
+      "en": "Everything is new.",
+      "ko": "모든 것이 새롭아요.",
+      "highlights": [
+        "new"
+      ]
+    },
+    {
+      "en": "I feel a little nervous.",
+      "ko": "나는 조금 긴장돼요.",
+      "highlights": [
+        "nervous"
+      ]
+    },
+    {
+      "en": "I find my classroom.",
+      "ko": "나는 나의 교실을 찾아요.",
+      "highlights": [
+        "classroom"
+      ]
+    },
+    {
+      "en": "My teacher has a smile.",
+      "ko": "선생님은 미소를 지어요.",
+      "highlights": [
+        "teacher",
+        "smile"
+      ]
+    },
+    {
+      "en": "I meet a new friend.",
+      "ko": "나는 새 친구를 만나요.",
+      "highlights": [
+        "new",
+        "friend"
+      ]
+    },
+    {
+      "en": "The day is good.",
+      "ko": "좋은 하루예요.",
+      "highlights": [
+        "day"
+      ]
+    },
+    {
+      "en": "I am ready.",
+      "ko": "나는 준비되었어요.",
+      "highlights": [
+        "ready"
+      ]
+    }
+  ],
+  "full_passage_spoken": "It is the first day of school. Everything is new. I feel a little nervous. I find my classroom. My teacher has a smile. I meet a new friend. The day is good. I am ready."
+}

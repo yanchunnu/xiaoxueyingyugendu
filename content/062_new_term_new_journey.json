@@ -1,0 +1,177 @@
+{
+  "slug": "new_term_new_journey",
+  "topic": "New Term, New Journey",
+  "topic_ko": "새 학기, 새로운 여정",
+  "number": 62,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "New Term, New Journey",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "term",
+      "ko": "학기"
+    },
+    {
+      "en": "new",
+      "ko": "새로운"
+    },
+    {
+      "en": "today",
+      "ko": "오늘"
+    },
+    {
+      "en": "start",
+      "ko": "시작하다"
+    },
+    {
+      "en": "journey",
+      "ko": "여정"
+    },
+    {
+      "en": "goal",
+      "ko": "목표"
+    },
+    {
+      "en": "plan",
+      "ko": "계획"
+    },
+    {
+      "en": "hope",
+      "ko": "바라다"
+    },
+    {
+      "en": "grow",
+      "ko": "성장하다"
+    },
+    {
+      "en": "ready",
+      "ko": "준비된"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "A new term starts today.",
+      "ko": "오늘 새 학기가 시작돼요.",
+      "highlights": [
+        "term",
+        "new",
+        "today",
+        "start"
+      ]
+    },
+    {
+      "en": "It is a new journey.",
+      "ko": "이것은 새로운 여정이에요.",
+      "highlights": [
+        "new",
+        "journey"
+      ]
+    },
+    {
+      "en": "I have a small goal.",
+      "ko": "나는 작은 목표가 있어요.",
+      "highlights": [
+        "goal"
+      ]
+    },
+    {
+      "en": "I make a plan.",
+      "ko": "나는 계획을 세워요.",
+      "highlights": [
+        "plan"
+      ]
+    },
+    {
+      "en": "I hope to grow.",
+      "ko": "나는 성장하기를 바라요.",
+      "highlights": [
+        "hope",
+        "grow"
+      ]
+    },
+    {
+      "en": "I am ready to start.",
+      "ko": "나는 시작할 준비가 됐어요.",
+      "highlights": [
+        "start",
+        "ready"
+      ]
+    },
+    {
+      "en": "This journey can be good.",
+      "ko": "이 여정은 좋을 수 있어요.",
+      "highlights": [
+        "journey"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "A new term starts today.",
+      "ko": "오늘 새 학기가 시작돼요.",
+      "highlights": [
+        "term",
+        "new",
+        "today",
+        "start"
+      ]
+    },
+    {
+      "en": "It is a new journey.",
+      "ko": "이것은 새로운 여정이에요.",
+      "highlights": [
+        "new",
+        "journey"
+      ]
+    },
+    {
+      "en": "I have a small goal.",
+      "ko": "나는 작은 목표가 있어요.",
+      "highlights": [
+        "goal"
+      ]
+    },
+    {
+      "en": "I make a plan.",
+      "ko": "나는 계획을 세워요.",
+      "highlights": [
+        "plan"
+      ]
+    },
+    {
+      "en": "I hope to grow.",
+      "ko": "나는 성장하기를 바라요.",
+      "highlights": [
+        "hope",
+        "grow"
+      ]
+    },
+    {
+      "en": "I am ready to start.",
+      "ko": "나는 시작할 준비가 됐어요.",
+      "highlights": [
+        "start",
+        "ready"
+      ]
+    },
+    {
+      "en": "This journey can be good.",
+      "ko": "이 여정은 좋을 수 있어요.",
+      "highlights": [
+        "journey"
+      ]
+    }
+  ],
+  "full_passage_spoken": "A new term starts today. It is a new journey. I have a small goal. I make a plan. I hope to grow. I am ready to start. This journey can be good."
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "healthy_food",
+  "topic": "Healthy Food",
+  "topic_ko": "건강한 음식",
+  "number": 90,
+  "section_ko": "건강과 음식",
+  "section_en": "Health and Food",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Healthy Food",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "healthy",
+      "ko": "건강한"
+    },
+    {
+      "en": "food",
+      "ko": "음식"
+    },
+    {
+      "en": "body",
+      "ko": "몸"
+    },
+    {
+      "en": "vegetable",
+      "ko": "채소"
+    },
+    {
+      "en": "fruit",
+      "ko": "과일"
+    },
+    {
+      "en": "water",
+      "ko": "물"
+    },
+    {
+      "en": "little",
+      "ko": "조금"
+    },
+    {
+      "en": "candy",
+      "ko": "사탕"
+    },
+    {
+      "en": "rice",
+      "ko": "밥"
+    },
+    {
+      "en": "strong",
+      "ko": "튼튼한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Healthy food helps my body.",
+      "ko": "건강한 음식은 나의 몸을 도와요.",
+      "highlights": [
+        "healthy",
+        "food",
+        "body"
+      ]
+    },
+    {
+      "en": "I eat a vegetable.",
+      "ko": "나는 채소를 먹어요.",
+      "highlights": [
+        "vegetable"
+      ]
+    },
+    {
+      "en": "I eat fruit.",
+      "ko": "나는 과일을 먹어요.",
+      "highlights": [
+        "fruit"
+      ]
+    },
+    {
+      "en": "I drink water.",
+      "ko": "나는 물을 마셔요.",
+      "highlights": [
+        "water"
+      ]
+    },
+    {
+      "en": "I eat a little candy.",
+      "ko": "나는 사탕을 조금 먹어요.",
+      "highlights": [
+        "little",
+        "candy"
+      ]
+    },
+    {
+      "en": "I choose rice.",
+      "ko": "나는 밥을 골라요.",
+      "highlights": [
+        "rice"
+      ]
+    },
+    {
+      "en": "Healthy food makes me strong.",
+      "ko": "건강한 음식은 나를 튼튼하게 해요.",
+      "highlights": [
+        "healthy",
+        "food",
+        "strong"
+      ]
+    },
+    {
+      "en": "I try a new vegetable.",
+      "ko": "나는 새 채소를 먹어 봐요.",
+      "highlights": [
+        "vegetable"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Healthy food helps my body.",
+      "ko": "건강한 음식은 나의 몸을 도와요.",
+      "highlights": [
+        "healthy",
+        "food",
+        "body"
+      ]
+    },
+    {
+      "en": "I eat a vegetable.",
+      "ko": "나는 채소를 먹어요.",
+      "highlights": [
+        "vegetable"
+      ]
+    },
+    {
+      "en": "I eat fruit.",
+      "ko": "나는 과일을 먹어요.",
+      "highlights": [
+        "fruit"
+      ]
+    },
+    {
+      "en": "I drink water.",
+      "ko": "나는 물을 마셔요.",
+      "highlights": [
+        "water"
+      ]
+    },
+    {
+      "en": "I eat a little candy.",
+      "ko": "나는 사탕을 조금 먹어요.",
+      "highlights": [
+        "little",
+        "candy"
+      ]
+    },
+    {
+      "en": "I choose rice.",
+      "ko": "나는 밥을 골라요.",
+      "highlights": [
+        "rice"
+      ]
+    },
+    {
+      "en": "Healthy food makes me strong.",
+      "ko": "건강한 음식은 나를 튼튼하게 해요.",
+      "highlights": [
+        "healthy",
+        "food",
+        "strong"
+      ]
+    },
+    {
+      "en": "I try a new vegetable.",
+      "ko": "나는 새 채소를 먹어 봐요.",
+      "highlights": [
+        "vegetable"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Healthy food helps my body. I eat a vegetable. I eat fruit. I drink water. I eat a little candy. I choose rice. Healthy food makes me strong. I try a new vegetable."
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "my_favorite_season",
+  "topic": "My Favorite Season",
+  "topic_ko": "내가 가장 좋아하는 계절",
+  "number": 100,
+  "section_ko": "사계절",
+  "section_en": "The Seasons",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Season",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "season",
+      "ko": "계절"
+    },
+    {
+      "en": "spring",
+      "ko": "봄"
+    },
+    {
+      "en": "air",
+      "ko": "공기"
+    },
+    {
+      "en": "warm",
+      "ko": "따뜻한"
+    },
+    {
+      "en": "flower",
+      "ko": "꽃"
+    },
+    {
+      "en": "outside",
+      "ko": "바깥"
+    },
+    {
+      "en": "bike",
+      "ko": "자전거"
+    },
+    {
+      "en": "hope",
+      "ko": "희망"
+    },
+    {
+      "en": "year",
+      "ko": "해"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite season is spring.",
+      "ko": "내가 가장 좋아하는 계절은 봄이에요.",
+      "highlights": [
+        "favorite",
+        "season",
+        "spring"
+      ]
+    },
+    {
+      "en": "The air is warm.",
+      "ko": "공기가 따뜻해요.",
+      "highlights": [
+        "air",
+        "warm"
+      ]
+    },
+    {
+      "en": "I see a flower.",
+      "ko": "나는 꽃을 봐요.",
+      "highlights": [
+        "flower"
+      ]
+    },
+    {
+      "en": "I walk outside.",
+      "ko": "나는 바깥을 걸어요.",
+      "highlights": [
+        "outside"
+      ]
+    },
+    {
+      "en": "I ride my bike.",
+      "ko": "나는 자전거를 타요.",
+      "highlights": [
+        "bike"
+      ]
+    },
+    {
+      "en": "I feel full of hope.",
+      "ko": "나는 희망으로 가득해요.",
+      "highlights": [
+        "hope"
+      ]
+    },
+    {
+      "en": "Spring is my favorite.",
+      "ko": "봄은 내가 가장 좋아해요.",
+      "highlights": [
+        "favorite",
+        "spring"
+      ]
+    },
+    {
+      "en": "I wait for it every year.",
+      "ko": "나는 매년 봄을 기다려요.",
+      "highlights": [
+        "year"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite season is spring.",
+      "ko": "내가 가장 좋아하는 계절은 봄이에요.",
+      "highlights": [
+        "favorite",
+        "season",
+        "spring"
+      ]
+    },
+    {
+      "en": "The air is warm.",
+      "ko": "공기가 따뜻해요.",
+      "highlights": [
+        "air",
+        "warm"
+      ]
+    },
+    {
+      "en": "I see a flower.",
+      "ko": "나는 꽃을 봐요.",
+      "highlights": [
+        "flower"
+      ]
+    },
+    {
+      "en": "I walk outside.",
+      "ko": "나는 바깥을 걸어요.",
+      "highlights": [
+        "outside"
+      ]
+    },
+    {
+      "en": "I ride my bike.",
+      "ko": "나는 자전거를 타요.",
+      "highlights": [
+        "bike"
+      ]
+    },
+    {
+      "en": "I feel full of hope.",
+      "ko": "나는 희망으로 가득해요.",
+      "highlights": [
+        "hope"
+      ]
+    },
+    {
+      "en": "Spring is my favorite.",
+      "ko": "봄은 내가 가장 좋아해요.",
+      "highlights": [
+        "favorite",
+        "spring"
+      ]
+    },
+    {
+      "en": "I wait for it every year.",
+      "ko": "나는 매년 봄을 기다려요.",
+      "highlights": [
+        "year"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite season is spring. The air is warm. I see a flower. I walk outside. I ride my bike. I feel full of hope. Spring is my favorite. I wait for it every year."
+}

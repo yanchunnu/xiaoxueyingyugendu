@@ -1,0 +1,179 @@
+{
+  "slug": "my_breakfast",
+  "topic": "My Breakfast",
+  "topic_ko": "나의 아침 식사",
+  "number": 88,
+  "section_ko": "건강과 음식",
+  "section_en": "Health and Food",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Breakfast",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "breakfast",
+      "ko": "아침 식사"
+    },
+    {
+      "en": "morning",
+      "ko": "아침"
+    },
+    {
+      "en": "hungry",
+      "ko": "배고픈"
+    },
+    {
+      "en": "milk",
+      "ko": "우유"
+    },
+    {
+      "en": "bread",
+      "ko": "빵"
+    },
+    {
+      "en": "egg",
+      "ko": "달걀"
+    },
+    {
+      "en": "fruit",
+      "ko": "과일"
+    },
+    {
+      "en": "energy",
+      "ko": "힘"
+    },
+    {
+      "en": "healthy",
+      "ko": "건강한"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I eat breakfast every morning.",
+      "ko": "나는 매일 아침 식사를 해요.",
+      "highlights": [
+        "breakfast",
+        "morning"
+      ]
+    },
+    {
+      "en": "I am hungry.",
+      "ko": "나는 배가 고파요.",
+      "highlights": [
+        "hungry"
+      ]
+    },
+    {
+      "en": "I have milk",
+      "ko": "나는 우유를 마셔요.",
+      "highlights": [
+        "milk"
+      ]
+    },
+    {
+      "en": "and bread.",
+      "ko": "그리고 빵을 먹어요.",
+      "highlights": [
+        "bread"
+      ]
+    },
+    {
+      "en": "I have an egg and fruit.",
+      "ko": "나는 달걀과 과일을 먹어요.",
+      "highlights": [
+        "egg",
+        "fruit"
+      ]
+    },
+    {
+      "en": "Breakfast gives me energy.",
+      "ko": "아침 식사는 나에게 힘을 줘요.",
+      "highlights": [
+        "breakfast",
+        "energy"
+      ]
+    },
+    {
+      "en": "It is a healthy start.",
+      "ko": "건강한 시작이에요.",
+      "highlights": [
+        "healthy"
+      ]
+    },
+    {
+      "en": "Then I go to school.",
+      "ko": "그리고 나는 학교에 가요.",
+      "highlights": [
+        "school"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I eat breakfast every morning.",
+      "ko": "나는 매일 아침 식사를 해요.",
+      "highlights": [
+        "breakfast",
+        "morning"
+      ]
+    },
+    {
+      "en": "I am hungry.",
+      "ko": "나는 배가 고파요.",
+      "highlights": [
+        "hungry"
+      ]
+    },
+    {
+      "en": "I have milk and bread.",
+      "ko": "나는 우유와 빵을 먹어요.",
+      "highlights": [
+        "milk",
+        "bread"
+      ]
+    },
+    {
+      "en": "I have an egg and fruit.",
+      "ko": "나는 달걀과 과일을 먹어요.",
+      "highlights": [
+        "egg",
+        "fruit"
+      ]
+    },
+    {
+      "en": "Breakfast gives me energy.",
+      "ko": "아침 식사는 나에게 힘을 줘요.",
+      "highlights": [
+        "breakfast",
+        "energy"
+      ]
+    },
+    {
+      "en": "It is a healthy start.",
+      "ko": "건강한 시작이에요.",
+      "highlights": [
+        "healthy"
+      ]
+    },
+    {
+      "en": "Then I go to school.",
+      "ko": "그리고 나는 학교에 가요.",
+      "highlights": [
+        "school"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I eat breakfast every morning. I am hungry. I have milk and bread. I have an egg and fruit. Breakfast gives me energy. It is a healthy start. Then I go to school."
+}

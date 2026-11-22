@@ -1,0 +1,177 @@
+{
+  "slug": "my_favorite_food",
+  "topic": "My Favorite Food",
+  "topic_ko": "내가 가장 좋아하는 음식",
+  "number": 48,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Food",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "food",
+      "ko": "음식"
+    },
+    {
+      "en": "rice",
+      "ko": "밥"
+    },
+    {
+      "en": "soup",
+      "ko": "국"
+    },
+    {
+      "en": "egg",
+      "ko": "달걀"
+    },
+    {
+      "en": "chicken",
+      "ko": "닭고기"
+    },
+    {
+      "en": "yummy",
+      "ko": "맛있는"
+    },
+    {
+      "en": "lunch",
+      "ko": "점심"
+    },
+    {
+      "en": "thank",
+      "ko": "감사하다"
+    },
+    {
+      "en": "grow",
+      "ko": "자라다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite food is rice.",
+      "ko": "내가 가장 좋아하는 음식은 밥이에요.",
+      "highlights": [
+        "favorite",
+        "food",
+        "rice"
+      ]
+    },
+    {
+      "en": "I also like soup.",
+      "ko": "나는 국도 좋아해요.",
+      "highlights": [
+        "soup"
+      ]
+    },
+    {
+      "en": "I like an egg.",
+      "ko": "나는 달걀도 좋아해요.",
+      "highlights": [
+        "egg"
+      ]
+    },
+    {
+      "en": "Chicken is yummy too.",
+      "ko": "닭고기도 맛있어요.",
+      "highlights": [
+        "chicken",
+        "yummy"
+      ]
+    },
+    {
+      "en": "I eat rice at lunch.",
+      "ko": "나는 점심에 밥을 먹어요.",
+      "highlights": [
+        "rice",
+        "lunch"
+      ]
+    },
+    {
+      "en": "I say thank you for my food.",
+      "ko": "나는 음식에 감사해요.",
+      "highlights": [
+        "food",
+        "thank"
+      ]
+    },
+    {
+      "en": "Good food helps me grow.",
+      "ko": "좋은 음식은 내가 자라도록 도와요.",
+      "highlights": [
+        "food",
+        "grow"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite food is rice.",
+      "ko": "내가 가장 좋아하는 음식은 밥이에요.",
+      "highlights": [
+        "favorite",
+        "food",
+        "rice"
+      ]
+    },
+    {
+      "en": "I also like soup.",
+      "ko": "나는 국도 좋아해요.",
+      "highlights": [
+        "soup"
+      ]
+    },
+    {
+      "en": "I like an egg.",
+      "ko": "나는 달걀도 좋아해요.",
+      "highlights": [
+        "egg"
+      ]
+    },
+    {
+      "en": "Chicken is yummy too.",
+      "ko": "닭고기도 맛있어요.",
+      "highlights": [
+        "chicken",
+        "yummy"
+      ]
+    },
+    {
+      "en": "I eat rice at lunch.",
+      "ko": "나는 점심에 밥을 먹어요.",
+      "highlights": [
+        "rice",
+        "lunch"
+      ]
+    },
+    {
+      "en": "I say thank you for my food.",
+      "ko": "나는 음식에 감사해요.",
+      "highlights": [
+        "food",
+        "thank"
+      ]
+    },
+    {
+      "en": "Good food helps me grow.",
+      "ko": "좋은 음식은 내가 자라도록 도와요.",
+      "highlights": [
+        "food",
+        "grow"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite food is rice. I also like soup. I like an egg. Chicken is yummy too. I eat rice at lunch. I say thank you for my food. Good food helps me grow."
+}

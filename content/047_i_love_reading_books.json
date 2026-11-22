@@ -1,0 +1,193 @@
+{
+  "slug": "i_love_reading_books",
+  "topic": "I Love Reading Books",
+  "topic_ko": "나는 책 읽기를 좋아해요",
+  "number": 47,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "I Love Reading Books",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "love",
+      "ko": "아주 좋아하다"
+    },
+    {
+      "en": "reading",
+      "ko": "책 읽기"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    },
+    {
+      "en": "story",
+      "ko": "이야기"
+    },
+    {
+      "en": "night",
+      "ko": "밤"
+    },
+    {
+      "en": "lamp",
+      "ko": "전등"
+    },
+    {
+      "en": "word",
+      "ko": "단어"
+    },
+    {
+      "en": "library",
+      "ko": "도서관"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I love reading.",
+      "ko": "나는 책 읽기를 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "reading"
+      ]
+    },
+    {
+      "en": "I love a good book.",
+      "ko": "나는 좋은 책을 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "book"
+      ]
+    },
+    {
+      "en": "I sit in a quiet place.",
+      "ko": "나는 조용한 곳에 앉아요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like to read a story",
+      "ko": "나는 이야기를 읽는 것을 좋아해요.",
+      "highlights": [
+        "story"
+      ]
+    },
+    {
+      "en": "at night.",
+      "ko": "밤에 읽어요.",
+      "highlights": [
+        "night"
+      ]
+    },
+    {
+      "en": "The lamp is on.",
+      "ko": "전등이 켜져 있어요.",
+      "highlights": [
+        "lamp"
+      ]
+    },
+    {
+      "en": "I learn a new word.",
+      "ko": "나는 새 단어를 배워요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I go to the library.",
+      "ko": "나는 도서관에 가요.",
+      "highlights": [
+        "library"
+      ]
+    },
+    {
+      "en": "Reading makes me happy.",
+      "ko": "책 읽기는 나를 행복하게 해요.",
+      "highlights": [
+        "reading",
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I love reading.",
+      "ko": "나는 책 읽기를 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "reading"
+      ]
+    },
+    {
+      "en": "I love a good book.",
+      "ko": "나는 좋은 책을 아주 좋아해요.",
+      "highlights": [
+        "love",
+        "book"
+      ]
+    },
+    {
+      "en": "I sit in a quiet place.",
+      "ko": "나는 조용한 곳에 앉아요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like to read a story at night.",
+      "ko": "나는 밤에 이야기를 읽는 것을 좋아해요.",
+      "highlights": [
+        "story",
+        "night"
+      ]
+    },
+    {
+      "en": "The lamp is on.",
+      "ko": "전등이 켜져 있어요.",
+      "highlights": [
+        "lamp"
+      ]
+    },
+    {
+      "en": "I learn a new word.",
+      "ko": "나는 새 단어를 배워요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I go to the library.",
+      "ko": "나는 도서관에 가요.",
+      "highlights": [
+        "library"
+      ]
+    },
+    {
+      "en": "Reading makes me happy.",
+      "ko": "책 읽기는 나를 행복하게 해요.",
+      "highlights": [
+        "reading",
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I love reading. I love a good book. I sit in a quiet place. I like to read a story at night. The lamp is on. I learn a new word. I go to the library. Reading makes me happy."
+}

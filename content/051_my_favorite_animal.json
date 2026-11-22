@@ -1,0 +1,189 @@
+{
+  "slug": "my_favorite_animal",
+  "topic": "My Favorite Animal",
+  "topic_ko": "내가 가장 좋아하는 동물",
+  "number": 51,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Animal",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "animal",
+      "ko": "동물"
+    },
+    {
+      "en": "rabbit",
+      "ko": "토끼"
+    },
+    {
+      "en": "ear",
+      "ko": "귀"
+    },
+    {
+      "en": "long",
+      "ko": "긴"
+    },
+    {
+      "en": "soft",
+      "ko": "부드러운"
+    },
+    {
+      "en": "hop",
+      "ko": "깡충뛰다"
+    },
+    {
+      "en": "carrot",
+      "ko": "당근"
+    },
+    {
+      "en": "cute",
+      "ko": "귀여운"
+    },
+    {
+      "en": "gentle",
+      "ko": "순한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite animal is a rabbit.",
+      "ko": "내가 가장 좋아하는 동물은 토끼예요.",
+      "highlights": [
+        "favorite",
+        "animal",
+        "rabbit"
+      ]
+    },
+    {
+      "en": "It has long ears.",
+      "ko": "토끼는 귀가 길어요.",
+      "highlights": [
+        "ear",
+        "long"
+      ]
+    },
+    {
+      "en": "It is soft.",
+      "ko": "토끼는 부드러워요.",
+      "highlights": [
+        "soft"
+      ]
+    },
+    {
+      "en": "It can hop.",
+      "ko": "토끼는 깡충뛸 수 있어요.",
+      "highlights": [
+        "hop"
+      ]
+    },
+    {
+      "en": "It likes a carrot.",
+      "ko": "토끼는 당근을 좋아해요.",
+      "highlights": [
+        "carrot"
+      ]
+    },
+    {
+      "en": "A rabbit is cute.",
+      "ko": "토끼는 귀여워요.",
+      "highlights": [
+        "rabbit",
+        "cute"
+      ]
+    },
+    {
+      "en": "A rabbit is gentle.",
+      "ko": "토끼는 순해요.",
+      "highlights": [
+        "rabbit",
+        "gentle"
+      ]
+    },
+    {
+      "en": "I like this animal.",
+      "ko": "나는 이 동물을 좋아해요.",
+      "highlights": [
+        "animal"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite animal is a rabbit.",
+      "ko": "내가 가장 좋아하는 동물은 토끼예요.",
+      "highlights": [
+        "favorite",
+        "animal",
+        "rabbit"
+      ]
+    },
+    {
+      "en": "It has long ears.",
+      "ko": "토끼는 귀가 길어요.",
+      "highlights": [
+        "ear",
+        "long"
+      ]
+    },
+    {
+      "en": "It is soft.",
+      "ko": "토끼는 부드러워요.",
+      "highlights": [
+        "soft"
+      ]
+    },
+    {
+      "en": "It can hop.",
+      "ko": "토끼는 깡충뛸 수 있어요.",
+      "highlights": [
+        "hop"
+      ]
+    },
+    {
+      "en": "It likes a carrot.",
+      "ko": "토끼는 당근을 좋아해요.",
+      "highlights": [
+        "carrot"
+      ]
+    },
+    {
+      "en": "A rabbit is cute.",
+      "ko": "토끼는 귀여워요.",
+      "highlights": [
+        "rabbit",
+        "cute"
+      ]
+    },
+    {
+      "en": "A rabbit is gentle.",
+      "ko": "토끼는 순해요.",
+      "highlights": [
+        "rabbit",
+        "gentle"
+      ]
+    },
+    {
+      "en": "I like this animal.",
+      "ko": "나는 이 동물을 좋아해요.",
+      "highlights": [
+        "animal"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite animal is a rabbit. It has long ears. It is soft. It can hop. It likes a carrot. A rabbit is cute. A rabbit is gentle. I like this animal."
+}

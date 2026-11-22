@@ -1,0 +1,185 @@
+{
+  "slug": "the_park",
+  "topic": "The Park",
+  "topic_ko": "공원",
+  "number": 24,
+  "section_ko": "장소·풍경 묘사",
+  "section_en": "Places and Scenery",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Park",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "near",
+      "ko": "가까운"
+    },
+    {
+      "en": "tree",
+      "ko": "나무"
+    },
+    {
+      "en": "bench",
+      "ko": "벤치"
+    },
+    {
+      "en": "path",
+      "ko": "길"
+    },
+    {
+      "en": "flower",
+      "ko": "꽃"
+    },
+    {
+      "en": "bird",
+      "ko": "새"
+    },
+    {
+      "en": "swing",
+      "ko": "그네"
+    },
+    {
+      "en": "grass",
+      "ko": "풀"
+    },
+    {
+      "en": "green",
+      "ko": "초록색"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "The park is near my home.",
+      "ko": "공원은 우리 집 가까이에 있어요.",
+      "highlights": [
+        "park",
+        "near"
+      ]
+    },
+    {
+      "en": "There are many trees.",
+      "ko": "나무가 많이 있어요.",
+      "highlights": [
+        "tree"
+      ]
+    },
+    {
+      "en": "I sit on a bench.",
+      "ko": "나는 벤치에 앉아요.",
+      "highlights": [
+        "bench"
+      ]
+    },
+    {
+      "en": "I walk on the path.",
+      "ko": "나는 길을 따라 걸어요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "I see a flower and a bird.",
+      "ko": "나는 꽃과 새를 봐요.",
+      "highlights": [
+        "flower",
+        "bird"
+      ]
+    },
+    {
+      "en": "I play on the swing.",
+      "ko": "나는 그네를 타요.",
+      "highlights": [
+        "swing"
+      ]
+    },
+    {
+      "en": "The grass is green.",
+      "ko": "풀은 초록색이에요.",
+      "highlights": [
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "I like the park.",
+      "ko": "나는 공원을 좋아해요.",
+      "highlights": [
+        "park"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "The park is near my home.",
+      "ko": "공원은 우리 집 가까이에 있어요.",
+      "highlights": [
+        "park",
+        "near"
+      ]
+    },
+    {
+      "en": "There are many trees.",
+      "ko": "나무가 많이 있어요.",
+      "highlights": [
+        "tree"
+      ]
+    },
+    {
+      "en": "I sit on a bench.",
+      "ko": "나는 벤치에 앉아요.",
+      "highlights": [
+        "bench"
+      ]
+    },
+    {
+      "en": "I walk on the path.",
+      "ko": "나는 길을 따라 걸어요.",
+      "highlights": [
+        "path"
+      ]
+    },
+    {
+      "en": "I see a flower and a bird.",
+      "ko": "나는 꽃과 새를 봐요.",
+      "highlights": [
+        "flower",
+        "bird"
+      ]
+    },
+    {
+      "en": "I play on the swing.",
+      "ko": "나는 그네를 타요.",
+      "highlights": [
+        "swing"
+      ]
+    },
+    {
+      "en": "The grass is green.",
+      "ko": "풀은 초록색이에요.",
+      "highlights": [
+        "grass",
+        "green"
+      ]
+    },
+    {
+      "en": "I like the park.",
+      "ko": "나는 공원을 좋아해요.",
+      "highlights": [
+        "park"
+      ]
+    }
+  ],
+  "full_passage_spoken": "The park is near my home. There are many trees. I sit on a bench. I walk on the path. I see a flower and a bird. I play on the swing. The grass is green. I like the park."
+}

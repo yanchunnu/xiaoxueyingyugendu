@@ -1,0 +1,177 @@
+{
+  "slug": "my_garden",
+  "topic": "My Garden",
+  "topic_ko": "나의 정원",
+  "number": 38,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Garden",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "garden",
+      "ko": "정원"
+    },
+    {
+      "en": "plant",
+      "ko": "심다"
+    },
+    {
+      "en": "seed",
+      "ko": "씨"
+    },
+    {
+      "en": "soil",
+      "ko": "흙"
+    },
+    {
+      "en": "water",
+      "ko": "물을 주다"
+    },
+    {
+      "en": "leaf",
+      "ko": "잎"
+    },
+    {
+      "en": "green",
+      "ko": "초록색"
+    },
+    {
+      "en": "tomato",
+      "ko": "토마토"
+    },
+    {
+      "en": "sunny",
+      "ko": "햇빛이 좋은"
+    },
+    {
+      "en": "grow",
+      "ko": "자라다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "We have a small garden.",
+      "ko": "우리에게는 작은 정원이 있어요.",
+      "highlights": [
+        "garden"
+      ]
+    },
+    {
+      "en": "I plant a seed in the soil.",
+      "ko": "나는 흙에 씨를 심어요.",
+      "highlights": [
+        "plant",
+        "seed",
+        "soil"
+      ]
+    },
+    {
+      "en": "I water the seed.",
+      "ko": "나는 씨에 물을 줘요.",
+      "highlights": [
+        "seed",
+        "water"
+      ]
+    },
+    {
+      "en": "A green leaf grows.",
+      "ko": "초록색 잎이 자라요.",
+      "highlights": [
+        "leaf",
+        "green",
+        "grow"
+      ]
+    },
+    {
+      "en": "A tomato turns red.",
+      "ko": "토마토가 빨갛게 변해요.",
+      "highlights": [
+        "tomato"
+      ]
+    },
+    {
+      "en": "The garden is sunny.",
+      "ko": "정원은 햇빛이 좋아요.",
+      "highlights": [
+        "garden",
+        "sunny"
+      ]
+    },
+    {
+      "en": "I like to grow food.",
+      "ko": "나는 먹을 것을 기르는 것이 좋아요.",
+      "highlights": [
+        "grow"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "We have a small garden.",
+      "ko": "우리에게는 작은 정원이 있어요.",
+      "highlights": [
+        "garden"
+      ]
+    },
+    {
+      "en": "I plant a seed in the soil.",
+      "ko": "나는 흙에 씨를 심어요.",
+      "highlights": [
+        "plant",
+        "seed",
+        "soil"
+      ]
+    },
+    {
+      "en": "I water the seed.",
+      "ko": "나는 씨에 물을 줘요.",
+      "highlights": [
+        "seed",
+        "water"
+      ]
+    },
+    {
+      "en": "A green leaf grows.",
+      "ko": "초록색 잎이 자라요.",
+      "highlights": [
+        "leaf",
+        "green",
+        "grow"
+      ]
+    },
+    {
+      "en": "A tomato turns red.",
+      "ko": "토마토가 빨갛게 변해요.",
+      "highlights": [
+        "tomato"
+      ]
+    },
+    {
+      "en": "The garden is sunny.",
+      "ko": "정원은 햇빛이 좋아요.",
+      "highlights": [
+        "garden",
+        "sunny"
+      ]
+    },
+    {
+      "en": "I like to grow food.",
+      "ko": "나는 먹을 것을 기르는 것이 좋아요.",
+      "highlights": [
+        "grow"
+      ]
+    }
+  ],
+  "full_passage_spoken": "We have a small garden. I plant a seed in the soil. I water the seed. A green leaf grows. A tomato turns red. The garden is sunny. I like to grow food."
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "my_sister",
+  "topic": "My Sister",
+  "topic_ko": "나의 언니",
+  "number": 9,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Sister",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "sister",
+      "ko": "언니"
+    },
+    {
+      "en": "fourteen",
+      "ko": "열네"
+    },
+    {
+      "en": "long",
+      "ko": "긴"
+    },
+    {
+      "en": "hair",
+      "ko": "머리"
+    },
+    {
+      "en": "music",
+      "ko": "음악"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "together",
+      "ko": "함께"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    },
+    {
+      "en": "play",
+      "ko": "놀다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My sister is fourteen years old.",
+      "ko": "나의 언니는 열네 살이에요.",
+      "highlights": [
+        "sister",
+        "fourteen"
+      ]
+    },
+    {
+      "en": "She has long hair.",
+      "ko": "언니는 머리가 길어요.",
+      "highlights": [
+        "long",
+        "hair"
+      ]
+    },
+    {
+      "en": "She loves music.",
+      "ko": "언니는 음악을 사랑해요.",
+      "highlights": [
+        "music",
+        "love"
+      ]
+    },
+    {
+      "en": "She is kind to me.",
+      "ko": "언니는 나에게 친절해요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "We like to read a book together.",
+      "ko": "우리는 함께 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book",
+        "together"
+      ]
+    },
+    {
+      "en": "We play together.",
+      "ko": "우리는 함께 놀아요.",
+      "highlights": [
+        "together",
+        "play"
+      ]
+    },
+    {
+      "en": "I love my sister.",
+      "ko": "나는 언니를 사랑해요.",
+      "highlights": [
+        "sister",
+        "love"
+      ]
+    },
+    {
+      "en": "She loves me too.",
+      "ko": "언니도 나를 사랑해요.",
+      "highlights": [
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My sister is fourteen years old.",
+      "ko": "나의 언니는 열네 살이에요.",
+      "highlights": [
+        "sister",
+        "fourteen"
+      ]
+    },
+    {
+      "en": "She has long hair.",
+      "ko": "언니는 머리가 길어요.",
+      "highlights": [
+        "long",
+        "hair"
+      ]
+    },
+    {
+      "en": "She loves music.",
+      "ko": "언니는 음악을 사랑해요.",
+      "highlights": [
+        "music",
+        "love"
+      ]
+    },
+    {
+      "en": "She is kind to me.",
+      "ko": "언니는 나에게 친절해요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "We like to read a book together.",
+      "ko": "우리는 함께 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book",
+        "together"
+      ]
+    },
+    {
+      "en": "We play together.",
+      "ko": "우리는 함께 놀아요.",
+      "highlights": [
+        "together",
+        "play"
+      ]
+    },
+    {
+      "en": "I love my sister.",
+      "ko": "나는 언니를 사랑해요.",
+      "highlights": [
+        "sister",
+        "love"
+      ]
+    },
+    {
+      "en": "She loves me too.",
+      "ko": "언니도 나를 사랑해요.",
+      "highlights": [
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My sister is fourteen years old. She has long hair. She loves music. She is kind to me. We like to read a book together. We play together. I love my sister. She loves me too."
+}

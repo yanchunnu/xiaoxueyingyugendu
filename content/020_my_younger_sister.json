@@ -1,0 +1,195 @@
+{
+  "slug": "my_younger_sister",
+  "topic": "My Younger Sister",
+  "topic_ko": "나의 여동생",
+  "number": 20,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Younger Sister",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "younger",
+      "ko": "더 어린"
+    },
+    {
+      "en": "sister",
+      "ko": "여동생"
+    },
+    {
+      "en": "six",
+      "ko": "여섯"
+    },
+    {
+      "en": "small",
+      "ko": "작은"
+    },
+    {
+      "en": "cute",
+      "ko": "귀여운"
+    },
+    {
+      "en": "doll",
+      "ko": "인형"
+    },
+    {
+      "en": "follow",
+      "ko": "따라오다"
+    },
+    {
+      "en": "cry",
+      "ko": "울다"
+    },
+    {
+      "en": "hug",
+      "ko": "안아 주다"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My younger sister is six years old.",
+      "ko": "나의 여동생은 여섯 살이에요.",
+      "highlights": [
+        "younger",
+        "sister",
+        "six"
+      ]
+    },
+    {
+      "en": "She is small",
+      "ko": "여동생은 작아요.",
+      "highlights": [
+        "small"
+      ]
+    },
+    {
+      "en": "and cute.",
+      "ko": "그리고 귀여워요.",
+      "highlights": [
+        "cute"
+      ]
+    },
+    {
+      "en": "She has a doll.",
+      "ko": "여동생은 인형을 가지고 있어요.",
+      "highlights": [
+        "doll"
+      ]
+    },
+    {
+      "en": "She likes to follow me.",
+      "ko": "여동생은 나를 따라오는 것을 좋아해요.",
+      "highlights": [
+        "follow"
+      ]
+    },
+    {
+      "en": "Sometimes she starts to cry.",
+      "ko": "가끔 여동생은 울기 시작해요.",
+      "highlights": [
+        "cry"
+      ]
+    },
+    {
+      "en": "Then I hug her.",
+      "ko": "그러면 나는 여동생을 안아 줘요.",
+      "highlights": [
+        "hug"
+      ]
+    },
+    {
+      "en": "I love my younger sister.",
+      "ko": "나는 여동생을 사랑해요.",
+      "highlights": [
+        "younger",
+        "sister",
+        "love"
+      ]
+    },
+    {
+      "en": "She loves me too.",
+      "ko": "여동생도 나를 사랑해요.",
+      "highlights": [
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My younger sister is six years old.",
+      "ko": "나의 여동생은 여섯 살이에요.",
+      "highlights": [
+        "younger",
+        "sister",
+        "six"
+      ]
+    },
+    {
+      "en": "She is small and cute.",
+      "ko": "여동생은 작고 귀여워요.",
+      "highlights": [
+        "small",
+        "cute"
+      ]
+    },
+    {
+      "en": "She has a doll.",
+      "ko": "여동생은 인형을 가지고 있어요.",
+      "highlights": [
+        "doll"
+      ]
+    },
+    {
+      "en": "She likes to follow me.",
+      "ko": "여동생은 나를 따라오는 것을 좋아해요.",
+      "highlights": [
+        "follow"
+      ]
+    },
+    {
+      "en": "Sometimes she starts to cry.",
+      "ko": "가끔 여동생은 울기 시작해요.",
+      "highlights": [
+        "cry"
+      ]
+    },
+    {
+      "en": "Then I hug her.",
+      "ko": "그러면 나는 여동생을 안아 줘요.",
+      "highlights": [
+        "hug"
+      ]
+    },
+    {
+      "en": "I love my younger sister.",
+      "ko": "나는 여동생을 사랑해요.",
+      "highlights": [
+        "younger",
+        "sister",
+        "love"
+      ]
+    },
+    {
+      "en": "She loves me too.",
+      "ko": "여동생도 나를 사랑해요.",
+      "highlights": [
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My younger sister is six years old. She is small and cute. She has a doll. She likes to follow me. Sometimes she starts to cry. Then I hug her. I love my younger sister. She loves me too."
+}

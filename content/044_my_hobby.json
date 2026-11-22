@@ -1,0 +1,179 @@
+{
+  "slug": "my_hobby",
+  "topic": "My Hobby",
+  "topic_ko": "나의 취미",
+  "number": 44,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Hobby",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "hobby",
+      "ko": "취미"
+    },
+    {
+      "en": "drawing",
+      "ko": "그림 그리기"
+    },
+    {
+      "en": "picture",
+      "ko": "그림"
+    },
+    {
+      "en": "paper",
+      "ko": "종이"
+    },
+    {
+      "en": "color",
+      "ko": "색칠하다"
+    },
+    {
+      "en": "free time",
+      "ko": "여가 시간"
+    },
+    {
+      "en": "calm",
+      "ko": "차분한"
+    },
+    {
+      "en": "enjoy",
+      "ko": "즐기다"
+    },
+    {
+      "en": "show",
+      "ko": "보여 주다"
+    },
+    {
+      "en": "mom",
+      "ko": "엄마"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My hobby is drawing.",
+      "ko": "나의 취미는 그림 그리기예요.",
+      "highlights": [
+        "hobby",
+        "drawing"
+      ]
+    },
+    {
+      "en": "I draw a picture on paper.",
+      "ko": "나는 종이에 그림을 그려요.",
+      "highlights": [
+        "picture",
+        "paper"
+      ]
+    },
+    {
+      "en": "I color the picture.",
+      "ko": "나는 그림에 색칠해요.",
+      "highlights": [
+        "picture",
+        "color"
+      ]
+    },
+    {
+      "en": "I draw in my free time.",
+      "ko": "나는 여가 시간에 그림을 그려요.",
+      "highlights": [
+        "free time"
+      ]
+    },
+    {
+      "en": "Drawing makes me calm.",
+      "ko": "그림 그리기는 나를 차분하게 해요.",
+      "highlights": [
+        "drawing",
+        "calm"
+      ]
+    },
+    {
+      "en": "I enjoy my hobby.",
+      "ko": "나는 나의 취미를 즐겨요.",
+      "highlights": [
+        "hobby",
+        "enjoy"
+      ]
+    },
+    {
+      "en": "I show the picture to my mom.",
+      "ko": "나는 그림을 엄마에게 보여 줘요.",
+      "highlights": [
+        "picture",
+        "show",
+        "mom"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My hobby is drawing.",
+      "ko": "나의 취미는 그림 그리기예요.",
+      "highlights": [
+        "hobby",
+        "drawing"
+      ]
+    },
+    {
+      "en": "I draw a picture on paper.",
+      "ko": "나는 종이에 그림을 그려요.",
+      "highlights": [
+        "picture",
+        "paper"
+      ]
+    },
+    {
+      "en": "I color the picture.",
+      "ko": "나는 그림에 색칠해요.",
+      "highlights": [
+        "picture",
+        "color"
+      ]
+    },
+    {
+      "en": "I draw in my free time.",
+      "ko": "나는 여가 시간에 그림을 그려요.",
+      "highlights": [
+        "free time"
+      ]
+    },
+    {
+      "en": "Drawing makes me calm.",
+      "ko": "그림 그리기는 나를 차분하게 해요.",
+      "highlights": [
+        "drawing",
+        "calm"
+      ]
+    },
+    {
+      "en": "I enjoy my hobby.",
+      "ko": "나는 나의 취미를 즐겨요.",
+      "highlights": [
+        "hobby",
+        "enjoy"
+      ]
+    },
+    {
+      "en": "I show the picture to my mom.",
+      "ko": "나는 그림을 엄마에게 보여 줘요.",
+      "highlights": [
+        "picture",
+        "show",
+        "mom"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My hobby is drawing. I draw a picture on paper. I color the picture. I draw in my free time. Drawing makes me calm. I enjoy my hobby. I show the picture to my mom."
+}

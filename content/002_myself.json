@@ -1,0 +1,173 @@
+{
+  "slug": "myself",
+  "topic": "Myself",
+  "topic_ko": "나 자신",
+  "number": 2,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Myself",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "girl",
+      "ko": "여자아이"
+    },
+    {
+      "en": "want",
+      "ko": "~하고 싶다"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "smile",
+      "ko": "웃다"
+    },
+    {
+      "en": "people",
+      "ko": "사람들"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    },
+    {
+      "en": "tall",
+      "ko": "키가 큰"
+    },
+    {
+      "en": "brave",
+      "ko": "용감한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I am a girl.",
+      "ko": "나는 여자아이예요.",
+      "highlights": [
+        "girl"
+      ]
+    },
+    {
+      "en": "I want to be kind.",
+      "ko": "나는 친절한 사람이 되고 싶어요.",
+      "highlights": [
+        "want",
+        "kind"
+      ]
+    },
+    {
+      "en": "I smile at people.",
+      "ko": "나는 사람들을 보면 웃어요.",
+      "highlights": [
+        "smile",
+        "people"
+      ]
+    },
+    {
+      "en": "I help my friend.",
+      "ko": "나는 친구를 도와요.",
+      "highlights": [
+        "help",
+        "friend"
+      ]
+    },
+    {
+      "en": "I am happy.",
+      "ko": "나는 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    },
+    {
+      "en": "I am not very tall.",
+      "ko": "나는 키가 별로 크지 않아요.",
+      "highlights": [
+        "tall"
+      ]
+    },
+    {
+      "en": "I want to be brave.",
+      "ko": "나는 용감해지고 싶어요.",
+      "highlights": [
+        "want",
+        "brave"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I am a girl.",
+      "ko": "나는 여자아이예요.",
+      "highlights": [
+        "girl"
+      ]
+    },
+    {
+      "en": "I want to be kind.",
+      "ko": "나는 친절한 사람이 되고 싶어요.",
+      "highlights": [
+        "want",
+        "kind"
+      ]
+    },
+    {
+      "en": "I smile at people.",
+      "ko": "나는 사람들을 보면 웃어요.",
+      "highlights": [
+        "smile",
+        "people"
+      ]
+    },
+    {
+      "en": "I help my friend.",
+      "ko": "나는 친구를 도와요.",
+      "highlights": [
+        "help",
+        "friend"
+      ]
+    },
+    {
+      "en": "I am happy.",
+      "ko": "나는 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    },
+    {
+      "en": "I am not very tall.",
+      "ko": "나는 키가 별로 크지 않아요.",
+      "highlights": [
+        "tall"
+      ]
+    },
+    {
+      "en": "I want to be brave.",
+      "ko": "나는 용감해지고 싶어요.",
+      "highlights": [
+        "want",
+        "brave"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I am a girl. I want to be kind. I smile at people. I help my friend. I am happy. I am not very tall. I want to be brave."
+}

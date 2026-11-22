@@ -1,0 +1,189 @@
+{
+  "slug": "the_importance_of_reading",
+  "topic": "The Importance of Reading",
+  "topic_ko": "독서가 중요한 이유",
+  "number": 69,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "The Importance of Reading",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "reading",
+      "ko": "독서"
+    },
+    {
+      "en": "important",
+      "ko": "중요한"
+    },
+    {
+      "en": "mind",
+      "ko": "마음"
+    },
+    {
+      "en": "idea",
+      "ko": "생각"
+    },
+    {
+      "en": "word",
+      "ko": "단어"
+    },
+    {
+      "en": "imagine",
+      "ko": "상상하다"
+    },
+    {
+      "en": "place",
+      "ko": "장소"
+    },
+    {
+      "en": "grow",
+      "ko": "자라다"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Reading is important.",
+      "ko": "독서는 중요해요.",
+      "highlights": [
+        "reading",
+        "important"
+      ]
+    },
+    {
+      "en": "It gives my mind a new idea.",
+      "ko": "독서는 내 마음에 새로운 생각을 줘요.",
+      "highlights": [
+        "mind",
+        "idea"
+      ]
+    },
+    {
+      "en": "I learn a new word.",
+      "ko": "나는 새 단어를 배워요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I imagine a new place.",
+      "ko": "나는 새로운 장소를 상상해요.",
+      "highlights": [
+        "imagine",
+        "place"
+      ]
+    },
+    {
+      "en": "Reading helps me grow.",
+      "ko": "독서는 내가 자라도록 도와요.",
+      "highlights": [
+        "reading",
+        "grow"
+      ]
+    },
+    {
+      "en": "I sit in a quiet place.",
+      "ko": "나는 조용한 곳에 앉아요.",
+      "highlights": [
+        "place",
+        "quiet"
+      ]
+    },
+    {
+      "en": "Books are good friends.",
+      "ko": "책은 좋은 친구예요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I like reading.",
+      "ko": "나는 독서를 좋아해요.",
+      "highlights": [
+        "reading"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Reading is important.",
+      "ko": "독서는 중요해요.",
+      "highlights": [
+        "reading",
+        "important"
+      ]
+    },
+    {
+      "en": "It gives my mind a new idea.",
+      "ko": "독서는 내 마음에 새로운 생각을 줘요.",
+      "highlights": [
+        "mind",
+        "idea"
+      ]
+    },
+    {
+      "en": "I learn a new word.",
+      "ko": "나는 새 단어를 배워요.",
+      "highlights": [
+        "word"
+      ]
+    },
+    {
+      "en": "I imagine a new place.",
+      "ko": "나는 새로운 장소를 상상해요.",
+      "highlights": [
+        "imagine",
+        "place"
+      ]
+    },
+    {
+      "en": "Reading helps me grow.",
+      "ko": "독서는 내가 자라도록 도와요.",
+      "highlights": [
+        "reading",
+        "grow"
+      ]
+    },
+    {
+      "en": "I sit in a quiet place.",
+      "ko": "나는 조용한 곳에 앉아요.",
+      "highlights": [
+        "place",
+        "quiet"
+      ]
+    },
+    {
+      "en": "Books are good friends.",
+      "ko": "책은 좋은 친구예요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I like reading.",
+      "ko": "나는 독서를 좋아해요.",
+      "highlights": [
+        "reading"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Reading is important. It gives my mind a new idea. I learn a new word. I imagine a new place. Reading helps me grow. I sit in a quiet place. Books are good friends. I like reading."
+}

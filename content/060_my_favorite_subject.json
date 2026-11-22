@@ -1,0 +1,175 @@
+{
+  "slug": "my_favorite_subject",
+  "topic": "My Favorite Subject",
+  "topic_ko": "내가 가장 좋아하는 과목",
+  "number": 60,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Subject",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "subject",
+      "ko": "과목"
+    },
+    {
+      "en": "science",
+      "ko": "과학"
+    },
+    {
+      "en": "question",
+      "ko": "질문"
+    },
+    {
+      "en": "experiment",
+      "ko": "실험"
+    },
+    {
+      "en": "interesting",
+      "ko": "흥미로운"
+    },
+    {
+      "en": "teacher",
+      "ko": "선생님"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    },
+    {
+      "en": "star",
+      "ko": "별"
+    },
+    {
+      "en": "learn",
+      "ko": "배우다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite subject is science.",
+      "ko": "내가 가장 좋아하는 과목은 과학이에요.",
+      "highlights": [
+        "favorite",
+        "subject",
+        "science"
+      ]
+    },
+    {
+      "en": "We ask a question.",
+      "ko": "우리는 질문을 해요.",
+      "highlights": [
+        "question"
+      ]
+    },
+    {
+      "en": "We do a small experiment.",
+      "ko": "우리는 작은 실험을 해요.",
+      "highlights": [
+        "experiment"
+      ]
+    },
+    {
+      "en": "Science is interesting.",
+      "ko": "과학은 흥미로워요.",
+      "highlights": [
+        "science",
+        "interesting"
+      ]
+    },
+    {
+      "en": "My teacher makes it fun.",
+      "ko": "선생님은 과학을 재미있게 해 줘요.",
+      "highlights": [
+        "teacher",
+        "fun"
+      ]
+    },
+    {
+      "en": "I learn about a star.",
+      "ko": "나는 별에 대해 배워요.",
+      "highlights": [
+        "star",
+        "learn"
+      ]
+    },
+    {
+      "en": "I want to learn more.",
+      "ko": "나는 더 배우고 싶어요.",
+      "highlights": [
+        "learn"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite subject is science.",
+      "ko": "내가 가장 좋아하는 과목은 과학이에요.",
+      "highlights": [
+        "favorite",
+        "subject",
+        "science"
+      ]
+    },
+    {
+      "en": "We ask a question.",
+      "ko": "우리는 질문을 해요.",
+      "highlights": [
+        "question"
+      ]
+    },
+    {
+      "en": "We do a small experiment.",
+      "ko": "우리는 작은 실험을 해요.",
+      "highlights": [
+        "experiment"
+      ]
+    },
+    {
+      "en": "Science is interesting.",
+      "ko": "과학은 흥미로워요.",
+      "highlights": [
+        "science",
+        "interesting"
+      ]
+    },
+    {
+      "en": "My teacher makes it fun.",
+      "ko": "선생님은 과학을 재미있게 해 줘요.",
+      "highlights": [
+        "teacher",
+        "fun"
+      ]
+    },
+    {
+      "en": "I learn about a star.",
+      "ko": "나는 별에 대해 배워요.",
+      "highlights": [
+        "star",
+        "learn"
+      ]
+    },
+    {
+      "en": "I want to learn more.",
+      "ko": "나는 더 배우고 싶어요.",
+      "highlights": [
+        "learn"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite subject is science. We ask a question. We do a small experiment. Science is interesting. My teacher makes it fun. I learn about a star. I want to learn more."
+}

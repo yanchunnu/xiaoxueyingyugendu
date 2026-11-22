@@ -1,0 +1,173 @@
+{
+  "slug": "my_classroom",
+  "topic": "My Classroom",
+  "topic_ko": "나의 교실",
+  "number": 58,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Classroom",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "classroom",
+      "ko": "교실"
+    },
+    {
+      "en": "seat",
+      "ko": "자리"
+    },
+    {
+      "en": "window",
+      "ko": "창문"
+    },
+    {
+      "en": "board",
+      "ko": "칠판"
+    },
+    {
+      "en": "clean",
+      "ko": "깨끗한"
+    },
+    {
+      "en": "clock",
+      "ko": "시계"
+    },
+    {
+      "en": "wall",
+      "ko": "벽"
+    },
+    {
+      "en": "bright",
+      "ko": "밝은"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    },
+    {
+      "en": "like",
+      "ko": "좋아하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my classroom.",
+      "ko": "이곳은 나의 교실이에요.",
+      "highlights": [
+        "classroom"
+      ]
+    },
+    {
+      "en": "My seat is near the window.",
+      "ko": "나의 자리는 창문 가까이예요.",
+      "highlights": [
+        "seat",
+        "window"
+      ]
+    },
+    {
+      "en": "The board is clean.",
+      "ko": "칠판은 깨끗해요.",
+      "highlights": [
+        "board",
+        "clean"
+      ]
+    },
+    {
+      "en": "A clock is on the wall.",
+      "ko": "벽에 시계가 있어요.",
+      "highlights": [
+        "clock",
+        "wall"
+      ]
+    },
+    {
+      "en": "The room is bright.",
+      "ko": "교실은 밝아요.",
+      "highlights": [
+        "bright"
+      ]
+    },
+    {
+      "en": "We keep it quiet.",
+      "ko": "우리는 교실을 조용히 해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like my classroom.",
+      "ko": "나는 나의 교실을 좋아해요.",
+      "highlights": [
+        "classroom",
+        "like"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my classroom.",
+      "ko": "이곳은 나의 교실이에요.",
+      "highlights": [
+        "classroom"
+      ]
+    },
+    {
+      "en": "My seat is near the window.",
+      "ko": "나의 자리는 창문 가까이예요.",
+      "highlights": [
+        "seat",
+        "window"
+      ]
+    },
+    {
+      "en": "The board is clean.",
+      "ko": "칠판은 깨끗해요.",
+      "highlights": [
+        "board",
+        "clean"
+      ]
+    },
+    {
+      "en": "A clock is on the wall.",
+      "ko": "벽에 시계가 있어요.",
+      "highlights": [
+        "clock",
+        "wall"
+      ]
+    },
+    {
+      "en": "The room is bright.",
+      "ko": "교실은 밝아요.",
+      "highlights": [
+        "bright"
+      ]
+    },
+    {
+      "en": "We keep it quiet.",
+      "ko": "우리는 교실을 조용히 해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like my classroom.",
+      "ko": "나는 나의 교실을 좋아해요.",
+      "highlights": [
+        "classroom",
+        "like"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is my classroom. My seat is near the window. The board is clean. A clock is on the wall. The room is bright. We keep it quiet. I like my classroom."
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "my_favorite_toy",
+  "topic": "My Favorite Toy",
+  "topic_ko": "내가 가장 좋아하는 장난감",
+  "number": 35,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Toy",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "toy",
+      "ko": "장난감"
+    },
+    {
+      "en": "robot",
+      "ko": "로봇"
+    },
+    {
+      "en": "red",
+      "ko": "빨간"
+    },
+    {
+      "en": "small",
+      "ko": "작은"
+    },
+    {
+      "en": "arm",
+      "ko": "팔"
+    },
+    {
+      "en": "move",
+      "ko": "움직이다"
+    },
+    {
+      "en": "light",
+      "ko": "불빛"
+    },
+    {
+      "en": "gift",
+      "ko": "선물"
+    },
+    {
+      "en": "mom",
+      "ko": "엄마"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite toy is a robot.",
+      "ko": "내가 가장 좋아하는 장난감은 로봇이에요.",
+      "highlights": [
+        "favorite",
+        "toy",
+        "robot"
+      ]
+    },
+    {
+      "en": "It is red",
+      "ko": "로봇은 빨개요.",
+      "highlights": [
+        "red"
+      ]
+    },
+    {
+      "en": "and small.",
+      "ko": "그리고 작아요.",
+      "highlights": [
+        "small"
+      ]
+    },
+    {
+      "en": "Its arm can move.",
+      "ko": "로봇의 팔은 움직일 수 있어요.",
+      "highlights": [
+        "arm",
+        "move"
+      ]
+    },
+    {
+      "en": "A light turns on.",
+      "ko": "불빛이 켜져요.",
+      "highlights": [
+        "light"
+      ]
+    },
+    {
+      "en": "It is a gift from my mom.",
+      "ko": "그것은 엄마가 준 선물이에요.",
+      "highlights": [
+        "gift",
+        "mom"
+      ]
+    },
+    {
+      "en": "I play with my toy.",
+      "ko": "나는 나의 장난감을 가지고 놀아요.",
+      "highlights": [
+        "toy"
+      ]
+    },
+    {
+      "en": "I take care of my toy.",
+      "ko": "나는 장난감을 소중히 다뤄요.",
+      "highlights": [
+        "toy"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite toy is a robot.",
+      "ko": "내가 가장 좋아하는 장난감은 로봇이에요.",
+      "highlights": [
+        "favorite",
+        "toy",
+        "robot"
+      ]
+    },
+    {
+      "en": "It is red and small.",
+      "ko": "로봇은 빨갛고 작아요.",
+      "highlights": [
+        "red",
+        "small"
+      ]
+    },
+    {
+      "en": "Its arm can move.",
+      "ko": "로봇의 팔은 움직일 수 있어요.",
+      "highlights": [
+        "arm",
+        "move"
+      ]
+    },
+    {
+      "en": "A light turns on.",
+      "ko": "불빛이 켜져요.",
+      "highlights": [
+        "light"
+      ]
+    },
+    {
+      "en": "It is a gift from my mom.",
+      "ko": "그것은 엄마가 준 선물이에요.",
+      "highlights": [
+        "gift",
+        "mom"
+      ]
+    },
+    {
+      "en": "I play with my toy.",
+      "ko": "나는 나의 장난감을 가지고 놀아요.",
+      "highlights": [
+        "toy"
+      ]
+    },
+    {
+      "en": "I take care of my toy.",
+      "ko": "나는 장난감을 소중히 다뤄요.",
+      "highlights": [
+        "toy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite toy is a robot. It is red and small. Its arm can move. A light turns on. It is a gift from my mom. I play with my toy. I take care of my toy."
+}

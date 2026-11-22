@@ -1,0 +1,199 @@
+{
+  "slug": "my_good_friend",
+  "topic": "My Good Friend",
+  "topic_ko": "나의 좋은 친구",
+  "number": 21,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Good Friend",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "good",
+      "ko": "좋은"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "listen",
+      "ko": "듣다"
+    },
+    {
+      "en": "wait",
+      "ko": "기다리다"
+    },
+    {
+      "en": "share",
+      "ko": "나누다"
+    },
+    {
+      "en": "fair",
+      "ko": "공정한"
+    },
+    {
+      "en": "team",
+      "ko": "팀"
+    },
+    {
+      "en": "cheer",
+      "ko": "응원하다"
+    },
+    {
+      "en": "win",
+      "ko": "이기다"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "A good friend can listen.",
+      "ko": "좋은 친구는 들을 수 있어요.",
+      "highlights": [
+        "good",
+        "friend",
+        "listen"
+      ]
+    },
+    {
+      "en": "A good friend can wait.",
+      "ko": "좋은 친구는 기다릴 수 있어요.",
+      "highlights": [
+        "good",
+        "friend",
+        "wait"
+      ]
+    },
+    {
+      "en": "We share",
+      "ko": "우리는 나눠요.",
+      "highlights": [
+        "share"
+      ]
+    },
+    {
+      "en": "and play fair.",
+      "ko": "그리고 공정하게 놀아요.",
+      "highlights": [
+        "fair"
+      ]
+    },
+    {
+      "en": "We are on one team.",
+      "ko": "우리는 한 팀이에요.",
+      "highlights": [
+        "team"
+      ]
+    },
+    {
+      "en": "We cheer for our team.",
+      "ko": "우리는 우리 팀을 응원해요.",
+      "highlights": [
+        "team",
+        "cheer"
+      ]
+    },
+    {
+      "en": "We want to win.",
+      "ko": "우리는 이기고 싶어요.",
+      "highlights": [
+        "win"
+      ]
+    },
+    {
+      "en": "Tom can be kind.",
+      "ko": "톰은 친절할 수 있어요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "He is my good friend.",
+      "ko": "그는 나의 좋은 친구예요.",
+      "highlights": [
+        "good",
+        "friend"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "A good friend can listen.",
+      "ko": "좋은 친구는 들을 수 있어요.",
+      "highlights": [
+        "good",
+        "friend",
+        "listen"
+      ]
+    },
+    {
+      "en": "A good friend can wait.",
+      "ko": "좋은 친구는 기다릴 수 있어요.",
+      "highlights": [
+        "good",
+        "friend",
+        "wait"
+      ]
+    },
+    {
+      "en": "We share and play fair.",
+      "ko": "우리는 나누고 공정하게 놀아요.",
+      "highlights": [
+        "share",
+        "fair"
+      ]
+    },
+    {
+      "en": "We are on one team.",
+      "ko": "우리는 한 팀이에요.",
+      "highlights": [
+        "team"
+      ]
+    },
+    {
+      "en": "We cheer for our team.",
+      "ko": "우리는 우리 팀을 응원해요.",
+      "highlights": [
+        "team",
+        "cheer"
+      ]
+    },
+    {
+      "en": "We want to win.",
+      "ko": "우리는 이기고 싶어요.",
+      "highlights": [
+        "win"
+      ]
+    },
+    {
+      "en": "Tom can be kind.",
+      "ko": "톰은 친절할 수 있어요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "He is my good friend.",
+      "ko": "그는 나의 좋은 친구예요.",
+      "highlights": [
+        "good",
+        "friend"
+      ]
+    }
+  ],
+  "full_passage_spoken": "A good friend can listen. A good friend can wait. We share and play fair. We are on one team. We cheer for our team. We want to win. Tom can be kind. He is my good friend."
+}

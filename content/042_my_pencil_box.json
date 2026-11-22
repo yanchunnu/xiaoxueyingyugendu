@@ -1,0 +1,197 @@
+{
+  "slug": "my_pencil_box",
+  "topic": "My Pencil Box",
+  "topic_ko": "나의 필통",
+  "number": 42,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Pencil Box",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "pencil box",
+      "ko": "필통"
+    },
+    {
+      "en": "open",
+      "ko": "열다"
+    },
+    {
+      "en": "pencil",
+      "ko": "연필"
+    },
+    {
+      "en": "eraser",
+      "ko": "지우개"
+    },
+    {
+      "en": "ruler",
+      "ko": "자"
+    },
+    {
+      "en": "crayon",
+      "ko": "크레용"
+    },
+    {
+      "en": "tidy",
+      "ko": "정돈된"
+    },
+    {
+      "en": "sharp",
+      "ko": "뾰족한"
+    },
+    {
+      "en": "ready",
+      "ko": "준비된"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my pencil box.",
+      "ko": "이것은 나의 필통이에요.",
+      "highlights": [
+        "pencil box",
+        "pencil"
+      ]
+    },
+    {
+      "en": "I open it at school.",
+      "ko": "나는 학교에서 필통을 열어요.",
+      "highlights": [
+        "open",
+        "school"
+      ]
+    },
+    {
+      "en": "I have two pencils.",
+      "ko": "연필이 두 자루 있어요.",
+      "highlights": [
+        "pencil"
+      ]
+    },
+    {
+      "en": "I have an eraser",
+      "ko": "지우개가 있어요.",
+      "highlights": [
+        "eraser"
+      ]
+    },
+    {
+      "en": "and a ruler.",
+      "ko": "그리고 자가 있어요.",
+      "highlights": [
+        "ruler"
+      ]
+    },
+    {
+      "en": "I have a crayon.",
+      "ko": "크레용이 있어요.",
+      "highlights": [
+        "crayon"
+      ]
+    },
+    {
+      "en": "I keep them tidy.",
+      "ko": "나는 그것들을 정돈해 두어요.",
+      "highlights": [
+        "tidy"
+      ]
+    },
+    {
+      "en": "My pencil is sharp.",
+      "ko": "내 연필은 뾰족해요.",
+      "highlights": [
+        "pencil",
+        "sharp"
+      ]
+    },
+    {
+      "en": "My pencil box is ready.",
+      "ko": "나의 필통은 준비되어 있어요.",
+      "highlights": [
+        "pencil box",
+        "pencil",
+        "ready"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my pencil box.",
+      "ko": "이것은 나의 필통이에요.",
+      "highlights": [
+        "pencil box",
+        "pencil"
+      ]
+    },
+    {
+      "en": "I open it at school.",
+      "ko": "나는 학교에서 필통을 열어요.",
+      "highlights": [
+        "open",
+        "school"
+      ]
+    },
+    {
+      "en": "I have two pencils.",
+      "ko": "연필이 두 자루 있어요.",
+      "highlights": [
+        "pencil"
+      ]
+    },
+    {
+      "en": "I have an eraser and a ruler.",
+      "ko": "지우개와 자가 있어요.",
+      "highlights": [
+        "eraser",
+        "ruler"
+      ]
+    },
+    {
+      "en": "I have a crayon.",
+      "ko": "크레용이 있어요.",
+      "highlights": [
+        "crayon"
+      ]
+    },
+    {
+      "en": "I keep them tidy.",
+      "ko": "나는 그것들을 정돈해 두어요.",
+      "highlights": [
+        "tidy"
+      ]
+    },
+    {
+      "en": "My pencil is sharp.",
+      "ko": "내 연필은 뾰족해요.",
+      "highlights": [
+        "pencil",
+        "sharp"
+      ]
+    },
+    {
+      "en": "My pencil box is ready.",
+      "ko": "나의 필통은 준비되어 있어요.",
+      "highlights": [
+        "pencil box",
+        "pencil",
+        "ready"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is my pencil box. I open it at school. I have two pencils. I have an eraser and a ruler. I have a crayon. I keep them tidy. My pencil is sharp. My pencil box is ready."
+}

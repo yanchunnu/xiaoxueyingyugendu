@@ -1,0 +1,185 @@
+{
+  "slug": "i_like_traveling",
+  "topic": "I Like Traveling",
+  "topic_ko": "나는 여행을 좋아해요",
+  "number": 45,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "I Like Traveling",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "travel",
+      "ko": "여행하다"
+    },
+    {
+      "en": "trip",
+      "ko": "여행"
+    },
+    {
+      "en": "map",
+      "ko": "지도"
+    },
+    {
+      "en": "train",
+      "ko": "기차"
+    },
+    {
+      "en": "place",
+      "ko": "장소"
+    },
+    {
+      "en": "new",
+      "ko": "새로운"
+    },
+    {
+      "en": "photo",
+      "ko": "사진"
+    },
+    {
+      "en": "excited",
+      "ko": "신나는"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    },
+    {
+      "en": "see",
+      "ko": "보다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I like to travel.",
+      "ko": "나는 여행하는 것을 좋아해요.",
+      "highlights": [
+        "travel"
+      ]
+    },
+    {
+      "en": "I go on a short trip.",
+      "ko": "나는 짧은 여행을 가요.",
+      "highlights": [
+        "trip"
+      ]
+    },
+    {
+      "en": "I look at a map.",
+      "ko": "나는 지도를 봐요.",
+      "highlights": [
+        "map"
+      ]
+    },
+    {
+      "en": "We ride a train.",
+      "ko": "우리는 기차를 타요.",
+      "highlights": [
+        "train"
+      ]
+    },
+    {
+      "en": "I see a new place.",
+      "ko": "나는 새로운 장소를 봐요.",
+      "highlights": [
+        "place",
+        "new",
+        "see"
+      ]
+    },
+    {
+      "en": "I take a photo.",
+      "ko": "나는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "I feel excited.",
+      "ko": "나는 신이 나요.",
+      "highlights": [
+        "excited"
+      ]
+    },
+    {
+      "en": "Travel is fun.",
+      "ko": "여행은 재미있어요.",
+      "highlights": [
+        "travel",
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I like to travel.",
+      "ko": "나는 여행하는 것을 좋아해요.",
+      "highlights": [
+        "travel"
+      ]
+    },
+    {
+      "en": "I go on a short trip.",
+      "ko": "나는 짧은 여행을 가요.",
+      "highlights": [
+        "trip"
+      ]
+    },
+    {
+      "en": "I look at a map.",
+      "ko": "나는 지도를 봐요.",
+      "highlights": [
+        "map"
+      ]
+    },
+    {
+      "en": "We ride a train.",
+      "ko": "우리는 기차를 타요.",
+      "highlights": [
+        "train"
+      ]
+    },
+    {
+      "en": "I see a new place.",
+      "ko": "나는 새로운 장소를 봐요.",
+      "highlights": [
+        "place",
+        "new",
+        "see"
+      ]
+    },
+    {
+      "en": "I take a photo.",
+      "ko": "나는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "I feel excited.",
+      "ko": "나는 신이 나요.",
+      "highlights": [
+        "excited"
+      ]
+    },
+    {
+      "en": "Travel is fun.",
+      "ko": "여행은 재미있어요.",
+      "highlights": [
+        "travel",
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I like to travel. I go on a short trip. I look at a map. We ride a train. I see a new place. I take a photo. I feel excited. Travel is fun."
+}

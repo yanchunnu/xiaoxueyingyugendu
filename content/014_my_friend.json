@@ -1,0 +1,173 @@
+{
+  "slug": "my_friend",
+  "topic": "My Friend",
+  "topic_ko": "나의 친구",
+  "number": 14,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Friend",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "name",
+      "ko": "이름"
+    },
+    {
+      "en": "same",
+      "ko": "같은"
+    },
+    {
+      "en": "class",
+      "ko": "반"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "soccer",
+      "ko": "축구"
+    },
+    {
+      "en": "after school",
+      "ko": "방과 후"
+    },
+    {
+      "en": "share",
+      "ko": "나누다"
+    },
+    {
+      "en": "snack",
+      "ko": "간식"
+    },
+    {
+      "en": "good",
+      "ko": "좋은"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I have a friend.",
+      "ko": "나에게는 친구가 있어요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "His name is Tom.",
+      "ko": "그의 이름은 톰이에요.",
+      "highlights": [
+        "name"
+      ]
+    },
+    {
+      "en": "We are in the same class.",
+      "ko": "우리는 같은 반이에요.",
+      "highlights": [
+        "same",
+        "class"
+      ]
+    },
+    {
+      "en": "Tom can be kind.",
+      "ko": "톰은 친절할 수 있어요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "We play soccer after school.",
+      "ko": "우리는 방과 후에 축구를 해요.",
+      "highlights": [
+        "soccer",
+        "after school"
+      ]
+    },
+    {
+      "en": "We share a snack.",
+      "ko": "우리는 간식을 나눠요.",
+      "highlights": [
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "en": "He is a good friend.",
+      "ko": "그는 좋은 친구예요.",
+      "highlights": [
+        "friend",
+        "good"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I have a friend.",
+      "ko": "나에게는 친구가 있어요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "His name is Tom.",
+      "ko": "그의 이름은 톰이에요.",
+      "highlights": [
+        "name"
+      ]
+    },
+    {
+      "en": "We are in the same class.",
+      "ko": "우리는 같은 반이에요.",
+      "highlights": [
+        "same",
+        "class"
+      ]
+    },
+    {
+      "en": "Tom can be kind.",
+      "ko": "톰은 친절할 수 있어요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "We play soccer after school.",
+      "ko": "우리는 방과 후에 축구를 해요.",
+      "highlights": [
+        "soccer",
+        "after school"
+      ]
+    },
+    {
+      "en": "We share a snack.",
+      "ko": "우리는 간식을 나눠요.",
+      "highlights": [
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "en": "He is a good friend.",
+      "ko": "그는 좋은 친구예요.",
+      "highlights": [
+        "friend",
+        "good"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I have a friend. His name is Tom. We are in the same class. Tom can be kind. We play soccer after school. We share a snack. He is a good friend."
+}

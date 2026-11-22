@@ -1,0 +1,177 @@
+{
+  "slug": "my_home",
+  "topic": "My Home",
+  "topic_ko": "나의 집",
+  "number": 30,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Home",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "home",
+      "ko": "집"
+    },
+    {
+      "en": "house",
+      "ko": "주택"
+    },
+    {
+      "en": "kitchen",
+      "ko": "부엌"
+    },
+    {
+      "en": "warm",
+      "ko": "따뜻한"
+    },
+    {
+      "en": "living room",
+      "ko": "거실"
+    },
+    {
+      "en": "window",
+      "ko": "창문"
+    },
+    {
+      "en": "room",
+      "ko": "방"
+    },
+    {
+      "en": "clean",
+      "ko": "깨끗한"
+    },
+    {
+      "en": "safe",
+      "ko": "안전한"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My home is a small house.",
+      "ko": "나의 집은 작은 주택이에요.",
+      "highlights": [
+        "home",
+        "house"
+      ]
+    },
+    {
+      "en": "It has a warm kitchen.",
+      "ko": "따뜻한 부엌이 있어요.",
+      "highlights": [
+        "kitchen",
+        "warm"
+      ]
+    },
+    {
+      "en": "We sit in the living room.",
+      "ko": "우리는 거실에 앉아요.",
+      "highlights": [
+        "living room",
+        "room"
+      ]
+    },
+    {
+      "en": "The sun comes in the window.",
+      "ko": "해가 창문으로 들어와요.",
+      "highlights": [
+        "window"
+      ]
+    },
+    {
+      "en": "My room is clean.",
+      "ko": "내 방은 깨끗해요.",
+      "highlights": [
+        "room",
+        "clean"
+      ]
+    },
+    {
+      "en": "I feel safe at home.",
+      "ko": "나는 집에서 안전해요.",
+      "highlights": [
+        "home",
+        "safe"
+      ]
+    },
+    {
+      "en": "My family loves our home.",
+      "ko": "우리 가족은 우리 집을 사랑해요.",
+      "highlights": [
+        "home",
+        "family"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My home is a small house.",
+      "ko": "나의 집은 작은 주택이에요.",
+      "highlights": [
+        "home",
+        "house"
+      ]
+    },
+    {
+      "en": "It has a warm kitchen.",
+      "ko": "따뜻한 부엌이 있어요.",
+      "highlights": [
+        "kitchen",
+        "warm"
+      ]
+    },
+    {
+      "en": "We sit in the living room.",
+      "ko": "우리는 거실에 앉아요.",
+      "highlights": [
+        "living room",
+        "room"
+      ]
+    },
+    {
+      "en": "The sun comes in the window.",
+      "ko": "해가 창문으로 들어와요.",
+      "highlights": [
+        "window"
+      ]
+    },
+    {
+      "en": "My room is clean.",
+      "ko": "내 방은 깨끗해요.",
+      "highlights": [
+        "room",
+        "clean"
+      ]
+    },
+    {
+      "en": "I feel safe at home.",
+      "ko": "나는 집에서 안전해요.",
+      "highlights": [
+        "home",
+        "safe"
+      ]
+    },
+    {
+      "en": "My family loves our home.",
+      "ko": "우리 가족은 우리 집을 사랑해요.",
+      "highlights": [
+        "home",
+        "family"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My home is a small house. It has a warm kitchen. We sit in the living room. The sun comes in the window. My room is clean. I feel safe at home. My family loves our home."
+}

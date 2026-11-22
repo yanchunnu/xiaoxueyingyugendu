@@ -1,0 +1,173 @@
+{
+  "slug": "spring",
+  "topic": "Spring",
+  "topic_ko": "봄",
+  "number": 96,
+  "section_ko": "사계절",
+  "section_en": "The Seasons",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Spring",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "spring",
+      "ko": "봄"
+    },
+    {
+      "en": "warm",
+      "ko": "따뜻한"
+    },
+    {
+      "en": "flower",
+      "ko": "꽃"
+    },
+    {
+      "en": "open",
+      "ko": "피다"
+    },
+    {
+      "en": "bird",
+      "ko": "새"
+    },
+    {
+      "en": "sing",
+      "ko": "노래하다"
+    },
+    {
+      "en": "leaf",
+      "ko": "잎"
+    },
+    {
+      "en": "green",
+      "ko": "초록색"
+    },
+    {
+      "en": "rain",
+      "ko": "비"
+    },
+    {
+      "en": "butterfly",
+      "ko": "나비"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Spring is warm.",
+      "ko": "봄은 따뜻해요.",
+      "highlights": [
+        "spring",
+        "warm"
+      ]
+    },
+    {
+      "en": "Flowers open up.",
+      "ko": "꽃이 피어요.",
+      "highlights": [
+        "flower",
+        "open"
+      ]
+    },
+    {
+      "en": "A bird sings in the tree.",
+      "ko": "새가 나무에서 노래해요.",
+      "highlights": [
+        "bird",
+        "sing"
+      ]
+    },
+    {
+      "en": "A leaf turns green.",
+      "ko": "잎이 초록색으로 변해요.",
+      "highlights": [
+        "leaf",
+        "green"
+      ]
+    },
+    {
+      "en": "A little rain falls.",
+      "ko": "비가 조금 내려요.",
+      "highlights": [
+        "rain"
+      ]
+    },
+    {
+      "en": "I see a butterfly.",
+      "ko": "나는 나비를 봐요.",
+      "highlights": [
+        "butterfly"
+      ]
+    },
+    {
+      "en": "I like spring.",
+      "ko": "나는 봄을 좋아해요.",
+      "highlights": [
+        "spring"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Spring is warm.",
+      "ko": "봄은 따뜻해요.",
+      "highlights": [
+        "spring",
+        "warm"
+      ]
+    },
+    {
+      "en": "Flowers open up.",
+      "ko": "꽃이 피어요.",
+      "highlights": [
+        "flower",
+        "open"
+      ]
+    },
+    {
+      "en": "A bird sings in the tree.",
+      "ko": "새가 나무에서 노래해요.",
+      "highlights": [
+        "bird",
+        "sing"
+      ]
+    },
+    {
+      "en": "A leaf turns green.",
+      "ko": "잎이 초록색으로 변해요.",
+      "highlights": [
+        "leaf",
+        "green"
+      ]
+    },
+    {
+      "en": "A little rain falls.",
+      "ko": "비가 조금 내려요.",
+      "highlights": [
+        "rain"
+      ]
+    },
+    {
+      "en": "I see a butterfly.",
+      "ko": "나는 나비를 봐요.",
+      "highlights": [
+        "butterfly"
+      ]
+    },
+    {
+      "en": "I like spring.",
+      "ko": "나는 봄을 좋아해요.",
+      "highlights": [
+        "spring"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Spring is warm. Flowers open up. A bird sings in the tree. A leaf turns green. A little rain falls. I see a butterfly. I like spring."
+}

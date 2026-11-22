@@ -1,0 +1,185 @@
+{
+  "slug": "my_new_year_plan",
+  "topic": "My New Year Plan",
+  "topic_ko": "나의 새해 계획",
+  "number": 76,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My New Year Plan",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "New Year",
+      "ko": "새해"
+    },
+    {
+      "en": "plan",
+      "ko": "계획"
+    },
+    {
+      "en": "reading",
+      "ko": "독서"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "exercise",
+      "ko": "운동하다"
+    },
+    {
+      "en": "kind",
+      "ko": "친절한"
+    },
+    {
+      "en": "early",
+      "ko": "일찍"
+    },
+    {
+      "en": "goal",
+      "ko": "목표"
+    },
+    {
+      "en": "try",
+      "ko": "노력하다"
+    },
+    {
+      "en": "keep",
+      "ko": "지키다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "It is the New Year.",
+      "ko": "새해예요.",
+      "highlights": [
+        "New Year"
+      ]
+    },
+    {
+      "en": "I make a plan.",
+      "ko": "나는 계획을 세워요.",
+      "highlights": [
+        "plan"
+      ]
+    },
+    {
+      "en": "Reading a book is my plan.",
+      "ko": "책 읽기는 나의 계획이에요.",
+      "highlights": [
+        "plan",
+        "reading",
+        "book"
+      ]
+    },
+    {
+      "en": "I will exercise.",
+      "ko": "나는 운동할 거예요.",
+      "highlights": [
+        "exercise"
+      ]
+    },
+    {
+      "en": "I will be kind.",
+      "ko": "나는 친절할 거예요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "I will get up early.",
+      "ko": "나는 일찍 일어날 거예요.",
+      "highlights": [
+        "early"
+      ]
+    },
+    {
+      "en": "This is my goal.",
+      "ko": "이것이 나의 목표예요.",
+      "highlights": [
+        "goal"
+      ]
+    },
+    {
+      "en": "I will try to keep it.",
+      "ko": "나는 그 목표를 지키려고 노력할 거예요.",
+      "highlights": [
+        "try",
+        "keep"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "It is the New Year.",
+      "ko": "새해예요.",
+      "highlights": [
+        "New Year"
+      ]
+    },
+    {
+      "en": "I make a plan.",
+      "ko": "나는 계획을 세워요.",
+      "highlights": [
+        "plan"
+      ]
+    },
+    {
+      "en": "Reading a book is my plan.",
+      "ko": "책 읽기는 나의 계획이에요.",
+      "highlights": [
+        "plan",
+        "reading",
+        "book"
+      ]
+    },
+    {
+      "en": "I will exercise.",
+      "ko": "나는 운동할 거예요.",
+      "highlights": [
+        "exercise"
+      ]
+    },
+    {
+      "en": "I will be kind.",
+      "ko": "나는 친절할 거예요.",
+      "highlights": [
+        "kind"
+      ]
+    },
+    {
+      "en": "I will get up early.",
+      "ko": "나는 일찍 일어날 거예요.",
+      "highlights": [
+        "early"
+      ]
+    },
+    {
+      "en": "This is my goal.",
+      "ko": "이것이 나의 목표예요.",
+      "highlights": [
+        "goal"
+      ]
+    },
+    {
+      "en": "I will try to keep it.",
+      "ko": "나는 그 목표를 지키려고 노력할 거예요.",
+      "highlights": [
+        "try",
+        "keep"
+      ]
+    }
+  ],
+  "full_passage_spoken": "It is the New Year. I make a plan. Reading a book is my plan. I will exercise. I will be kind. I will get up early. This is my goal. I will try to keep it."
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "self_introduction_1",
+  "topic": "Self-Introduction (1)",
+  "topic_ko": "자기소개 (1)",
+  "number": 3,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Self-Introduction, Part One",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "hello",
+      "ko": "안녕"
+    },
+    {
+      "en": "from",
+      "ko": "~에서 온"
+    },
+    {
+      "en": "Korea",
+      "ko": "한국"
+    },
+    {
+      "en": "live",
+      "ko": "살다"
+    },
+    {
+      "en": "Seoul",
+      "ko": "서울"
+    },
+    {
+      "en": "student",
+      "ko": "학생"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    },
+    {
+      "en": "every day",
+      "ko": "매일"
+    },
+    {
+      "en": "class",
+      "ko": "반"
+    },
+    {
+      "en": "meet",
+      "ko": "만나다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Hello!",
+      "ko": "안녕!",
+      "highlights": [
+        "hello"
+      ]
+    },
+    {
+      "en": "I am from Korea.",
+      "ko": "나는 한국에서 왔어요.",
+      "highlights": [
+        "from",
+        "Korea"
+      ]
+    },
+    {
+      "en": "I live in Seoul.",
+      "ko": "나는 서울에 살아요.",
+      "highlights": [
+        "live",
+        "Seoul"
+      ]
+    },
+    {
+      "en": "I am a student.",
+      "ko": "나는 학생이에요.",
+      "highlights": [
+        "student"
+      ]
+    },
+    {
+      "en": "I go to school every day.",
+      "ko": "나는 매일 학교에 가요.",
+      "highlights": [
+        "school",
+        "every day"
+      ]
+    },
+    {
+      "en": "I am in Class Four.",
+      "ko": "나는 4반이에요.",
+      "highlights": [
+        "class"
+      ]
+    },
+    {
+      "en": "I am happy to meet you.",
+      "ko": "만나서 반가워요.",
+      "highlights": [
+        "meet"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Hello!",
+      "ko": "안녕!",
+      "highlights": [
+        "hello"
+      ]
+    },
+    {
+      "en": "I am from Korea.",
+      "ko": "나는 한국에서 왔어요.",
+      "highlights": [
+        "from",
+        "Korea"
+      ]
+    },
+    {
+      "en": "I live in Seoul.",
+      "ko": "나는 서울에 살아요.",
+      "highlights": [
+        "live",
+        "Seoul"
+      ]
+    },
+    {
+      "en": "I am a student.",
+      "ko": "나는 학생이에요.",
+      "highlights": [
+        "student"
+      ]
+    },
+    {
+      "en": "I go to school every day.",
+      "ko": "나는 매일 학교에 가요.",
+      "highlights": [
+        "school",
+        "every day"
+      ]
+    },
+    {
+      "en": "I am in Class Four.",
+      "ko": "나는 4반이에요.",
+      "highlights": [
+        "class"
+      ]
+    },
+    {
+      "en": "I am happy to meet you.",
+      "ko": "만나서 반가워요.",
+      "highlights": [
+        "meet"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Hello! I am from Korea. I live in Seoul. I am a student. I go to school every day. I am in Class Four. I am happy to meet you."
+}

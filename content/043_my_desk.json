@@ -1,0 +1,180 @@
+{
+  "slug": "my_desk",
+  "topic": "My Desk",
+  "topic_ko": "나의 책상",
+  "number": 43,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Desk",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "desk",
+      "ko": "책상"
+    },
+    {
+      "en": "window",
+      "ko": "창문"
+    },
+    {
+      "en": "lamp",
+      "ko": "전등"
+    },
+    {
+      "en": "clock",
+      "ko": "시계"
+    },
+    {
+      "en": "homework",
+      "ko": "숙제"
+    },
+    {
+      "en": "clean",
+      "ko": "깨끗한"
+    },
+    {
+      "en": "drawer",
+      "ko": "서랍"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    },
+    {
+      "en": "study",
+      "ko": "공부하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My desk is by the window.",
+      "ko": "나의 책상은 창문 옆에 있어요.",
+      "highlights": [
+        "desk",
+        "window"
+      ]
+    },
+    {
+      "en": "A lamp and a clock",
+      "ko": "전등과 시계가",
+      "highlights": [
+        "lamp",
+        "clock"
+      ]
+    },
+    {
+      "en": "are on it.",
+      "ko": "책상 위에 있어요.",
+      "highlights": []
+    },
+    {
+      "en": "I do my homework there.",
+      "ko": "나는 거기서 숙제를 해요.",
+      "highlights": [
+        "homework"
+      ]
+    },
+    {
+      "en": "I keep my desk clean.",
+      "ko": "나는 책상을 깨끗하게 두어요.",
+      "highlights": [
+        "desk",
+        "clean"
+      ]
+    },
+    {
+      "en": "My book is in the drawer.",
+      "ko": "내 책은 서랍 안에 있어요.",
+      "highlights": [
+        "drawer",
+        "book"
+      ]
+    },
+    {
+      "en": "The room is quiet.",
+      "ko": "방이 조용해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I study at my desk.",
+      "ko": "나는 책상에서 공부해요.",
+      "highlights": [
+        "desk",
+        "study"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My desk is by the window.",
+      "ko": "나의 책상은 창문 옆에 있어요.",
+      "highlights": [
+        "desk",
+        "window"
+      ]
+    },
+    {
+      "en": "A lamp and a clock are on it.",
+      "ko": "책상 위에 전등과 시계가 있어요.",
+      "highlights": [
+        "lamp",
+        "clock"
+      ]
+    },
+    {
+      "en": "I do my homework there.",
+      "ko": "나는 거기서 숙제를 해요.",
+      "highlights": [
+        "homework"
+      ]
+    },
+    {
+      "en": "I keep my desk clean.",
+      "ko": "나는 책상을 깨끗하게 두어요.",
+      "highlights": [
+        "desk",
+        "clean"
+      ]
+    },
+    {
+      "en": "My book is in the drawer.",
+      "ko": "내 책은 서랍 안에 있어요.",
+      "highlights": [
+        "drawer",
+        "book"
+      ]
+    },
+    {
+      "en": "The room is quiet.",
+      "ko": "방이 조용해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I study at my desk.",
+      "ko": "나는 책상에서 공부해요.",
+      "highlights": [
+        "desk",
+        "study"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My desk is by the window. A lamp and a clock are on it. I do my homework there. I keep my desk clean. My book is in the drawer. The room is quiet. I study at my desk."
+}

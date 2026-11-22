@@ -1,0 +1,189 @@
+{
+  "slug": "my_room",
+  "topic": "My Room",
+  "topic_ko": "나의 방",
+  "number": 31,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Room",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "room",
+      "ko": "방"
+    },
+    {
+      "en": "bed",
+      "ko": "침대"
+    },
+    {
+      "en": "desk",
+      "ko": "책상"
+    },
+    {
+      "en": "chair",
+      "ko": "의자"
+    },
+    {
+      "en": "toy",
+      "ko": "장난감"
+    },
+    {
+      "en": "box",
+      "ko": "상자"
+    },
+    {
+      "en": "poster",
+      "ko": "포스터"
+    },
+    {
+      "en": "wall",
+      "ko": "벽"
+    },
+    {
+      "en": "clean",
+      "ko": "깨끗한"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my room.",
+      "ko": "이곳은 나의 방이에요.",
+      "highlights": [
+        "room"
+      ]
+    },
+    {
+      "en": "I have a bed",
+      "ko": "나는 침대가 있어요.",
+      "highlights": [
+        "bed"
+      ]
+    },
+    {
+      "en": "and a desk.",
+      "ko": "그리고 책상이 있어요.",
+      "highlights": [
+        "desk"
+      ]
+    },
+    {
+      "en": "A chair is by the desk.",
+      "ko": "책상 옆에 의자가 있어요.",
+      "highlights": [
+        "desk",
+        "chair"
+      ]
+    },
+    {
+      "en": "My toy is in a box.",
+      "ko": "내 장난감은 상자 안에 있어요.",
+      "highlights": [
+        "toy",
+        "box"
+      ]
+    },
+    {
+      "en": "A poster is on the wall.",
+      "ko": "벽에 포스터가 있어요.",
+      "highlights": [
+        "poster",
+        "wall"
+      ]
+    },
+    {
+      "en": "My room is clean",
+      "ko": "나의 방은 깨끗해요.",
+      "highlights": [
+        "room",
+        "clean"
+      ]
+    },
+    {
+      "en": "and quiet.",
+      "ko": "그리고 조용해요.",
+      "highlights": [
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like my room.",
+      "ko": "나는 나의 방을 좋아해요.",
+      "highlights": [
+        "room"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my room.",
+      "ko": "이곳은 나의 방이에요.",
+      "highlights": [
+        "room"
+      ]
+    },
+    {
+      "en": "I have a bed and a desk.",
+      "ko": "나는 침대와 책상이 있어요.",
+      "highlights": [
+        "bed",
+        "desk"
+      ]
+    },
+    {
+      "en": "A chair is by the desk.",
+      "ko": "책상 옆에 의자가 있어요.",
+      "highlights": [
+        "desk",
+        "chair"
+      ]
+    },
+    {
+      "en": "My toy is in a box.",
+      "ko": "내 장난감은 상자 안에 있어요.",
+      "highlights": [
+        "toy",
+        "box"
+      ]
+    },
+    {
+      "en": "A poster is on the wall.",
+      "ko": "벽에 포스터가 있어요.",
+      "highlights": [
+        "poster",
+        "wall"
+      ]
+    },
+    {
+      "en": "My room is clean and quiet.",
+      "ko": "나의 방은 깨끗하고 조용해요.",
+      "highlights": [
+        "room",
+        "clean",
+        "quiet"
+      ]
+    },
+    {
+      "en": "I like my room.",
+      "ko": "나는 나의 방을 좋아해요.",
+      "highlights": [
+        "room"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is my room. I have a bed and a desk. A chair is by the desk. My toy is in a box. A poster is on the wall. My room is clean and quiet. I like my room."
+}

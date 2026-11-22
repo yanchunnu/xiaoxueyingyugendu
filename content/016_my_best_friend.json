@@ -1,0 +1,189 @@
+{
+  "slug": "my_best_friend",
+  "topic": "My Best Friend",
+  "topic_ko": "나의 가장 친한 친구",
+  "number": 16,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Best Friend",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "best friend",
+      "ko": "가장 친한 친구"
+    },
+    {
+      "en": "trust",
+      "ko": "믿다"
+    },
+    {
+      "en": "always",
+      "ko": "항상"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "laugh",
+      "ko": "웃다"
+    },
+    {
+      "en": "every day",
+      "ko": "매일"
+    },
+    {
+      "en": "play",
+      "ko": "놀다"
+    },
+    {
+      "en": "true",
+      "ko": "진실한"
+    },
+    {
+      "en": "best",
+      "ko": "가장 좋은"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Tom is my best friend.",
+      "ko": "톰은 나의 가장 친한 친구예요.",
+      "highlights": [
+        "best friend",
+        "best"
+      ]
+    },
+    {
+      "en": "I trust him.",
+      "ko": "나는 톰을 믿어요.",
+      "highlights": [
+        "trust"
+      ]
+    },
+    {
+      "en": "He always helps me.",
+      "ko": "톰은 항상 나를 도와요.",
+      "highlights": [
+        "always",
+        "help"
+      ]
+    },
+    {
+      "en": "I help him too.",
+      "ko": "나도 톰을 도와요.",
+      "highlights": [
+        "help"
+      ]
+    },
+    {
+      "en": "We laugh every day.",
+      "ko": "우리는 매일 웃어요.",
+      "highlights": [
+        "laugh",
+        "every day"
+      ]
+    },
+    {
+      "en": "We play every day.",
+      "ko": "우리는 매일 놀아요.",
+      "highlights": [
+        "every day",
+        "play"
+      ]
+    },
+    {
+      "en": "A true friend is the best.",
+      "ko": "진실한 친구가 가장 좋아요.",
+      "highlights": [
+        "true",
+        "best"
+      ]
+    },
+    {
+      "en": "I am happy.",
+      "ko": "나는 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Tom is my best friend.",
+      "ko": "톰은 나의 가장 친한 친구예요.",
+      "highlights": [
+        "best friend",
+        "best"
+      ]
+    },
+    {
+      "en": "I trust him.",
+      "ko": "나는 톰을 믿어요.",
+      "highlights": [
+        "trust"
+      ]
+    },
+    {
+      "en": "He always helps me.",
+      "ko": "톰은 항상 나를 도와요.",
+      "highlights": [
+        "always",
+        "help"
+      ]
+    },
+    {
+      "en": "I help him too.",
+      "ko": "나도 톰을 도와요.",
+      "highlights": [
+        "help"
+      ]
+    },
+    {
+      "en": "We laugh every day.",
+      "ko": "우리는 매일 웃어요.",
+      "highlights": [
+        "laugh",
+        "every day"
+      ]
+    },
+    {
+      "en": "We play every day.",
+      "ko": "우리는 매일 놀아요.",
+      "highlights": [
+        "every day",
+        "play"
+      ]
+    },
+    {
+      "en": "A true friend is the best.",
+      "ko": "진실한 친구가 가장 좋아요.",
+      "highlights": [
+        "true",
+        "best"
+      ]
+    },
+    {
+      "en": "I am happy.",
+      "ko": "나는 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Tom is my best friend. I trust him. He always helps me. I help him too. We laugh every day. We play every day. A true friend is the best. I am happy."
+}

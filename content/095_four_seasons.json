@@ -1,0 +1,179 @@
+{
+  "slug": "four_seasons",
+  "topic": "Four Seasons",
+  "topic_ko": "사계절",
+  "number": 95,
+  "section_ko": "사계절",
+  "section_en": "The Seasons",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Four Seasons",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "four",
+      "ko": "넷"
+    },
+    {
+      "en": "season",
+      "ko": "계절"
+    },
+    {
+      "en": "spring",
+      "ko": "봄"
+    },
+    {
+      "en": "summer",
+      "ko": "여름"
+    },
+    {
+      "en": "autumn",
+      "ko": "가을"
+    },
+    {
+      "en": "winter",
+      "ko": "겨울"
+    },
+    {
+      "en": "weather",
+      "ko": "날씨"
+    },
+    {
+      "en": "change",
+      "ko": "변하다"
+    },
+    {
+      "en": "year",
+      "ko": "해"
+    },
+    {
+      "en": "special",
+      "ko": "특별한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "There are four seasons.",
+      "ko": "계절은 네 가지예요.",
+      "highlights": [
+        "four",
+        "season"
+      ]
+    },
+    {
+      "en": "They are spring, summer, autumn, and winter.",
+      "ko": "봄, 여름, 가을, 그리고 겨울이에요.",
+      "highlights": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "en": "The weather changes.",
+      "ko": "날씨가 변해요.",
+      "highlights": [
+        "weather",
+        "change"
+      ]
+    },
+    {
+      "en": "Trees change too.",
+      "ko": "나무도 변해요.",
+      "highlights": [
+        "change"
+      ]
+    },
+    {
+      "en": "Each season is special.",
+      "ko": "각 계절은 특별해요.",
+      "highlights": [
+        "season",
+        "special"
+      ]
+    },
+    {
+      "en": "A year has all four.",
+      "ko": "한 해에는 네 계절이 모두 있어요.",
+      "highlights": [
+        "four",
+        "year"
+      ]
+    },
+    {
+      "en": "I like every season.",
+      "ko": "나는 모든 계절을 좋아해요.",
+      "highlights": [
+        "season"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "There are four seasons.",
+      "ko": "계절은 네 가지예요.",
+      "highlights": [
+        "four",
+        "season"
+      ]
+    },
+    {
+      "en": "They are spring, summer, autumn, and winter.",
+      "ko": "봄, 여름, 가을, 그리고 겨울이에요.",
+      "highlights": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "en": "The weather changes.",
+      "ko": "날씨가 변해요.",
+      "highlights": [
+        "weather",
+        "change"
+      ]
+    },
+    {
+      "en": "Trees change too.",
+      "ko": "나무도 변해요.",
+      "highlights": [
+        "change"
+      ]
+    },
+    {
+      "en": "Each season is special.",
+      "ko": "각 계절은 특별해요.",
+      "highlights": [
+        "season",
+        "special"
+      ]
+    },
+    {
+      "en": "A year has all four.",
+      "ko": "한 해에는 네 계절이 모두 있어요.",
+      "highlights": [
+        "four",
+        "year"
+      ]
+    },
+    {
+      "en": "I like every season.",
+      "ko": "나는 모든 계절을 좋아해요.",
+      "highlights": [
+        "season"
+      ]
+    }
+  ],
+  "full_passage_spoken": "There are four seasons. They are spring, summer, autumn, and winter. The weather changes. Trees change too. Each season is special. A year has all four. I like every season."
+}

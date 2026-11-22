@@ -1,0 +1,179 @@
+{
+  "slug": "my_brother",
+  "topic": "My Brother",
+  "topic_ko": "나의 오빠",
+  "number": 8,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Brother",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "brother",
+      "ko": "오빠"
+    },
+    {
+      "en": "twelve",
+      "ko": "열두"
+    },
+    {
+      "en": "tall",
+      "ko": "키가 큰"
+    },
+    {
+      "en": "funny",
+      "ko": "재미있는"
+    },
+    {
+      "en": "basketball",
+      "ko": "농구"
+    },
+    {
+      "en": "joke",
+      "ko": "농담"
+    },
+    {
+      "en": "share",
+      "ko": "나누다"
+    },
+    {
+      "en": "snack",
+      "ko": "간식"
+    },
+    {
+      "en": "homework",
+      "ko": "숙제"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My brother is twelve years old.",
+      "ko": "나의 오빠는 열두 살이에요.",
+      "highlights": [
+        "brother",
+        "twelve"
+      ]
+    },
+    {
+      "en": "He is tall",
+      "ko": "오빠는 키가 커요.",
+      "highlights": [
+        "tall"
+      ]
+    },
+    {
+      "en": "and funny.",
+      "ko": "그리고 재미있어요.",
+      "highlights": [
+        "funny"
+      ]
+    },
+    {
+      "en": "He plays basketball.",
+      "ko": "오빠는 농구를 해요.",
+      "highlights": [
+        "basketball"
+      ]
+    },
+    {
+      "en": "He tells a joke.",
+      "ko": "오빠는 농담을 해요.",
+      "highlights": [
+        "joke"
+      ]
+    },
+    {
+      "en": "We share a snack.",
+      "ko": "우리는 간식을 나눠요.",
+      "highlights": [
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "en": "He helps with homework.",
+      "ko": "오빠는 숙제를 도와줘요.",
+      "highlights": [
+        "homework",
+        "help"
+      ]
+    },
+    {
+      "en": "I like my brother.",
+      "ko": "나는 오빠를 좋아해요.",
+      "highlights": [
+        "brother"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My brother is twelve years old.",
+      "ko": "나의 오빠는 열두 살이에요.",
+      "highlights": [
+        "brother",
+        "twelve"
+      ]
+    },
+    {
+      "en": "He is tall and funny.",
+      "ko": "오빠는 키가 크고 재미있어요.",
+      "highlights": [
+        "tall",
+        "funny"
+      ]
+    },
+    {
+      "en": "He plays basketball.",
+      "ko": "오빠는 농구를 해요.",
+      "highlights": [
+        "basketball"
+      ]
+    },
+    {
+      "en": "He tells a joke.",
+      "ko": "오빠는 농담을 해요.",
+      "highlights": [
+        "joke"
+      ]
+    },
+    {
+      "en": "We share a snack.",
+      "ko": "우리는 간식을 나눠요.",
+      "highlights": [
+        "share",
+        "snack"
+      ]
+    },
+    {
+      "en": "He helps with homework.",
+      "ko": "오빠는 숙제를 도와줘요.",
+      "highlights": [
+        "homework",
+        "help"
+      ]
+    },
+    {
+      "en": "I like my brother.",
+      "ko": "나는 오빠를 좋아해요.",
+      "highlights": [
+        "brother"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My brother is twelve years old. He is tall and funny. He plays basketball. He tells a joke. We share a snack. He helps with homework. I like my brother."
+}

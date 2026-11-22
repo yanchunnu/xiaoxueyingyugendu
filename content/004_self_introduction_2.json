@@ -1,0 +1,179 @@
+{
+  "slug": "self_introduction_2",
+  "topic": "Self-Introduction (2)",
+  "topic_ko": "자기소개 (2)",
+  "number": 4,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Self-Introduction, Part Two",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "can",
+      "ko": "~할 수 있다"
+    },
+    {
+      "en": "swim",
+      "ko": "수영하다"
+    },
+    {
+      "en": "sing",
+      "ko": "노래 부르다"
+    },
+    {
+      "en": "little",
+      "ko": "조금"
+    },
+    {
+      "en": "draw",
+      "ko": "그리다"
+    },
+    {
+      "en": "run",
+      "ko": "달리다"
+    },
+    {
+      "en": "fast",
+      "ko": "빨리"
+    },
+    {
+      "en": "piano",
+      "ko": "피아노"
+    },
+    {
+      "en": "story",
+      "ko": "이야기"
+    },
+    {
+      "en": "night",
+      "ko": "밤"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I can swim.",
+      "ko": "나는 수영할 수 있어요.",
+      "highlights": [
+        "can",
+        "swim"
+      ]
+    },
+    {
+      "en": "I can sing a little.",
+      "ko": "나는 노래를 조금 부를 수 있어요.",
+      "highlights": [
+        "can",
+        "sing",
+        "little"
+      ]
+    },
+    {
+      "en": "I like to draw.",
+      "ko": "나는 그림 그리기를 좋아해요.",
+      "highlights": [
+        "draw"
+      ]
+    },
+    {
+      "en": "I can run fast.",
+      "ko": "나는 빨리 달릴 수 있어요.",
+      "highlights": [
+        "can",
+        "run",
+        "fast"
+      ]
+    },
+    {
+      "en": "I play the piano.",
+      "ko": "나는 피아노를 쳐요.",
+      "highlights": [
+        "piano"
+      ]
+    },
+    {
+      "en": "I like to read a story",
+      "ko": "나는 이야기를 읽는 것을 좋아해요.",
+      "highlights": [
+        "story"
+      ]
+    },
+    {
+      "en": "at night.",
+      "ko": "밤에 읽어요.",
+      "highlights": [
+        "night"
+      ]
+    },
+    {
+      "en": "Nice to meet you.",
+      "ko": "만나서 반가워요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I can swim.",
+      "ko": "나는 수영할 수 있어요.",
+      "highlights": [
+        "can",
+        "swim"
+      ]
+    },
+    {
+      "en": "I can sing a little.",
+      "ko": "나는 노래를 조금 부를 수 있어요.",
+      "highlights": [
+        "can",
+        "sing",
+        "little"
+      ]
+    },
+    {
+      "en": "I like to draw.",
+      "ko": "나는 그림 그리기를 좋아해요.",
+      "highlights": [
+        "draw"
+      ]
+    },
+    {
+      "en": "I can run fast.",
+      "ko": "나는 빨리 달릴 수 있어요.",
+      "highlights": [
+        "can",
+        "run",
+        "fast"
+      ]
+    },
+    {
+      "en": "I play the piano.",
+      "ko": "나는 피아노를 쳐요.",
+      "highlights": [
+        "piano"
+      ]
+    },
+    {
+      "en": "I like to read a story at night.",
+      "ko": "나는 밤에 이야기를 읽는 것을 좋아해요.",
+      "highlights": [
+        "story",
+        "night"
+      ]
+    },
+    {
+      "en": "Nice to meet you.",
+      "ko": "만나서 반가워요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_spoken": "I can swim. I can sing a little. I like to draw. I can run fast. I play the piano. I like to read a story at night. Nice to meet you."
+}

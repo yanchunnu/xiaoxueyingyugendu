@@ -1,0 +1,185 @@
+{
+  "slug": "my_day",
+  "topic": "My Day",
+  "topic_ko": "나의 하루",
+  "number": 70,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Day",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "day",
+      "ko": "하루"
+    },
+    {
+      "en": "get up",
+      "ko": "일어나다"
+    },
+    {
+      "en": "seven",
+      "ko": "일곱"
+    },
+    {
+      "en": "wash",
+      "ko": "씻다"
+    },
+    {
+      "en": "face",
+      "ko": "얼굴"
+    },
+    {
+      "en": "breakfast",
+      "ko": "아침"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    },
+    {
+      "en": "homework",
+      "ko": "숙제"
+    },
+    {
+      "en": "dinner",
+      "ko": "저녁"
+    },
+    {
+      "en": "sleep",
+      "ko": "자다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I get up at seven.",
+      "ko": "나는 일곱 시에 일어나요.",
+      "highlights": [
+        "get up",
+        "seven"
+      ]
+    },
+    {
+      "en": "I wash my face.",
+      "ko": "나는 얼굴을 씻어요.",
+      "highlights": [
+        "wash",
+        "face"
+      ]
+    },
+    {
+      "en": "I eat breakfast.",
+      "ko": "나는 아침을 먹어요.",
+      "highlights": [
+        "breakfast"
+      ]
+    },
+    {
+      "en": "I go to school.",
+      "ko": "나는 학교에 가요.",
+      "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "I do homework after school.",
+      "ko": "나는 방과 후에 숙제를 해요.",
+      "highlights": [
+        "school",
+        "homework"
+      ]
+    },
+    {
+      "en": "I eat dinner with my family.",
+      "ko": "나는 가족과 저녁을 먹어요.",
+      "highlights": [
+        "dinner"
+      ]
+    },
+    {
+      "en": "Then I sleep.",
+      "ko": "그리고 나는 자요.",
+      "highlights": [
+        "sleep"
+      ]
+    },
+    {
+      "en": "This is my day.",
+      "ko": "이것이 나의 하루예요.",
+      "highlights": [
+        "day"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I get up at seven.",
+      "ko": "나는 일곱 시에 일어나요.",
+      "highlights": [
+        "get up",
+        "seven"
+      ]
+    },
+    {
+      "en": "I wash my face.",
+      "ko": "나는 얼굴을 씻어요.",
+      "highlights": [
+        "wash",
+        "face"
+      ]
+    },
+    {
+      "en": "I eat breakfast.",
+      "ko": "나는 아침을 먹어요.",
+      "highlights": [
+        "breakfast"
+      ]
+    },
+    {
+      "en": "I go to school.",
+      "ko": "나는 학교에 가요.",
+      "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "I do homework after school.",
+      "ko": "나는 방과 후에 숙제를 해요.",
+      "highlights": [
+        "school",
+        "homework"
+      ]
+    },
+    {
+      "en": "I eat dinner with my family.",
+      "ko": "나는 가족과 저녁을 먹어요.",
+      "highlights": [
+        "dinner"
+      ]
+    },
+    {
+      "en": "Then I sleep.",
+      "ko": "그리고 나는 자요.",
+      "highlights": [
+        "sleep"
+      ]
+    },
+    {
+      "en": "This is my day.",
+      "ko": "이것이 나의 하루예요.",
+      "highlights": [
+        "day"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I get up at seven. I wash my face. I eat breakfast. I go to school. I do homework after school. I eat dinner with my family. Then I sleep. This is my day."
+}

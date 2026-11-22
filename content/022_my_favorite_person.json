@@ -1,0 +1,175 @@
+{
+  "slug": "my_favorite_person",
+  "topic": "My Favorite Person",
+  "topic_ko": "내가 가장 좋아하는 사람",
+  "number": 22,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Person",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "person",
+      "ko": "사람"
+    },
+    {
+      "en": "mom",
+      "ko": "엄마"
+    },
+    {
+      "en": "spend",
+      "ko": "보내다"
+    },
+    {
+      "en": "time",
+      "ko": "시간"
+    },
+    {
+      "en": "laugh",
+      "ko": "웃다"
+    },
+    {
+      "en": "safe",
+      "ko": "안전한"
+    },
+    {
+      "en": "special",
+      "ko": "특별한"
+    },
+    {
+      "en": "because",
+      "ko": "~때문에"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My mom is my favorite person.",
+      "ko": "엄마는 내가 가장 좋아하는 사람이에요.",
+      "highlights": [
+        "favorite",
+        "person",
+        "mom"
+      ]
+    },
+    {
+      "en": "I spend time with her.",
+      "ko": "나는 엄마와 시간을 보내요.",
+      "highlights": [
+        "spend",
+        "time"
+      ]
+    },
+    {
+      "en": "We laugh a lot.",
+      "ko": "우리는 많이 웃어요.",
+      "highlights": [
+        "laugh"
+      ]
+    },
+    {
+      "en": "I feel safe with her.",
+      "ko": "나는 엄마와 있으면 안전해요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "She is special to me.",
+      "ko": "엄마는 나에게 특별해요.",
+      "highlights": [
+        "special"
+      ]
+    },
+    {
+      "en": "I love her because she cares.",
+      "ko": "나는 엄마가 나를 돌봐 주기 때문에 사랑해요.",
+      "highlights": [
+        "because",
+        "love"
+      ]
+    },
+    {
+      "en": "I love my mom.",
+      "ko": "나는 엄마를 사랑해요.",
+      "highlights": [
+        "mom",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My mom is my favorite person.",
+      "ko": "엄마는 내가 가장 좋아하는 사람이에요.",
+      "highlights": [
+        "favorite",
+        "person",
+        "mom"
+      ]
+    },
+    {
+      "en": "I spend time with her.",
+      "ko": "나는 엄마와 시간을 보내요.",
+      "highlights": [
+        "spend",
+        "time"
+      ]
+    },
+    {
+      "en": "We laugh a lot.",
+      "ko": "우리는 많이 웃어요.",
+      "highlights": [
+        "laugh"
+      ]
+    },
+    {
+      "en": "I feel safe with her.",
+      "ko": "나는 엄마와 있으면 안전해요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "She is special to me.",
+      "ko": "엄마는 나에게 특별해요.",
+      "highlights": [
+        "special"
+      ]
+    },
+    {
+      "en": "I love her because she cares.",
+      "ko": "나는 엄마가 나를 돌봐 주기 때문에 사랑해요.",
+      "highlights": [
+        "because",
+        "love"
+      ]
+    },
+    {
+      "en": "I love my mom.",
+      "ko": "나는 엄마를 사랑해요.",
+      "highlights": [
+        "mom",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My mom is my favorite person. I spend time with her. We laugh a lot. I feel safe with her. She is special to me. I love her because she cares. I love my mom."
+}

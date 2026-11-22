@@ -1,0 +1,175 @@
+{
+  "slug": "my_weekend",
+  "topic": "My Weekend",
+  "topic_ko": "나의 주말",
+  "number": 71,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Weekend",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "weekend",
+      "ko": "주말"
+    },
+    {
+      "en": "Saturday",
+      "ko": "토요일"
+    },
+    {
+      "en": "Sunday",
+      "ko": "일요일"
+    },
+    {
+      "en": "sleep",
+      "ko": "잠을 자다"
+    },
+    {
+      "en": "late",
+      "ko": "늦게"
+    },
+    {
+      "en": "homework",
+      "ko": "숙제"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "rest",
+      "ko": "쉬다"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "The weekend is Saturday and Sunday.",
+      "ko": "주말은 토요일과 일요일이에요.",
+      "highlights": [
+        "weekend",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "en": "I sleep late on Saturday.",
+      "ko": "나는 토요일에 늦잠을 자요.",
+      "highlights": [
+        "Saturday",
+        "sleep",
+        "late"
+      ]
+    },
+    {
+      "en": "I do my homework first.",
+      "ko": "나는 먼저 숙제를 해요.",
+      "highlights": [
+        "homework"
+      ]
+    },
+    {
+      "en": "Then I go to the park.",
+      "ko": "그리고 나는 공원에 가요.",
+      "highlights": [
+        "park"
+      ]
+    },
+    {
+      "en": "I rest at home.",
+      "ko": "나는 집에서 쉬어요.",
+      "highlights": [
+        "rest"
+      ]
+    },
+    {
+      "en": "I help my family.",
+      "ko": "나는 가족을 도와요.",
+      "highlights": [
+        "family",
+        "help"
+      ]
+    },
+    {
+      "en": "The weekend is nice.",
+      "ko": "주말은 좋아요.",
+      "highlights": [
+        "weekend"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "The weekend is Saturday and Sunday.",
+      "ko": "주말은 토요일과 일요일이에요.",
+      "highlights": [
+        "weekend",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "en": "I sleep late on Saturday.",
+      "ko": "나는 토요일에 늦잠을 자요.",
+      "highlights": [
+        "Saturday",
+        "sleep",
+        "late"
+      ]
+    },
+    {
+      "en": "I do my homework first.",
+      "ko": "나는 먼저 숙제를 해요.",
+      "highlights": [
+        "homework"
+      ]
+    },
+    {
+      "en": "Then I go to the park.",
+      "ko": "그리고 나는 공원에 가요.",
+      "highlights": [
+        "park"
+      ]
+    },
+    {
+      "en": "I rest at home.",
+      "ko": "나는 집에서 쉬어요.",
+      "highlights": [
+        "rest"
+      ]
+    },
+    {
+      "en": "I help my family.",
+      "ko": "나는 가족을 도와요.",
+      "highlights": [
+        "family",
+        "help"
+      ]
+    },
+    {
+      "en": "The weekend is nice.",
+      "ko": "주말은 좋아요.",
+      "highlights": [
+        "weekend"
+      ]
+    }
+  ],
+  "full_passage_spoken": "The weekend is Saturday and Sunday. I sleep late on Saturday. I do my homework first. Then I go to the park. I rest at home. I help my family. The weekend is nice."
+}

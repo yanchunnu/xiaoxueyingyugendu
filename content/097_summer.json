@@ -1,0 +1,185 @@
+{
+  "slug": "summer",
+  "topic": "Summer",
+  "topic_ko": "여름",
+  "number": 97,
+  "section_ko": "사계절",
+  "section_en": "The Seasons",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Summer",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "summer",
+      "ko": "여름"
+    },
+    {
+      "en": "hot",
+      "ko": "더운"
+    },
+    {
+      "en": "sun",
+      "ko": "해"
+    },
+    {
+      "en": "hat",
+      "ko": "모자"
+    },
+    {
+      "en": "swim",
+      "ko": "수영하다"
+    },
+    {
+      "en": "pool",
+      "ko": "수영장"
+    },
+    {
+      "en": "ice cream",
+      "ko": "아이스크림"
+    },
+    {
+      "en": "fan",
+      "ko": "선풍기"
+    },
+    {
+      "en": "cool",
+      "ko": "시원한"
+    },
+    {
+      "en": "long",
+      "ko": "긴"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Summer is hot.",
+      "ko": "여름은 더워요.",
+      "highlights": [
+        "summer",
+        "hot"
+      ]
+    },
+    {
+      "en": "The sun is strong.",
+      "ko": "해가 강해요.",
+      "highlights": [
+        "sun"
+      ]
+    },
+    {
+      "en": "I wear a hat.",
+      "ko": "나는 모자를 써요.",
+      "highlights": [
+        "hat"
+      ]
+    },
+    {
+      "en": "I swim in the pool.",
+      "ko": "나는 수영장에서 수영해요.",
+      "highlights": [
+        "swim",
+        "pool"
+      ]
+    },
+    {
+      "en": "I eat ice cream.",
+      "ko": "나는 아이스크림을 먹어요.",
+      "highlights": [
+        "ice cream"
+      ]
+    },
+    {
+      "en": "A fan keeps me cool.",
+      "ko": "선풍기는 나를 시원하게 해 줘요.",
+      "highlights": [
+        "fan",
+        "cool"
+      ]
+    },
+    {
+      "en": "The days are long.",
+      "ko": "낮은 길어요.",
+      "highlights": [
+        "long"
+      ]
+    },
+    {
+      "en": "I like summer.",
+      "ko": "나는 여름을 좋아해요.",
+      "highlights": [
+        "summer"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Summer is hot.",
+      "ko": "여름은 더워요.",
+      "highlights": [
+        "summer",
+        "hot"
+      ]
+    },
+    {
+      "en": "The sun is strong.",
+      "ko": "해가 강해요.",
+      "highlights": [
+        "sun"
+      ]
+    },
+    {
+      "en": "I wear a hat.",
+      "ko": "나는 모자를 써요.",
+      "highlights": [
+        "hat"
+      ]
+    },
+    {
+      "en": "I swim in the pool.",
+      "ko": "나는 수영장에서 수영해요.",
+      "highlights": [
+        "swim",
+        "pool"
+      ]
+    },
+    {
+      "en": "I eat ice cream.",
+      "ko": "나는 아이스크림을 먹어요.",
+      "highlights": [
+        "ice cream"
+      ]
+    },
+    {
+      "en": "A fan keeps me cool.",
+      "ko": "선풍기는 나를 시원하게 해 줘요.",
+      "highlights": [
+        "fan",
+        "cool"
+      ]
+    },
+    {
+      "en": "The days are long.",
+      "ko": "낮은 길어요.",
+      "highlights": [
+        "long"
+      ]
+    },
+    {
+      "en": "I like summer.",
+      "ko": "나는 여름을 좋아해요.",
+      "highlights": [
+        "summer"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Summer is hot. The sun is strong. I wear a hat. I swim in the pool. I eat ice cream. A fan keeps me cool. The days are long. I like summer."
+}

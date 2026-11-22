@@ -1,0 +1,191 @@
+{
+  "slug": "summer_vacation",
+  "topic": "Summer Vacation",
+  "topic_ko": "여름 방학",
+  "number": 78,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Summer Vacation",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "summer",
+      "ko": "여름"
+    },
+    {
+      "en": "vacation",
+      "ko": "방학"
+    },
+    {
+      "en": "hot",
+      "ko": "더운"
+    },
+    {
+      "en": "swim",
+      "ko": "수영하다"
+    },
+    {
+      "en": "ice cream",
+      "ko": "아이스크림"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "trip",
+      "ko": "여행"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "free",
+      "ko": "자유로운"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Summer vacation is here.",
+      "ko": "여름 방학이 왔어요.",
+      "highlights": [
+        "summer",
+        "vacation"
+      ]
+    },
+    {
+      "en": "The days are hot.",
+      "ko": "낮이 더워요.",
+      "highlights": [
+        "hot"
+      ]
+    },
+    {
+      "en": "I swim",
+      "ko": "나는 수영해요.",
+      "highlights": [
+        "swim"
+      ]
+    },
+    {
+      "en": "and eat ice cream.",
+      "ko": "그리고 아이스크림을 먹어요.",
+      "highlights": [
+        "ice cream"
+      ]
+    },
+    {
+      "en": "I like to read a book.",
+      "ko": "나는 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book"
+      ]
+    },
+    {
+      "en": "I take a short trip.",
+      "ko": "나는 짧은 여행을 가요.",
+      "highlights": [
+        "trip"
+      ]
+    },
+    {
+      "en": "I play with a friend.",
+      "ko": "나는 친구와 놀아요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I feel free.",
+      "ko": "나는 자유로워요.",
+      "highlights": [
+        "free"
+      ]
+    },
+    {
+      "en": "Summer is fun.",
+      "ko": "여름은 재미있어요.",
+      "highlights": [
+        "summer",
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Summer vacation is here.",
+      "ko": "여름 방학이 왔어요.",
+      "highlights": [
+        "summer",
+        "vacation"
+      ]
+    },
+    {
+      "en": "The days are hot.",
+      "ko": "낮이 더워요.",
+      "highlights": [
+        "hot"
+      ]
+    },
+    {
+      "en": "I swim and eat ice cream.",
+      "ko": "나는 수영하고 아이스크림을 먹어요.",
+      "highlights": [
+        "swim",
+        "ice cream"
+      ]
+    },
+    {
+      "en": "I like to read a book.",
+      "ko": "나는 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book"
+      ]
+    },
+    {
+      "en": "I take a short trip.",
+      "ko": "나는 짧은 여행을 가요.",
+      "highlights": [
+        "trip"
+      ]
+    },
+    {
+      "en": "I play with a friend.",
+      "ko": "나는 친구와 놀아요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I feel free.",
+      "ko": "나는 자유로워요.",
+      "highlights": [
+        "free"
+      ]
+    },
+    {
+      "en": "Summer is fun.",
+      "ko": "여름은 재미있어요.",
+      "highlights": [
+        "summer",
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Summer vacation is here. The days are hot. I swim and eat ice cream. I like to read a book. I take a short trip. I play with a friend. I feel free. Summer is fun."
+}

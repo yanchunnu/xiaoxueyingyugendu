@@ -1,0 +1,183 @@
+{
+  "slug": "a_wonderful_weekend",
+  "topic": "A Wonderful Weekend",
+  "topic_ko": "멋진 주말",
+  "number": 75,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "A Wonderful Weekend",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "wonderful",
+      "ko": "멋진"
+    },
+    {
+      "en": "weekend",
+      "ko": "주말"
+    },
+    {
+      "en": "visit",
+      "ko": "방문하다"
+    },
+    {
+      "en": "grandmother",
+      "ko": "할머니"
+    },
+    {
+      "en": "train",
+      "ko": "기차"
+    },
+    {
+      "en": "story",
+      "ko": "이야기"
+    },
+    {
+      "en": "cookie",
+      "ko": "쿠키"
+    },
+    {
+      "en": "garden",
+      "ko": "정원"
+    },
+    {
+      "en": "back",
+      "ko": "돌아오다"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I have a wonderful weekend.",
+      "ko": "나는 멋진 주말을 보내요.",
+      "highlights": [
+        "wonderful",
+        "weekend"
+      ]
+    },
+    {
+      "en": "I visit my grandmother.",
+      "ko": "나는 할머니를 보러 가요.",
+      "highlights": [
+        "visit",
+        "grandmother"
+      ]
+    },
+    {
+      "en": "We go by train.",
+      "ko": "우리는 기차를 타고 가요.",
+      "highlights": [
+        "train"
+      ]
+    },
+    {
+      "en": "She tells a story.",
+      "ko": "할머니는 이야기를 해 줘요.",
+      "highlights": [
+        "story"
+      ]
+    },
+    {
+      "en": "We eat a cookie.",
+      "ko": "우리는 쿠키를 먹어요.",
+      "highlights": [
+        "cookie"
+      ]
+    },
+    {
+      "en": "We walk in the garden.",
+      "ko": "우리는 정원을 걸어요.",
+      "highlights": [
+        "garden"
+      ]
+    },
+    {
+      "en": "Then I come back home.",
+      "ko": "그리고 나는 집으로 돌아와요.",
+      "highlights": [
+        "back"
+      ]
+    },
+    {
+      "en": "I feel happy.",
+      "ko": "나는 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I have a wonderful weekend.",
+      "ko": "나는 멋진 주말을 보내요.",
+      "highlights": [
+        "wonderful",
+        "weekend"
+      ]
+    },
+    {
+      "en": "I visit my grandmother.",
+      "ko": "나는 할머니를 보러 가요.",
+      "highlights": [
+        "visit",
+        "grandmother"
+      ]
+    },
+    {
+      "en": "We go by train.",
+      "ko": "우리는 기차를 타고 가요.",
+      "highlights": [
+        "train"
+      ]
+    },
+    {
+      "en": "She tells a story.",
+      "ko": "할머니는 이야기를 해 줘요.",
+      "highlights": [
+        "story"
+      ]
+    },
+    {
+      "en": "We eat a cookie.",
+      "ko": "우리는 쿠키를 먹어요.",
+      "highlights": [
+        "cookie"
+      ]
+    },
+    {
+      "en": "We walk in the garden.",
+      "ko": "우리는 정원을 걸어요.",
+      "highlights": [
+        "garden"
+      ]
+    },
+    {
+      "en": "Then I come back home.",
+      "ko": "그리고 나는 집으로 돌아와요.",
+      "highlights": [
+        "back"
+      ]
+    },
+    {
+      "en": "I feel happy.",
+      "ko": "나는 행복해요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I have a wonderful weekend. I visit my grandmother. We go by train. She tells a story. We eat a cookie. We walk in the garden. Then I come back home. I feel happy."
+}

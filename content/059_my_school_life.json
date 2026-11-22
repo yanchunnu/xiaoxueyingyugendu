@@ -1,0 +1,189 @@
+{
+  "slug": "my_school_life",
+  "topic": "My School Life",
+  "topic_ko": "나의 학교생활",
+  "number": 59,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My School Life",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "school life",
+      "ko": "학교생활"
+    },
+    {
+      "en": "busy",
+      "ko": "바쁜"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    },
+    {
+      "en": "morning",
+      "ko": "아침"
+    },
+    {
+      "en": "class",
+      "ko": "수업"
+    },
+    {
+      "en": "lunch",
+      "ko": "점심"
+    },
+    {
+      "en": "music",
+      "ko": "음악"
+    },
+    {
+      "en": "learn",
+      "ko": "배우다"
+    },
+    {
+      "en": "play",
+      "ko": "놀다"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My school life is busy.",
+      "ko": "나의 학교생활은 바빠요.",
+      "highlights": [
+        "school life",
+        "busy"
+      ]
+    },
+    {
+      "en": "It is also fun.",
+      "ko": "학교생활은 재미있기도 해요.",
+      "highlights": [
+        "fun"
+      ]
+    },
+    {
+      "en": "In the morning I have class.",
+      "ko": "아침에 나는 수업이 있어요.",
+      "highlights": [
+        "morning",
+        "class"
+      ]
+    },
+    {
+      "en": "I eat lunch with a friend.",
+      "ko": "나는 친구와 점심을 먹어요.",
+      "highlights": [
+        "lunch",
+        "friend"
+      ]
+    },
+    {
+      "en": "I have music class.",
+      "ko": "나는 음악 수업이 있어요.",
+      "highlights": [
+        "class",
+        "music"
+      ]
+    },
+    {
+      "en": "I learn many things.",
+      "ko": "나는 많은 것을 배워요.",
+      "highlights": [
+        "learn"
+      ]
+    },
+    {
+      "en": "I play after lunch.",
+      "ko": "나는 점심 후에 놀아요.",
+      "highlights": [
+        "lunch",
+        "play"
+      ]
+    },
+    {
+      "en": "I like my school life.",
+      "ko": "나는 나의 학교생활을 좋아해요.",
+      "highlights": [
+        "school life"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My school life is busy.",
+      "ko": "나의 학교생활은 바빠요.",
+      "highlights": [
+        "school life",
+        "busy"
+      ]
+    },
+    {
+      "en": "It is also fun.",
+      "ko": "학교생활은 재미있기도 해요.",
+      "highlights": [
+        "fun"
+      ]
+    },
+    {
+      "en": "In the morning I have class.",
+      "ko": "아침에 나는 수업이 있어요.",
+      "highlights": [
+        "morning",
+        "class"
+      ]
+    },
+    {
+      "en": "I eat lunch with a friend.",
+      "ko": "나는 친구와 점심을 먹어요.",
+      "highlights": [
+        "lunch",
+        "friend"
+      ]
+    },
+    {
+      "en": "I have music class.",
+      "ko": "나는 음악 수업이 있어요.",
+      "highlights": [
+        "class",
+        "music"
+      ]
+    },
+    {
+      "en": "I learn many things.",
+      "ko": "나는 많은 것을 배워요.",
+      "highlights": [
+        "learn"
+      ]
+    },
+    {
+      "en": "I play after lunch.",
+      "ko": "나는 점심 후에 놀아요.",
+      "highlights": [
+        "lunch",
+        "play"
+      ]
+    },
+    {
+      "en": "I like my school life.",
+      "ko": "나는 나의 학교생활을 좋아해요.",
+      "highlights": [
+        "school life"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My school life is busy. It is also fun. In the morning I have class. I eat lunch with a friend. I have music class. I learn many things. I play after lunch. I like my school life."
+}

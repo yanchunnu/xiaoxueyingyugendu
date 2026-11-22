@@ -1,0 +1,185 @@
+{
+  "slug": "my_bicycle",
+  "topic": "My Bicycle",
+  "topic_ko": "나의 자전거",
+  "number": 34,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Bicycle",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "bicycle",
+      "ko": "자전거"
+    },
+    {
+      "en": "wheel",
+      "ko": "바퀴"
+    },
+    {
+      "en": "bell",
+      "ko": "종"
+    },
+    {
+      "en": "helmet",
+      "ko": "헬멧"
+    },
+    {
+      "en": "wear",
+      "ko": "쓰다"
+    },
+    {
+      "en": "ride",
+      "ko": "타다"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "fast",
+      "ko": "빨리"
+    },
+    {
+      "en": "safe",
+      "ko": "안전한"
+    },
+    {
+      "en": "fun",
+      "ko": "재미있는"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my bicycle.",
+      "ko": "이것은 나의 자전거예요.",
+      "highlights": [
+        "bicycle"
+      ]
+    },
+    {
+      "en": "It has two wheels.",
+      "ko": "바퀴가 두 개 있어요.",
+      "highlights": [
+        "wheel"
+      ]
+    },
+    {
+      "en": "It has a bell.",
+      "ko": "종이 있어요.",
+      "highlights": [
+        "bell"
+      ]
+    },
+    {
+      "en": "I wear a helmet.",
+      "ko": "나는 헬멧을 써요.",
+      "highlights": [
+        "helmet",
+        "wear"
+      ]
+    },
+    {
+      "en": "I ride to the park.",
+      "ko": "나는 공원까지 자전거를 타요.",
+      "highlights": [
+        "ride",
+        "park"
+      ]
+    },
+    {
+      "en": "I do not ride too fast.",
+      "ko": "나는 너무 빨리 타지 않아요.",
+      "highlights": [
+        "ride",
+        "fast"
+      ]
+    },
+    {
+      "en": "I stay safe.",
+      "ko": "나는 안전하게 타요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "It is fun.",
+      "ko": "자전거 타기는 재미있어요.",
+      "highlights": [
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my bicycle.",
+      "ko": "이것은 나의 자전거예요.",
+      "highlights": [
+        "bicycle"
+      ]
+    },
+    {
+      "en": "It has two wheels.",
+      "ko": "바퀴가 두 개 있어요.",
+      "highlights": [
+        "wheel"
+      ]
+    },
+    {
+      "en": "It has a bell.",
+      "ko": "종이 있어요.",
+      "highlights": [
+        "bell"
+      ]
+    },
+    {
+      "en": "I wear a helmet.",
+      "ko": "나는 헬멧을 써요.",
+      "highlights": [
+        "helmet",
+        "wear"
+      ]
+    },
+    {
+      "en": "I ride to the park.",
+      "ko": "나는 공원까지 자전거를 타요.",
+      "highlights": [
+        "ride",
+        "park"
+      ]
+    },
+    {
+      "en": "I do not ride too fast.",
+      "ko": "나는 너무 빨리 타지 않아요.",
+      "highlights": [
+        "ride",
+        "fast"
+      ]
+    },
+    {
+      "en": "I stay safe.",
+      "ko": "나는 안전하게 타요.",
+      "highlights": [
+        "safe"
+      ]
+    },
+    {
+      "en": "It is fun.",
+      "ko": "자전거 타기는 재미있어요.",
+      "highlights": [
+        "fun"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is my bicycle. It has two wheels. It has a bell. I wear a helmet. I ride to the park. I do not ride too fast. I stay safe. It is fun."
+}

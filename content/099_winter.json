@@ -1,0 +1,171 @@
+{
+  "slug": "winter",
+  "topic": "Winter",
+  "topic_ko": "겨울",
+  "number": 99,
+  "section_ko": "사계절",
+  "section_en": "The Seasons",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Winter",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "winter",
+      "ko": "겨울"
+    },
+    {
+      "en": "cold",
+      "ko": "추운"
+    },
+    {
+      "en": "snow",
+      "ko": "눈"
+    },
+    {
+      "en": "white",
+      "ko": "하얀"
+    },
+    {
+      "en": "ice",
+      "ko": "얼음"
+    },
+    {
+      "en": "lake",
+      "ko": "호수"
+    },
+    {
+      "en": "coat",
+      "ko": "코트"
+    },
+    {
+      "en": "glove",
+      "ko": "장갑"
+    },
+    {
+      "en": "snowman",
+      "ko": "눈사람"
+    },
+    {
+      "en": "hot",
+      "ko": "뜨거운"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Winter is cold.",
+      "ko": "겨울은 추워요.",
+      "highlights": [
+        "winter",
+        "cold"
+      ]
+    },
+    {
+      "en": "Snow is white.",
+      "ko": "눈은 하얘요.",
+      "highlights": [
+        "snow",
+        "white"
+      ]
+    },
+    {
+      "en": "Ice is on the lake.",
+      "ko": "호수에 얼음이 있어요.",
+      "highlights": [
+        "ice",
+        "lake"
+      ]
+    },
+    {
+      "en": "I wear a coat.",
+      "ko": "나는 코트를 입어요.",
+      "highlights": [
+        "coat"
+      ]
+    },
+    {
+      "en": "A glove keeps my hand warm.",
+      "ko": "장갑은 내 손을 따뜻하게 해요.",
+      "highlights": [
+        "glove"
+      ]
+    },
+    {
+      "en": "I make a snowman.",
+      "ko": "나는 눈사람을 만들어요.",
+      "highlights": [
+        "snowman"
+      ]
+    },
+    {
+      "en": "Then I drink something hot.",
+      "ko": "그리고 나는 뜨거운 것을 마셔요.",
+      "highlights": [
+        "hot"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Winter is cold.",
+      "ko": "겨울은 추워요.",
+      "highlights": [
+        "winter",
+        "cold"
+      ]
+    },
+    {
+      "en": "Snow is white.",
+      "ko": "눈은 하얘요.",
+      "highlights": [
+        "snow",
+        "white"
+      ]
+    },
+    {
+      "en": "Ice is on the lake.",
+      "ko": "호수에 얼음이 있어요.",
+      "highlights": [
+        "ice",
+        "lake"
+      ]
+    },
+    {
+      "en": "I wear a coat.",
+      "ko": "나는 코트를 입어요.",
+      "highlights": [
+        "coat"
+      ]
+    },
+    {
+      "en": "A glove keeps my hand warm.",
+      "ko": "장갑은 내 손을 따뜻하게 해요.",
+      "highlights": [
+        "glove"
+      ]
+    },
+    {
+      "en": "I make a snowman.",
+      "ko": "나는 눈사람을 만들어요.",
+      "highlights": [
+        "snowman"
+      ]
+    },
+    {
+      "en": "Then I drink something hot.",
+      "ko": "그리고 나는 뜨거운 것을 마셔요.",
+      "highlights": [
+        "hot"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Winter is cold. Snow is white. Ice is on the lake. I wear a coat. A glove keeps my hand warm. I make a snowman. Then I drink something hot."
+}

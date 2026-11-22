@@ -1,0 +1,173 @@
+{
+  "slug": "my_favorite_sport_1",
+  "topic": "My Favorite Sport (1)",
+  "topic_ko": "내가 가장 좋아하는 운동 (1)",
+  "number": 53,
+  "section_ko": "취미·관심사",
+  "section_en": "Hobbies and Interests",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Sport, Part One",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는"
+    },
+    {
+      "en": "sport",
+      "ko": "운동"
+    },
+    {
+      "en": "soccer",
+      "ko": "축구"
+    },
+    {
+      "en": "kick",
+      "ko": "차다"
+    },
+    {
+      "en": "ball",
+      "ko": "공"
+    },
+    {
+      "en": "team",
+      "ko": "팀"
+    },
+    {
+      "en": "goal",
+      "ko": "골"
+    },
+    {
+      "en": "practice",
+      "ko": "연습하다"
+    },
+    {
+      "en": "Saturday",
+      "ko": "토요일"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My favorite sport is soccer.",
+      "ko": "내가 가장 좋아하는 운동은 축구예요.",
+      "highlights": [
+        "favorite",
+        "sport",
+        "soccer"
+      ]
+    },
+    {
+      "en": "I kick the ball.",
+      "ko": "나는 공을 차요.",
+      "highlights": [
+        "kick",
+        "ball"
+      ]
+    },
+    {
+      "en": "I run with my team.",
+      "ko": "나는 팀과 함께 달려요.",
+      "highlights": [
+        "team"
+      ]
+    },
+    {
+      "en": "We try to make a goal.",
+      "ko": "우리는 골을 넣으려고 해요.",
+      "highlights": [
+        "goal"
+      ]
+    },
+    {
+      "en": "We practice on Saturday.",
+      "ko": "우리는 토요일에 연습해요.",
+      "highlights": [
+        "practice",
+        "Saturday"
+      ]
+    },
+    {
+      "en": "I play with my friend.",
+      "ko": "나는 친구와 같이 놀아요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I like this sport.",
+      "ko": "나는 이 운동을 좋아해요.",
+      "highlights": [
+        "sport"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My favorite sport is soccer.",
+      "ko": "내가 가장 좋아하는 운동은 축구예요.",
+      "highlights": [
+        "favorite",
+        "sport",
+        "soccer"
+      ]
+    },
+    {
+      "en": "I kick the ball.",
+      "ko": "나는 공을 차요.",
+      "highlights": [
+        "kick",
+        "ball"
+      ]
+    },
+    {
+      "en": "I run with my team.",
+      "ko": "나는 팀과 함께 달려요.",
+      "highlights": [
+        "team"
+      ]
+    },
+    {
+      "en": "We try to make a goal.",
+      "ko": "우리는 골을 넣으려고 해요.",
+      "highlights": [
+        "goal"
+      ]
+    },
+    {
+      "en": "We practice on Saturday.",
+      "ko": "우리는 토요일에 연습해요.",
+      "highlights": [
+        "practice",
+        "Saturday"
+      ]
+    },
+    {
+      "en": "I play with my friend.",
+      "ko": "나는 친구와 같이 놀아요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I like this sport.",
+      "ko": "나는 이 운동을 좋아해요.",
+      "highlights": [
+        "sport"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My favorite sport is soccer. I kick the ball. I run with my team. We try to make a goal. We practice on Saturday. I play with my friend. I like this sport."
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "i_love_sports",
+  "topic": "I Love Sports",
+  "topic_ko": "나는 운동을 좋아해요",
+  "number": 93,
+  "section_ko": "건강과 음식",
+  "section_en": "Health and Food",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "I Love Sports",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "love",
+      "ko": "좋아하다"
+    },
+    {
+      "en": "sport",
+      "ko": "운동"
+    },
+    {
+      "en": "run",
+      "ko": "달리다"
+    },
+    {
+      "en": "jump",
+      "ko": "뛰다"
+    },
+    {
+      "en": "ball",
+      "ko": "공"
+    },
+    {
+      "en": "team",
+      "ko": "팀"
+    },
+    {
+      "en": "sweat",
+      "ko": "땀"
+    },
+    {
+      "en": "heart",
+      "ko": "심장"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    },
+    {
+      "en": "week",
+      "ko": "주"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I love this sport.",
+      "ko": "나는 이 운동을 좋아해요.",
+      "highlights": [
+        "love",
+        "sport"
+      ]
+    },
+    {
+      "en": "I run",
+      "ko": "나는 달려요.",
+      "highlights": [
+        "run"
+      ]
+    },
+    {
+      "en": "and jump.",
+      "ko": "그리고 뛰어요.",
+      "highlights": [
+        "jump"
+      ]
+    },
+    {
+      "en": "I play ball with a team.",
+      "ko": "나는 팀과 함께 공을 가지고 놀아요.",
+      "highlights": [
+        "ball",
+        "team"
+      ]
+    },
+    {
+      "en": "I sweat a little.",
+      "ko": "나는 땀을 조금 흘려요.",
+      "highlights": [
+        "sweat"
+      ]
+    },
+    {
+      "en": "My heart beats fast.",
+      "ko": "나의 심장이 빨리 뛰어요.",
+      "highlights": [
+        "heart"
+      ]
+    },
+    {
+      "en": "Then I feel happy.",
+      "ko": "그러면 나는 행복해져요.",
+      "highlights": [
+        "happy"
+      ]
+    },
+    {
+      "en": "Sports help me grow.",
+      "ko": "운동은 내가 자라도록 도와요.",
+      "highlights": [
+        "sport"
+      ]
+    },
+    {
+      "en": "I play every week.",
+      "ko": "나는 매주 운동해요.",
+      "highlights": [
+        "week"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I love this sport.",
+      "ko": "나는 이 운동을 좋아해요.",
+      "highlights": [
+        "love",
+        "sport"
+      ]
+    },
+    {
+      "en": "I run and jump.",
+      "ko": "나는 달리고 뛰어요.",
+      "highlights": [
+        "run",
+        "jump"
+      ]
+    },
+    {
+      "en": "I play ball with a team.",
+      "ko": "나는 팀과 함께 공을 가지고 놀아요.",
+      "highlights": [
+        "ball",
+        "team"
+      ]
+    },
+    {
+      "en": "I sweat a little.",
+      "ko": "나는 땀을 조금 흘려요.",
+      "highlights": [
+        "sweat"
+      ]
+    },
+    {
+      "en": "My heart beats fast.",
+      "ko": "나의 심장이 빨리 뛰어요.",
+      "highlights": [
+        "heart"
+      ]
+    },
+    {
+      "en": "Then I feel happy.",
+      "ko": "그러면 나는 행복해져요.",
+      "highlights": [
+        "happy"
+      ]
+    },
+    {
+      "en": "Sports help me grow.",
+      "ko": "운동은 내가 자라도록 도와요.",
+      "highlights": [
+        "sport"
+      ]
+    },
+    {
+      "en": "I play every week.",
+      "ko": "나는 매주 운동해요.",
+      "highlights": [
+        "week"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I love this sport. I run and jump. I play ball with a team. I sweat a little. My heart beats fast. Then I feel happy. Sports help me grow. I play every week."
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "my_school",
+  "topic": "My School",
+  "topic_ko": "나의 학교",
+  "number": 57,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My School",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "school",
+      "ko": "학교"
+    },
+    {
+      "en": "big",
+      "ko": "큰"
+    },
+    {
+      "en": "building",
+      "ko": "건물"
+    },
+    {
+      "en": "playground",
+      "ko": "운동장"
+    },
+    {
+      "en": "library",
+      "ko": "도서관"
+    },
+    {
+      "en": "gate",
+      "ko": "교문"
+    },
+    {
+      "en": "walk",
+      "ko": "걷다"
+    },
+    {
+      "en": "teacher",
+      "ko": "선생님"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My school is big.",
+      "ko": "나의 학교는 커요.",
+      "highlights": [
+        "school",
+        "big"
+      ]
+    },
+    {
+      "en": "The building is white.",
+      "ko": "건물은 흰색이에요.",
+      "highlights": [
+        "building"
+      ]
+    },
+    {
+      "en": "We have a playground.",
+      "ko": "운동장이 있어요.",
+      "highlights": [
+        "playground"
+      ]
+    },
+    {
+      "en": "We have a library too.",
+      "ko": "도서관도 있어요.",
+      "highlights": [
+        "library"
+      ]
+    },
+    {
+      "en": "I walk through the gate.",
+      "ko": "나는 교문을 지나 걸어요.",
+      "highlights": [
+        "gate",
+        "walk"
+      ]
+    },
+    {
+      "en": "My teacher is there.",
+      "ko": "선생님이 거기 있어요.",
+      "highlights": [
+        "teacher"
+      ]
+    },
+    {
+      "en": "My friend is there too.",
+      "ko": "친구도 거기 있어요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I love my school.",
+      "ko": "나는 나의 학교를 사랑해요.",
+      "highlights": [
+        "school",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My school is big.",
+      "ko": "나의 학교는 커요.",
+      "highlights": [
+        "school",
+        "big"
+      ]
+    },
+    {
+      "en": "The building is white.",
+      "ko": "건물은 흰색이에요.",
+      "highlights": [
+        "building"
+      ]
+    },
+    {
+      "en": "We have a playground.",
+      "ko": "운동장이 있어요.",
+      "highlights": [
+        "playground"
+      ]
+    },
+    {
+      "en": "We have a library too.",
+      "ko": "도서관도 있어요.",
+      "highlights": [
+        "library"
+      ]
+    },
+    {
+      "en": "I walk through the gate.",
+      "ko": "나는 교문을 지나 걸어요.",
+      "highlights": [
+        "gate",
+        "walk"
+      ]
+    },
+    {
+      "en": "My teacher is there.",
+      "ko": "선생님이 거기 있어요.",
+      "highlights": [
+        "teacher"
+      ]
+    },
+    {
+      "en": "My friend is there too.",
+      "ko": "친구도 거기 있어요.",
+      "highlights": [
+        "friend"
+      ]
+    },
+    {
+      "en": "I love my school.",
+      "ko": "나는 나의 학교를 사랑해요.",
+      "highlights": [
+        "school",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My school is big. The building is white. We have a playground. We have a library too. I walk through the gate. My teacher is there. My friend is there too. I love my school."
+}

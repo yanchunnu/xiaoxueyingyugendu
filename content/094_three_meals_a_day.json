@@ -1,0 +1,189 @@
+{
+  "slug": "three_meals_a_day",
+  "topic": "Three Meals a Day",
+  "topic_ko": "하루 세 끼",
+  "number": 94,
+  "section_ko": "건강과 음식",
+  "section_en": "Health and Food",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Three Meals a Day",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "three",
+      "ko": "셋"
+    },
+    {
+      "en": "meal",
+      "ko": "끼니"
+    },
+    {
+      "en": "breakfast",
+      "ko": "아침"
+    },
+    {
+      "en": "lunch",
+      "ko": "점심"
+    },
+    {
+      "en": "dinner",
+      "ko": "저녁"
+    },
+    {
+      "en": "on time",
+      "ko": "제시간에"
+    },
+    {
+      "en": "skip",
+      "ko": "거르다"
+    },
+    {
+      "en": "regular",
+      "ko": "규칙적인"
+    },
+    {
+      "en": "energy",
+      "ko": "에너지"
+    },
+    {
+      "en": "study",
+      "ko": "공부하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I eat three meals a day.",
+      "ko": "나는 하루에 세 끼를 먹어요.",
+      "highlights": [
+        "three",
+        "meal"
+      ]
+    },
+    {
+      "en": "Breakfast is one meal.",
+      "ko": "아침은 한 끼예요.",
+      "highlights": [
+        "meal",
+        "breakfast"
+      ]
+    },
+    {
+      "en": "Lunch is at school.",
+      "ko": "점심은 학교에서 먹어요.",
+      "highlights": [
+        "lunch"
+      ]
+    },
+    {
+      "en": "Dinner is at home.",
+      "ko": "저녁은 집에서 먹어요.",
+      "highlights": [
+        "dinner"
+      ]
+    },
+    {
+      "en": "I eat on time.",
+      "ko": "나는 제시간에 먹어요.",
+      "highlights": [
+        "on time"
+      ]
+    },
+    {
+      "en": "I do not skip a meal.",
+      "ko": "나는 끼니를 거르지 않아요.",
+      "highlights": [
+        "meal",
+        "skip"
+      ]
+    },
+    {
+      "en": "Regular meals give me energy.",
+      "ko": "규칙적인 식사는 나에게 에너지를 줘요.",
+      "highlights": [
+        "meal",
+        "regular",
+        "energy"
+      ]
+    },
+    {
+      "en": "They help me study.",
+      "ko": "그 식사는 공부에 도움이 돼요.",
+      "highlights": [
+        "study"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I eat three meals a day.",
+      "ko": "나는 하루에 세 끼를 먹어요.",
+      "highlights": [
+        "three",
+        "meal"
+      ]
+    },
+    {
+      "en": "Breakfast is one meal.",
+      "ko": "아침은 한 끼예요.",
+      "highlights": [
+        "meal",
+        "breakfast"
+      ]
+    },
+    {
+      "en": "Lunch is at school.",
+      "ko": "점심은 학교에서 먹어요.",
+      "highlights": [
+        "lunch"
+      ]
+    },
+    {
+      "en": "Dinner is at home.",
+      "ko": "저녁은 집에서 먹어요.",
+      "highlights": [
+        "dinner"
+      ]
+    },
+    {
+      "en": "I eat on time.",
+      "ko": "나는 제시간에 먹어요.",
+      "highlights": [
+        "on time"
+      ]
+    },
+    {
+      "en": "I do not skip a meal.",
+      "ko": "나는 끼니를 거르지 않아요.",
+      "highlights": [
+        "meal",
+        "skip"
+      ]
+    },
+    {
+      "en": "Regular meals give me energy.",
+      "ko": "규칙적인 식사는 나에게 에너지를 줘요.",
+      "highlights": [
+        "meal",
+        "regular",
+        "energy"
+      ]
+    },
+    {
+      "en": "They help me study.",
+      "ko": "그 식사는 공부에 도움이 돼요.",
+      "highlights": [
+        "study"
+      ]
+    }
+  ],
+  "full_passage_spoken": "I eat three meals a day. Breakfast is one meal. Lunch is at school. Dinner is at home. I eat on time. I do not skip a meal. Regular meals give me energy. They help me study."
+}

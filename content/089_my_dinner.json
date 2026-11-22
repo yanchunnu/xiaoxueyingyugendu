@@ -1,0 +1,179 @@
+{
+  "slug": "my_dinner",
+  "topic": "My Dinner",
+  "topic_ko": "나의 저녁 식사",
+  "number": 89,
+  "section_ko": "건강과 음식",
+  "section_en": "Health and Food",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Dinner",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "dinner",
+      "ko": "저녁 식사"
+    },
+    {
+      "en": "table",
+      "ko": "식탁"
+    },
+    {
+      "en": "rice",
+      "ko": "밥"
+    },
+    {
+      "en": "soup",
+      "ko": "국"
+    },
+    {
+      "en": "fish",
+      "ko": "생선"
+    },
+    {
+      "en": "vegetable",
+      "ko": "채소"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "talk",
+      "ko": "이야기하다"
+    },
+    {
+      "en": "slowly",
+      "ko": "천천히"
+    },
+    {
+      "en": "full",
+      "ko": "배부른"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "We eat dinner at the table.",
+      "ko": "우리는 식탁에서 저녁을 먹어요.",
+      "highlights": [
+        "dinner",
+        "table"
+      ]
+    },
+    {
+      "en": "We have rice",
+      "ko": "우리는 밥을 먹어요.",
+      "highlights": [
+        "rice"
+      ]
+    },
+    {
+      "en": "and soup.",
+      "ko": "그리고 국을 먹어요.",
+      "highlights": [
+        "soup"
+      ]
+    },
+    {
+      "en": "We have fish and a vegetable.",
+      "ko": "우리는 생선과 채소를 먹어요.",
+      "highlights": [
+        "fish",
+        "vegetable"
+      ]
+    },
+    {
+      "en": "We talk as a family.",
+      "ko": "우리는 가족끼리 이야기해요.",
+      "highlights": [
+        "family",
+        "talk"
+      ]
+    },
+    {
+      "en": "I eat slowly.",
+      "ko": "나는 천천히 먹어요.",
+      "highlights": [
+        "slowly"
+      ]
+    },
+    {
+      "en": "I feel full.",
+      "ko": "나는 배가 불러요.",
+      "highlights": [
+        "full"
+      ]
+    },
+    {
+      "en": "Dinner time is special.",
+      "ko": "저녁 식사 시간은 특별해요.",
+      "highlights": [
+        "dinner"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "We eat dinner at the table.",
+      "ko": "우리는 식탁에서 저녁을 먹어요.",
+      "highlights": [
+        "dinner",
+        "table"
+      ]
+    },
+    {
+      "en": "We have rice and soup.",
+      "ko": "우리는 밥과 국을 먹어요.",
+      "highlights": [
+        "rice",
+        "soup"
+      ]
+    },
+    {
+      "en": "We have fish and a vegetable.",
+      "ko": "우리는 생선과 채소를 먹어요.",
+      "highlights": [
+        "fish",
+        "vegetable"
+      ]
+    },
+    {
+      "en": "We talk as a family.",
+      "ko": "우리는 가족끼리 이야기해요.",
+      "highlights": [
+        "family",
+        "talk"
+      ]
+    },
+    {
+      "en": "I eat slowly.",
+      "ko": "나는 천천히 먹어요.",
+      "highlights": [
+        "slowly"
+      ]
+    },
+    {
+      "en": "I feel full.",
+      "ko": "나는 배가 불러요.",
+      "highlights": [
+        "full"
+      ]
+    },
+    {
+      "en": "Dinner time is special.",
+      "ko": "저녁 식사 시간은 특별해요.",
+      "highlights": [
+        "dinner"
+      ]
+    }
+  ],
+  "full_passage_spoken": "We eat dinner at the table. We have rice and soup. We have fish and a vegetable. We talk as a family. I eat slowly. I feel full. Dinner time is special."
+}

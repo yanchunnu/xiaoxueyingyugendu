@@ -1,0 +1,193 @@
+{
+  "slug": "how_to_learn_english_well",
+  "topic": "How to Learn English Well",
+  "topic_ko": "영어를 잘 배우는 방법",
+  "number": 61,
+  "section_ko": "학교생활",
+  "section_en": "School Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "How to Learn English Well",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "learn",
+      "ko": "배우다"
+    },
+    {
+      "en": "English",
+      "ko": "영어"
+    },
+    {
+      "en": "listen",
+      "ko": "듣다"
+    },
+    {
+      "en": "repeat",
+      "ko": "따라 하다"
+    },
+    {
+      "en": "speak",
+      "ko": "말하다"
+    },
+    {
+      "en": "aloud",
+      "ko": "소리 내어"
+    },
+    {
+      "en": "word",
+      "ko": "단어"
+    },
+    {
+      "en": "practice",
+      "ko": "연습하다"
+    },
+    {
+      "en": "brave",
+      "ko": "용기 있는"
+    },
+    {
+      "en": "every day",
+      "ko": "매일"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "I want to learn English well.",
+      "ko": "나는 영어를 잘 배우고 싶어요.",
+      "highlights": [
+        "learn",
+        "English"
+      ]
+    },
+    {
+      "en": "I listen",
+      "ko": "나는 들어요.",
+      "highlights": [
+        "listen"
+      ]
+    },
+    {
+      "en": "and repeat.",
+      "ko": "그리고 따라 해요.",
+      "highlights": [
+        "repeat"
+      ]
+    },
+    {
+      "en": "I speak aloud.",
+      "ko": "나는 소리 내어 말해요.",
+      "highlights": [
+        "speak",
+        "aloud"
+      ]
+    },
+    {
+      "en": "I learn a new word every day.",
+      "ko": "나는 매일 새 단어를 배워요.",
+      "highlights": [
+        "learn",
+        "word",
+        "every day"
+      ]
+    },
+    {
+      "en": "I practice with a friend.",
+      "ko": "나는 친구와 연습해요.",
+      "highlights": [
+        "practice"
+      ]
+    },
+    {
+      "en": "I am brave when I speak.",
+      "ko": "나는 말할 때 용기를 내요.",
+      "highlights": [
+        "speak",
+        "brave"
+      ]
+    },
+    {
+      "en": "A little every day helps.",
+      "ko": "매일 조금씩 하면 도움이 돼요.",
+      "highlights": [
+        "every day"
+      ]
+    },
+    {
+      "en": "I can do it.",
+      "ko": "나는 할 수 있어요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "I want to learn English well.",
+      "ko": "나는 영어를 잘 배우고 싶어요.",
+      "highlights": [
+        "learn",
+        "English"
+      ]
+    },
+    {
+      "en": "I listen and repeat.",
+      "ko": "나는 듣고 따라 해요.",
+      "highlights": [
+        "listen",
+        "repeat"
+      ]
+    },
+    {
+      "en": "I speak aloud.",
+      "ko": "나는 소리 내어 말해요.",
+      "highlights": [
+        "speak",
+        "aloud"
+      ]
+    },
+    {
+      "en": "I learn a new word every day.",
+      "ko": "나는 매일 새 단어를 배워요.",
+      "highlights": [
+        "learn",
+        "word",
+        "every day"
+      ]
+    },
+    {
+      "en": "I practice with a friend.",
+      "ko": "나는 친구와 연습해요.",
+      "highlights": [
+        "practice"
+      ]
+    },
+    {
+      "en": "I am brave when I speak.",
+      "ko": "나는 말할 때 용기를 내요.",
+      "highlights": [
+        "speak",
+        "brave"
+      ]
+    },
+    {
+      "en": "A little every day helps.",
+      "ko": "매일 조금씩 하면 도움이 돼요.",
+      "highlights": [
+        "every day"
+      ]
+    },
+    {
+      "en": "I can do it.",
+      "ko": "나는 할 수 있어요.",
+      "highlights": []
+    }
+  ],
+  "full_passage_spoken": "I want to learn English well. I listen and repeat. I speak aloud. I learn a new word every day. I practice with a friend. I am brave when I speak. A little every day helps. I can do it."
+}

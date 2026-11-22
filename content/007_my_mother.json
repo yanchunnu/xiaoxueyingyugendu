@@ -1,0 +1,187 @@
+{
+  "slug": "my_mother",
+  "topic": "My Mother",
+  "topic_ko": "나의 어머니",
+  "number": 7,
+  "section_ko": "인물 묘사",
+  "section_en": "People",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Mother",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "mother",
+      "ko": "어머니"
+    },
+    {
+      "en": "teacher",
+      "ko": "선생님"
+    },
+    {
+      "en": "busy",
+      "ko": "바쁜"
+    },
+    {
+      "en": "smile",
+      "ko": "미소"
+    },
+    {
+      "en": "breakfast",
+      "ko": "아침 식사"
+    },
+    {
+      "en": "hug",
+      "ko": "안아 주다"
+    },
+    {
+      "en": "song",
+      "ko": "노래"
+    },
+    {
+      "en": "night",
+      "ko": "밤"
+    },
+    {
+      "en": "beautiful",
+      "ko": "아름다운"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My mother is a teacher.",
+      "ko": "나의 어머니는 선생님이에요.",
+      "highlights": [
+        "mother",
+        "teacher"
+      ]
+    },
+    {
+      "en": "She is busy.",
+      "ko": "어머니는 바빠요.",
+      "highlights": [
+        "busy"
+      ]
+    },
+    {
+      "en": "She has a warm smile.",
+      "ko": "어머니에게는 따뜻한 미소가 있어요.",
+      "highlights": [
+        "smile"
+      ]
+    },
+    {
+      "en": "She makes breakfast.",
+      "ko": "어머니는 아침 식사를 만들어요.",
+      "highlights": [
+        "breakfast"
+      ]
+    },
+    {
+      "en": "She gives me a hug.",
+      "ko": "어머니는 나를 안아 줘요.",
+      "highlights": [
+        "hug"
+      ]
+    },
+    {
+      "en": "She sings a song at night.",
+      "ko": "어머니는 밤에 노래를 불러 줘요.",
+      "highlights": [
+        "song",
+        "night"
+      ]
+    },
+    {
+      "en": "My mother is beautiful.",
+      "ko": "어머니는 아름다워요.",
+      "highlights": [
+        "mother",
+        "beautiful"
+      ]
+    },
+    {
+      "en": "I love my mother.",
+      "ko": "나는 어머니를 사랑해요.",
+      "highlights": [
+        "mother",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My mother is a teacher.",
+      "ko": "나의 어머니는 선생님이에요.",
+      "highlights": [
+        "mother",
+        "teacher"
+      ]
+    },
+    {
+      "en": "She is busy.",
+      "ko": "어머니는 바빠요.",
+      "highlights": [
+        "busy"
+      ]
+    },
+    {
+      "en": "She has a warm smile.",
+      "ko": "어머니에게는 따뜻한 미소가 있어요.",
+      "highlights": [
+        "smile"
+      ]
+    },
+    {
+      "en": "She makes breakfast.",
+      "ko": "어머니는 아침 식사를 만들어요.",
+      "highlights": [
+        "breakfast"
+      ]
+    },
+    {
+      "en": "She gives me a hug.",
+      "ko": "어머니는 나를 안아 줘요.",
+      "highlights": [
+        "hug"
+      ]
+    },
+    {
+      "en": "She sings a song at night.",
+      "ko": "어머니는 밤에 노래를 불러 줘요.",
+      "highlights": [
+        "song",
+        "night"
+      ]
+    },
+    {
+      "en": "My mother is beautiful.",
+      "ko": "어머니는 아름다워요.",
+      "highlights": [
+        "mother",
+        "beautiful"
+      ]
+    },
+    {
+      "en": "I love my mother.",
+      "ko": "나는 어머니를 사랑해요.",
+      "highlights": [
+        "mother",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My mother is a teacher. She is busy. She has a warm smile. She makes breakfast. She gives me a hug. She sings a song at night. My mother is beautiful. I love my mother."
+}

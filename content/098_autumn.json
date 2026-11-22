@@ -1,0 +1,173 @@
+{
+  "slug": "autumn",
+  "topic": "Autumn",
+  "topic_ko": "가을",
+  "number": 98,
+  "section_ko": "사계절",
+  "section_en": "The Seasons",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "Autumn",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "autumn",
+      "ko": "가을"
+    },
+    {
+      "en": "cool",
+      "ko": "시원한"
+    },
+    {
+      "en": "leaf",
+      "ko": "나뭇잎"
+    },
+    {
+      "en": "orange",
+      "ko": "주황색"
+    },
+    {
+      "en": "fall",
+      "ko": "떨어지다"
+    },
+    {
+      "en": "wind",
+      "ko": "바람"
+    },
+    {
+      "en": "sky",
+      "ko": "하늘"
+    },
+    {
+      "en": "clear",
+      "ko": "맑은"
+    },
+    {
+      "en": "fruit",
+      "ko": "과일"
+    },
+    {
+      "en": "sweater",
+      "ko": "스웨터"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Autumn is cool.",
+      "ko": "가을은 시원해요.",
+      "highlights": [
+        "autumn",
+        "cool"
+      ]
+    },
+    {
+      "en": "A leaf turns orange.",
+      "ko": "나뭇잎이 주황색으로 변해요.",
+      "highlights": [
+        "leaf",
+        "orange"
+      ]
+    },
+    {
+      "en": "Leaves fall down in the wind.",
+      "ko": "나뭇잎이 바람에 떨어져요.",
+      "highlights": [
+        "fall",
+        "wind"
+      ]
+    },
+    {
+      "en": "The sky is clear.",
+      "ko": "하늘이 맑아요.",
+      "highlights": [
+        "sky",
+        "clear"
+      ]
+    },
+    {
+      "en": "I pick fruit.",
+      "ko": "나는 과일을 따요.",
+      "highlights": [
+        "fruit"
+      ]
+    },
+    {
+      "en": "I wear a sweater.",
+      "ko": "나는 스웨터를 입어요.",
+      "highlights": [
+        "sweater"
+      ]
+    },
+    {
+      "en": "I like autumn.",
+      "ko": "나는 가을을 좋아해요.",
+      "highlights": [
+        "autumn"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Autumn is cool.",
+      "ko": "가을은 시원해요.",
+      "highlights": [
+        "autumn",
+        "cool"
+      ]
+    },
+    {
+      "en": "A leaf turns orange.",
+      "ko": "나뭇잎이 주황색으로 변해요.",
+      "highlights": [
+        "leaf",
+        "orange"
+      ]
+    },
+    {
+      "en": "Leaves fall down in the wind.",
+      "ko": "나뭇잎이 바람에 떨어져요.",
+      "highlights": [
+        "fall",
+        "wind"
+      ]
+    },
+    {
+      "en": "The sky is clear.",
+      "ko": "하늘이 맑아요.",
+      "highlights": [
+        "sky",
+        "clear"
+      ]
+    },
+    {
+      "en": "I pick fruit.",
+      "ko": "나는 과일을 따요.",
+      "highlights": [
+        "fruit"
+      ]
+    },
+    {
+      "en": "I wear a sweater.",
+      "ko": "나는 스웨터를 입어요.",
+      "highlights": [
+        "sweater"
+      ]
+    },
+    {
+      "en": "I like autumn.",
+      "ko": "나는 가을을 좋아해요.",
+      "highlights": [
+        "autumn"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Autumn is cool. A leaf turns orange. Leaves fall down in the wind. The sky is clear. I pick fruit. I wear a sweater. I like autumn."
+}

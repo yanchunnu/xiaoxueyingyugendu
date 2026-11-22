@@ -1,0 +1,183 @@
+{
+  "slug": "my_may_day_plan",
+  "topic": "My May Day Plan",
+  "topic_ko": "나의 오월 휴일 계획",
+  "number": 77,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My May Day Plan",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "May Day",
+      "ko": "오월의 휴일"
+    },
+    {
+      "en": "holiday",
+      "ko": "휴일"
+    },
+    {
+      "en": "plan",
+      "ko": "계획"
+    },
+    {
+      "en": "family",
+      "ko": "가족"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "picnic",
+      "ko": "소풍"
+    },
+    {
+      "en": "kite",
+      "ko": "연"
+    },
+    {
+      "en": "photo",
+      "ko": "사진"
+    },
+    {
+      "en": "rest",
+      "ko": "쉬다"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "May Day is a holiday.",
+      "ko": "오월의 휴일은 쉬는 날이에요.",
+      "highlights": [
+        "May Day",
+        "holiday"
+      ]
+    },
+    {
+      "en": "I make a plan.",
+      "ko": "나는 계획을 세워요.",
+      "highlights": [
+        "plan"
+      ]
+    },
+    {
+      "en": "My family goes to the park.",
+      "ko": "우리 가족은 공원에 가요.",
+      "highlights": [
+        "family",
+        "park"
+      ]
+    },
+    {
+      "en": "We have a picnic.",
+      "ko": "우리는 소풍을 해요.",
+      "highlights": [
+        "picnic"
+      ]
+    },
+    {
+      "en": "I fly a kite.",
+      "ko": "나는 연을 날려요.",
+      "highlights": [
+        "kite"
+      ]
+    },
+    {
+      "en": "We take a photo.",
+      "ko": "우리는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "We rest and play.",
+      "ko": "우리는 쉬고 놀아요.",
+      "highlights": [
+        "rest"
+      ]
+    },
+    {
+      "en": "It will be a happy day.",
+      "ko": "행복한 날이 될 거예요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "May Day is a holiday.",
+      "ko": "오월의 휴일은 쉬는 날이에요.",
+      "highlights": [
+        "May Day",
+        "holiday"
+      ]
+    },
+    {
+      "en": "I make a plan.",
+      "ko": "나는 계획을 세워요.",
+      "highlights": [
+        "plan"
+      ]
+    },
+    {
+      "en": "My family goes to the park.",
+      "ko": "우리 가족은 공원에 가요.",
+      "highlights": [
+        "family",
+        "park"
+      ]
+    },
+    {
+      "en": "We have a picnic.",
+      "ko": "우리는 소풍을 해요.",
+      "highlights": [
+        "picnic"
+      ]
+    },
+    {
+      "en": "I fly a kite.",
+      "ko": "나는 연을 날려요.",
+      "highlights": [
+        "kite"
+      ]
+    },
+    {
+      "en": "We take a photo.",
+      "ko": "우리는 사진을 찍어요.",
+      "highlights": [
+        "photo"
+      ]
+    },
+    {
+      "en": "We rest and play.",
+      "ko": "우리는 쉬고 놀아요.",
+      "highlights": [
+        "rest"
+      ]
+    },
+    {
+      "en": "It will be a happy day.",
+      "ko": "행복한 날이 될 거예요.",
+      "highlights": [
+        "happy"
+      ]
+    }
+  ],
+  "full_passage_spoken": "May Day is a holiday. I make a plan. My family goes to the park. We have a picnic. I fly a kite. We take a photo. We rest and play. It will be a happy day."
+}

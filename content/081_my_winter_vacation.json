@@ -1,0 +1,187 @@
+{
+  "slug": "my_winter_vacation",
+  "topic": "My Winter Vacation",
+  "topic_ko": "나의 겨울 방학",
+  "number": 81,
+  "section_ko": "일상생활",
+  "section_en": "Daily Life",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Winter Vacation",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "winter",
+      "ko": "겨울"
+    },
+    {
+      "en": "vacation",
+      "ko": "방학"
+    },
+    {
+      "en": "cold",
+      "ko": "추운"
+    },
+    {
+      "en": "snow",
+      "ko": "눈"
+    },
+    {
+      "en": "coat",
+      "ko": "코트"
+    },
+    {
+      "en": "sled",
+      "ko": "썰매"
+    },
+    {
+      "en": "cocoa",
+      "ko": "코코아"
+    },
+    {
+      "en": "hot",
+      "ko": "뜨거운"
+    },
+    {
+      "en": "book",
+      "ko": "책"
+    },
+    {
+      "en": "home",
+      "ko": "집"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Winter vacation is cold.",
+      "ko": "겨울 방학은 추워요.",
+      "highlights": [
+        "winter",
+        "vacation",
+        "cold"
+      ]
+    },
+    {
+      "en": "Snow is on the ground.",
+      "ko": "땅에 눈이 있어요.",
+      "highlights": [
+        "snow"
+      ]
+    },
+    {
+      "en": "I wear a warm coat.",
+      "ko": "나는 따뜻한 코트를 입어요.",
+      "highlights": [
+        "coat"
+      ]
+    },
+    {
+      "en": "I play on a sled.",
+      "ko": "나는 썰매를 타며 놀아요.",
+      "highlights": [
+        "sled"
+      ]
+    },
+    {
+      "en": "I drink hot cocoa.",
+      "ko": "나는 뜨거운 코코아를 마셔요.",
+      "highlights": [
+        "cocoa",
+        "hot"
+      ]
+    },
+    {
+      "en": "I like to read a book at home.",
+      "ko": "나는 집에서 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book",
+        "home"
+      ]
+    },
+    {
+      "en": "I rest a lot at home.",
+      "ko": "나는 집에서 많이 쉬어요.",
+      "highlights": [
+        "home"
+      ]
+    },
+    {
+      "en": "I feel warm at home.",
+      "ko": "나는 집에서 따뜻해요.",
+      "highlights": [
+        "home"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "Winter vacation is cold.",
+      "ko": "겨울 방학은 추워요.",
+      "highlights": [
+        "winter",
+        "vacation",
+        "cold"
+      ]
+    },
+    {
+      "en": "Snow is on the ground.",
+      "ko": "땅에 눈이 있어요.",
+      "highlights": [
+        "snow"
+      ]
+    },
+    {
+      "en": "I wear a warm coat.",
+      "ko": "나는 따뜻한 코트를 입어요.",
+      "highlights": [
+        "coat"
+      ]
+    },
+    {
+      "en": "I play on a sled.",
+      "ko": "나는 썰매를 타며 놀아요.",
+      "highlights": [
+        "sled"
+      ]
+    },
+    {
+      "en": "I drink hot cocoa.",
+      "ko": "나는 뜨거운 코코아를 마셔요.",
+      "highlights": [
+        "cocoa",
+        "hot"
+      ]
+    },
+    {
+      "en": "I like to read a book at home.",
+      "ko": "나는 집에서 책 읽는 것을 좋아해요.",
+      "highlights": [
+        "book",
+        "home"
+      ]
+    },
+    {
+      "en": "I rest a lot at home.",
+      "ko": "나는 집에서 많이 쉬어요.",
+      "highlights": [
+        "home"
+      ]
+    },
+    {
+      "en": "I feel warm at home.",
+      "ko": "나는 집에서 따뜻해요.",
+      "highlights": [
+        "home"
+      ]
+    }
+  ],
+  "full_passage_spoken": "Winter vacation is cold. Snow is on the ground. I wear a warm coat. I play on a sled. I drink hot cocoa. I like to read a book at home. I rest a lot at home. I feel warm at home."
+}

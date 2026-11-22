@@ -1,0 +1,185 @@
+{
+  "slug": "my_hometown",
+  "topic": "My Hometown",
+  "topic_ko": "나의 고향",
+  "number": 23,
+  "section_ko": "장소·풍경 묘사",
+  "section_en": "Places and Scenery",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Hometown",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "hometown",
+      "ko": "고향"
+    },
+    {
+      "en": "Seoul",
+      "ko": "서울"
+    },
+    {
+      "en": "city",
+      "ko": "도시"
+    },
+    {
+      "en": "river",
+      "ko": "강"
+    },
+    {
+      "en": "bridge",
+      "ko": "다리"
+    },
+    {
+      "en": "park",
+      "ko": "공원"
+    },
+    {
+      "en": "quiet",
+      "ko": "조용한"
+    },
+    {
+      "en": "neighbor",
+      "ko": "이웃"
+    },
+    {
+      "en": "busy",
+      "ko": "붐비는"
+    },
+    {
+      "en": "love",
+      "ko": "사랑하다"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "My hometown is Seoul.",
+      "ko": "나의 고향은 서울이에요.",
+      "highlights": [
+        "hometown",
+        "Seoul"
+      ]
+    },
+    {
+      "en": "It is a big city.",
+      "ko": "서울은 큰 도시예요.",
+      "highlights": [
+        "city"
+      ]
+    },
+    {
+      "en": "There is a long river.",
+      "ko": "긴 강이 있어요.",
+      "highlights": [
+        "river"
+      ]
+    },
+    {
+      "en": "There are many bridges.",
+      "ko": "다리가 많이 있어요.",
+      "highlights": [
+        "bridge"
+      ]
+    },
+    {
+      "en": "The parks are quiet.",
+      "ko": "공원은 조용해요.",
+      "highlights": [
+        "park",
+        "quiet"
+      ]
+    },
+    {
+      "en": "The streets are busy.",
+      "ko": "거리는 붐벼요.",
+      "highlights": [
+        "busy"
+      ]
+    },
+    {
+      "en": "My neighbor says hello.",
+      "ko": "이웃은 나에게 인사를 해요.",
+      "highlights": [
+        "neighbor"
+      ]
+    },
+    {
+      "en": "I love my hometown.",
+      "ko": "나는 나의 고향을 사랑해요.",
+      "highlights": [
+        "hometown",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "My hometown is Seoul.",
+      "ko": "나의 고향은 서울이에요.",
+      "highlights": [
+        "hometown",
+        "Seoul"
+      ]
+    },
+    {
+      "en": "It is a big city.",
+      "ko": "서울은 큰 도시예요.",
+      "highlights": [
+        "city"
+      ]
+    },
+    {
+      "en": "There is a long river.",
+      "ko": "긴 강이 있어요.",
+      "highlights": [
+        "river"
+      ]
+    },
+    {
+      "en": "There are many bridges.",
+      "ko": "다리가 많이 있어요.",
+      "highlights": [
+        "bridge"
+      ]
+    },
+    {
+      "en": "The parks are quiet.",
+      "ko": "공원은 조용해요.",
+      "highlights": [
+        "park",
+        "quiet"
+      ]
+    },
+    {
+      "en": "The streets are busy.",
+      "ko": "거리는 붐벼요.",
+      "highlights": [
+        "busy"
+      ]
+    },
+    {
+      "en": "My neighbor says hello.",
+      "ko": "이웃은 나에게 인사를 해요.",
+      "highlights": [
+        "neighbor"
+      ]
+    },
+    {
+      "en": "I love my hometown.",
+      "ko": "나는 나의 고향을 사랑해요.",
+      "highlights": [
+        "hometown",
+        "love"
+      ]
+    }
+  ],
+  "full_passage_spoken": "My hometown is Seoul. It is a big city. There is a long river. There are many bridges. The parks are quiet. The streets are busy. My neighbor says hello. I love my hometown."
+}

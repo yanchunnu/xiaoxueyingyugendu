@@ -1,0 +1,191 @@
+{
+  "slug": "my_favorite_book_2",
+  "topic": "My Favorite Book (2)",
+  "topic_ko": "내가 가장 좋아하는 책 (2)",
+  "number": 41,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Favorite Book, Part Two",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "title",
+      "ko": "제목"
+    },
+    {
+      "en": "friend",
+      "ko": "친구"
+    },
+    {
+      "en": "forest",
+      "ko": "숲"
+    },
+    {
+      "en": "bird",
+      "ko": "새"
+    },
+    {
+      "en": "help",
+      "ko": "돕다"
+    },
+    {
+      "en": "ending",
+      "ko": "끝"
+    },
+    {
+      "en": "happy",
+      "ko": "행복한"
+    },
+    {
+      "en": "character",
+      "ko": "등장인물"
+    },
+    {
+      "en": "imagine",
+      "ko": "상상하다"
+    },
+    {
+      "en": "world",
+      "ko": "세계"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "The title is Brave Friends.",
+      "ko": "제목은 Brave Friends예요.",
+      "highlights": [
+        "title",
+        "friend"
+      ]
+    },
+    {
+      "en": "Two friends go to a forest.",
+      "ko": "두 친구는 숲으로 가요.",
+      "highlights": [
+        "friend",
+        "forest"
+      ]
+    },
+    {
+      "en": "They help a small bird.",
+      "ko": "그들은 작은 새를 도와요.",
+      "highlights": [
+        "bird",
+        "help"
+      ]
+    },
+    {
+      "en": "The bird is happy.",
+      "ko": "새는 행복해요.",
+      "highlights": [
+        "bird",
+        "happy"
+      ]
+    },
+    {
+      "en": "The ending is happy too.",
+      "ko": "끝도 행복해요.",
+      "highlights": [
+        "ending",
+        "happy"
+      ]
+    },
+    {
+      "en": "I like the character.",
+      "ko": "나는 그 등장인물을 좋아해요.",
+      "highlights": [
+        "character"
+      ]
+    },
+    {
+      "en": "I imagine the forest.",
+      "ko": "나는 숲을 상상해요.",
+      "highlights": [
+        "forest",
+        "imagine"
+      ]
+    },
+    {
+      "en": "I see a new world in a book.",
+      "ko": "나는 책에서 새로운 세계를 봐요.",
+      "highlights": [
+        "world"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "The title is Brave Friends.",
+      "ko": "제목은 Brave Friends예요.",
+      "highlights": [
+        "title",
+        "friend"
+      ]
+    },
+    {
+      "en": "Two friends go to a forest.",
+      "ko": "두 친구는 숲으로 가요.",
+      "highlights": [
+        "friend",
+        "forest"
+      ]
+    },
+    {
+      "en": "They help a small bird.",
+      "ko": "그들은 작은 새를 도와요.",
+      "highlights": [
+        "bird",
+        "help"
+      ]
+    },
+    {
+      "en": "The bird is happy.",
+      "ko": "새는 행복해요.",
+      "highlights": [
+        "bird",
+        "happy"
+      ]
+    },
+    {
+      "en": "The ending is happy too.",
+      "ko": "끝도 행복해요.",
+      "highlights": [
+        "ending",
+        "happy"
+      ]
+    },
+    {
+      "en": "I like the character.",
+      "ko": "나는 그 등장인물을 좋아해요.",
+      "highlights": [
+        "character"
+      ]
+    },
+    {
+      "en": "I imagine the forest.",
+      "ko": "나는 숲을 상상해요.",
+      "highlights": [
+        "forest",
+        "imagine"
+      ]
+    },
+    {
+      "en": "I see a new world in a book.",
+      "ko": "나는 책에서 새로운 세계를 봐요.",
+      "highlights": [
+        "world"
+      ]
+    }
+  ],
+  "full_passage_spoken": "The title is Brave Friends. Two friends go to a forest. They help a small bird. The bird is happy. The ending is happy too. I like the character. I imagine the forest. I see a new world in a book."
+}

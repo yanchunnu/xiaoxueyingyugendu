@@ -1,0 +1,173 @@
+{
+  "slug": "my_notebook",
+  "topic": "My Notebook",
+  "topic_ko": "나의 공책",
+  "number": 36,
+  "section_ko": "개인 물건",
+  "section_en": "My Things",
+  "voice": "en-US-JennyNeural",
+  "rate": "-20%",
+  "title_spoken": "My Notebook",
+  "words_intro": "Words. Listen and repeat.",
+  "passage_intro": "Now, let's read. Listen and repeat.",
+  "closing_spoken": "Great job!",
+  "closing_en": "Great job!",
+  "closing_ko": "참 잘했어요!",
+  "word_repeat": 3,
+  "word_pause_sec": 2.0,
+  "phrase_pause_multiplier": 1.5,
+  "phrase_pause_min_sec": 2.5,
+  "words": [
+    {
+      "en": "notebook",
+      "ko": "공책"
+    },
+    {
+      "en": "new",
+      "ko": "새"
+    },
+    {
+      "en": "cover",
+      "ko": "표지"
+    },
+    {
+      "en": "green",
+      "ko": "초록색"
+    },
+    {
+      "en": "write",
+      "ko": "쓰다"
+    },
+    {
+      "en": "English",
+      "ko": "영어"
+    },
+    {
+      "en": "word",
+      "ko": "단어"
+    },
+    {
+      "en": "picture",
+      "ko": "그림"
+    },
+    {
+      "en": "neat",
+      "ko": "깔끔한"
+    },
+    {
+      "en": "school",
+      "ko": "학교"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "This is my new notebook.",
+      "ko": "이것은 나의 새 공책이에요.",
+      "highlights": [
+        "notebook",
+        "new"
+      ]
+    },
+    {
+      "en": "The cover is green.",
+      "ko": "표지는 초록색이에요.",
+      "highlights": [
+        "cover",
+        "green"
+      ]
+    },
+    {
+      "en": "I write an English word.",
+      "ko": "나는 영어 단어를 써요.",
+      "highlights": [
+        "write",
+        "English",
+        "word"
+      ]
+    },
+    {
+      "en": "I draw a small picture.",
+      "ko": "나는 작은 그림을 그려요.",
+      "highlights": [
+        "picture"
+      ]
+    },
+    {
+      "en": "I keep my writing neat.",
+      "ko": "나는 글씨를 깔끔하게 써요.",
+      "highlights": [
+        "neat"
+      ]
+    },
+    {
+      "en": "I bring it to school.",
+      "ko": "나는 공책을 학교에 가져가요.",
+      "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "My notebook helps me learn.",
+      "ko": "나의 공책은 공부에 도움이 돼요.",
+      "highlights": [
+        "notebook"
+      ]
+    }
+  ],
+  "full_passage_lines": [
+    {
+      "en": "This is my new notebook.",
+      "ko": "이것은 나의 새 공책이에요.",
+      "highlights": [
+        "notebook",
+        "new"
+      ]
+    },
+    {
+      "en": "The cover is green.",
+      "ko": "표지는 초록색이에요.",
+      "highlights": [
+        "cover",
+        "green"
+      ]
+    },
+    {
+      "en": "I write an English word.",
+      "ko": "나는 영어 단어를 써요.",
+      "highlights": [
+        "write",
+        "English",
+        "word"
+      ]
+    },
+    {
+      "en": "I draw a small picture.",
+      "ko": "나는 작은 그림을 그려요.",
+      "highlights": [
+        "picture"
+      ]
+    },
+    {
+      "en": "I keep my writing neat.",
+      "ko": "나는 글씨를 깔끔하게 써요.",
+      "highlights": [
+        "neat"
+      ]
+    },
+    {
+      "en": "I bring it to school.",
+      "ko": "나는 공책을 학교에 가져가요.",
+      "highlights": [
+        "school"
+      ]
+    },
+    {
+      "en": "My notebook helps me learn.",
+      "ko": "나의 공책은 공부에 도움이 돼요.",
+      "highlights": [
+        "notebook"
+      ]
+    }
+  ],
+  "full_passage_spoken": "This is my new notebook. The cover is green. I write an English word. I draw a small picture. I keep my writing neat. I bring it to school. My notebook helps me learn."
+}
