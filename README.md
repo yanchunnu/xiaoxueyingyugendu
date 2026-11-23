@@ -12,8 +12,10 @@
 | `audio/` | `001_about_me.mp3` 형식의 영어 음원. 모노 24 kHz, 48 kbps |
 | `audio/zh/clips/` | 중국어 단어·문장·본문 조각. `zh-CN-XiaoxiaoNeural`, `-20%` |
 | `qr/` | 각 주제 MP3 주소가 들어 있는 QR 이미지 |
-| `pdf/listen_and_repeat.pdf` | 표지, 차례, 주제 100쪽이 모인 책 |
-| `pdf/topics/` | 주제별 PDF 한 장 |
+| `pdf/listen_and_repeat.pdf` | 영어판 책. 표지, 차례, 주제 100쪽 |
+| `pdf/topics/` | 영어판 주제별 PDF 한 장 |
+| `pdf/zh/listen_and_repeat_zh.pdf` | 중국어판 책. 표지, 차례, 주제 100쪽 |
+| `pdf/zh/topics/` | 중국어판 주제별 PDF. 파일 이름은 `NNN_slug_zh.pdf` |
 | `scripts/` | JSON, 음원, PDF를 다시 만드는 스크립트 |
 | `fonts/` | PDF 영어 글꼴 (SIL OFL). 한글은 Noto Sans KR입니다 |
 | `index.html` | 주제 목록과 오디오 플레이어 |
@@ -43,7 +45,9 @@
 
 단어는 조각 길이에 0.6초를 더하고, 전체 쉼은 최소 1.2초입니다. 문장과 본문 전체는 조각 길이에 1.5초를 더합니다. 횟수는 0부터 5까지이고, 설정은 브라우저에 기억됩니다. 영어 조각은 `audio/clips/NNN/w01.mp3`, `s01.mp3`, `full.mp3` 입니다. 전체 음원 `audio/NNN_slug.mp3` 도 그대로 있습니다.
 
-플레이어 위쪽에서 English / 中文 을 고릅니다. 선택은 `localStorage` 에 남고, 주소의 `lang=zh` 또는 `lang=en` 이 그 선택을 덮어씁니다. 기본은 영어입니다. 중국어일 때는 한자 위에 성조가 있는 병음이 나오고, 병음은 숨길 수 있습니다. 한글 뜻은 어느 언어에서나 같은 버튼으로 숨깁니다. 중국어 조각은 `audio/zh/clips/NNN/` 입니다. 민아는 米娜, 여동생은 妹妹 입니다. PDF와 QR은 영어 페이지 그대로이고, QR은 이 플레이어로 연결됩니다.
+플레이어 위쪽에서 English / 中文 을 고릅니다. 선택은 `localStorage` 에 남고, 주소의 `lang=zh` 또는 `lang=en` 이 그 선택을 덮어씁니다. 기본은 영어입니다. 중국어일 때는 한자 위에 성조가 있는 병음이 나오고, 병음은 숨길 수 있습니다. 한글 뜻은 어느 언어에서나 같은 버튼으로 숨깁니다. 중국어 조각은 `audio/zh/clips/NNN/` 입니다. 민아는 米娜, 여동생은 妹妹 입니다.
+
+중국어 PDF는 `pdf/zh/listen_and_repeat_zh.pdf` 입니다. 왼쪽은 병음, 중국어 문장, 한글 뜻이고, 오른쪽 칸은 중국어 단어, 병음, 한글 뜻입니다. 그 QR은 `player.html?t=NNN&lang=zh` 로 갑니다. 영어 PDF의 QR은 예전처럼 플레이어로 가며, 플레이어에서 중국어를 고를 수 있습니다.
 
 ## QR 코드
 
@@ -62,6 +66,7 @@ pip install -r requirements.txt
 python3 scripts/export_content.py
 python3 scripts/build_audio.py
 python3 scripts/build_book.py
+python3 scripts/build_zh_book.py
 ```
 
 음원 일부만 다시 만들려면 `python3 scripts/build_audio.py --only 14,81` 입니다. 글을 고친 뒤에는 `export_content.py`를 먼저 실행하세요. 1번 JSON은 덮어쓰지 않습니다. 주제 원고는 `scripts/data/` 에 있습니다.
