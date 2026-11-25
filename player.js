@@ -1,5 +1,6 @@
 const STORAGE_KEY = "readalong-player-settings";
 const LANG_KEY = "readalong-player-lang";
+const RATES = [0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3];
 
 const audio = new Audio();
 let runId = 0;
@@ -11,6 +12,11 @@ let currentTopic = null;
 
 const $ = (id) => document.getElementById(id);
 
+function nearestRate(value) {
+  const rate = Number(value);
+  return RATES.find((item) => Math.abs(item - rate) < 0.001) ?? 1;
+}
+
 function loadSettings() {
   const defaults = {
     wordRepeats: 3,
@@ -18,9 +24,14 @@ function loadSettings() {
     fullRepeats: 1,
     showKorean: true,
     showPinyin: true,
+    wordRate: 1,
+    sentenceRate: 1,
   };
   try {
-    return { ...defaults, ...JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}") };
+    const saved = { ...defaults, ...JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}") };
+    saved.wordRate = nearestRate(saved.wordRate);
+    saved.sentenceRate = nearestRate(saved.sentenceRate);
+    return saved;
   } catch {
     return defaults;
   }
@@ -33,6 +44,8 @@ function saveSettings() {
     fullRepeats: Number($("fullN").value),
     showKorean: !document.body.classList.contains("hide-ko"),
     showPinyin: !document.body.classList.contains("hide-py"),
+    wordRate: nearestRate($("wordRate").value),
+    sentenceRate: nearestRate($("sentRate").value),
   };
   localStorage.setItem(STORAGE_KEY, JSON.stringify(settings));
 }
@@ -41,6 +54,8 @@ function applySettings(settings) {
   $("wordN").value = String(settings.wordRepeats);
   $("sentN").value = String(settings.sentenceRepeats);
   $("fullN").value = String(settings.fullRepeats);
+  $("wordRate").value = String(settings.wordRate);
+  $("sentRate").value = String(settings.sentenceRate);
   document.body.classList.toggle("hide-ko", !settings.showKorean);
   document.body.classList.toggle("hide-py", !settings.showPinyin);
   $("koToggle").textContent = settings.showKorean ? "한국어 뜻 숨기기" : "한국어 뜻 보기";
@@ -161,7 +176,14 @@ function waitWhilePaused() {
   return new Promise((resolve) => pauseWaiters.push(resolve));
 }
 
-function playUrl(url, id) {
+function setPlayback(rate) {
+  audio.playbackRate = rate;
+  audio.preservesPitch = true;
+  audio.webkitPreservesPitch = true;
+  audio.mozPreservesPitch = true;
+}
+
+function playUrl(url, id, rate) {
   return new Promise((resolve, reject) => {
     const finish = () => {
       audio.onended = null;
@@ -171,7 +193,10 @@ function playUrl(url, id) {
     audio.onended = finish;
     audio.onerror = () => reject(new Error("음원을 재생할 수 없습니다."));
     audio.src = url;
-    audio.play().catch(reject);
+    const applyRate = () => setPlayback(rate);
+    audio.addEventListener("loadedmetadata", applyRate, { once: true });
+    applyRate();
+    audio.play().then(applyRate).catch(reject);
     if (id !== runId) reject(new Error("cancelled"));
   });
 }
@@ -188,19 +213,20 @@ async function gap(seconds, id) {
   }
 }
 
-function repeatGap(duration, extra, minimum, fallback) {
+function repeatGap(duration, rate, extra, minimum, fallback) {
   const length = Number.isFinite(duration) ? duration : fallback;
-  return Math.max(minimum, length + extra);
+  const played = length / (rate > 0 ? rate : 1);
+  return Math.max(minimum, played + extra);
 }
 
-async function playRepeats(url, times, id, label, extra, minimum, fallback) {
+async function playRepeats(url, times, id, label, extra, minimum, fallback, rate) {
   for (let i = 1; i <= times; i += 1) {
     if (id !== runId) return;
     await waitWhilePaused();
     $("status").textContent = `${label} · ${i} / ${times}`;
-    const duration = await playUrl(url, id);
+    const duration = await playUrl(url, id, rate);
     if (id !== runId) return;
-    await gap(repeatGap(duration, extra, minimum, fallback), id);
+    await gap(repeatGap(duration, rate, extra, minimum, fallback), id);
   }
 }
 
@@ -218,6 +244,8 @@ async function run(topic) {
   const wordN = Number($("wordN").value);
   const sentN = Number($("sentN").value);
   const fullN = Number($("fullN").value);
+  const wordRate = nearestRate($("wordRate").value);
+  const sentRate = nearestRate($("sentRate").value);
   const base = clipBase(topic);
   const wordLabel = currentLang === "zh" ? "单词" : "단어";
   const sentLabel = currentLang === "zh" ? "句子" : "문장";
@@ -227,20 +255,20 @@ async function run(topic) {
       for (let i = 0; i < topic.data.words.length; i += 1) {
         if (id !== runId) return;
         mark("#words .word", i);
-        await playRepeats(`${base}/w${String(i + 1).padStart(2, "0")}.mp3`, wordN, id, `${wordLabel} ${i + 1}`, 0.6, 1.2, 0.6);
+        await playRepeats(`${base}/w${String(i + 1).padStart(2, "0")}.mp3`, wordN, id, `${wordLabel} ${i + 1}`, 0.6, 1.2, 0.6, wordRate);
       }
     }
     if (sentN > 0) {
       for (let i = 0; i < topic.data.phrases.length; i += 1) {
         if (id !== runId) return;
         mark("#passage li", i);
-        await playRepeats(`${base}/s${String(i + 1).padStart(2, "0")}.mp3`, sentN, id, `${sentLabel} ${i + 1}`, 1.5, 0, 1);
+        await playRepeats(`${base}/s${String(i + 1).padStart(2, "0")}.mp3`, sentN, id, `${sentLabel} ${i + 1}`, 1.5, 0, 1, sentRate);
       }
     }
     if (fullN > 0) {
       clearCurrent();
       $("passage").classList.add("current-all");
-      await playRepeats(`${base}/full.mp3`, fullN, id, fullLabel, 1.5, 0, 1);
+      await playRepeats(`${base}/full.mp3`, fullN, id, fullLabel, 1.5, 0, 1, sentRate);
     }
     if (id === runId) $("status").textContent = "끝났어요. 참 잘했어요!";
   } catch (error) {
@@ -281,7 +309,7 @@ async function main() {
     history.replaceState(null, "", url);
   }
 
-  ["wordN", "sentN", "fullN"].forEach((id) => $(id).addEventListener("change", saveSettings));
+  ["wordN", "sentN", "fullN", "wordRate", "sentRate"].forEach((id) => $(id).addEventListener("change", saveSettings));
   $("koToggle").addEventListener("click", () => {
     document.body.classList.toggle("hide-ko");
     $("koToggle").textContent = document.body.classList.contains("hide-ko")
