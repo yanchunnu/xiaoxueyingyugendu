@@ -13,7 +13,17 @@
     <p id="titlePy" class="py"></p>
     <p id="titleKo" class="ko"></p>
   </header>
-  <section class="controls">
+  <section class="controls" id="controls">
+    <div class="actions playbar">
+      <button id="play" type="button">재생</button>
+      <button id="pause" type="button" class="secondary" disabled>일시정지</button>
+      <button id="stop" type="button" class="secondary">정지</button>
+    </div>
+    <div class="settings-bar">
+      <button id="settingsToggle" type="button" class="secondary" aria-expanded="true" aria-controls="settingsPanel">⚙ 설정</button>
+      <p id="settingsSummary"></p>
+    </div>
+    <div id="settingsPanel">
     <div class="lang-switch" role="group" aria-label="language">
       <button id="langEn" type="button" aria-pressed="true">English</button>
       <button id="langZh" type="button" aria-pressed="false">中文</button>
@@ -75,15 +85,11 @@
       </label>
     </div>
     <div class="actions">
-      <button id="play" type="button">재생</button>
-      <button id="pause" type="button" class="secondary" disabled>일시정지</button>
-      <button id="stop" type="button" class="secondary">정지</button>
-    </div>
-    <div class="actions">
       <button id="koToggle" type="button" class="secondary">한국어 뜻 숨기기</button>
       <button id="pyToggle" type="button" class="secondary" hidden>拼音 숨기기</button>
       <a id="prev" class="nav" href="#" hidden>이전</a>
       <a id="next" class="nav" href="#" hidden>다음</a>
+    </div>
     </div>
     <div id="status">횟수를 고르고 재생을 누르세요. 0은 그 부분을 건너뜁니다.</div>
   </section>
