@@ -60,6 +60,32 @@ function applySettings(settings) {
   document.body.classList.toggle("hide-py", !settings.showPinyin);
   $("koToggle").textContent = settings.showKorean ? "한국어 뜻 숨기기" : "한국어 뜻 보기";
   $("pyToggle").textContent = settings.showPinyin ? "拼音 숨기기" : "拼音 보기";
+  updateSettingsSummary();
+}
+
+function rateLabel(value) {
+  return `${nearestRate(value).toFixed(1)}x`;
+}
+
+function updateSettingsSummary() {
+  const summary = $("settingsSummary");
+  if (!summary || !$("wordN")) return;
+  const lang = currentLang === "zh" ? "中文" : "English";
+  summary.textContent = `${lang} · 단어 ${$("wordN").value}회 ${rateLabel($("wordRate").value)} · 문장 ${$("sentN").value}회 ${rateLabel($("sentRate").value)}`;
+}
+
+function syncBarHeight() {
+  const bar = $("controls");
+  if (!bar) return;
+  document.documentElement.style.setProperty("--bar-h", `${bar.offsetHeight}px`);
+}
+
+function setSettingsOpen(open) {
+  const panelOpen = Boolean(open);
+  $("controls").classList.toggle("collapsed", !panelOpen);
+  $("settingsToggle").setAttribute("aria-expanded", panelOpen ? "true" : "false");
+  updateSettingsSummary();
+  requestAnimationFrame(syncBarHeight);
 }
 
 function initialLang() {
@@ -79,6 +105,7 @@ function setLang(lang, updateUrl) {
   $("langEn").setAttribute("aria-pressed", currentLang === "en" ? "true" : "false");
   $("langZh").setAttribute("aria-pressed", currentLang === "zh" ? "true" : "false");
   $("pyToggle").hidden = currentLang !== "zh";
+  updateSettingsSummary();
   if (updateUrl) {
     const url = new URL(location.href);
     url.searchParams.set("lang", currentLang);
@@ -162,12 +189,18 @@ function clearCurrent() {
   });
 }
 
+function reveal(el, block) {
+  if (!el) return;
+  syncBarHeight();
+  el.scrollIntoView({ behavior: "smooth", block });
+}
+
 function mark(selector, index) {
   clearCurrent();
   const el = document.querySelector(`${selector}[data-index="${index}"]`);
   if (el) {
     el.classList.add("current");
-    el.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    reveal(el, "center");
   }
 }
 
@@ -239,6 +272,7 @@ function clipBase(topic) {
 async function run(topic) {
   const id = ++runId;
   paused = false;
+  setSettingsOpen(false);
   $("play").disabled = true;
   $("pause").disabled = false;
   const wordN = Number($("wordN").value);
@@ -267,7 +301,9 @@ async function run(topic) {
     }
     if (fullN > 0) {
       clearCurrent();
-      $("passage").classList.add("current-all");
+      const passage = $("passage");
+      passage.classList.add("current-all");
+      reveal(passage.querySelector("li") || passage, "start");
       await playRepeats(`${base}/full.mp3`, fullN, id, fullLabel, 1.5, 0, 1, sentRate);
     }
     if (id === runId) $("status").textContent = "끝났어요. 참 잘했어요!";
@@ -309,7 +345,18 @@ async function main() {
     history.replaceState(null, "", url);
   }
 
-  ["wordN", "sentN", "fullN", "wordRate", "sentRate"].forEach((id) => $(id).addEventListener("change", saveSettings));
+  ["wordN", "sentN", "fullN", "wordRate", "sentRate"].forEach((id) => {
+    $(id).addEventListener("change", () => {
+      saveSettings();
+      updateSettingsSummary();
+    });
+  });
+  $("settingsToggle").addEventListener("click", () => {
+    setSettingsOpen($("controls").classList.contains("collapsed"));
+  });
+  window.addEventListener("resize", syncBarHeight);
+  updateSettingsSummary();
+  syncBarHeight();
   $("koToggle").addEventListener("click", () => {
     document.body.classList.toggle("hide-ko");
     $("koToggle").textContent = document.body.classList.contains("hide-ko")
@@ -329,6 +376,7 @@ async function main() {
   $("play").addEventListener("click", () => {
     saveSettings();
     if (paused) {
+      setSettingsOpen(false);
       paused = false;
       pauseWaiters.splice(0).forEach((fn) => fn());
       if (audio.src && audio.paused && !audio.ended) audio.play();
